@@ -2,3 +2,6 @@ site_name: Mahāvedalla
 nav:
   - Home: index.md
   - About: about.md
+  - Nibbana: nibbana/whether-nibbana-is-mental.md
+theme:
+  name: material
