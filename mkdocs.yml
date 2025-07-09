@@ -1,7 +1,9 @@
 site_name: Mahāvedalla
 nav:
   - Home: index.md
-  - About: about.md
-  - Nibbana: nibbana/whether-nibbana-is-mental.md
+  - Other: 
+    - About: other/about.md
+    - Methodology: other/methodology.md
+    - Support: other/support.md
 theme:
   name: material
