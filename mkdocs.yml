@@ -7,3 +7,15 @@ nav:
     - Support: other/support.md
 theme:
   name: material
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-]+'
+      prebuild_index: true
