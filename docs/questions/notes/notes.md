@@ -1,0 +1,1 @@
+Does not-self undermine the possibility of ending the defilements? If the defilements are not-self, then how can someone, through will, end them?

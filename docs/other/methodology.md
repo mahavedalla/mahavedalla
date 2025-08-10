@@ -4,4 +4,14 @@
 <!-- This project is currently intended to be descriptive and neutral with respect to matters of doctrine and discipline which are disputed; however, where there is no dispute and/or where, despite dispute, the Canon is clear, a clear stance will be taken. -->
 # Methodology
 
-At present, entries are written in a highly standardized and organized format to improve clarity and readability (at the expense of enjoyability), as well as to lighten the task of future translation, if it is ever undertaken
+At present, entries are written in a highly standardized and organized format to improve clarity and readability (at the expense of enjoyability), as well as to lighten the task of future translation, if it is ever undertaken.
+
+<!-- 
+Notes:
+
+Topics worth mentioning:
+four types of questions
+practicality of the Dhamma
+speculative views
+fields which bear on the Dhamma (e.g., linguistics, history, philosophy, science, etc.)
+ -->
