@@ -1,22 +1,32 @@
 # Support
 
-## How to support the Mahāvedalla project.
 
-(1) Asking Questions: Asking questions relevant to the doctrine and discipline of the Canon that are not yet in the project.
+## 1. Posing Questions
 
-(2) Curation: vetting, revising, updating, etc., answers to questions.
+Asking questions relevant to the doctrine and discipline of the Canon that are not yet in the project.
 
-(3) Answering Questions: answering unanswered questions in the project.
+## 2. Curation
 
-(4) Metadata: adding metadata to questions
-    - Sutta references, commentarial references, Dhamma talks, articles, books, etc..
+Vetting, revising, updating, etc., answers to questions.
 
-(5) Translation: translating entries into whatever non-English language you are literate in.
+## 3. Answering Questions
 
-(6) Development: Upgrading and expanding the digital format of the Mahāvedalla
+Answering unanswered questions in the project.
+
+## 4. Metadata
+
+Adding metadata to questions: Sutta references, commentarial references, Dhamma talks, articles, books, etc..
+
+## 5. Translation
+
+Translating entries into whatever non-English language you are literate in.
+
+## 6. Development: 
+Upgrading and expanding the digital format of the Mahāvedalla
     - iOS and Android app
     - Smart search system
     - making a PDF
-        - making an introduction to dhammavinaya/catechism using part of the project
+        - making an introduction to Dhamma-Vinaya/catechism using part of the project
 
-(7) Other: anything else which might be useful
+## 7. Other
+Anything else which might be useful

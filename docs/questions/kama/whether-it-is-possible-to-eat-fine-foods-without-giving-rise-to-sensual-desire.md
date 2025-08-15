@@ -1,4 +1,4 @@
-Question:Whether it is possible to eat fine foods without giving rise to sensual desire?
+Question: Whether it is possible to eat fine foods without giving rise to sensual desire?
 Category: Kāma
 Tags: Kusala, Kāma
 Sutta References: MN 7

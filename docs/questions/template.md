@@ -8,8 +8,16 @@ Last Revised:
 Review Status: Not started
 Level:
 Priority:
+Number:
 ---
 
+# [QUESTION]
+
+## Introduction
+
+## Notes
+
+## Bibliography
 <!-- 
 
 Notes:

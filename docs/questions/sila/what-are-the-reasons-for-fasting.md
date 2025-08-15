@@ -13,7 +13,7 @@ Priority: 1
 
 ## Introduction
 
-There are three families of reasons for fasting:
+There are four families of reasons for fasting:
 1. Spiritual
 2. Physical
 3. Practical
@@ -38,6 +38,6 @@ The third reason for fasting is practical. The consumption of food generally cos
 
 ## 4. Conventional
 
-The fourth reason for fasting is conventional. This particular reason does not so much apply generally, but to samaṇas. In ancient India during the life of the Buddha, it was customary and expected that samaṇas would, in virtue of their status as samaṇas, refrain from eating at the wrong time of roughly after midday until dawn, and thus fast. Respect for this ancient convention is thus another reason for samaṇas in particular, though all those who appreciate it, to fast regularly.
+The fourth reason for fasting is conventional. This particular reason does not so much apply generally, but to samaṇas in particular. In ancient India during the life of the Buddha, it was customary and expected that samaṇas would, in virtue of their status as samaṇas, refrain from eating at the wrong time of roughly after midday until the following dawn, and thus fast. Respect for this ancient convention is thus another reason for samaṇas in particular, though all those who appreciate it, to fast regularly.
 
 

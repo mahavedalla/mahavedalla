@@ -19,3 +19,9 @@ plugins:
       lang: en
       separator: '[\s\-]+'
       prebuild_index: true
+
+extra_javascript:
+  - /js/toggle-original.js
+
+markdown_extensions:
+  - footnotes
