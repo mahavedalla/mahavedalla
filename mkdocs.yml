@@ -7,6 +7,8 @@ nav:
     - Support: other/support.md
 theme:
   name: material
+  features:
+    - content.footnote.tooltips
 
 extra:
   generator: false
@@ -25,3 +27,4 @@ extra_javascript:
 
 markdown_extensions:
   - footnotes
+  

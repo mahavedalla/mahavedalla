@@ -2,7 +2,7 @@
 
 Answer in Brief: -
  Category: Virāga
-Sutta References: SN 22.59, SN 35.28
+Sutta References: SN 22.59, SN 35.28; AN 10.59
 Answer: -
 Credence: 60%
 Tags: Nibbāna
