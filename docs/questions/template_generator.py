@@ -28,6 +28,8 @@ def create_new_entry(filename, directory="questions"):
         print(f"File already exists: {filepath}")
         return
 
+    current_directory = os.getcwd()
+    print(current_directory)
     with open(filepath, "w") as f:
         f.write(TEMPLATE)
     
