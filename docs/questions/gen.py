@@ -35,7 +35,7 @@ def create_new_entry(filename, question, category, directory="questions"):
 
     # Write the template to the new file
     with open(filename, "w") as f:
-        f.write(TEMPLATE + "# " + question + "\n\n## Bibliography\n\n<!-- \n\nNotes:\n\n -->")
+        f.write(TEMPLATE + "# " + question + "\n\n## Bibliography\n\n<!-- \n\nNotes:\n\n\n\n -->")
 
 # Function to clean and format the filename (removing special characters and diacritics)    
 def clean_filename(name):
