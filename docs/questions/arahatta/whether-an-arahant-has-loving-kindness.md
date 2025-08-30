@@ -1,5 +1,5 @@
 ---
-Question: Whether an Arahant ahs loving-kindness?
+Question: Whether an Arahant has loving-kindness?
 Category: Arahatta
 Tags: 
 Sutta References: 
