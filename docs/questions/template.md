@@ -14,9 +14,6 @@ Draft: true
 
 # [QUESTION]
 
-## Introduction
-
-## Notes
 
 ## Bibliography
 <!-- 

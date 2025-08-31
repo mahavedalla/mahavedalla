@@ -2,10 +2,12 @@
 Question: Whether learning is necessary?
 Category: Suta
 Tags:
-Sutta References: AN 4.102; MN 95; MN 113
-Date Entered: March 20, 2025
+Sutta References: MN 95; MN 113; AN 4.102; AN 10.82
+Date Entered: 3-20-25
 Last Revised:
 Review Status: Not started
 Level:
 Priority:
+Number:
+Draft: true
 ---

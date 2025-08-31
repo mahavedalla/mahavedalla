@@ -2,7 +2,7 @@
 Question: What are all of the unwholesome qualities or vices?
 Category: Kusala
 Tags: 
-Sutta References: AN 10.76; AN 10.77
+Sutta References: AN 10.76; AN 10.77; AN 10.82; AN 10.84; AN 10.85
 Date Entered: 8-29-25
 Last Revised: 8-29-25
 Review Status: Not started
@@ -32,5 +32,16 @@ AN 10.77
 8. oravitā
 9. muṭṭhassati
 10. necayiko
+
+kodhano
+upanāhī
+makkhī
+paḷāsī
+issukī
+maccharī
+saṭho
+māyāvī
+pāpiccho
+ 
 
  -->
