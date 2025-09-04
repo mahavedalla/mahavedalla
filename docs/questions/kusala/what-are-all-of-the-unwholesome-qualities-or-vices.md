@@ -21,18 +21,18 @@ Draft: true
 Notes:
 
 AN 10.77
+dhaṃsī
+pagabbho
+tintiṇo
+mahagghaso 
+luddo
+akāruṇiko
+dubbalo
+oravitā
+muṭṭhassati
+necayiko
 
-1. dhaṃsī
-2. pagabbho
-3. tintiṇo
-4. mahagghaso 
-5. luddo
-6. akāruṇiko
-7. dubbalo
-8. oravitā
-9. muṭṭhassati
-10. necayiko
-
+AN 10.
 kodhano
 upanāhī
 makkhī
@@ -42,6 +42,28 @@ maccharī
 saṭho
 māyāvī
 pāpiccho
- 
+
+AN 10.85
+dubbaco
+pāpamitto
+kusīto
+kuhako
+dubbharo
+
+AN 10.86
+kammārāmo
+bhassārāmo
+niddārāmo
+saṅgaṇikārāmo
+
+AN 10.87
+khaḷuṅka
+sāṭheyyāni 
+kūṭeyyāni 
+jimheyyāni 
+vaṅkeyyāni
+
+10.88
+akkosakaparibhāsako
 
  -->

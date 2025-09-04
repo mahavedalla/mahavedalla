@@ -2,7 +2,7 @@
 Question: Whether kāma can be skillful?
 Category: Kāma
 Tags: sensuality
-Sutta References: AN 10.50
+Sutta References: AN 10.50; AN 10.87
 Date Entered: 8-10-25
 Last Revised: 8-10-25
 Review Status: Not started
