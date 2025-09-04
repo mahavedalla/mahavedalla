@@ -1,7 +1,7 @@
 ---
 Question: Whether anidassana viññāṇa is objectless?
 Category: 
-Tags: 
+Tags: consciousness; object; anidassana; vinnana
 Sutta References: 
 Date Entered: 8-23-25
 Last Revised: 8-23-25
