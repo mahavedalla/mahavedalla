@@ -1,7 +1,7 @@
 ---
 Question: Whether Nibbāna can be obtained without celibacy?
 Answer in Brief: -
- Category: Kāma
+Category: Kāma
 Sutta References: AN 7.50
 Tags: Methuna
 Date Entered: March 26, 2025

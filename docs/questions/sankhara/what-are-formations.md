@@ -1,7 +1,7 @@
 ---
 Question: What are formations?
 Answer in Brief: -
- Category: Saṅkhāra
+Category: Saṅkhāra
 Sutta References: 25-28, SN III 60
 Answer: -
 Date Entered: March 31, 2025

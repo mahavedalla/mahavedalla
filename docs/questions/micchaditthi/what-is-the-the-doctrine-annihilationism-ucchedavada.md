@@ -1,7 +1,7 @@
 ---
 Question: What is the the doctrine annihilationism (ucchedavāda)?
 Answer in Brief: -
- Category: Micchādiṭṭhi
+Category: Micchādiṭṭhi
 Sutta References: DN 2
 Answer: -
 Date Entered: April 2, 2025

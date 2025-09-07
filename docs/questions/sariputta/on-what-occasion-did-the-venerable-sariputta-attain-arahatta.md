@@ -1,7 +1,7 @@
 ---
 Question: On what occasion did the Venerable Sāriputta attain Arahatta?
 Answer in Brief: -
- Category: Sāriputta
+Category: Sāriputta
 Sutta References: MN 74
 Answer: -
 Tags: Puggala

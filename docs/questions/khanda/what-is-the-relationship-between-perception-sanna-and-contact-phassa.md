@@ -1,7 +1,7 @@
 ---
 Question: What is the relationship between perception (saññā) and contact (phassa)?
 Answer in Brief: -
- Category: Khanda
+Category: Khanda
 Sutta References: -
 Answer: -
 Tags: Saññā

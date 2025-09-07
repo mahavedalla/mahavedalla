@@ -1,7 +1,7 @@
 ---
 Question: Whether Nibbāna is peace?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: MN 26
 Answer: -
 Date Entered: March 26, 2025

@@ -1,7 +1,7 @@
 ---
 Question: Whether the pleasure of jhāna surpasses divine pleasure?
 Answer in Brief: -
- Category: Sukha
+Category: Sukha
 Sutta References: MN 14
 Answer: -
 Tags: Jhāna

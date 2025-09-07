@@ -1,7 +1,7 @@
 ---
 Question: Whether sensual pleasure is the highest form of pleasure?
 Answer in Brief: -
- Category: Sukha
+Category: Sukha
 Sutta References: MN 31, MN 75
 Answer: -
 Date Entered: April 2, 2025

@@ -1,7 +1,7 @@
 ---
 Question: Whether euthanasia is permissible?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Date Entered: March 28, 2025

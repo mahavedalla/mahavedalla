@@ -1,7 +1,7 @@
 ---
 Question: What are the factors for a violation of the first precept?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Tags: Vināya

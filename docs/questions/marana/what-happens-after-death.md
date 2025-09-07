@@ -1,7 +1,7 @@
 ---
 Question: What happens after death?
 Answer in Brief: -
- Category: Maraṇa
+Category: Maraṇa
 Sutta References: -
 Answer: -
 Tags: Jāti

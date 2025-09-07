@@ -1,7 +1,7 @@
 ---
 Question: Are the defilements bodily?
 Answer in Brief: -
- Category: Kilesa
+Category: Kilesa
 Sutta References: -
 Answer: -
 Tags: Kāya

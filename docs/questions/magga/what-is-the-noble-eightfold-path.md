@@ -1,7 +1,7 @@
 ---
 Question: What is the noble eightfold path?
 Answer in Brief: -
- Category: Magga
+Category: Magga
 Sutta References: SN 45.8
 Answer: -
 Date Entered: April 6, 2025

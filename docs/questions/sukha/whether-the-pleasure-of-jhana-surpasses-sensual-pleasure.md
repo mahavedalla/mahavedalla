@@ -1,7 +1,7 @@
 ---
 Question: Whether the pleasure of jhāna surpasses sensual pleasure?
 Answer in Brief: -
- Category: Sukha
+Category: Sukha
 Sutta References: -
 Answer: -
 Tags: Kāma

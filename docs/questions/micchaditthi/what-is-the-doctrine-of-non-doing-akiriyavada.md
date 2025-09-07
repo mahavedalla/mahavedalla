@@ -1,7 +1,7 @@
 ---
 Question: What is the doctrine of non-doing (akiriyavāda)?
 Answer in Brief: -
- Category: Micchādiṭṭhi
+Category: Micchādiṭṭhi
 Sutta References: -
 Answer: -
 Date Entered: April 2, 2025

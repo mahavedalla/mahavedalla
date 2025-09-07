@@ -1,7 +1,7 @@
 ---
 Question: What is the foremost of skillful qualities?
 Answer in Brief: -
- Category: Kusala
+Category: Kusala
 Sutta References: AN 10.15
 Answer: Heedfulness (appamāda) is the foremost of skillful qualities.
 Tags: Appamāda

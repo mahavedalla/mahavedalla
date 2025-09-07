@@ -1,7 +1,7 @@
 ---
 Question: Whether Nibbāna is the best?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: AN 4.34
 Answer: -
 Date Entered: March 30, 2025

@@ -1,7 +1,7 @@
 ---
 Question: Whether Nibbāna is equivalent to the destruction of the effluents?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: -
 Answer: -
 Date Entered: April 5, 2025

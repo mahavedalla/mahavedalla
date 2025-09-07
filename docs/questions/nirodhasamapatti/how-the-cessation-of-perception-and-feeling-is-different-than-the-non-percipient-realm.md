@@ -1,7 +1,7 @@
 ---
 Question: How the cessation of perception and feeling is different than the non-percipient realm?
 Answer in Brief: -
- Category: Nirodhasamāpatti
+Category: Nirodhasamāpatti
 Sutta References: -
 Answer: -
 Tags: Samādhi

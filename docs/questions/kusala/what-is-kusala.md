@@ -1,7 +1,7 @@
 ---
 Question: What is kusala?
 Answer in Brief: -
- Category: Kusala
+Category: Kusala
 Sutta References: -
 Answer: -
 Date Entered: March 14, 2025

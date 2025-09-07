@@ -1,7 +1,7 @@
 ---
 Question: What is the root of all virtues?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: BB's MN 8 n.108
 Answer: -
 Tags: Kusala

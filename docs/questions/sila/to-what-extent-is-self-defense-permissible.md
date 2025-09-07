@@ -1,7 +1,7 @@
 ---
 Question: To what extent is self-defense permissible?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Tags: Ahiṃsa

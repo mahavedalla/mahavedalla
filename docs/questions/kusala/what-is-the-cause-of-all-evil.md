@@ -1,7 +1,7 @@
 ---
 Question: What is the cause of all evil?
 Answer in Brief: -
- Category: Kusala
+Category: Kusala
 Sutta References: -
 Answer: -
 Tags: Pāpa

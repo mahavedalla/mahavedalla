@@ -1,7 +1,7 @@
 ---
 Question: What are the bases of merit?
 Answer in Brief: -
- Category: Puñña
+Category: Puñña
 Sutta References: AN 8.36
 Answer: -
 Date Entered: March 30, 2025

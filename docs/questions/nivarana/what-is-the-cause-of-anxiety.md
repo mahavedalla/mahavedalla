@@ -1,7 +1,7 @@
 ---
 Question: What is the cause of anxiety?
 Answer in Brief: -
- Category: Nīvaraṇa
+Category: Nīvaraṇa
 Sutta References: SN 22.7; DHP ??
 Answer: The cause of anxiety is upādāna (clinging).
 Tags: Uddhaccakukkucca

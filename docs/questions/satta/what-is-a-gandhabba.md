@@ -1,7 +1,7 @@
 ---
 Question: What is a gandhabba?
 Answer in Brief: -
- Category: Satta
+Category: Satta
 Sutta References: -
 Answer: -
 Tags: Gandhabba

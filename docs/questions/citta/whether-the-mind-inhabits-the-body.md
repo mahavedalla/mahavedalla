@@ -1,7 +1,7 @@
 ---
 Question: Whether the mind inhabits the body?
 Answer in Brief: -
- Category: Citta
+Category: Citta
 Sutta References: MN 39
 Answer: -
 Tags: Kāya

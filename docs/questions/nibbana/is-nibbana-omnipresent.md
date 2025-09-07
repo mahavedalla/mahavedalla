@@ -1,7 +1,7 @@
 ---
 Question: Is Nibbāna omnipresent?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: -
 Answer: -
 Date Entered: April 1, 2025

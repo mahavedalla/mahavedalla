@@ -1,7 +1,7 @@
 ---
 Question: Does one become united with Nibbāna?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: -
 Answer: -
 Date Entered: March 31, 2025

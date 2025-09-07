@@ -1,7 +1,7 @@
 ---
 Question: What aggregate do the defilements fall under?
 Answer in Brief: -
- Category: Kilesa
+Category: Kilesa
 Sutta References: -
 Answer: -
 Date Entered: March 11, 2025

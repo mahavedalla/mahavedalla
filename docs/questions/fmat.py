@@ -1,7 +1,7 @@
 import os
 import re
 
-docs_dir = "takka"  # adjust as needed
+docs_dir = "."  # adjust as needed
 
 def fix_category_key(path):
     with open(path, "r", encoding="utf-8") as f:

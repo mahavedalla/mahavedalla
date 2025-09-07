@@ -1,7 +1,7 @@
 ---
 Question: Whether consensus of view is important?
 Answer in Brief: -
- Category: Diṭṭhi
+Category: Diṭṭhi
 Sutta References: MN 104
 Answer: -
 Date Entered: April 6, 2025

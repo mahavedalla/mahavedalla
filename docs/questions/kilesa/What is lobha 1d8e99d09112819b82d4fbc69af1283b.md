@@ -1,7 +1,7 @@
 ---
 Question: What is lobha?
 Answer in Brief: -
- Category: Kilesa
+Category: Kilesa
 Sutta References: MN 9
 Answer: -
 Tags: Lobha

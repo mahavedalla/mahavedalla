@@ -1,7 +1,7 @@
 ---
 Question: What is feeling?
 Answer in Brief: -
- Category: Khanda
+Category: Khanda
 Sutta References: MN 43; MN 44; MN 59
 Answer: It is called "feeling" because it feels? What does it feel? Pleasure, pain, and neither-pleasure-nor-pain. What is pleasure?
 Tags: Vedanā

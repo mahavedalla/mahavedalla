@@ -1,7 +1,7 @@
 ---
 Question: Did the Buddha teach the Golden Rule?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Date Entered: March 29, 2025

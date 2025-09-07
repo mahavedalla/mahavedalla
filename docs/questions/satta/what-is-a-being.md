@@ -1,7 +1,7 @@
 ---
 Question: What is a being?
 Answer in Brief: -
- Category: Satta
+Category: Satta
 Sutta References: -
 Answer: -
 Date Entered: March 18, 2025

@@ -1,7 +1,7 @@
 ---
 Question: Whether Nibbāna is truth?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: MN 140
 Answer: -
 Date Entered: April 4, 2025

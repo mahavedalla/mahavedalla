@@ -1,7 +1,7 @@
 ---
 Question: Was Moggallāna ever Māra?
 Answer in Brief: -
- Category: Moggallāna
+Category: Moggallāna
 Sutta References: MN 50
 Answer: -
 Date Entered: March 29, 2025

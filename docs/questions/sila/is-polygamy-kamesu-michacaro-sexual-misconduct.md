@@ -1,7 +1,7 @@
 ---
 Question: Is polygamy kāmesu michācāro (sexual misconduct)?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: DN 31; AN 4.53
 Answer: -
 Tags: Methuna

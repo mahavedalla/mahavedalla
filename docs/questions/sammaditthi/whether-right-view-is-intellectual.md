@@ -1,7 +1,7 @@
 ---
 Question: Whether right view is intellectual?
 Answer in Brief: -
- Category: Sammādiṭṭhi
+Category: Sammādiṭṭhi
 Sutta References: -
 Answer: -
 Date Entered: April 2, 2025

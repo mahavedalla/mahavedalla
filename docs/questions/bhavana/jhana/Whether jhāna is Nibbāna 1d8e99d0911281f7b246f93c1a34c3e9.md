@@ -1,7 +1,7 @@
 ---
 Question: Whether jhāna is Nibbāna?
 Answer in Brief: -
- Category: Jhāna
+Category: Jhāna
 Sutta References: MN 102
 Answer: -
 Tags: Nibbāna

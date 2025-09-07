@@ -1,7 +1,7 @@
 ---
 Question: What is kāmesu micchācāro?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: AN 10.176
 Answer: -
 Tags: Methuna

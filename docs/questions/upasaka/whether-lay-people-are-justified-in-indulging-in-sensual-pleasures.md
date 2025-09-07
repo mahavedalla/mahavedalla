@@ -1,7 +1,7 @@
 ---
 Question: Whether lay people are justified in indulging in sensual pleasures?
 Answer in Brief: -
- Category: Upāsaka
+Category: Upāsaka
 Sutta References: AN 4.??; AN 10.91
 Answer: -
 Tags: Sukha

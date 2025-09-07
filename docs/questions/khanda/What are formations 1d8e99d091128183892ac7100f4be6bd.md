@@ -1,7 +1,7 @@
 ---
 Question: What are formations?
 Answer in Brief: -
- Category: Khanda
+Category: Khanda
 Sutta References: MN 44
 Tags: Saṅkhāra
 Date Entered: March 22, 2025

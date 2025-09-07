@@ -1,7 +1,7 @@
 ---
 Question: Whether liberation is knowledge?
 Answer in Brief: -
- Category: Vimutti
+Category: Vimutti
 Sutta References: MN 27
 Answer: -
 Tags: Ñāna

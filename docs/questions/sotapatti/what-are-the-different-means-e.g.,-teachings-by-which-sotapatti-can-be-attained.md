@@ -1,7 +1,7 @@
 ---
 Question: What are the different means (e.g., teachings) by which sotāpatti can be attained?
 Answer in Brief: -
- Category: Sotāpatti
+Category: Sotāpatti
 Sutta References: -
 Answer: -
 Tags: Bodhi

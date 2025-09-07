@@ -1,7 +1,7 @@
 ---
 Question: Whether knowledge & vision is conditioned?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: MN 29
 Answer: -
 Date Entered: April 11, 2025

@@ -1,7 +1,7 @@
 ---
 Question: Whether there is a gratification in the world?
 Answer in Brief: -
- Category: Loka
+Category: Loka
 Sutta References: AN 3.102
 Answer: -
 Tags: Assāda

@@ -1,7 +1,7 @@
 ---
 Question: Whether the bhikkhus were ever confused or ignorant?
 Answer in Brief: -
- Category: Sāvaka
+Category: Sāvaka
 Sutta References: SN 22.86; A
 Answer: -
 Date Entered: April 2, 2025

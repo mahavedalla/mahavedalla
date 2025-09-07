@@ -1,7 +1,7 @@
 ---
 Question: What aggregate do the defilements belong to?
 Answer in Brief: -
- Category: Kilesa
+Category: Kilesa
 Sutta References: -
 Answer: -
 Tags: Khanda

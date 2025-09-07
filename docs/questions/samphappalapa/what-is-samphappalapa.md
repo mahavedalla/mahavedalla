@@ -1,7 +1,7 @@
 ---
 Question: What is samphappalāpa?
 Answer in Brief: -
- Category: Samphappalāpa
+Category: Samphappalāpa
 Sutta References: DN 2
 Answer: -
 Date Entered: March 14, 2025

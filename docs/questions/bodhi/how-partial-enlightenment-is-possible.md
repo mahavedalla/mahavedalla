@@ -1,7 +1,7 @@
 ---
 Question: How partial enlightenment is possible?
 Answer in Brief: -
- Category: Bodhi
+Category: Bodhi
 Sutta References: -
 Answer: -
 Date Entered: April 11, 2025

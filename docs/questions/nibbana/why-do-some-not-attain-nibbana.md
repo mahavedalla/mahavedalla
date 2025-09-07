@@ -1,7 +1,7 @@
 ---
 Question: Why do some not attain Nibbāna
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: SN 35.118
 Answer: -
 Tags: Arahatta

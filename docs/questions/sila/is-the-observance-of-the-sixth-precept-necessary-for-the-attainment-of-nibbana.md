@@ -1,7 +1,7 @@
 ---
 Question: Is the observance of the sixth precept necessary for the attainment of Nibbāna?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: MN 66
 Answer: -
 Tags: Nibbāna

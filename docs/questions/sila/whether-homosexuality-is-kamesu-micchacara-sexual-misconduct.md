@@ -1,7 +1,7 @@
 ---
 Question: Whether homosexuality is kāmesu micchācāra (sexual misconduct)?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Tags: Methuna

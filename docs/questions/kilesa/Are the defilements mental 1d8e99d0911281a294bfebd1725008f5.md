@@ -1,7 +1,7 @@
 ---
 Question: Are the defilements mental?
 Answer in Brief: -
- Category: Kilesa
+Category: Kilesa
 Sutta References: MN 36
 Answer: -
 Tags: Citta

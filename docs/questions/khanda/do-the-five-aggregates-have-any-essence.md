@@ -1,7 +1,7 @@
 ---
 Question: Do the five aggregates have any essence?
 Answer in Brief: -
- Category: Khanda
+Category: Khanda
 Sutta References: SN 22.95
 Answer: -
 Tags: Sāra

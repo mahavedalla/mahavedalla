@@ -1,7 +1,7 @@
 ---
 Question: Whether sensual desire affects recollection?
 Answer in Brief: -
- Category: Sati
+Category: Sati
 Sutta References: SN 46.55
 Answer: -
 Date Entered: April 11, 2025

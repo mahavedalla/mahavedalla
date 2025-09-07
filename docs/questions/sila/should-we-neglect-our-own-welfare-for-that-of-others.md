@@ -1,7 +1,7 @@
 ---
 Question: Should we neglect our own welfare for that of others?
 Answer in Brief: -
- Category: Sīla
+Category: Sīla
 Sutta References: -
 Answer: -
 Tags: Hita

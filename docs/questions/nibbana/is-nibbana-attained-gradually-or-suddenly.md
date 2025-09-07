@@ -1,7 +1,7 @@
 ---
 Question: Is Nibbāna attained gradually or suddenly?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: MN 70
 Answer: -
 Tags: Arahatta

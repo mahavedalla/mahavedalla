@@ -1,7 +1,7 @@
 ---
 Question: What was Venerable Moggallāna's lay name?
 Answer in Brief: -
- Category: Satta
+Category: Satta
 Sutta References: SN 21.1
 Answer: Kolita.
 Tags: Moggallāna

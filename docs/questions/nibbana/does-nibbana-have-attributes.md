@@ -1,7 +1,7 @@
 ---
 Question: Does Nibbāna have attributes?
 Answer in Brief: -
- Category: Nibbāna
+Category: Nibbāna
 Sutta References: -
 Answer: -
 Date Entered: March 30, 2025
