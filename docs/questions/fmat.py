@@ -1,7 +1,7 @@
 import os
 import re
 
-docs_dir = "vamsa"  # adjust if needed
+docs_dir = "takka"  # adjust as needed
 
 def fix_category_key(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -14,22 +14,23 @@ def fix_category_key(path):
     try:
         end_idx = next(i for i, line in enumerate(lines[1:], start=1) if line.strip() == "---")
     except StopIteration:
-        return  # malformed frontmatter
+        return  # malformed frontmatter, skip
 
     changed = False
-    for i in range(1, end_idx):  # only check frontmatter section
-        if re.match(r"^\s+Category:", lines[i]):
+    for i in range(1, end_idx):  # only scan inside frontmatter
+        if re.match(r"^\s+Category:", lines[i]):  # line has leading space before 'Category:'
             fixed = re.sub(r"^\s+Category:", "Category:", lines[i])
             if fixed != lines[i]:
-                print(f"  ✨ Fixed in {path}: {lines[i].strip()} → {fixed.strip()}")
                 lines[i] = fixed
                 changed = True
+                print(f"✨ Fixed leading space in {path}: {fixed.strip()}")
 
     if changed:
         with open(path, "w", encoding="utf-8") as f:
             f.writelines(lines)
-        print(f"✅ Cleaned Category key in {path}")
+        print(f"✅ Cleaned frontmatter in {path}")
 
+# Walk through all markdown files
 for root, dirs, files in os.walk(docs_dir):
     for file in files:
         if file.endswith(".md"):
