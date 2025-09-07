@@ -1,45 +1,29 @@
 import os
-import unicodedata
-import re
 
-def clean_filename(name):
-    uni_text = unicodedata.normalize('NFKD', re.sub(r'[!@#$%^&*()?]', '', name)).strip().lower().replace(" ", "-") + ".md"
-    return "".join([c for c in uni_text if not unicodedata.combining(c)])
+docs_dir = "."  # change this to your docs root
 
-def change_filename(folder):     
+def clean_question(path):
+    with open(path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-    for filename in os.listdir(folder):
-        if filename.endswith(".md"):
-            filepath = os.path.join(folder, filename)
+    if not lines:
+        return
 
-            with open(filepath, "r", encoding="utf-8") as f:
-                first_line = f.readline().strip()
+    # Detect "# some text" as first line
+    if lines[0].startswith("# "):
+        question_text = lines[0].lstrip("#").strip()
+        lines[0] = f"Question: {question_text}\n"
 
-            # Solo renombrar si empieza con '#'
-            if first_line.startswith("#"):
+        # If the second line is blank, drop it
+        if len(lines) > 1 and lines[1].strip() == "":
+            lines.pop(1)
 
-                # Remove "#" and extra spaces
-                question = first_line.lstrip("#").strip()
+        with open(path, "w", encoding="utf-8") as f:
+            f.writelines(lines)
 
-                # Replace illegal charactesrs in filenames
-                bad_chars = '<>:"/\\|?*'
-                filename = clean_filename(question)
+        print(f"✅ Fixed question in {path}")
 
-                #print("Filename: ", filename)
-
-                new_filepath = os.path.join(folder, filename)
-
-
-                
-                if not os.path.exists(new_filepath):
-                    os.rename(filepath, new_filepath)
-                    print(f"Rename: {filename} → {filename}")
-                else:
-                    print(f"Already exists: {filename}, exiting...")
-                
-if __name__ == "__main__":
-    folder = input("Enter folder name: ")
-    if os.path.exists(folder):
-        change_filename(folder)
-    else:
-        print(f"Folder does not exist: {folder}")
+for root, dirs, files in os.walk(docs_dir):
+    for file in files:
+        if file.endswith(".md"):
+            clean_question(os.path.join(root, file))
