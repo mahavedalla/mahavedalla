@@ -1,5 +1,4 @@
-# Does one in the first jhāna still experience physical perceptions?
-
+Question: Does one in the first jhāna still experience physical perceptions?
 Category: Bhāvana
 Sutta References: AN 9.37
 Tags: Jhāna

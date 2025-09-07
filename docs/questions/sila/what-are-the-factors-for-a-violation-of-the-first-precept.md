@@ -1,5 +1,4 @@
-# What are the factors for a violation of the first precept?
-
+Question: What are the factors for a violation of the first precept?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

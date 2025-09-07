@@ -1,5 +1,4 @@
-# What are the three feelings?
-
+Question: What are the three feelings?
 Answer in Brief: -
  Category: Khanda
 Sutta References: MN 44

@@ -1,5 +1,4 @@
-# Does consciousness cease after parinibbāna?
-
+Question: Does consciousness cease after parinibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: SN 12.51, SN 22.87

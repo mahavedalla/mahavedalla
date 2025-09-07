@@ -1,5 +1,4 @@
-# What are the kusalā dhammā?
-
+Question: What are the kusalā dhammā?
 Answer in Brief: -
  Category: Kusala
 Sutta References: MN 9

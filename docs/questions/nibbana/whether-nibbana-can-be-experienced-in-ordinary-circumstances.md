@@ -1,5 +1,4 @@
-# Whether Nibbāna can be experienced in ordinary circumstances?
-
+Question: Whether Nibbāna can be experienced in ordinary circumstances?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

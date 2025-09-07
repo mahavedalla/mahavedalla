@@ -1,5 +1,4 @@
-# On what basis can inferences to past and future be made?
-
+Question: On what basis can inferences to past and future be made?
 Answer in Brief: -
  Category: Ñāṇa
 Sutta References: SN 42.11

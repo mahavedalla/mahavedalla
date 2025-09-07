@@ -1,5 +1,4 @@
-# Is Arahatta reversible?
-
+Question: Is Arahatta reversible?
 Category: Arahatta
 Sutta References: MN 29
 Answer: No.

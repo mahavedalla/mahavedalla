@@ -1,5 +1,4 @@
-# Whether the observance of the thirteen dhutaṅgā is necessary for the attainment Arahatta?
-
+Question: Whether the observance of the thirteen dhutaṅgā is necessary for the attainment Arahatta?
 Answer in Brief: The observance of the thirteen dhutaṅgā is not necessary for the attainment of Arahatta, for the Blessed One said of nine of thirteen such practices that it is not on their account that states of greed, hatred, and delusion are are ended; and, it is understood that the ending of states of greed, hatred, and delusion is Arahatta.
  Category: Tapas
 Sutta References: MN 113, Mv.1.??, SN 38.1

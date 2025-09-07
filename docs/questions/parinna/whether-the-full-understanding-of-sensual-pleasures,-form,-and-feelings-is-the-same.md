@@ -1,5 +1,4 @@
-# Whether the full understanding of sensual pleasures, form, and feelings is the same?
-
+Question: Whether the full understanding of sensual pleasures, form, and feelings is the same?
 Answer in Brief: -
  Category: Pariñña
 Sutta References: -

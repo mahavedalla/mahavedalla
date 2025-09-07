@@ -1,5 +1,4 @@
-# What is a being?
-
+Question: What is a being?
 Answer in Brief: -
  Category: Satta
 Sutta References: -

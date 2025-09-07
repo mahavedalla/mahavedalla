@@ -1,5 +1,4 @@
-# What was Venerable Moggallāna's lay name?
-
+Question: What was Venerable Moggallāna's lay name?
 Answer in Brief: -
  Category: Satta
 Sutta References: SN 21.1

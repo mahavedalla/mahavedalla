@@ -1,5 +1,4 @@
-# Is belief in rebirth required for new practitioners?
-
+Question: Is belief in rebirth required for new practitioners?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

@@ -1,5 +1,4 @@
-# How the cessation of perception and feeling is different than the non-percipient realm?
-
+Question: How the cessation of perception and feeling is different than the non-percipient realm?
 Answer in Brief: -
  Category: Nirodhasamāpatti
 Sutta References: -

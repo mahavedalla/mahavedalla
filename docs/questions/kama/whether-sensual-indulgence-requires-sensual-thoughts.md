@@ -1,5 +1,4 @@
-# Whether sensual indulgence requires sensual thoughts?
-
+Question: Whether sensual indulgence requires sensual thoughts?
 Answer in Brief: -
  Category: Kāma
 Sutta References: MN 22

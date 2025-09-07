@@ -1,5 +1,4 @@
-# What are the kinds of deliverance (vimutti)?
-
+Question: What are the kinds of deliverance (vimutti)?
 Answer in Brief: -
  Category: Vimutti
 Sutta References: MN 43; ITI 27

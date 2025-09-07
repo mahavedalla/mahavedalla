@@ -1,5 +1,4 @@
-# Can abstention be kusala (wholesome)?
-
+Question: Can abstention be kusala (wholesome)?
 Answer in Brief: -
  Category: Kamma
 Sutta References: MN 9

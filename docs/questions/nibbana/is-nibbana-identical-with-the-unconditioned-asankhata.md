@@ -1,5 +1,4 @@
-# Is Nibbāna identical with the unconditioned (asaṅkhata)?
-
+Question: Is Nibbāna identical with the unconditioned (asaṅkhata)?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

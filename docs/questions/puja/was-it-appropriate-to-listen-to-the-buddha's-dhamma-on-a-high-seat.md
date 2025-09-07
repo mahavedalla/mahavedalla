@@ -1,5 +1,4 @@
-# Was it appropriate to listen to the Buddha's Dhamma on a high seat?
-
+Question: Was it appropriate to listen to the Buddha's Dhamma on a high seat?
 Answer in Brief: -
  Category: Pūjā
 Sutta References: SN 22.87

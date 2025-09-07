@@ -1,5 +1,4 @@
-# Whether jhāna is bodily or mental?
-
+Question: Whether jhāna is bodily or mental?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: -

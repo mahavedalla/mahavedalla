@@ -1,5 +1,4 @@
-# Does an Arahant still have right view?
-
+Question: Does an Arahant still have right view?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

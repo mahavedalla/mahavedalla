@@ -1,5 +1,4 @@
-# Can Nibbāna be described?
-
+Question: Can Nibbāna be described?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: AN 4.174

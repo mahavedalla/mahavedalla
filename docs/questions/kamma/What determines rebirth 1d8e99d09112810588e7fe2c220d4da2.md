@@ -1,5 +1,4 @@
-# What determines rebirth?
-
+Question: What determines rebirth?
 Answer in Brief: -
  Category: Kamma
 Sutta References: MN 41

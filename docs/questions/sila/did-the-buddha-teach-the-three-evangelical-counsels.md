@@ -1,5 +1,4 @@
-# Did the Buddha teach the three evangelical counsels?
-
+Question: Did the Buddha teach the three evangelical counsels?
 Answer in Brief: -
  Category: Sīla
 Sutta References: MN 65; MN 66

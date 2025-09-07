@@ -1,5 +1,4 @@
-# Whether faith (saddhā) is necessary for the awakening?
-
+Question: Whether faith (saddhā) is necessary for the awakening?
 Answer in Brief: -
  Category: Saddhā
 Sutta References: MN 70; MN 95

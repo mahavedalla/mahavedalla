@@ -1,5 +1,4 @@
-# What perceptions culminate in Nibbāna?
-
+Question: What perceptions culminate in Nibbāna?
 Category: Bhāvana
 Sutta References: AN 7.49
 Tags: Saññā

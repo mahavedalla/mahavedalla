@@ -1,5 +1,4 @@
-# Whether disagreement in meaning and phrasing is important?
-
+Question: Whether disagreement in meaning and phrasing is important?
 Answer in Brief: -No.
  Category: Diṭṭhi
 Sutta References: MN 103; AN 2.20??

@@ -1,5 +1,4 @@
-# Is belief in rebirth required to be a disciple?
-
+Question: Is belief in rebirth required to be a disciple?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

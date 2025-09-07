@@ -1,5 +1,4 @@
-# What is the ultimate form of generosity?
-
+Question: What is the ultimate form of generosity?
 Answer in Brief: -
 Category: Dāna
 Sutta References: MN 140

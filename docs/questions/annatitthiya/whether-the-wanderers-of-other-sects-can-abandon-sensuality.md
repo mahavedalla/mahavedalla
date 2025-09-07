@@ -1,5 +1,4 @@
-# Whether the wanderers of other sects can abandon sensuality?
-
+Question: Whether the wanderers of other sects can abandon sensuality?
 Category: Aññatitthiya
 Sutta References: MN 11, MN 13
 Tags: Aññatitthiya, Kāma, Religions, Sects, Upādāna

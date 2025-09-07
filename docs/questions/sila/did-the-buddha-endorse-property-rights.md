@@ -1,5 +1,4 @@
-# Did the Buddha endorse property rights?
-
+Question: Did the Buddha endorse property rights?
 Answer in Brief: -
  Category: Sīla
 Sutta References: DN 31

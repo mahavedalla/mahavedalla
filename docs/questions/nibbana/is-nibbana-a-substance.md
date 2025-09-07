@@ -1,5 +1,4 @@
-# Is Nibbāna a substance?
-
+Question: Is Nibbāna a substance?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 26; AN 9.36

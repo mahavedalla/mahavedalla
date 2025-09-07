@@ -1,5 +1,4 @@
-# Is jhāna superior to knowledge & vision?
-
+Question: Is jhāna superior to knowledge & vision?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: -

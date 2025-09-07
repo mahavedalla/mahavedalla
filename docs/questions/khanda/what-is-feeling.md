@@ -1,5 +1,4 @@
-# What is feeling?
-
+Question: What is feeling?
 Answer in Brief: -
  Category: Khanda
 Sutta References: MN 43; MN 44; MN 59

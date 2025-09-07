@@ -1,5 +1,4 @@
-# How do the defilements differ from the influxes?
-
+Question: How do the defilements differ from the influxes?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

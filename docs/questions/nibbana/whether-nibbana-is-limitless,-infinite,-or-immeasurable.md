@@ -1,5 +1,4 @@
-# Whether Nibbāna is limitless, infinite, or immeasurable?
-
+Question: Whether Nibbāna is limitless, infinite, or immeasurable?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

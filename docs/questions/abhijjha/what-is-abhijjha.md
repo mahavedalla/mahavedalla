@@ -1,5 +1,4 @@
-# What is abhijjhā?
-
+Question: What is abhijjhā?
 Answer in Brief: “Abhijjhā” can be translated as covetousness, that is, the desire for what belongs to others.
  Category: Abhijjhā
 Sutta References: MN 41

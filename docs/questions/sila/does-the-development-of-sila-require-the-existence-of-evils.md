@@ -1,5 +1,4 @@
-# Does the development of sīla require the existence of evils?
-
+Question: Does the development of sīla require the existence of evils?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

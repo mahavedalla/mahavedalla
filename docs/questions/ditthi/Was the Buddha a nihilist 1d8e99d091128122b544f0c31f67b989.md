@@ -1,5 +1,4 @@
-# Was the Buddha a nihilist?
-
+Question: Was the Buddha a nihilist?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

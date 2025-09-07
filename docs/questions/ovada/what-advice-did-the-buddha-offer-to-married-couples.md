@@ -1,5 +1,4 @@
-# What advice did the Buddha offer to married couples?
-
+Question: What advice did the Buddha offer to married couples?
 Answer in Brief: -
  Category: Ovāda
 Sutta References: AN 7.59

@@ -1,5 +1,4 @@
-# Is Nibbāna omnipresent?
-
+Question: Is Nibbāna omnipresent?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

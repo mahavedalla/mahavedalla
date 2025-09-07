@@ -1,5 +1,4 @@
-# What is the difference between an Arahant and a Buddha?
-
+Question: What is the difference between an Arahant and a Buddha?
 Category: Arahatta
 Sutta References: -
 Date Entered: March 11, 2025

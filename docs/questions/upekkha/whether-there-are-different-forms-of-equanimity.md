@@ -1,5 +1,4 @@
-# Whether there are different forms of equanimity?
-
+Question: Whether there are different forms of equanimity?
 Answer in Brief: -
  Category: Upekkhā
 Sutta References: MN 54

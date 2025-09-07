@@ -1,5 +1,4 @@
-# What is kāmesu micchācāro?
-
+Question: What is kāmesu micchācāro?
 Answer in Brief: -
  Category: Sīla
 Sutta References: AN 10.176

@@ -1,5 +1,4 @@
-# Whether there is an intermediate state between birth and death?
-
+Question: Whether there is an intermediate state between birth and death?
 Answer in Brief: -
  Category: Jāti
 Sutta References: SN 12:12; SN 22.87

@@ -1,5 +1,4 @@
-# What is the citta?
-
+Question: What is the citta?
 Category: Citta
 Sutta References: -
 Date Entered: March 18, 2025

@@ -1,5 +1,4 @@
-# Who was the first person to awaken following the Buddha?
-
+Question: Who was the first person to awaken following the Buddha?
 Answer in Brief: -
  Category: Vamsa
 Sutta References: Mv.1.6.29.4-35.1

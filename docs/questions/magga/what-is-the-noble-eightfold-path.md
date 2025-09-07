@@ -1,5 +1,4 @@
-# What is the noble eightfold path?
-
+Question: What is the noble eightfold path?
 Answer in Brief: -
  Category: Magga
 Sutta References: SN 45.8

@@ -1,5 +1,4 @@
-# Whether the Buddha encouraged his disciples to only sleep four hours?
-
+Question: Whether the Buddha encouraged his disciples to only sleep four hours?
 Answer in Brief: -
 Category: Sleep
 Sutta References: DN 2; MN 125

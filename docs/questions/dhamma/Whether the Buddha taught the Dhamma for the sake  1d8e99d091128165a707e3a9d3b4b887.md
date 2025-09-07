@@ -1,5 +1,4 @@
-# Whether the Buddha taught the Dhamma for the sake of a better rebirth?
-
+Question: Whether the Buddha taught the Dhamma for the sake of a better rebirth?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: MN 103

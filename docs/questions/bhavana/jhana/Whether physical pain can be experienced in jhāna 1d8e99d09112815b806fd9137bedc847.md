@@ -1,5 +1,4 @@
-# Whether physical pain can be experienced in jhāna?
-
+Question: Whether physical pain can be experienced in jhāna?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: -

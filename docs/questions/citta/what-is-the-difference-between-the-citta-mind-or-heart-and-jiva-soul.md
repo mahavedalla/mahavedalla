@@ -1,5 +1,4 @@
-# What is the difference between the citta (mind or heart) and jīva (soul)?
-
+Question: What is the difference between the citta (mind or heart) and jīva (soul)?
 Category: Citta
 Sutta References: -
 Date Entered: March 18, 2025

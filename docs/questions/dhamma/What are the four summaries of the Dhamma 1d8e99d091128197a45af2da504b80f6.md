@@ -1,5 +1,4 @@
-# What are the four summaries of the Dhamma?
-
+Question: What are the four summaries of the Dhamma?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: MN 82

@@ -1,5 +1,4 @@
-# Whether the factors of the noble eightfold path are separate or related?
-
+Question: Whether the factors of the noble eightfold path are separate or related?
 Answer in Brief: -
  Category: Paṭipadā
 Sutta References: MN 117

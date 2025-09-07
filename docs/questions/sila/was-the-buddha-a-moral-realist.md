@@ -1,5 +1,4 @@
-# Was the Buddha a moral realist?
-
+Question: Was the Buddha a moral realist?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

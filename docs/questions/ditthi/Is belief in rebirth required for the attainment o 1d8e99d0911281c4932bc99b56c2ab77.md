@@ -1,5 +1,4 @@
-# Is belief in rebirth required for the attainment of Nibbāna?
-
+Question: Is belief in rebirth required for the attainment of Nibbāna?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

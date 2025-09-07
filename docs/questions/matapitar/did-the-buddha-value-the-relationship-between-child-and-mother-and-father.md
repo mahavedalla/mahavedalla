@@ -1,5 +1,4 @@
-# Did the Buddha value the relationship between child and mother and father?
-
+Question: Did the Buddha value the relationship between child and mother and father?
 Answer in Brief: -
  Category: Mātāpitar
 Sutta References: DN 31; AN 2.33

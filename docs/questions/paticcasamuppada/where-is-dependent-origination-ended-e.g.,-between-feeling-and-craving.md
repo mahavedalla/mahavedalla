@@ -1,5 +1,4 @@
-# Where is dependent origination ended (e.g., between feeling and craving)?
-
+Question: Where is dependent origination ended (e.g., between feeling and craving)?
 Answer in Brief: -
  Category: Paṭiccasamuppada
 Sutta References: -

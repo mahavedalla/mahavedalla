@@ -1,5 +1,4 @@
-# Do Arahants continue to practice jhāna after attaining Arahatta?
-
+Question: Do Arahants continue to practice jhāna after attaining Arahatta?
 Category: Arahatta
 Sutta References: -
 Tags: Jhāna

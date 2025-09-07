@@ -1,5 +1,4 @@
-# Were the monks odorous?
-
+Question: Were the monks odorous?
 Answer in Brief: -
  Category: Gandha
 Sutta References: SN 11.9

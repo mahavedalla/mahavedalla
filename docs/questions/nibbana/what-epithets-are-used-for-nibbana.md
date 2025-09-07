@@ -1,5 +1,4 @@
-# What epithets are used for Nibbāna?
-
+Question: What epithets are used for Nibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

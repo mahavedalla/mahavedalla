@@ -1,5 +1,4 @@
-# Whether successive jhānas are superior to preceding ones?
-
+Question: Whether successive jhānas are superior to preceding ones?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: -

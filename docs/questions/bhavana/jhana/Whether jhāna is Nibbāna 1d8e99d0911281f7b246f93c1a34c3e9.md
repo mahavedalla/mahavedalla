@@ -1,5 +1,4 @@
-# Whether jhāna is Nibbāna?
-
+Question: Whether jhāna is Nibbāna?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: MN 102

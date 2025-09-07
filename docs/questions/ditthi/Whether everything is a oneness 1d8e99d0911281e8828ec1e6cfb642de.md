@@ -1,5 +1,4 @@
-# Whether everything is a oneness?
-
+Question: Whether everything is a oneness?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

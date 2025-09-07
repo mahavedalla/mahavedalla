@@ -1,5 +1,4 @@
-# Whether an Arahant can experience painful physical feelings?
-
+Question: Whether an Arahant can experience painful physical feelings?
 Category: Arahatta
 Sutta References: SN 36.6
 Answer: Yes.

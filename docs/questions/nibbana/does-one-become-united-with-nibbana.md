@@ -1,5 +1,4 @@
-# Does one become united with Nibbāna?
-
+Question: Does one become united with Nibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

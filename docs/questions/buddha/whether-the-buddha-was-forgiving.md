@@ -1,5 +1,4 @@
-# Whether the Buddha was forgiving?
-
+Question: Whether the Buddha was forgiving?
 Category: Buddha
 Sutta References: MN 65
 Date Entered: April 2, 2025

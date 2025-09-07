@@ -1,5 +1,4 @@
-# Is Nibbāna a mere absence?
-
+Question: Is Nibbāna a mere absence?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

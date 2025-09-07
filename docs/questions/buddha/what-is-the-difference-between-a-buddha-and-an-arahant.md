@@ -1,5 +1,4 @@
-# What is the difference between a Buddha and an Arahant?
-
+Question: What is the difference between a Buddha and an Arahant?
 Category: Buddha
 Sutta References: SN 22.58
 Answer: A Buddha attains, discovers, and explains the path hitherto unattained, undiscovered, and unexplained.

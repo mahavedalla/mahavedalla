@@ -1,5 +1,4 @@
-# What are the different realms of existence?
-
+Question: What are the different realms of existence?
 Answer in Brief: -
  Category: Loka
 Sutta References: MN 41

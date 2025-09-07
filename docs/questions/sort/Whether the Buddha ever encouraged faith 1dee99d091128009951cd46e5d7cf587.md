@@ -1,3 +1,2 @@
-# Whether the Buddha ever encouraged faith?
-
+Question: Whether the Buddha ever encouraged faith?
 Review Status: Not started

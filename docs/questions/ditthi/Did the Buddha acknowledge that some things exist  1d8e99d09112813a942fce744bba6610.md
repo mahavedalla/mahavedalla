@@ -1,5 +1,4 @@
-# Did the Buddha acknowledge that some things exist and some do not?
-
+Question: Did the Buddha acknowledge that some things exist and some do not?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: SN 22.94

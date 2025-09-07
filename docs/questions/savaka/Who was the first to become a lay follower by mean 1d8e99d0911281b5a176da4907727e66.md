@@ -1,5 +1,4 @@
-# Who was the first to become a lay follower by means of the triple refuge?
-
+Question: Who was the first to become a lay follower by means of the triple refuge?
 Answer in Brief: -
  Category: Sāvaka
 Sutta References: Mv.1.7.10.8

@@ -1,5 +1,4 @@
-# Whether there can be pleasure in doing evil?
-
+Question: Whether there can be pleasure in doing evil?
 Category: Akusala
 Sutta References: -
 Tags: Sukha

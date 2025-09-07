@@ -1,5 +1,4 @@
-# What are formations?
-
+Question: What are formations?
 Answer in Brief: -
  Category: Saṅkhāra
 Sutta References: 25-28, SN III 60

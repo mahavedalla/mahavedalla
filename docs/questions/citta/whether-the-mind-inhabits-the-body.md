@@ -1,5 +1,4 @@
-# Whether the mind inhabits the body?
-
+Question: Whether the mind inhabits the body?
 Answer in Brief: -
  Category: Citta
 Sutta References: MN 39

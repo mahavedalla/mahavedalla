@@ -1,5 +1,4 @@
-# Whether there is diversity among people in the development of tranquility and insight?
-
+Question: Whether there is diversity among people in the development of tranquility and insight?
 Answer in Brief: -
  Category: Samatha
 Sutta References: AN 4.94; AN 4.170

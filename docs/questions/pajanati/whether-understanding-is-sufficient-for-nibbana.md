@@ -1,5 +1,4 @@
-# Whether understanding is sufficient for Nibbāna
-
+Question: Whether understanding is sufficient for Nibbāna
 Answer in Brief: -
  Category: Pajānāti
 Sutta References: MN 27

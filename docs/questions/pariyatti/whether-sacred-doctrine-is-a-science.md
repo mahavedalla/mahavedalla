@@ -1,5 +1,4 @@
-# Whether sacred doctrine is a science?
-
+Question: Whether sacred doctrine is a science?
 Answer in Brief: -
  Category: Pariyatti
 Sutta References: -

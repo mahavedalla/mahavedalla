@@ -1,5 +1,4 @@
-# Whether there is a gratification in the world?
-
+Question: Whether there is a gratification in the world?
 Answer in Brief: -
  Category: Loka
 Sutta References: AN 3.102

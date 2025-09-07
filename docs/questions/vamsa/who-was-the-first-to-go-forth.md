@@ -1,5 +1,4 @@
-# Who was the first to go forth?
-
+Question: Who was the first to go forth?
 Answer in Brief: -
  Category: Vamsa
 Sutta References: Mv.1.6.32.1

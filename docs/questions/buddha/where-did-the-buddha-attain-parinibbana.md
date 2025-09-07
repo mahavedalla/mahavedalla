@@ -1,5 +1,4 @@
-# Where did the Buddha attain parinibbāna?
-
+Question: Where did the Buddha attain parinibbāna?
 Category: Buddha
 Sutta References: -
 Date Entered: March 11, 2025

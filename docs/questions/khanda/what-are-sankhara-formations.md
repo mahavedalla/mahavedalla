@@ -1,5 +1,4 @@
-# What are saṅkhārā (formations)?
-
+Question: What are saṅkhārā (formations)?
 Answer in Brief: -
  Category: Khanda
 Sutta References: -

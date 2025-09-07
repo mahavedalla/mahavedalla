@@ -1,5 +1,4 @@
-# Was the Buddha ever a wheel-turning monarch?
-
+Question: Was the Buddha ever a wheel-turning monarch?
 Category: Buddha
 Sutta References: ITI 22
 Date Entered: March 30, 2025

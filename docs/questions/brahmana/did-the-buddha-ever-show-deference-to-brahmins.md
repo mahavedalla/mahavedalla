@@ -1,5 +1,4 @@
-# Did the Buddha ever show deference to Brahmins?
-
+Question: Did the Buddha ever show deference to Brahmins?
 Category: Brāhmaṇa
 Sutta References: AN 7.52
 Date Entered: March 26, 2025

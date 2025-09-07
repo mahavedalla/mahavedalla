@@ -1,5 +1,4 @@
-# What are the classes of kamma?
-
+Question: What are the classes of kamma?
 Answer in Brief: -
  Category: Kamma
 Sutta References: AN 4.232

@@ -1,5 +1,4 @@
-# Is it permissible for lay people to wear adornments?
-
+Question: Is it permissible for lay people to wear adornments?
 Answer in Brief: -
  Category: Sīla
 Sutta References: DN 31

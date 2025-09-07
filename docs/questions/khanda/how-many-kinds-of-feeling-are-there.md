@@ -1,5 +1,4 @@
-# How many kinds of feeling are there?
-
+Question: How many kinds of feeling are there?
 Answer in Brief: -
  Category: Khanda
 Sutta References: MN 44

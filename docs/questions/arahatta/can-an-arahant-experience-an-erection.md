@@ -1,5 +1,4 @@
-# Can an Arahant experience an erection?
-
+Question: Can an Arahant experience an erection?
 Category: Arahatta
 Sutta References: Vb.10.17.1
 Answer: Yes.

@@ -1,5 +1,4 @@
-# What aggregate do the defilements fall under?
-
+Question: What aggregate do the defilements fall under?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

@@ -1,5 +1,4 @@
-# Whether it is important to comprehend the gratification in the world?
-
+Question: Whether it is important to comprehend the gratification in the world?
 Answer in Brief: -
  Category: Loka
 Sutta References: AN 3.101

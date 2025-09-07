@@ -1,5 +1,4 @@
-# Whether Nibbāna is happiness?
-
+Question: Whether Nibbāna is happiness?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: DHP 203; AN 9.34

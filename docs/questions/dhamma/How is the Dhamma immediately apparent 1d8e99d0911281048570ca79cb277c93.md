@@ -1,5 +1,4 @@
-# How is the Dhamma immediately apparent?
-
+Question: How is the Dhamma immediately apparent?
 Answer in Brief: -
 Category: Dhamma
 Sutta References: SN 35.70, AN 9.46

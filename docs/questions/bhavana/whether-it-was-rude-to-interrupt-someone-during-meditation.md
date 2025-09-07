@@ -1,5 +1,4 @@
-# Whether it was rude to interrupt someone during meditation?
-
+Question: Whether it was rude to interrupt someone during meditation?
 Answer in Brief: -
  Category: Bhāvana
 Sutta References: MN 62

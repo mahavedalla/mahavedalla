@@ -1,5 +1,4 @@
-# Why do some not attain Nibbāna
-
+Question: Why do some not attain Nibbāna
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: SN 35.118

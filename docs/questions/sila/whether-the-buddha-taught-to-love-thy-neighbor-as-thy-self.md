@@ -1,5 +1,4 @@
-# Whether the Buddha taught to love thy neighbor as thy self?
-
+Question: Whether the Buddha taught to love thy neighbor as thy self?
 Answer in Brief: -
  Category: Sīla
 Sutta References: MN 7

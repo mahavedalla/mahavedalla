@@ -1,5 +1,4 @@
-# Was the Buddha a mereological nihilist?
-
+Question: Was the Buddha a mereological nihilist?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: SN 5.10

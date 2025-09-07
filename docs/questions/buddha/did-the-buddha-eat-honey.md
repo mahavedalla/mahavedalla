@@ -1,5 +1,4 @@
-# Did the Buddha eat honey?
-
+Question: Did the Buddha eat honey?
 Category: Buddha
 Sutta References: Mv.4.4.4
 Answer: Yes.

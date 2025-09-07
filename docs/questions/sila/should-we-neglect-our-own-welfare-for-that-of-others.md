@@ -1,5 +1,4 @@
-# Should we neglect our own welfare for that of others?
-
+Question: Should we neglect our own welfare for that of others?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

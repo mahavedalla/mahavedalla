@@ -1,5 +1,4 @@
-# Did the Buddha ever offer unsolicited advice?
-
+Question: Did the Buddha ever offer unsolicited advice?
 Answer in Brief: -
  Category: Ovāda
 Sutta References: AN 7.59

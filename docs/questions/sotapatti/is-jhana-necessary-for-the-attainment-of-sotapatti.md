@@ -1,5 +1,4 @@
-# Is jhāna necessary for the attainment of sotāpatti?
-
+Question: Is jhāna necessary for the attainment of sotāpatti?
 Answer in Brief: -
  Category: Sotāpatti
 Sutta References: DHP 372

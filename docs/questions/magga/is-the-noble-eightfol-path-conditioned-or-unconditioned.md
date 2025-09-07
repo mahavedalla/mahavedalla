@@ -1,5 +1,4 @@
-# Is the Noble Eightfol Path conditioned or unconditioned?
-
+Question: Is the Noble Eightfol Path conditioned or unconditioned?
 Answer in Brief: -
  Category: Magga
 Sutta References: MN 44

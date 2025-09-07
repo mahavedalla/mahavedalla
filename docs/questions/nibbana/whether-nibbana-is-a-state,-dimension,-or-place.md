@@ -1,5 +1,4 @@
-# Whether Nibbāna is a state, dimension, or place?
-
+Question: Whether Nibbāna is a state, dimension, or place?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 26; AN 9.34; UD 8

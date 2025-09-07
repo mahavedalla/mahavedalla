@@ -1,5 +1,4 @@
-# How long do devas live for?
-
+Question: How long do devas live for?
 Answer in Brief: -
  Category: Deva
 Sutta References: AN 8.41

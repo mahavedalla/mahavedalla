@@ -1,5 +1,4 @@
-# What is the youngest age at which someone attained Arahatta?
-
+Question: What is the youngest age at which someone attained Arahatta?
 Category: Arahatta
 Sutta References: -
 Answer: Of cases recorded in the Suttas, Venerable Dabba Mallaputta at seven years old.

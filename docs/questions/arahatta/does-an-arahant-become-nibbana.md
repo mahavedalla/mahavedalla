@@ -1,5 +1,4 @@
-# Does an Arahant become Nibbāna?
-
+Question: Does an Arahant become Nibbāna?
 Category: Arahatta
 Sutta References: -
 Answer: -

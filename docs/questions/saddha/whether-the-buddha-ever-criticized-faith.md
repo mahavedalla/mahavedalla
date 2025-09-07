@@ -1,5 +1,4 @@
-# Whether the Buddha ever criticized faith?
-
+Question: Whether the Buddha ever criticized faith?
 Answer in Brief: -
  Category: Saddhā
 Sutta References: MN 95; MN 102

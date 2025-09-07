@@ -1,3 +1,2 @@
-# What is sañcetanā?
-
+Question: What is sañcetanā?
 Review Status: Not started

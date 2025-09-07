@@ -1,5 +1,4 @@
-# Whether Arahants are subject to death?
-
+Question: Whether Arahants are subject to death?
 Category: Arahatta
 Sutta References: SN 3.3
 Answer: An Arahant's body is subject to death.

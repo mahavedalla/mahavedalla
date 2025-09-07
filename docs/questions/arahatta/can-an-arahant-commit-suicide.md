@@ -1,5 +1,4 @@
-# Can an Arahant commit suicide?
-
+Question: Can an Arahant commit suicide?
 Category: Arahatta
 Sutta References: SN 35.87; SN 22.87
 Answer: Yes.

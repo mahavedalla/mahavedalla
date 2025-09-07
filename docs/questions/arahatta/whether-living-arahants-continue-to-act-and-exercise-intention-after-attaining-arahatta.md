@@ -1,5 +1,4 @@
-# Whether living Arahants continue to act and exercise intention after attaining Arahatta?
-
+Question: Whether living Arahants continue to act and exercise intention after attaining Arahatta?
 Category: Arahatta
 Sutta References: -
 Tags: Cetanā

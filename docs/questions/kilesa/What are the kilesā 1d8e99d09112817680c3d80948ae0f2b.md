@@ -1,5 +1,4 @@
-# What are the kilesā?
-
+Question: What are the kilesā?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

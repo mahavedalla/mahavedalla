@@ -1,5 +1,4 @@
-# After his enlightenment, was the Buddha still conscious and perceptive.
-
+Question: After his enlightenment, was the Buddha still conscious and perceptive.
 Category: Buddha
 Sutta References: SN 35.232; MN 123
 Answer: Yes.

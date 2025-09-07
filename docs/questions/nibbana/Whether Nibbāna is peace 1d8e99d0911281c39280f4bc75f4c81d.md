@@ -1,5 +1,4 @@
-# Whether Nibbāna is peace?
-
+Question: Whether Nibbāna is peace?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 26

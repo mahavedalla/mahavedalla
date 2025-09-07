@@ -1,5 +1,4 @@
-# On what occasion did the Venerable Sāriputta attain Arahatta?
-
+Question: On what occasion did the Venerable Sāriputta attain Arahatta?
 Answer in Brief: -
  Category: Sāriputta
 Sutta References: MN 74

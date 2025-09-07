@@ -1,5 +1,4 @@
-# Whether the Buddha developed mindfulness of breathing to attain Nibbāna?
-
+Question: Whether the Buddha developed mindfulness of breathing to attain Nibbāna?
 Answer in Brief: -
  Category: Buddha
 Sutta References: SN 54.8

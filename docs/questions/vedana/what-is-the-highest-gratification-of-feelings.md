@@ -1,5 +1,4 @@
-# What is the highest gratification of feelings?
-
+Question: What is the highest gratification of feelings?
 Answer in Brief: -
 Category: Vedanā
 Sutta References: MN 13

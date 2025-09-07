@@ -1,5 +1,4 @@
-# Whether sacred doctrine is necessary for a trainee (sekha)?
-
+Question: Whether sacred doctrine is necessary for a trainee (sekha)?
 Answer in Brief: -
  Category: Pariyatti
 Sutta References: -

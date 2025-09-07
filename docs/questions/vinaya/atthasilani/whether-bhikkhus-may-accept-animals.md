@@ -1,5 +1,4 @@
-# Whether bhikkhus may accept animals?
-
+Question: Whether bhikkhus may accept animals?
 Answer in Brief: -
  Category: Vināya
 Sutta References: -

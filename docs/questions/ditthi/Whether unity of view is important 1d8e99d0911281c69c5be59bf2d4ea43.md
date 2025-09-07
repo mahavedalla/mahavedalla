@@ -1,5 +1,4 @@
-# Whether unity of view is important?
-
+Question: Whether unity of view is important?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: MN 103

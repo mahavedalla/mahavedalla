@@ -1,5 +1,4 @@
-# Did the Buddha ever provide advice on how husbands and wives could be reunited after death?
-
+Question: Did the Buddha ever provide advice on how husbands and wives could be reunited after death?
 Answer in Brief: -
  Category: Ovāda
 Sutta References: AN 4.55

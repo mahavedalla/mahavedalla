@@ -1,5 +1,4 @@
-# Is an Arahant freed from the consequences of past actions?
-
+Question: Is an Arahant freed from the consequences of past actions?
 Category: Arahatta
 Sutta References: MN 86
 Answer: -

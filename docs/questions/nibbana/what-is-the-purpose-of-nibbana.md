@@ -1,5 +1,4 @@
-# What is the purpose of Nibbāna?
-
+Question: What is the purpose of Nibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 44; AN 10.58

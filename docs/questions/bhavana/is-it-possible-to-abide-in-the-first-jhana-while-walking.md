@@ -1,5 +1,4 @@
-# Is it possible to abide in the first jhāna while walking?
-
+Question: Is it possible to abide in the first jhāna while walking?
 Category: Bhāvana
 Sutta References: -
 Tags: Jhāna

@@ -1,5 +1,4 @@
-# Did the Buddha acknowledge the existence of demons?
-
+Question: Did the Buddha acknowledge the existence of demons?
 Answer in Brief: -
  Category: Satta
 Sutta References: -

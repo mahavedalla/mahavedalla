@@ -1,5 +1,4 @@
-# Is sensual pleasure unwholesome?
-
+Question: Is sensual pleasure unwholesome?
 Answer in Brief: -
  Category: Sukha
 Sutta References: -

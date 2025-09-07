@@ -1,5 +1,4 @@
-# What aggregate do the defilements belong to?
-
+Question: What aggregate do the defilements belong to?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

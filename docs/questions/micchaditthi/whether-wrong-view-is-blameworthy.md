@@ -1,5 +1,4 @@
-# Whether wrong view is blameworthy?
-
+Question: Whether wrong view is blameworthy?
 Answer in Brief: -
  Category: Micchādiṭṭhi
 Sutta References: AN 1.306-315

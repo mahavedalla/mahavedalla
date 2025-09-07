@@ -1,5 +1,4 @@
-# Is there an equivalent of the devil in Buddhism?
-
+Question: Is there an equivalent of the devil in Buddhism?
 Answer in Brief: -
  Category: Māra
 Sutta References: -

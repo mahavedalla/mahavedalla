@@ -1,5 +1,4 @@
-# How did the Buddha die?
-
+Question: How did the Buddha die?
 Category: Buddha
 Sutta References: -
 Answer: -

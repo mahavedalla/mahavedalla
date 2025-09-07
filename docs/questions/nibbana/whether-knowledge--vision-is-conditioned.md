@@ -1,5 +1,4 @@
-# Whether knowledge & vision is conditioned?
-
+Question: Whether knowledge & vision is conditioned?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 29

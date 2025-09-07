@@ -1,5 +1,4 @@
-# What happens after death?
-
+Question: What happens after death?
 Answer in Brief: -
  Category: Maraṇa
 Sutta References: -

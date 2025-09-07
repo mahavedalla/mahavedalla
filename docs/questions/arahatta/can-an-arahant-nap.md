@@ -1,5 +1,4 @@
-# Can an Arahant nap?
-
+Question: Can an Arahant nap?
 Category: Arahatta
 Sutta References: MN 36
 Answer: Yes.

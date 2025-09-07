@@ -1,5 +1,4 @@
-# Can an action be both wholesome and unwholesome?
-
+Question: Can an action be both wholesome and unwholesome?
 Answer in Brief: No.
  Category: Kamma
 Sutta References: -

@@ -1,5 +1,4 @@
-# What is the Buddha's advice for loneliness?
-
+Question: What is the Buddha's advice for loneliness?
 Answer in Brief: -
  Category: Ovāda
 Sutta References: -

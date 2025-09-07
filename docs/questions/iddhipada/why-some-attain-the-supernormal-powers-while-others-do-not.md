@@ -1,5 +1,4 @@
-# Why some attain the supernormal powers while others do not?
-
+Question: Why some attain the supernormal powers while others do not?
 Answer in Brief: -
  Category: Iddhipada
 Sutta References: AN 9.34

@@ -1,5 +1,4 @@
-# What is the Noble Tenfold Path?
-
+Question: What is the Noble Tenfold Path?
 Answer in Brief: -
  Category: Paṭipadā
 Sutta References: DN 33

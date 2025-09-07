@@ -1,5 +1,4 @@
-# Did the Buddha affirm the duality of mind and body (dualism)?
-
+Question: Did the Buddha affirm the duality of mind and body (dualism)?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

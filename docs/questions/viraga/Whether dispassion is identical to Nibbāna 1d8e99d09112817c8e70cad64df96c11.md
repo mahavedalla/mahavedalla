@@ -1,5 +1,4 @@
-# Whether dispassion is identical to Nibbāna?
-
+Question: Whether dispassion is identical to Nibbāna?
 Answer in Brief: -
  Category: Virāga
 Sutta References: SN 22.59, SN 35.28; AN 10.59

@@ -1,5 +1,4 @@
-# What are the bases of merit?
-
+Question: What are the bases of merit?
 Answer in Brief: -
  Category: Puñña
 Sutta References: AN 8.36

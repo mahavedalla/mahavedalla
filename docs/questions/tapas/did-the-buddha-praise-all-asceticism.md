@@ -1,5 +1,4 @@
-# Did the Buddha praise all asceticism?
-
+Question: Did the Buddha praise all asceticism?
 Answer in Brief: -
  Category: Tapas
 Sutta References: -

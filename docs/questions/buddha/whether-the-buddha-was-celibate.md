@@ -1,5 +1,4 @@
-# Whether the Buddha was celibate?
-
+Question: Whether the Buddha was celibate?
 Category: Buddha
 Sutta References: AN 7.50
 Tags: Brahmacariya

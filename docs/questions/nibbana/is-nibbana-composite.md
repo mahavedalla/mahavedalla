@@ -1,5 +1,4 @@
-# Is Nibbāna composite?
-
+Question: Is Nibbāna composite?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

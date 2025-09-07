@@ -1,5 +1,4 @@
-# Does supra-mundane right view supersede mundane right view?
-
+Question: Does supra-mundane right view supersede mundane right view?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

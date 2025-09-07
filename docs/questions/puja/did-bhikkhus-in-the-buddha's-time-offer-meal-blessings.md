@@ -1,5 +1,4 @@
-# Did bhikkhus in the Buddha's time offer meal blessings?
-
+Question: Did bhikkhus in the Buddha's time offer meal blessings?
 Answer in Brief: -
  Category: Pūjā
 Sutta References: MN 5

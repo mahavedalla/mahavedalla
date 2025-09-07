@@ -1,5 +1,4 @@
-# Was the Buddha an esoteric teacher?
-
+Question: Was the Buddha an esoteric teacher?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: AN 3.129

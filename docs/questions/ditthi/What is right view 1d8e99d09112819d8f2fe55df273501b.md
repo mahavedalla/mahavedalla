@@ -1,5 +1,4 @@
-# What is right view?
-
+Question: What is right view?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: MN 117

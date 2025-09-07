@@ -1,5 +1,4 @@
-# Did the Buddha acknowledge a gratification in sensual pleasures?
-
+Question: Did the Buddha acknowledge a gratification in sensual pleasures?
 Answer in Brief: -
  Category: Sukha
 Sutta References: -

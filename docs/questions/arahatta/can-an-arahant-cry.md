@@ -1,5 +1,4 @@
-# Can an Arahant cry?
-
+Question: Can an Arahant cry?
 Category: Arahatta
 Sutta References: SN 36.6
 Date Entered: March 11, 2025

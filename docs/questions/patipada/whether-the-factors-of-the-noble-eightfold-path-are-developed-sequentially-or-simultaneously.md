@@ -1,5 +1,4 @@
-# Whether the factors of the noble eightfold path are developed sequentially or simultaneously?
-
+Question: Whether the factors of the noble eightfold path are developed sequentially or simultaneously?
 Answer in Brief: -
  Category: Paṭipadā
 Sutta References: MN 117

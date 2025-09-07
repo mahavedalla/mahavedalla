@@ -1,5 +1,4 @@
-# What is the akusalamūla?
-
+Question: What is the akusalamūla?
 Answer in Brief: -
  Category: Kusala
 Sutta References: MN 9

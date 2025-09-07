@@ -1,5 +1,4 @@
-# What is bhāvana?
-
+Question: What is bhāvana?
 Category: Bhāvana
 Sutta References: -
 Tags: Core

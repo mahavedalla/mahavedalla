@@ -1,5 +1,4 @@
-# Whether all sensual stimulation is not to be cultivated?
-
+Question: Whether all sensual stimulation is not to be cultivated?
 Category: Kāma
 Sutta References: MN 139, MN 7
 Tags: Pleasure, Sevitabba, Sukha

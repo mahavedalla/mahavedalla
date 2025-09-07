@@ -1,5 +1,4 @@
-# Whether the Buddha is the Dhamma?
-
+Question: Whether the Buddha is the Dhamma?
 Category: Buddha
 Sutta References: -
 Tags: Dhamma

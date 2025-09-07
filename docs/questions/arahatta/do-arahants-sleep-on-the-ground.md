@@ -1,5 +1,4 @@
-# Do Arahants sleep on the ground?
-
+Question: Do Arahants sleep on the ground?
 Category: Arahatta
 Sutta References: AN 8.41
 Answer: -

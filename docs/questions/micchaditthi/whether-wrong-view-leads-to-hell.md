@@ -1,5 +1,4 @@
-# Whether wrong view leads to hell?
-
+Question: Whether wrong view leads to hell?
 Answer in Brief: -
  Category: Micchādiṭṭhi
 Sutta References: AN 1.306-315

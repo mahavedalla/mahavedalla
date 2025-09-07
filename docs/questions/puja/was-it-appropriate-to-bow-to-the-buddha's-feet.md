@@ -1,5 +1,4 @@
-# Was it appropriate to bow to the Buddha's feet?
-
+Question: Was it appropriate to bow to the Buddha's feet?
 Answer in Brief: -
  Category: Pūjā
 Sutta References: SN 22.87

@@ -1,5 +1,4 @@
-# Was Moggallāna ever Māra?
-
+Question: Was Moggallāna ever Māra?
 Answer in Brief: -
  Category: Moggallāna
 Sutta References: MN 50

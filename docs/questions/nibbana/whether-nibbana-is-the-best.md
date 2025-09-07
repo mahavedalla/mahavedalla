@@ -1,5 +1,4 @@
-# Whether Nibbāna is the best?
-
+Question: Whether Nibbāna is the best?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: AN 4.34

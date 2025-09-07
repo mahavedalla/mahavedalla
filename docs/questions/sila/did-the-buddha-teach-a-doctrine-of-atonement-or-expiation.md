@@ -1,5 +1,4 @@
-# Did the Buddha teach a doctrine of atonement or expiation?
-
+Question: Did the Buddha teach a doctrine of atonement or expiation?
 Answer in Brief: -
  Category: Sīla
 Sutta References: AN 10.217, MN 7

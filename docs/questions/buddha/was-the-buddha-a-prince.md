@@ -1,5 +1,4 @@
-# Was the Buddha a prince?
-
+Question: Was the Buddha a prince?
 Category: Buddha
 Sutta References: -
 Date Entered: March 11, 2025

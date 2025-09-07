@@ -1,5 +1,4 @@
-# Whether an Arahant continues to learn?
-
+Question: Whether an Arahant continues to learn?
 Category: Arahatta
 Sutta References: Mv.1.??
 Answer: -

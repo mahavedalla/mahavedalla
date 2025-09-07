@@ -1,5 +1,4 @@
-# Can an Arahant experience greed, hatred, and delusion?
-
+Question: Can an Arahant experience greed, hatred, and delusion?
 Category: Arahatta
 Sutta References: -
 Answer: No.

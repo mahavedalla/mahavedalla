@@ -1,5 +1,4 @@
-# How partial enlightenment is possible?
-
+Question: How partial enlightenment is possible?
 Answer in Brief: -
  Category: Bodhi
 Sutta References: -

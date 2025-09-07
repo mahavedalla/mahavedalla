@@ -1,5 +1,4 @@
-# Is there no self?
-
+Question: Is there no self?
 Category: Atta
 Sutta References: -
 Date Entered: March 14, 2025

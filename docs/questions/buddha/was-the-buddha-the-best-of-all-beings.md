@@ -1,5 +1,4 @@
-# Was the Buddha the best of all beings?
-
+Question: Was the Buddha the best of all beings?
 Category: Buddha
 Sutta References: AN 10.15
 Answer: Yes.

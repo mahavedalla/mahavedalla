@@ -1,5 +1,4 @@
-# Whether Arahatta is the same as Nibbāna?
-
+Question: Whether Arahatta is the same as Nibbāna?
 Category: Arahatta
 Sutta References: -
 Tags: Nibbāna

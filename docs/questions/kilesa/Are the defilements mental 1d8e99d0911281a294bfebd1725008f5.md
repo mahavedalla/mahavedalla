@@ -1,5 +1,4 @@
-# Are the defilements mental?
-
+Question: Are the defilements mental?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: MN 36

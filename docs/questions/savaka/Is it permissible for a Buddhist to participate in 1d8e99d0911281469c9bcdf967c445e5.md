@@ -1,5 +1,4 @@
-# Is it permissible for a Buddhist to participate in non-Buddhist religious ceremonies?
-
+Question: Is it permissible for a Buddhist to participate in non-Buddhist religious ceremonies?
 Answer in Brief: -
  Category: Sāvaka
 Sutta References: -

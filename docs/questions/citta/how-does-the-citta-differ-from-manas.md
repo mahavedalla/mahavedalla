@@ -1,5 +1,4 @@
-# How does the citta differ from manas?
-
+Question: How does the citta differ from manas?
 Category: Citta
 Sutta References: -
 Tags: Saḷāyatana

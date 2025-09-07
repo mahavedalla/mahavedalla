@@ -1,5 +1,4 @@
-# How does avijjā differ from dosa?
-
+Question: How does avijjā differ from dosa?
 Category: Avijjā
 Sutta References: -
 Tags: Kilesa

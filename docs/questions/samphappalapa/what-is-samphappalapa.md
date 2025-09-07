@@ -1,5 +1,4 @@
-# What is samphappalāpa?
-
+Question: What is samphappalāpa?
 Answer in Brief: -
  Category: Samphappalāpa
 Sutta References: DN 2

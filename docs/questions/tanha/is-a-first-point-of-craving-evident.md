@@ -1,5 +1,4 @@
-# Is a first point of craving evident?
-
+Question: Is a first point of craving evident?
 Answer in Brief: -
  Category: Taṇhā
 Sutta References: AN 10.62

@@ -1,5 +1,4 @@
-# Whether Nibbāna is truth?
-
+Question: Whether Nibbāna is truth?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 140

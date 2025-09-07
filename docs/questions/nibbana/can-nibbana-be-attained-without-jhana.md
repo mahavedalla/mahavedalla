@@ -1,5 +1,4 @@
-# Can Nibbāna be attained without jhāna?
-
+Question: Can Nibbāna be attained without jhāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 113

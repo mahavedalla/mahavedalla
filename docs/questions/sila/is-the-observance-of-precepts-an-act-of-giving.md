@@ -1,5 +1,4 @@
-# Is the observance of precepts an act of giving?
-
+Question: Is the observance of precepts an act of giving?
 Answer in Brief: -
  Category: Sīla
 Sutta References: AN 8.39

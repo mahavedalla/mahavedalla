@@ -1,5 +1,4 @@
-# What is lobha?
-
+Question: What is lobha?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: MN 9

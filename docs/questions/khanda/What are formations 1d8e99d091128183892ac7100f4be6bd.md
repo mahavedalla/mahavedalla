@@ -1,5 +1,4 @@
-# What are formations?
-
+Question: What are formations?
 Answer in Brief: -
  Category: Khanda
 Sutta References: MN 44

@@ -1,5 +1,4 @@
-# Whether actions undertaken with wrong view are unwholesome?
-
+Question: Whether actions undertaken with wrong view are unwholesome?
 Answer in Brief: -
  Category: Micchādiṭṭhi
 Sutta References: AN 1.306-315

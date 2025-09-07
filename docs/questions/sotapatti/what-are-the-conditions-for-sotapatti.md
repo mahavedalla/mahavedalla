@@ -1,5 +1,4 @@
-# What are the conditions for sotāpatti?
-
+Question: What are the conditions for sotāpatti?
 Answer in Brief: -
  Category: Sotāpatti
 Sutta References: SN 55.5

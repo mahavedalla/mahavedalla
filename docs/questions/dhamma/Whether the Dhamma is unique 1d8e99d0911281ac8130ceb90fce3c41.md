@@ -1,5 +1,4 @@
-# Whether the Dhamma is unique?
-
+Question: Whether the Dhamma is unique?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: -

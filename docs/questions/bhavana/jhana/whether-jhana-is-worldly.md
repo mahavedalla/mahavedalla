@@ -1,5 +1,4 @@
-# Whether jhāna is worldly?
-
+Question: Whether jhāna is worldly?
 Answer in Brief:
 Category:
 Tags:

@@ -1,5 +1,4 @@
-# What is kusala?
-
+Question: What is kusala?
 Answer in Brief: -
  Category: Kusala
 Sutta References: -

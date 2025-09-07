@@ -1,5 +1,4 @@
-# What are the thirteen ascetic practices (dhutaṅgā)?
-
+Question: What are the thirteen ascetic practices (dhutaṅgā)?
 Answer in Brief: -
  Category: Tapas
 Sutta References: Thag.16.7

@@ -1,5 +1,4 @@
-# Whether inter-religious debate is permissible?
-
+Question: Whether inter-religious debate is permissible?
 Answer in Brief: -
  Category: Kathā
 Sutta References: AN 10.94

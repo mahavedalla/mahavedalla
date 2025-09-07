@@ -1,5 +1,4 @@
-# Can an Arahant disrobe?
-
+Question: Can an Arahant disrobe?
 Category: Arahatta
 Sutta References: -
 Date Entered: March 11, 2025

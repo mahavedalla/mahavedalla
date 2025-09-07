@@ -1,5 +1,4 @@
-# Is rebirth instantaneous?
-
+Question: Is rebirth instantaneous?
 Answer in Brief: -
  Category: Jāti
 Sutta References: -

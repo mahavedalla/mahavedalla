@@ -1,5 +1,4 @@
-# Whether liberation is knowledge?
-
+Question: Whether liberation is knowledge?
 Answer in Brief: -
  Category: Vimutti
 Sutta References: MN 27

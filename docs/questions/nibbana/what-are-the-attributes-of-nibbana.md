@@ -1,5 +1,4 @@
-# What are the attributes of Nibbāna?
-
+Question: What are the attributes of Nibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

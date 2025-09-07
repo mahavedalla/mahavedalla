@@ -1,5 +1,4 @@
-# Whether the Buddha's omniscience was gained before, on, or after his attainment of Nibbāna?
-
+Question: Whether the Buddha's omniscience was gained before, on, or after his attainment of Nibbāna?
 Category: Buddha
 Sutta References: -
 Date Entered: April 3, 2025

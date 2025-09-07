@@ -1,5 +1,4 @@
-# Whether a Tathāgata creates the Dhamma?
-
+Question: Whether a Tathāgata creates the Dhamma?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: SN 12.20

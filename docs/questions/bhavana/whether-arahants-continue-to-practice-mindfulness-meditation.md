@@ -1,5 +1,4 @@
-# Whether Arahants continue to practice mindfulness meditation?
-
+Question: Whether Arahants continue to practice mindfulness meditation?
 Answer in Brief: -
  Category: Bhāvana
 Sutta References: SN 47.4

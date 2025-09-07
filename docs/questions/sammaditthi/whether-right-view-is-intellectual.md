@@ -1,5 +1,4 @@
-# Whether right view is intellectual?
-
+Question: Whether right view is intellectual?
 Answer in Brief: -
  Category: Sammādiṭṭhi
 Sutta References: -

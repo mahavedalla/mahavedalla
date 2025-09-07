@@ -1,5 +1,4 @@
-# Whether the Buddha was ever a god?
-
+Question: Whether the Buddha was ever a god?
 Answer in Brief: -
  Category: Jātaka
 Sutta References: ITI 22

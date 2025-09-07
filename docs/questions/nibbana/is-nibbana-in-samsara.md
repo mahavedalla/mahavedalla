@@ -1,5 +1,4 @@
-# Is Nibbāna in saṃsāra?
-
+Question: Is Nibbāna in saṃsāra?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

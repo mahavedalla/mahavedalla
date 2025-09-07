@@ -1,5 +1,4 @@
-# Whether saṃsāra is identical with the world (loka)?
-
+Question: Whether saṃsāra is identical with the world (loka)?
 Answer in Brief: -
  Category: Loka
 Sutta References: -

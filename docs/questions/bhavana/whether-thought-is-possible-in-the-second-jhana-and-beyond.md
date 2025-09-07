@@ -1,5 +1,4 @@
-# Whether thought is possible in the second jhāna and beyond?
-
+Question: Whether thought is possible in the second jhāna and beyond?
 Category: Bhāvana
 Sutta References: MN 8; MN 111
 Tags: Jhāna

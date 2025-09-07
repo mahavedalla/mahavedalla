@@ -1,5 +1,4 @@
-# What are forms of meritorious deeds?
-
+Question: What are forms of meritorious deeds?
 Answer in Brief: -
  Category: Puñña
 Sutta References: AN 9.20

@@ -1,5 +1,4 @@
-# Is it possible that an Arahant could not recollect past lives?
-
+Question: Is it possible that an Arahant could not recollect past lives?
 Category: Arahatta
 Sutta References: -
 Date Entered: March 11, 2025

@@ -1,5 +1,4 @@
-# Whether the Buddha was detached from material things?
-
+Question: Whether the Buddha was detached from material things?
 Answer in Brief: -
  Category: Buddha
 Sutta References: MN 70

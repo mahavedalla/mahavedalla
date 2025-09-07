@@ -1,5 +1,4 @@
-# Whether the Buddha instructed to laity in renunciation (nekkhamma)?
-
+Question: Whether the Buddha instructed to laity in renunciation (nekkhamma)?
 Answer in Brief: -
  Category: Nekkhama
 Sutta References: Mv.1.8.2.1; Mv.1.22.6.4; Mv.6.34.14.3

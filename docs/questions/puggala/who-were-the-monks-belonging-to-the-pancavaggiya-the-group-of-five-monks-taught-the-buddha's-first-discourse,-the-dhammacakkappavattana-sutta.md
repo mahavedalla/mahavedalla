@@ -1,5 +1,4 @@
-# Who were the monks belonging to the pañcavaggiya (the group of five monks taught the Buddha's first discourse, the Dhammacakkappavattana Sutta)?
-
+Question: Who were the monks belonging to the pañcavaggiya (the group of five monks taught the Buddha's first discourse, the Dhammacakkappavattana Sutta)?
 Answer in Brief: -
  Category: Puggala
 Sutta References: Cv.1.6.33.1-35.1

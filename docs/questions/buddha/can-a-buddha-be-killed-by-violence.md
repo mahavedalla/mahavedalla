@@ -1,5 +1,4 @@
-# Can a Buddha be killed by violence?
-
+Question: Can a Buddha be killed by violence?
 Category: Buddha
 Sutta References: Vin Cv.7.3
 Answer: No.

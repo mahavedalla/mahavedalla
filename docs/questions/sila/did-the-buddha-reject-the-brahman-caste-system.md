@@ -1,5 +1,4 @@
-# Did the Buddha reject the Brahman caste system?
-
+Question: Did the Buddha reject the Brahman caste system?
 Answer in Brief: -
  Category: Sīla
 Sutta References: AN 93

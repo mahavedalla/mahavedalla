@@ -1,5 +1,4 @@
-# Is mettā meritorious?
-
+Question: Is mettā meritorious?
 Answer in Brief: -
  Category: Mettā
 Sutta References: ITI 27; AN 9.20

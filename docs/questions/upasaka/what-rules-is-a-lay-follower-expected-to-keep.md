@@ -1,5 +1,4 @@
-# What rules is a lay follower expected to keep?
-
+Question: What rules is a lay follower expected to keep?
 Answer in Brief: -
  Category: Upāsaka
 Sutta References: AN 8.25

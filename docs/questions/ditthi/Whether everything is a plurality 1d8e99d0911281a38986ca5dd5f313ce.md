@@ -1,5 +1,4 @@
-# Whether everything is a plurality?
-
+Question: Whether everything is a plurality?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: -

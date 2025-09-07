@@ -1,5 +1,4 @@
-# Whether the Buddha making offerings to gods?
-
+Question: Whether the Buddha making offerings to gods?
 Answer in Brief: -
  Category: Pūja
 Sutta References: AN 4.61

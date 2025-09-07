@@ -1,5 +1,4 @@
-# Did the Buddha ever encourage sensuality?
-
+Question: Did the Buddha ever encourage sensuality?
 Answer in Brief: -
  Category: Kāma
 Sutta References: AN 5.148; AN 8.35

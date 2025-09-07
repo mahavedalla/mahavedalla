@@ -1,5 +1,4 @@
-# Whether there is difference between one in the attainment of cessation and one asleep?
-
+Question: Whether there is difference between one in the attainment of cessation and one asleep?
 Answer in Brief: -
  Category: Nirodhasamāpatti
 Sutta References: -

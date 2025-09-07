@@ -1,5 +1,4 @@
-# Can a lay person become a sotāpanna?
-
+Question: Can a lay person become a sotāpanna?
 Category: Arahatta
 Sutta References: MN 71
 Answer: Yes.

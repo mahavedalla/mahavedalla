@@ -1,5 +1,4 @@
-# Is the first jhāna necessary for sotāpatti?
-
+Question: Is the first jhāna necessary for sotāpatti?
 Answer in Brief: -
  Category: Sotāpatti
 Sutta References: -

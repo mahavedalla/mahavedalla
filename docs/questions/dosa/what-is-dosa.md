@@ -1,5 +1,4 @@
-# What is dosa?
-
+Question: What is dosa?
 Answer in Brief: -
  Category: Dosa
 Sutta References: MN 9

@@ -1,5 +1,4 @@
-# What arouses sexual desire?
-
+Question: What arouses sexual desire?
 Answer in Brief: -
  Category: Methuna
 Sutta References: AN 7.51

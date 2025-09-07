@@ -1,5 +1,4 @@
-# Whether bhikkhus made robes for the Buddha?
-
+Question: Whether bhikkhus made robes for the Buddha?
 Category: Cīvara
 Sutta References: MN 65
 Tags: Buddha

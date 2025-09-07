@@ -1,5 +1,4 @@
-# Whether one glimpses Nibbāna with the attainment of stream-entry?
-
+Question: Whether one glimpses Nibbāna with the attainment of stream-entry?
 Answer in Brief: -
  Category: Sotāpatti
 Sutta References: -

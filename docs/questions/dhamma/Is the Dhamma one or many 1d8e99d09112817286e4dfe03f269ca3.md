@@ -1,5 +1,4 @@
-# Is the Dhamma one or many?
-
+Question: Is the Dhamma one or many?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: -

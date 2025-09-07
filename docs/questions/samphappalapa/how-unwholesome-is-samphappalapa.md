@@ -1,5 +1,4 @@
-# How unwholesome is samphappalāpa?
-
+Question: How unwholesome is samphappalāpa?
 Answer in Brief: -
  Category: Samphappalāpa
 Sutta References: MN 41

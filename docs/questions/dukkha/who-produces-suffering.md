@@ -1,5 +1,4 @@
-# Who produces suffering?
-
+Question: Who produces suffering?
 Answer in Brief: -
  Category: Dukkha
 Sutta References: -

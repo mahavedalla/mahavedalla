@@ -1,5 +1,4 @@
-# How is progress measured?
-
+Question: How is progress measured?
 Answer in Brief: -
 Category: Paṭipadā
 Sutta References: AN 7.49

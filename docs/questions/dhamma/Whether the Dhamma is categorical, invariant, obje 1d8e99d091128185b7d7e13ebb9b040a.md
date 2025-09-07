@@ -1,5 +1,4 @@
-# Whether the Dhamma is categorical, invariant, objective?
-
+Question: Whether the Dhamma is categorical, invariant, objective?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: SN 12.20

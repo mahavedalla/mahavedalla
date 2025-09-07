@@ -1,5 +1,4 @@
-# Did the Buddha ever nap?
-
+Question: Did the Buddha ever nap?
 Category: Buddha
 Sutta References: MN 36
 Answer: Yes. 

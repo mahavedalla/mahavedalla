@@ -1,5 +1,4 @@
-# Whether Nibbāna is intellectual?
-
+Question: Whether Nibbāna is intellectual?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 26

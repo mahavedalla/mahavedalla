@@ -1,5 +1,4 @@
-# Can an Arahant experience pain?
-
+Question: Can an Arahant experience pain?
 Category: Arahatta
 Sutta References: SN 36.6
 Answer: Yes.

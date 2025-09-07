@@ -1,5 +1,4 @@
-# Does Nibbāna have attributes?
-
+Question: Does Nibbāna have attributes?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

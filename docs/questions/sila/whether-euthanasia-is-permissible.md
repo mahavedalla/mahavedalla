@@ -1,5 +1,4 @@
-# Whether euthanasia is permissible?
-
+Question: Whether euthanasia is permissible?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

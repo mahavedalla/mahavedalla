@@ -1,5 +1,4 @@
-# Can an Arahant experience sensual pleasure?
-
+Question: Can an Arahant experience sensual pleasure?
 Category: Arahatta
 Sutta References: -
 Answer: -

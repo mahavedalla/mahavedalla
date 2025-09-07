@@ -1,5 +1,4 @@
-# Whether Arahants are reborn?
-
+Question: Whether Arahants are reborn?
 Category: Arahatta
 Sutta References: -
 Date Entered: March 11, 2025

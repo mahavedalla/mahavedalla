@@ -1,5 +1,4 @@
-# Whether bhikkhus may accept land?
-
+Question: Whether bhikkhus may accept land?
 Answer in Brief: -
  Category: Vināya
 Sutta References: -

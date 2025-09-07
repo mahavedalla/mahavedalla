@@ -1,5 +1,4 @@
-# Whether Nibbāna is the same as the deathless (amata)?
-
+Question: Whether Nibbāna is the same as the deathless (amata)?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: AN 9.36

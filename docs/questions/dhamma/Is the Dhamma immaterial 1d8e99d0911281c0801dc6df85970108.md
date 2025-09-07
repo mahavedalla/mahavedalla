@@ -1,5 +1,4 @@
-# Is the Dhamma immaterial?
-
+Question: Is the Dhamma immaterial?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: -

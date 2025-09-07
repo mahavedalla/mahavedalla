@@ -1,5 +1,4 @@
-# Who were the first followers of the Buddha?
-
+Question: Who were the first followers of the Buddha?
 Answer in Brief: -
  Category: Vamsa
 Sutta References: Mv.1.4.5.1

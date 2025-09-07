@@ -1,5 +1,4 @@
-# What directly conduces to Nibbāna?
-
+Question: What directly conduces to Nibbāna?
 Answer in Brief: -
 Category: Nibbāna
 Sutta References: AN 1.296-305

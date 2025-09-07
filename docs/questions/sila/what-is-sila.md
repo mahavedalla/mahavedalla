@@ -1,5 +1,4 @@
-# What is sīla?
-
+Question: What is sīla?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

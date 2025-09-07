@@ -1,5 +1,4 @@
-# Whether the cessation of suffering (dukkhanirodha) is equivalent to Nibbāna?
-
+Question: Whether the cessation of suffering (dukkhanirodha) is equivalent to Nibbāna?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: MN 26

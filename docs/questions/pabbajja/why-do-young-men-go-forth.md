@@ -1,5 +1,4 @@
-# Why do young men go forth?
-
+Question: Why do young men go forth?
 Answer in Brief: -
  Category: Pabbajja
 Sutta References: MN 82

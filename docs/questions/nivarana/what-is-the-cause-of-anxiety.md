@@ -1,5 +1,4 @@
-# What is the cause of anxiety?
-
+Question: What is the cause of anxiety?
 Answer in Brief: -
  Category: Nīvaraṇa
 Sutta References: SN 22.7; DHP ??

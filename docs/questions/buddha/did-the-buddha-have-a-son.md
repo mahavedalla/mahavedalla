@@ -1,5 +1,4 @@
-# Did the Buddha have a son?
-
+Question: Did the Buddha have a son?
 Category: Buddha
 Sutta References: -
 Date Entered: April 2, 2025

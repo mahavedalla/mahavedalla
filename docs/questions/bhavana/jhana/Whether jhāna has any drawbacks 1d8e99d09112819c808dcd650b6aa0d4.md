@@ -1,5 +1,4 @@
-# Whether jhāna has any drawbacks?
-
+Question: Whether jhāna has any drawbacks?
 Answer in Brief: -
  Category: Jhāna
 Sutta References: MN 13

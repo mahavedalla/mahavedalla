@@ -1,5 +1,4 @@
-# To what extent is self-defense permissible?
-
+Question: To what extent is self-defense permissible?
 Answer in Brief: -
  Category: Sīla
 Sutta References: -

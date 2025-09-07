@@ -1,5 +1,4 @@
-# What are the different means (e.g., teachings) by which sotāpatti can be attained?
-
+Question: What are the different means (e.g., teachings) by which sotāpatti can be attained?
 Answer in Brief: -
  Category: Sotāpatti
 Sutta References: -

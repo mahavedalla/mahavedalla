@@ -1,5 +1,4 @@
-# What is the difference between the kilesā (defilements) and āsavā (effluents)?
-
+Question: What is the difference between the kilesā (defilements) and āsavā (effluents)?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

@@ -1,5 +1,4 @@
-# Can an Arahant experience sensual delight?
-
+Question: Can an Arahant experience sensual delight?
 Category: Arahatta
 Sutta References: -
 Tags: Rati

@@ -1,5 +1,4 @@
-# With what qualities is someone described as a great man?
-
+Question: With what qualities is someone described as a great man?
 Answer in Brief: -
 Category: Pañña
 Sutta References: AN 4.35

@@ -1,5 +1,4 @@
-# How tall was the Buddha?
-
+Question: How tall was the Buddha?
 Category: Buddha
 Sutta References: -
 Date Entered: March 11, 2025

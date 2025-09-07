@@ -1,5 +1,4 @@
-# Whether one must be in meditation to attain Arahantship?
-
+Question: Whether one must be in meditation to attain Arahantship?
 Category: Arahatta
 Sutta References: MN 74
 Answer: -

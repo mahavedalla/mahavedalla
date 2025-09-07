@@ -1,5 +1,4 @@
-# What is the reason why ascetics and priests fight with one another?
-
+Question: What is the reason why ascetics and priests fight with one another?
 Answer in Brief: -
  Category: Diṭṭhi
 Sutta References: AN 2.37

@@ -1,5 +1,4 @@
-# Was the Buddha a god?
-
+Question: Was the Buddha a god?
 Category: Buddha
 Sutta References: -
 Date Entered: March 11, 2025

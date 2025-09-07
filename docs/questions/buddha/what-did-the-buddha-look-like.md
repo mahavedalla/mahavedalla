@@ -1,5 +1,4 @@
-# What did the Buddha look like?
-
+Question: What did the Buddha look like?
 Category: Buddha
 Sutta References: -
 Answer: -

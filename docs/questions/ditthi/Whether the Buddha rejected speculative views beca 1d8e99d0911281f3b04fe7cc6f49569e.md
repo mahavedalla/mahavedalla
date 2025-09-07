@@ -1,5 +1,4 @@
-# Whether the Buddha rejected speculative views because they were just impractical or also unanswerable?
-
+Question: Whether the Buddha rejected speculative views because they were just impractical or also unanswerable?
 Answer in Brief: -
  Category: Diṭṭhigata
 Sutta References: MN 63; MN 102

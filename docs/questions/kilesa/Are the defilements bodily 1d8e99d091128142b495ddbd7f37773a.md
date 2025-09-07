@@ -1,5 +1,4 @@
-# Are the defilements bodily?
-
+Question: Are the defilements bodily?
 Answer in Brief: -
  Category: Kilesa
 Sutta References: -

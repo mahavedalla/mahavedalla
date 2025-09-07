@@ -1,5 +1,4 @@
-# What did the Buddha teach?
-
+Question: What did the Buddha teach?
 Answer in Brief: -
  Category: Dhamma
 Sutta References: SN 22.2; SN 22.86; AN 2.34

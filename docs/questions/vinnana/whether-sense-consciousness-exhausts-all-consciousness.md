@@ -1,5 +1,4 @@
-# Whether sense consciousness exhausts all consciousness?
-
+Question: Whether sense consciousness exhausts all consciousness?
 Answer in Brief: -
  Category: Viññāṇa
 Sutta References: -

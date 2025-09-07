@@ -1,5 +1,4 @@
-# Whether knowledge that the world is eternal is possible?
-
+Question: Whether knowledge that the world is eternal is possible?
 Answer in Brief: -
  Category: Sassatavāda
 Sutta References: MN 102

@@ -1,5 +1,4 @@
-# What is contact (phassa)?
-
+Question: What is contact (phassa)?
 Answer in Brief: -
  Category: Phassa
 Sutta References: SN 35.93

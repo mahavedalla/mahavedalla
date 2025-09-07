@@ -1,5 +1,4 @@
-# Whether abstinence from eating at the wrong time is necessary for the attainment of Nibbāna?
-
+Question: Whether abstinence from eating at the wrong time is necessary for the attainment of Nibbāna?
 Answer in Brief: -
  Category: Sīla
 Sutta References: MN 66; AN 8.41

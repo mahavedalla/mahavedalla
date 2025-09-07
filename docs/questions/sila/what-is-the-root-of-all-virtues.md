@@ -1,5 +1,4 @@
-# What is the root of all virtues?
-
+Question: What is the root of all virtues?
 Answer in Brief: -
  Category: Sīla
 Sutta References: BB's MN 8 n.108

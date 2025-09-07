@@ -1,5 +1,4 @@
-# What are the different means (e.g., teachings) by which Arahatta can be attained?
-
+Question: What are the different means (e.g., teachings) by which Arahatta can be attained?
 Category: Arahatta
 Sutta References: -
 Tags: Bodhi

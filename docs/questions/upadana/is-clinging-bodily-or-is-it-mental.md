@@ -1,5 +1,4 @@
-# Is clinging bodily? Or is it mental?
-
+Question: Is clinging bodily? Or is it mental?
 Answer in Brief: -
  Category: Upādana
 Sutta References: SN 22.82

@@ -1,5 +1,4 @@
-# For what reasons one goes forth?
-
+Question: For what reasons one goes forth?
 Answer in Brief: -
  Category: Pabbajja
 Sutta References: -

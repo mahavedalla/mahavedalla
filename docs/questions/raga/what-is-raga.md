@@ -1,5 +1,4 @@
-# What is rāga?
-
+Question: What is rāga?
 Answer in Brief: -
  Category: Rāga
 Sutta References: -

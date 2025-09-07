@@ -1,5 +1,4 @@
-# What is the cause of all evil?
-
+Question: What is the cause of all evil?
 Answer in Brief: -
  Category: Kusala
 Sutta References: -

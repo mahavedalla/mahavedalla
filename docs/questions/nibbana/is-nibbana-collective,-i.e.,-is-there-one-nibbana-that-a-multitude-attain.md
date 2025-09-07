@@ -1,5 +1,4 @@
-# Is Nibbāna collective, i.e., is there one Nibbāna that a multitude attain?
-
+Question: Is Nibbāna collective, i.e., is there one Nibbāna that a multitude attain?
 Answer in Brief: -
  Category: Nibbāna
 Sutta References: -

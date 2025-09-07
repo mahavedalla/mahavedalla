@@ -1,5 +1,4 @@
-# How does one become an lay follower (upāsaka)?
-
+Question: How does one become an lay follower (upāsaka)?
 Answer in Brief: -
  Category: Upāsaka
 Sutta References: AN 8.25

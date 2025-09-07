@@ -1,5 +1,4 @@
-# Whether the right view of a trainee (sekha) is the same as that of one beyond training (asekha)?
-
+Question: Whether the right view of a trainee (sekha) is the same as that of one beyond training (asekha)?
 Answer in Brief: -
  Category: Sammādiṭṭhi
 Sutta References: MN 65

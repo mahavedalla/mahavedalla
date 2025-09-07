@@ -1,5 +1,4 @@
-# Whether the practice is intellectual?
-
+Question: Whether the practice is intellectual?
 Answer in Brief: -
  Category: Paṭipadā
 Sutta References: AN 6.46; MN 95; MN 26

@@ -1,5 +1,4 @@
-# Is it permissible for a Buddhist to believe in God?
-
+Question: Is it permissible for a Buddhist to believe in God?
 Answer in Brief: -
  Category: Issara
 Sutta References: -
