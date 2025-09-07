@@ -1,45 +1,36 @@
 import os
 import re
 
-docs_dir = "."  # adjust if needed
+docs_dir = "vamsa"  # adjust if needed
 
-def wrap_missing_frontmatter(path):
+def fix_category_key(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    if not lines:
-        return
+    if not lines or lines[0].strip() != "---":
+        return  # skip files without wrapped frontmatter
 
-    # Case 1: Already wrapped
-    if lines[0].strip() == "---":
-        return
+    # find closing ---
+    try:
+        end_idx = next(i for i, line in enumerate(lines[1:], start=1) if line.strip() == "---")
+    except StopIteration:
+        return  # malformed frontmatter
 
-    # Case 2: Starts with key: value style frontmatter (unwrapped)
-    if re.match(r"^\s*[\w\s]+:\s*.+", lines[0]):
-        # find the first blank line (end of metadata)
-        idx = None
-        for i, line in enumerate(lines):
-            if not line.strip():  # blank line
-                idx = i
-                break
+    changed = False
+    for i in range(1, end_idx):  # only check frontmatter section
+        if re.match(r"^\s+Category:", lines[i]):
+            fixed = re.sub(r"^\s+Category:", "Category:", lines[i])
+            if fixed != lines[i]:
+                print(f"  ✨ Fixed in {path}: {lines[i].strip()} → {fixed.strip()}")
+                lines[i] = fixed
+                changed = True
 
-        if idx is None:
-            idx = len(lines)  # fallback: all lines are metadata
-
-        # ensure newline before closing ---
-        if not lines[idx - 1].endswith("\n"):
-            lines[idx - 1] += "\n"
-
-        # add wrapping
-        new_lines = ["---\n"] + lines[:idx] + ["---\n"] + lines[idx:]
-
+    if changed:
         with open(path, "w", encoding="utf-8") as f:
-            f.writelines(new_lines)
-        
-        print(f"✅ Wrapped missing frontmatter in {path} (closing --- at line {idx+1})")
-
+            f.writelines(lines)
+        print(f"✅ Cleaned Category key in {path}")
 
 for root, dirs, files in os.walk(docs_dir):
     for file in files:
         if file.endswith(".md"):
-            wrap_missing_frontmatter(os.path.join(root, file))
+            fix_category_key(os.path.join(root, file))
