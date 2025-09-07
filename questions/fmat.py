@@ -1,9 +1,15 @@
 import os
-import re
 
 docs_dir = "."  # adjust as needed
 
-def clean_sutta_refs(path):
+REQUIRED_KEYS = {
+    "Level": "",
+    "Priority": "",
+    "Number": "",
+    "Draft": "true"
+}
+
+def ensure_required_keys(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -16,19 +22,22 @@ def clean_sutta_refs(path):
     except StopIteration:
         return  # malformed frontmatter
 
-    new_lines = []
-    changed = False
+    # collect existing keys
+    existing_keys = set()
+    for i in range(1, end_idx):
+        if ":" in lines[i]:
+            key = lines[i].split(":", 1)[0].strip()
+            existing_keys.add(key)
 
-    for i in range(0, end_idx):
-        line = lines[i]
-        match = re.match(r"^\s*Sutta References:\s*-\s*$", line)
-        if match:
-            new_line = "Sutta References:\n"
+    # add missing keys before closing ---
+    new_lines = lines[:end_idx]
+    changed = False
+    for key, default in REQUIRED_KEYS.items():
+        if key not in existing_keys:
+            new_line = f"{key}: {default}\n"
             new_lines.append(new_line)
             changed = True
-            print(f"Cleaned in {path}: {line.strip()} → {new_line.strip()}")
-        else:
-            new_lines.append(line)
+            print(f"Added to {path}: {new_line.strip()}")
 
     # add the rest (closing --- + body)
     new_lines.extend(lines[end_idx:])
@@ -42,4 +51,4 @@ def clean_sutta_refs(path):
 for root, dirs, files in os.walk(docs_dir):
     for file in files:
         if file.endswith(".md"):
-            clean_sutta_refs(os.path.join(root, file))
+            ensure_required_keys(os.path.join(root, file))
