@@ -1,7 +1,7 @@
 ---
 Question: Is Nibbāna omnipresent?
 Category: Nibbāna
-Sutta References: -
+Sutta References:
 Date Entered: April 1, 2025
 Review Status: Not started
 ---

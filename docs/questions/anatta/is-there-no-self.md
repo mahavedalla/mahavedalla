@@ -1,7 +1,7 @@
 ---
 Question: Is there no self?
 Category: Atta
-Sutta References: -
+Sutta References:
 Date Entered: March 14, 2025
 Review Status: Not started
 ---

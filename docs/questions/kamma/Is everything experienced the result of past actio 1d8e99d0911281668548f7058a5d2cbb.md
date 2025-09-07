@@ -1,7 +1,7 @@
 ---
 Question: Is everything experienced the result of past action (kammavipāka)?
 Category: Kamma
-Sutta References: -
+Sutta References:
 Answer: No.
 Date Entered: March 14, 2025
 Review Status: Not started

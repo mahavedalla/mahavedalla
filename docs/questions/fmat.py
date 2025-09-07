@@ -3,7 +3,7 @@ import re
 
 docs_dir = "."  # adjust as needed
 
-def remove_blank_answer_keys(path):
+def clean_sutta_refs(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -16,23 +16,22 @@ def remove_blank_answer_keys(path):
     except StopIteration:
         return  # malformed frontmatter
 
-    new_lines = [lines[0]]  # opening ---
+    new_lines = []
     changed = False
 
-    for i in range(1, end_idx):
-        match = re.match(r"^\s*(Answer|Answer in Brief):\s*(.*)", lines[i])
+    for i in range(0, end_idx):
+        line = lines[i]
+        match = re.match(r"^\s*Sutta References:\s*-\s*$", line)
         if match:
-            value = match.group(2).strip()
-            if value == "" or value == "-":
-                changed = True
-                print(f"Removed from {path}: {lines[i].strip()}")
-                continue  # skip this line
-        new_lines.append(lines[i])
+            new_line = "Sutta References:\n"
+            new_lines.append(new_line)
+            changed = True
+            print(f"Cleaned in {path}: {line.strip()} → {new_line.strip()}")
+        else:
+            new_lines.append(line)
 
-    # closing ---
-    new_lines.append(lines[end_idx])
-    # remaining content
-    new_lines.extend(lines[end_idx + 1:])
+    # add the rest (closing --- + body)
+    new_lines.extend(lines[end_idx:])
 
     if changed:
         with open(path, "w", encoding="utf-8") as f:
@@ -43,4 +42,4 @@ def remove_blank_answer_keys(path):
 for root, dirs, files in os.walk(docs_dir):
     for file in files:
         if file.endswith(".md"):
-            remove_blank_answer_keys(os.path.join(root, file))
+            clean_sutta_refs(os.path.join(root, file))

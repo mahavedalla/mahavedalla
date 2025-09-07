@@ -2,7 +2,7 @@
 Question: Whether Nibbāna is consciousness?
 Category: Nibbāna
 Tags:
-Sutta References: -
+Sutta References:
 Date Entered: 4-3-25
 Last Revised: 
 Review Status: Started

@@ -1,7 +1,7 @@
 ---
 Question: Whether animals are moral agents?
 Category: Sīla
-Sutta References: -
+Sutta References:
 Tags: Kusala
 Date Entered: March 18, 2025
 Last Revised: 8-23-25
