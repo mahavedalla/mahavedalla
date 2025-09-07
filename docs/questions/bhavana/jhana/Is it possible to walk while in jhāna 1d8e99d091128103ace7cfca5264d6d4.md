@@ -1,6 +1,5 @@
 ---
 Question: Is it possible to walk while in jhāna?
-Answer in Brief: Debatably, it is possible to abide in the first four form jhānas while walking.
 Category: Jhāna
 Tags:
 Sutta References: AN 3.63
@@ -12,3 +11,11 @@ Priority:
 Number: 
 Draft: true
 ---
+
+<!-- 
+
+Notes:
+
+Debatably, it is possible to abide in the first four form jhānas while walking.
+
+ -->

@@ -1,14 +1,11 @@
 ---
 Question: Whether questions should be distinguished?
-Answer in Brief: Yes, questions should be distinguished according to the answers suitable to them: (1) questions that should be answered categorically; (2) questions that should be answered analytically; (3) questions that should be answered with a counter-question; (4) questions that should be dismissed.
 Category: Pañha
 Sutta References: AN 4.42
 Tags: Questions, Worthwhile
-Last Updated: May 2, 2025
 Date Entered: May 2, 2025
-Last Revised:
+Last Revised: May 2, 2025
 Review Status: In progress
-Role: Essential
 Level: 
 Priority: 
 Number: 

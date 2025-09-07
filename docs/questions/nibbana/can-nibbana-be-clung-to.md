@@ -1,6 +1,5 @@
 ---
 Question: Can Nibbāna be clung to?
-Answer in Brief: Yes.
 Category: Nibbāna
 Tags:
 Sutta References:

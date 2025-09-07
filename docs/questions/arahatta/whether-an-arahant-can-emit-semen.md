@@ -1,6 +1,5 @@
 ---
 Question: Whether an Arahant can emit semen?
-Answer in Brief: No.
 Category: Arahatta
 Tags: 
 Sutta References: Mv.8.16.1.3
