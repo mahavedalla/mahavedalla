@@ -2,7 +2,7 @@
 Question: Whether debate is appropriate to doctrinal study?
 Category: Ñāya
 Tags: 
-Sutta References: 
+Sutta References: AN 10.93
 Date Entered: 8-30-25
 Last Revised: 8-30-25
 Review Status: Not started

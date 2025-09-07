@@ -2,7 +2,7 @@
 Question: Whether one free from sensual craving would choose or want to enjoy sensual pleasures?
 Category: Kāma
 Tags: 
-Sutta References: 
+Sutta References: AN 10.90
 Date Entered: 9-1-25
 Last Revised: 9-1-25
 Review Status: Not started
@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+At face value, it seems clear the answer is no, according to the suttas. There are many suttas where it is said that an Arahant repels from sensuality, and which otherwise describe sensuality in such a way that someone who understood it so would have no affinity for it.
 
  -->

@@ -1,7 +1,7 @@
 import os
 # Define the directory containing your Markdown files
 docs_dir = "docs/questions"
-output_file = os.path.join("docs", "index.md")
+output_file = os.path.join("docs", "toc.md")
 
 def generate_toc():
     toc = "# Table of Contents\n\n"

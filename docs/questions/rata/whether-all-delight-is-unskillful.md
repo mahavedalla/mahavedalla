@@ -2,7 +2,7 @@
 Question: Whether all delight is unskillful?
 Category: Rata
 Tags: delight
-Sutta References: AN 6.68
+Sutta References: AN 6.68; SN 22.51
 Date Entered: 8-13-25
 Last Revised: 8-13-25
 Review Status: Not started
