@@ -1,6 +1,5 @@
 ---
 Question: Whether everything is a oneness?
-Answer in Brief: -
 Category: Diṭṭhi
 Sutta References: -
 Date Entered: April 2, 2025

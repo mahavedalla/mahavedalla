@@ -1,6 +1,5 @@
 ---
 Question: Whether sati develops sīla?
-Answer in Brief:
 Category:
 Tags:
 Sutta References:

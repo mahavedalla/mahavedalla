@@ -1,6 +1,5 @@
 ---
 Question: Whether a Sotāpanna can violate the five precepts?
-Answer in Brief: -
 Category: Sotāpatti
 Tags:
 Sutta References: SN 55.24

@@ -1,6 +1,5 @@
 ---
 Question: Whether jhāna is worldly?
-Answer in Brief:
 Category:
 Tags:
 Sutta References: AN 9.38

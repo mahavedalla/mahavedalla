@@ -1,6 +1,5 @@
 ---
 Question: What is the kusalamūla?
-Answer in Brief: -
 Category: Kusala
 Sutta References: MN 9
 Answer: Non-greed, non-hatred, and non-delusion are the wholesome roots.

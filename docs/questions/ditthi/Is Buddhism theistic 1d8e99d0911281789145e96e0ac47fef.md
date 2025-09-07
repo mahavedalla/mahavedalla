@@ -1,6 +1,5 @@
 ---
 Question: Is Buddhism theistic?
-Answer in Brief: -
 Category: Diṭṭhi
 Sutta References: -
 Tags: Loka

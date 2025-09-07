@@ -1,6 +1,5 @@
 ---
 Question: Did the Buddha ackowledge a gratification in the five aggregates?
-Answer in Brief: -
 Category: Sukha
 Sutta References: SN 22.28
 Answer: Yes.

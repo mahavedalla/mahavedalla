@@ -1,6 +1,5 @@
 ---
 Question: Whether the first jhāna is sufficient for the Arahatta?
-Answer in Brief: -
 Category: Jhāna
 Sutta References: AN 9.36
 Answer: Yes, the first jhāna is sufficient for Arahatta.

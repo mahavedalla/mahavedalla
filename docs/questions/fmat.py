@@ -1,7 +1,7 @@
 import os
 import re
 
-docs_dir = "vimutti"  # adjust as needed
+docs_dir = "."  # adjust as needed
 
 def remove_blank_answer_keys(path):
     with open(path, "r", encoding="utf-8") as f:

@@ -1,6 +1,5 @@
 ---
 Question: Whether an upāsaka become a anāgāmi?
-Answer in Brief: -
 Category: Upāsaka
 Sutta References: MN 73; MN 81
 Answer: Yes.

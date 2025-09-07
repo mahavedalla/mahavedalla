@@ -1,6 +1,5 @@
 ---
 Question: Whether an upāsaka become a sakadāgāmi?
-Answer in Brief: -
 Category: Upāsaka
 Sutta References: MN 73
 Answer: Yes.
