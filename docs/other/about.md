@@ -4,6 +4,10 @@
 
 "Mahāvedalla" (pronounced muh-haw-vay-duh-luh) is a Pāli term and is the name of the forty-third discourse of the Majjhima Nikāya. It is the conjunction of "mahā", meaning great, and "vedalla", which literally means "to be split apart", but has the sense of "question and answer" or "catechism"; and thus, "Mahāvedalla" is naturally rendered as "The Great Q&A".
 
+Contact: vr58cbm2@anonaddy.me
+
+<!--
+
 <b>Q: What is the Mahāvedalla project?</b>
 
 The Mahāvedalla project is dedicated to systematically asking and answering, as far as is possible, every and all relevant questions about the doctrine and discipline of the Pāli Canon, particularly the Nikāyas, Vināya, and the other early texts therein. It does so in a question and answer, or catechetical, format.
@@ -16,7 +20,7 @@ The primary purpose of the Mahāvedalla project is to provide convenient access 
 
 This project began as more or less a personal repository for the author to record the questions and subsequent answers that arose for them in their study of the Canon, in their attempt to flesh out and penetrate its contents. 
 
-<!--
+
 <b>Q: What is unique about the Mahāvedalla?</b>
 -->
 

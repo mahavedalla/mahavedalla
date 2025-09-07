@@ -1,6 +1,6 @@
 terminal command to count .md files: 
     
-find . -type f -name "*.md" | wc -l
+find questions -type f -name "*.md" | wc -l
 
 Count:
 
@@ -8,4 +8,4 @@ Count:
 9-4-25: 778
 9-5-25: 806
 9-6-25: 857
-9-7-25: 869
+9-7-25: 866 (moved half a dozen helper files out of questions folder)
