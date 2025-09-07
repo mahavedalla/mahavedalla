@@ -1,3 +1,4 @@
+---
 Question: Whether there is diversity among people in the development of tranquility and insight?
 Answer in Brief: -
  Category: Samatha
@@ -6,3 +7,4 @@ Answer: -
 Tags: Vipassana
 Date Entered: April 11, 2025
 Review Status: Not started
+---

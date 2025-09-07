@@ -1,3 +1,4 @@
+---
 Question: Whether the attainment of Nibbāna is intellectual?
 Answer in Brief: -
  Category: Nibbāna
@@ -6,3 +7,4 @@ Answer: -
 Tags: Paṭipadā
 Date Entered: March 26, 2025
 Review Status: Not started
+---

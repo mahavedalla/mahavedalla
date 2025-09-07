@@ -1,3 +1,4 @@
+---
 Question: Whether Arahants continue to practice mindfulness meditation?
 Answer in Brief: -
  Category: Bhāvana
@@ -6,3 +7,4 @@ Answer: -
 Tags: Arahatta
 Date Entered: April 7, 2025
 Review Status: Not started
+---

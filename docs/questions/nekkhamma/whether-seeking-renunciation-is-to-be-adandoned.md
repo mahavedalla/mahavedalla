@@ -1,3 +1,4 @@
+---
 Question: Whether seeking renunciation is to be abandoned?
 Category: Nekkhamma
 Tags: seeking; renunciation; abandonment
@@ -7,3 +8,4 @@ Last Revised: 7-17-25
 Review Status: Not started
 Level: 2
 Priority: 3
+---

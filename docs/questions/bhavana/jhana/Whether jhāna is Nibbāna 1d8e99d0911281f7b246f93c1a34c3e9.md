@@ -1,3 +1,4 @@
+---
 Question: Whether jhāna is Nibbāna?
 Answer in Brief: -
  Category: Jhāna
@@ -6,3 +7,4 @@ Answer: -
 Tags: Nibbāna
 Date Entered: April 11, 2025
 Review Status: Not started
+---

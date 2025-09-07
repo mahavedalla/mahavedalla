@@ -1,3 +1,4 @@
+---
 Question: Who were the first followers of the Buddha?
 Answer in Brief: -
  Category: Vamsa
@@ -6,3 +7,4 @@ Answer: Four weeks after the Awakening, Tapussa and Bhallika become the Buddha's
 Tags: Puggala
 Date Entered: March 20, 2025
 Review Status: Not started
+---

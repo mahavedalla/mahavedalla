@@ -1,3 +1,4 @@
+---
 Question: Does consciousness cease after parinibbāna?
 Answer in Brief: -
  Category: Nibbāna
@@ -6,3 +7,4 @@ Answer: -
 Tags: Viññāṇa
 Date Entered: March 11, 2025
 Review Status: Not started
+---

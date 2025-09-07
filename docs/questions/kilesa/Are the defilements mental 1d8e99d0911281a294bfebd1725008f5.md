@@ -1,3 +1,4 @@
+---
 Question: Are the defilements mental?
 Answer in Brief: -
  Category: Kilesa
@@ -6,3 +7,4 @@ Answer: -
 Tags: Citta
 Date Entered: March 23, 2025
 Review Status: Not started
+---

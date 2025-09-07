@@ -1,3 +1,4 @@
+---
 Question: Is mettā meritorious?
 Answer in Brief: -
  Category: Mettā
@@ -6,3 +7,4 @@ Answer: -
 Tags: Puñña
 Date Entered: April 1, 2025
 Review Status: Not started
+---

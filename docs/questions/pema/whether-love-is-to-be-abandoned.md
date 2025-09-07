@@ -1,3 +1,4 @@
+---
 Question: Whether love is to be abandoned?
 Category: Pema
 Tags: love
@@ -7,3 +8,4 @@ Last Revised: 7-13-25
 Review Status: Not started
 Level: 2
 Priority: 3
+---

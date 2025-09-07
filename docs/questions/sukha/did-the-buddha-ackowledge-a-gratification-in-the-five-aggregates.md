@@ -1,3 +1,4 @@
+---
 Question: Did the Buddha ackowledge a gratification in the five aggregates?
 Answer in Brief: -
  Category: Sukha
@@ -6,3 +7,4 @@ Answer: Yes.
 Tags: Khanda
 Date Entered: March 11, 2025
 Review Status: Not started
+---

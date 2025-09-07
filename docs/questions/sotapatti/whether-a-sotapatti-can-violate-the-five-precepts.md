@@ -1,3 +1,4 @@
+---
 Question: Whether a Sotāpanna can violate the five precepts?
 Answer in Brief: -
 Category: Sotāpatti
@@ -8,3 +9,4 @@ Date Entered: 3-11-25
 Review Status: Not started
 Level:
 Priority:
+---

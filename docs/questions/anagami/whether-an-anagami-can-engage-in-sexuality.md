@@ -1,3 +1,4 @@
+---
 Question: Whether an Anāgāmi can engage in sexual activity? <!-- Alternatively: Whether brahmacariya is necessary to attain Anāgāmi? -->
 Answer in Brief:
 Category:
@@ -6,6 +7,7 @@ Sutta References:
 Date Entered: [Month] [Day], [Year]
 Last Revised: [Month] [Day], [Year]
 Review Status: [Not started; Started; Complete]
+---
 
 <!-- Notes -->
 

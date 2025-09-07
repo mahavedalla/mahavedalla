@@ -1,3 +1,4 @@
+---
 Question: Who was the first person to awaken following the Buddha?
 Answer in Brief: -
  Category: Vamsa
@@ -6,3 +7,4 @@ Answer: The Venerable Koṇḍañña was the first person to awaken, in his case
 Tags: Puggala
 Date Entered: March 24, 2025
 Review Status: Not started
+---

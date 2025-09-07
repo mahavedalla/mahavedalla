@@ -1,3 +1,4 @@
+---
 Question: Whether taṇhā causes dukkha simultaneously or linearly?
 Category: Taṇhā
 Tags: craving; causation; causality; suffering; sim
@@ -7,3 +8,4 @@ Last Revised: 7-17-25
 Review Status: Not started
 Level: 3
 Priority: 3
+---

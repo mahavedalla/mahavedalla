@@ -1,3 +1,4 @@
+---
 Question: Whether the Buddha instructed to laity in renunciation (nekkhamma)?
 Answer in Brief: -
  Category: Nekkhama
@@ -6,3 +7,4 @@ Answer: There is substantial Canonical evidence that the Buddha, in fact, instru
 Tags: Upāsaka
 Date Entered: April 1, 2025
 Review Status: Not started
+---

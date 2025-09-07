@@ -1,3 +1,4 @@
+---
 Question: On what occasion did the Venerable Sāriputta attain Arahatta?
 Answer in Brief: -
  Category: Sāriputta
@@ -6,3 +7,4 @@ Answer: -
 Tags: Puggala
 Date Entered: March 26, 2025
 Review Status: Not started
+---

@@ -1,3 +1,4 @@
+---
 Question: Whether lay people are justified in indulging in sensual pleasures?
 Answer in Brief: -
  Category: Upāsaka
@@ -6,3 +7,4 @@ Answer: -
 Tags: Sukha
 Date Entered: April 5, 2025
 Review Status: Not started
+---

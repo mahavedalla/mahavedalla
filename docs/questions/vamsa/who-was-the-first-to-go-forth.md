@@ -1,3 +1,4 @@
+---
 Question: Who was the first to go forth?
 Answer in Brief: -
  Category: Vamsa
@@ -6,3 +7,4 @@ Answer: The Venerable Koṇḍañña, following his attainment of stream-entry, 
 Tags: Puggala
 Date Entered: April 5, 2025
 Review Status: Not started
+---

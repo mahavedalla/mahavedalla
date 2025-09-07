@@ -1,3 +1,4 @@
+---
 Question: Whether the Buddha affirmed non-duality?
 Category: Diṭṭhi
 Tags:
@@ -7,3 +8,4 @@ Last Revised: 7-19-25
 Review Status: Not started
 Level:
 Priority: 
+---

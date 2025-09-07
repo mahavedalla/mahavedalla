@@ -1,3 +1,4 @@
+---
 Question: Whether learning should be enjoyed?
 Category: Suta
 Tags: learning; enjoyment; joy
@@ -7,3 +8,4 @@ Last Revised: 7-15-25
 Review Status: Not started
 Level: 2
 Priority: 3
+---

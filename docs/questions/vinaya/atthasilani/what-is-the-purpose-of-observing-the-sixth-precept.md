@@ -1,3 +1,4 @@
+---
 Question: What is the purpose of observing the sixth precept?<!-- alternatively: why should one keep the sixth precept? why was it instituted? -->
 Answer in Brief:
 Category:
@@ -6,6 +7,7 @@ Sutta References: MN 3; MN 65; MN 66; MN 70; AN 3.7
 Date Entered: 7-6-25
 Last Revised: 7-6-25
 Review Status: Started
+---
 
 # What is the purpose of observing the sixth precept?
 

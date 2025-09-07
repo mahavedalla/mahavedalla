@@ -1,3 +1,4 @@
+---
 Quesiton: Whether the Buddha affirmed a doctrine of rebirth?
 Category: Jāti
 Tags: rebirth; birth; reincarnation
@@ -7,6 +8,7 @@ Last Revised: 7-8-25
 Review Status: Started
 Level: 1
 Priority: 1
+---
 
 # Whether the Buddha affirmed a doctrine of rebirth?
 

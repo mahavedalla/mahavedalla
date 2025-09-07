@@ -1,3 +1,4 @@
+---
 Question: Is the observance of precepts an act of giving?
 Answer in Brief: -
  Category: Sīla
@@ -6,3 +7,4 @@ Answer: -
 Tags: Dāna
 Date Entered: March 30, 2025
 Review Status: Not started
+---

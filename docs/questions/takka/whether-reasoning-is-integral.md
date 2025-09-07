@@ -1,3 +1,4 @@
+---
 Question: Whether reasoning is integral?
 Answer in Brief: -
  Category: Takka
@@ -6,3 +7,4 @@ Answer: -
 Tags: Suta
 Date Entered: March 26, 2025
 Review Status: Not started
+---

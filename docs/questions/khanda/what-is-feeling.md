@@ -1,3 +1,4 @@
+---
 Question: What is feeling?
 Answer in Brief: -
  Category: Khanda
@@ -6,3 +7,4 @@ Answer: It is called "feeling" because it feels? What does it feel? Pleasure, pa
 Tags: Vedanā
 Date Entered: March 21, 2025
 Review Status: Not started
+---

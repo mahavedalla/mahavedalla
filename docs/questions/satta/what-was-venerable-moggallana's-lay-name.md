@@ -1,3 +1,4 @@
+---
 Question: What was Venerable Moggallāna's lay name?
 Answer in Brief: -
  Category: Satta
@@ -6,3 +7,4 @@ Answer: Kolita.
 Tags: Moggallāna
 Date Entered: March 11, 2025
 Review Status: Not started
+---

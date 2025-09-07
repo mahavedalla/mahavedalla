@@ -1,1 +1,3 @@
+---
 Question: Whether wisdom is a faculty?
+---

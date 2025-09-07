@@ -1,35 +1,45 @@
 import os
 import re
 
-docs_dir = "."  # current folder (questions/)
+docs_dir = "."  # adjust if needed
 
-def clean_frontmatter(path):
+def wrap_missing_frontmatter(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     if not lines:
         return
 
-    # Skip if file already starts with ---
+    # Case 1: Already wrapped
     if lines[0].strip() == "---":
         return
 
-    # Detect metadata block at top (lines like key: value)
-    meta_block = []
-    for line in lines:
-        if re.match(r"^\s*\w+\s*:\s*.+", line):  # matches "key: value"
-            meta_block.append(line)
-        else:
-            break
+    # Case 2: Starts with key: value style frontmatter (unwrapped)
+    if re.match(r"^\s*[\w\s]+:\s*.+", lines[0]):
+        # find the first blank line (end of metadata)
+        idx = None
+        for i, line in enumerate(lines):
+            if not line.strip():  # blank line
+                idx = i
+                break
 
-    if meta_block:
-        # Wrap the metadata block with ---
-        new_lines = ["---\n"] + meta_block + ["---\n"] + lines[len(meta_block):]
+        if idx is None:
+            idx = len(lines)  # fallback: all lines are metadata
+
+        # ensure newline before closing ---
+        if not lines[idx - 1].endswith("\n"):
+            lines[idx - 1] += "\n"
+
+        # add wrapping
+        new_lines = ["---\n"] + lines[:idx] + ["---\n"] + lines[idx:]
+
         with open(path, "w", encoding="utf-8") as f:
             f.writelines(new_lines)
-        print(f"✅ Wrapped frontmatter in {path}")
+        
+        print(f"✅ Wrapped missing frontmatter in {path} (closing --- at line {idx+1})")
+
 
 for root, dirs, files in os.walk(docs_dir):
     for file in files:
         if file.endswith(".md"):
-            clean_frontmatter(os.path.join(root, file))
+            wrap_missing_frontmatter(os.path.join(root, file))

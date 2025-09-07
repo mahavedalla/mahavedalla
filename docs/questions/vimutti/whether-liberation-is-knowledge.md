@@ -1,3 +1,4 @@
+---
 Question: Whether liberation is knowledge?
 Answer in Brief: -
  Category: Vimutti
@@ -6,3 +7,4 @@ Answer: -
 Tags: Ñāna
 Date Entered: April 6, 2025
 Review Status: Not started
+---

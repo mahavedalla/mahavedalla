@@ -1,3 +1,4 @@
+---
 Question: Whether dispassion is identical to Nibbāna?
 Answer in Brief: -
  Category: Virāga
@@ -8,6 +9,7 @@ Tags: Nibbāna
 Last Updated: May 2, 2025
 Date Entered: March 30, 2025
 Review Status: In progress
+---
 
 **Notes:**
 

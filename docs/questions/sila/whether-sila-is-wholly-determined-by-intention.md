@@ -1,3 +1,4 @@
+---
 Question: Whether sīla is wholly determined by intentioned?
 Category: Sīla
 Tags: ethics; intention; morality
@@ -7,3 +8,4 @@ Last Revised: 7-18-25
 Review Status: Not started
 Level: 2
 Priority: 2
+---

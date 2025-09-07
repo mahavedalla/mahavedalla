@@ -1,3 +1,4 @@
+---
 Question: Why do some not attain Nibbāna
 Answer in Brief: -
  Category: Nibbāna
@@ -6,3 +7,4 @@ Answer: -
 Tags: Arahatta
 Date Entered: March 31, 2025
 Review Status: Not started
+---

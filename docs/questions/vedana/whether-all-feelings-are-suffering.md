@@ -1,3 +1,4 @@
+---
 Question: Whether all feelings are suffering?
 Category: Vedanā
 Tags: feeling; feelings; suffering
@@ -7,3 +8,4 @@ Last Revised: 7-17-25
 Review Status: Not started
 Level: 2
 Priority: 3
+---

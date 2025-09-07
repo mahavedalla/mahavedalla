@@ -1,3 +1,4 @@
+---
 Question: Do the five aggregates have any essence?
 Answer in Brief: -
  Category: Khanda
@@ -6,3 +7,4 @@ Answer: -
 Tags: Sāra
 Date Entered: March 25, 2025
 Review Status: Not started
+---

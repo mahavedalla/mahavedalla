@@ -1,3 +1,4 @@
+---
 Question: Whether outsiders can enter heaven?
 Answer in Brief: -
 Category: Sagga
@@ -6,6 +7,7 @@ Answer: -
 Date Entered: March 14, 2025
 Last Revised: June 30, 2025
 Review Status: Started
+---
 
 # Whether outsiders can enter heaven?
 

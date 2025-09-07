@@ -1,3 +1,4 @@
+---
 Question: Is Nibbāna attained gradually or suddenly?
 Answer in Brief: -
  Category: Nibbāna
@@ -6,3 +7,4 @@ Answer: -
 Tags: Arahatta
 Date Entered: April 1, 2025
 Review Status: Not started
+---
