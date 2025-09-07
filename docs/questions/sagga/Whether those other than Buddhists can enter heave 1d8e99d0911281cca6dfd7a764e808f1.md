@@ -5,6 +5,10 @@ Sutta References: MN 71??
 Date Entered: March 14, 2025
 Last Revised: June 30, 2025
 Review Status: Started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 # Whether outsiders can enter heaven?

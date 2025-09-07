@@ -6,4 +6,8 @@ Sutta References: AN 10.1
 Date Entered: 7-10-25
 Last Revised: 7-10-25
 Review Status: Not started 
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

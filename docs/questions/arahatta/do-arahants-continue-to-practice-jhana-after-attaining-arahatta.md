@@ -5,4 +5,8 @@ Sutta References:
 Tags: Jhāna
 Date Entered: March 18, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

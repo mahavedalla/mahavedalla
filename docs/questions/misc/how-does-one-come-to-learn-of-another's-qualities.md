@@ -4,4 +4,8 @@ Category: Misc
 Sutta References: AN 4.192
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

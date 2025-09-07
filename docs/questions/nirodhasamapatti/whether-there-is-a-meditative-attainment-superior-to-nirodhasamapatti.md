@@ -4,4 +4,8 @@ Category: Nirodhasamāpatti
 Sutta References: MN 31
 Tags: Attainment, Bhāvana, Meditation
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

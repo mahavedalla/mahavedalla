@@ -4,4 +4,8 @@ Category: Buddha
 Sutta References: MN 70
 Date Entered: April 5, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

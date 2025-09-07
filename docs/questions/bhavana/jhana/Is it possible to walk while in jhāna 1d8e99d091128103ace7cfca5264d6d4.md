@@ -5,4 +5,8 @@ Category: Jhāna
 Sutta References: AN 3.63
 Date Entered: March 23, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

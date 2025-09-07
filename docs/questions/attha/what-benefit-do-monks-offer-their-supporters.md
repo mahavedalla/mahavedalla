@@ -5,4 +5,8 @@ Sutta References: AN 3.6; ITI 107
 Tags: Bhikkhu
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

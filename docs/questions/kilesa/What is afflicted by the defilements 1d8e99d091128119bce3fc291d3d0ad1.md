@@ -6,4 +6,8 @@ Answer: The mind (citta) is what is afflicted by the defilements.
 Tags: Citta
 Date Entered: March 23, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

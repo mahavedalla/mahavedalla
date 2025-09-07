@@ -4,4 +4,8 @@ Category: Vācā
 Sutta References: MN 31
 Tags: Sign_Language
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

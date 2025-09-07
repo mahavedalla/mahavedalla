@@ -4,4 +4,8 @@ Category: Arahatta
 Sutta References: MN 74
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

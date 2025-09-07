@@ -6,4 +6,8 @@ Answer: There are three kinds of feeling: pleasure, pain, and neither-pleasure-n
 Tags: Vedanā
 Date Entered: March 22, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

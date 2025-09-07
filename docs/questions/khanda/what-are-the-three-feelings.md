@@ -6,4 +6,8 @@ Answer: Anything felt physically or mentally as pleasant or enjoyable, that is p
 Tags: Vedanā
 Date Entered: March 22, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

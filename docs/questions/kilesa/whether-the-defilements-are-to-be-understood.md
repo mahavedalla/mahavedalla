@@ -6,6 +6,10 @@ Sutta References: AN 9.93-432
 Date Entered: 7-10-25
 Last Revised: 7-10-25
 Review Status: Started 
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 # Whether the defilements are to be understood?

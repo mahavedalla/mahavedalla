@@ -6,6 +6,10 @@ Sutta References:
 Date Entered: July 4, 2025
 Last Revised: July 4, 2025
 Review Status: Started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 # What is wisdom?

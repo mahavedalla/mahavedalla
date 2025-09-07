@@ -4,4 +4,8 @@ Category: Upādāna
 Sutta References:
 Date Entered: April 10, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

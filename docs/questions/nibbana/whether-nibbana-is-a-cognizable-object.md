@@ -9,6 +9,7 @@ Review Status: Not started
 Level: 3
 Priority: 1
 Number:
+Draft: true
 ---
 
 # Whether Nibbāna is a cognizable object?

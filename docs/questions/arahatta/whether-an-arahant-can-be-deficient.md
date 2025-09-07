@@ -6,4 +6,8 @@ Sutta References: AN 10.6
 Date Entered:
 Last Revised:
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

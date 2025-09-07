@@ -5,4 +5,8 @@ Sutta References: SN 35.118
 Tags: Arahatta
 Date Entered: March 31, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

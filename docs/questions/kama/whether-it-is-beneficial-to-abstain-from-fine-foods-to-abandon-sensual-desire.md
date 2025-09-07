@@ -7,6 +7,9 @@ Date Entered: 7-13-25
 Last Revised: 7-13-25
 Review Status: Not started
 Priority: 1
+Level: 
+Number: 
+Draft: true
 ---
 
 # Whether it is beneficial to abstain from fine foods to abandon sensual desire?

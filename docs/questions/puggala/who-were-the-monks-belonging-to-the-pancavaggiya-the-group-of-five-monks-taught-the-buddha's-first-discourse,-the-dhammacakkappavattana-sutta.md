@@ -5,4 +5,8 @@ Sutta References: Cv.1.6.33.1-35.1
 Answer: (1) Koṇḍañño (2) Vappa (3) Bhaddiya (4) Mahānāma (5) Assaji
 Date Entered: March 14, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

@@ -4,4 +4,8 @@ Category: Buddha
 Sutta References: SN 54.8
 Date Entered: April 11, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

@@ -3,4 +3,8 @@ Question: Whether, besides direct knowledge, there are grounds for certain knowl
 Category: Ñāṇa
 Sutta References: DN 16
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

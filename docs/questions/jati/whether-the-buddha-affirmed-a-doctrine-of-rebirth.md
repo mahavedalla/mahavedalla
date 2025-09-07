@@ -8,6 +8,8 @@ Last Revised: 7-8-25
 Review Status: Started
 Level: 1
 Priority: 1
+Number: 
+Draft: true
 ---
 
 # Whether the Buddha affirmed a doctrine of rebirth?

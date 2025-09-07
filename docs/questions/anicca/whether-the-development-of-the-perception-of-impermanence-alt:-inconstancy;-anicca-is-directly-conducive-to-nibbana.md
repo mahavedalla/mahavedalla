@@ -4,4 +4,8 @@ Category: Anicca
 Sutta References: SN 22.102; SN 35.53
 Date Entered: March 26, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

@@ -4,4 +4,8 @@ Category: Samaggī
 Sutta References: MN 31
 Tags: Harmony, Speech
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

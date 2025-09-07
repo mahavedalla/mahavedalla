@@ -5,6 +5,10 @@ Sutta References: DN 2; MN 27; AN 10.12; AN 10.13; AN 10.95
 Date Entered: 3-11-25
 Last Revised: 7-13-25
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 <!-- 

@@ -4,4 +4,8 @@ Category: Bhāvana
 Sutta References: AN 4.11-20
 Date Entered: March 23, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

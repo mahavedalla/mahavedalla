@@ -5,4 +5,8 @@ Tags: Kusala, Kāma
 Sutta References: MN 7
 Date Entered: 3-24-25
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

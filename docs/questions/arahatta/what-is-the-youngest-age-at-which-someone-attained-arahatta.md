@@ -5,4 +5,8 @@ Sutta References:
 Answer: Of cases recorded in the Suttas, Venerable Dabba Mallaputta at seven years old.
 Date Entered: March 19, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

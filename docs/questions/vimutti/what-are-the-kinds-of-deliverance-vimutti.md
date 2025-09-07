@@ -4,6 +4,10 @@ Category: Vimutti
 Sutta References: MN 43; ITI 27
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 

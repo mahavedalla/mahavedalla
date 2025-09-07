@@ -5,4 +5,8 @@ Sutta References: AN 8.35
 Tags: Sīla
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

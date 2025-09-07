@@ -8,6 +8,8 @@ Last Revised: 8-4-25
 Review Status: Not started
 Level: 1
 Priority: 3
+Number: 
+Draft: true
 ---
 
 # Whether there are different types of Dhamma discourses?

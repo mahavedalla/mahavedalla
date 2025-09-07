@@ -6,4 +6,8 @@ Answer: There is substantial Canonical evidence that the Buddha, in fact, instru
 Tags: Upāsaka
 Date Entered: April 1, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

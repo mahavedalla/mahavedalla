@@ -7,6 +7,10 @@ Tags: Nibbāna
 Last Updated: May 2, 2025
 Date Entered: March 30, 2025
 Review Status: In progress
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 **Notes:**

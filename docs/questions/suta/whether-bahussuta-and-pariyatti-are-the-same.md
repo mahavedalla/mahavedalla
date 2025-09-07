@@ -9,6 +9,7 @@ Review Status: Not started
 Level:
 Priority:
 Number:
+Draft: true
 ---
 
 # Whether bahussuta and pariyatti are the same?

@@ -6,4 +6,8 @@ Answer: A Buddha attains, discovers, and explains the path hitherto unattained, 
 Tags: Arahatta
 Date Entered: March 12, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

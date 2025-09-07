@@ -4,4 +4,8 @@ Category: Puñña
 Sutta References: AN 8.36
 Date Entered: March 30, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

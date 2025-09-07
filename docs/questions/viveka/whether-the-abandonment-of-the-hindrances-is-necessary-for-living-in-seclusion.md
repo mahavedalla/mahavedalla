@@ -9,6 +9,7 @@ Review Status: Not started
 Level: 1
 Priority: 2
 Number: 
+Draft: true
 ---
 
 # Whether the abandonment of the hindrances is necessary for living in seclusion?

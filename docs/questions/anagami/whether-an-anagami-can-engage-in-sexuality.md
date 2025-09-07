@@ -6,6 +6,10 @@ Sutta References:
 Date Entered: [Month] [Day], [Year]
 Last Revised: [Month] [Day], [Year]
 Review Status: [Not started; Started; Complete]
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 <!-- Notes -->

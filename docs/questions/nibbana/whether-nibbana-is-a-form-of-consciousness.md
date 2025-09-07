@@ -9,6 +9,7 @@ Review Status: Started
 Level:
 Priority:
 Number:
+Draft: true
 ---
 
 # Whether Nibbāna is a form of consciousness?

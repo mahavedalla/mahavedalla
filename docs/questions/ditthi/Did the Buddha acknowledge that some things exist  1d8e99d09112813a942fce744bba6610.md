@@ -5,4 +5,8 @@ Sutta References: SN 22.94
 Tags: Buddha
 Date Entered: March 25, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

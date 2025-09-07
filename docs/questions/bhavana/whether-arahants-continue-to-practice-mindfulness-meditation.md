@@ -5,4 +5,8 @@ Sutta References: SN 47.4
 Tags: Arahatta
 Date Entered: April 7, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

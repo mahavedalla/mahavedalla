@@ -9,6 +9,10 @@ Tags: Ascetic, Asceticism, Nibbāna
 Last Updated: April 21, 2025
 Date Entered: March 23, 2025
 Review Status: In progress
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---
 
 The observance of the thirteen dhutaṅgā is not necessary for the attainment of Arahatta, for it is said:

@@ -8,6 +8,8 @@ Last Revised: April 21, 2025
 Review Status: Started
 Level:
 Priority:
+Number: 
+Draft: true
 ---
 
 The Buddha did not disapprove of all pleasure, for it is said explicitly:

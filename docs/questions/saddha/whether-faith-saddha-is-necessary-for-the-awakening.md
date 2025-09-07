@@ -4,4 +4,8 @@ Category: Saddhā
 Sutta References: MN 70; MN 95
 Date Entered: March 22, 2025
 Review Status: Not started
+Level: 
+Priority: 
+Number: 
+Draft: true
 ---

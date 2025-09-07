@@ -9,6 +9,7 @@ Review Status: Not started
 Level: 2
 Priority: 3
 Number:
+Draft: true
 ---
 
 # Whether stream-entry is necessary for living in seclusion?
