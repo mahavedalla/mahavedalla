@@ -21,7 +21,7 @@ def generate_toc():
 
         # Add links to Markdown files in the folder
         for file in sorted(files):
-            if file.endswith(".md"):
+            if file.endswith(".md") and file != "toc.md" and file != "qcount.md" and file != "template.md":
                 file_path = os.path.relpath("questions/" + folder_name + "/" + file)
                 # os.path.join(root, file), docs_dir
                 #print(file_path)

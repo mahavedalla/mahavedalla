@@ -1,7 +1,5 @@
 # Table of Contents
 
-- [Qcount?](questions/qcount.md)
-- [Template?](questions/template.md)
 
 ## Vedalla
 
