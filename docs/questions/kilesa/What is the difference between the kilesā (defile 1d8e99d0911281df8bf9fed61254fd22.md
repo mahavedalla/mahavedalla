@@ -4,6 +4,7 @@ Category: Kilesa
 Sutta References:
 Tags: Āsava
 Date Entered: March 18, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

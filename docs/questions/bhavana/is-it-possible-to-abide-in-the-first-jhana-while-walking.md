@@ -4,6 +4,7 @@ Category: Bhāvana
 Sutta References:
 Tags: Jhāna
 Date Entered: March 19, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

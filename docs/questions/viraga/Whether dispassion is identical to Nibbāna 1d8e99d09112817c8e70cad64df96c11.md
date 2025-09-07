@@ -6,6 +6,7 @@ Credence: 60%
 Tags: Nibbāna
 Last Updated: May 2, 2025
 Date Entered: March 30, 2025
+Last Revised:
 Review Status: In progress
 Level: 
 Priority: 

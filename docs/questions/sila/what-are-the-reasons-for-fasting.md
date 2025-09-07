@@ -4,6 +4,7 @@ Category: Sīla
 Tags: Tapas
 Sutta References: MN 3; MN 65; AN 3.7
 Date Entered: 3-26-25
+Last Revised:
 Review Status: Not started
 Level: 1
 Priority: 1

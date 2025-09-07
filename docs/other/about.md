@@ -16,5 +16,7 @@ The primary purpose of the Mahāvedalla project is to provide convenient access 
 
 This project began as more or less a personal repository for the author to record the questions and subsequent answers that arose for them in their study of the Canon, in their attempt to flesh out and penetrate its contents. 
 
+<!--
 <b>Q: What is unique about the Mahāvedalla?</b>
+-->
 

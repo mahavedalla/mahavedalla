@@ -1,8 +1,10 @@
 ---
 Question: What is sīla?
 Category: Sīla
+Tags:
 Sutta References:
 Date Entered: March 19, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

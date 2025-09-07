@@ -4,6 +4,7 @@ Category: Arahatta
 Sutta References:
 Tags: Rati
 Date Entered: April 2, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

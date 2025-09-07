@@ -4,7 +4,6 @@ nav:
   - Other: 
     - About: other/about.md
     - Methodology: other/methodology.md
-    - Support: other/support.md
 theme:
   name: material
   features:
@@ -17,7 +16,6 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - meta
   - search:
       lang: en
       separator: '[\s\-]+'

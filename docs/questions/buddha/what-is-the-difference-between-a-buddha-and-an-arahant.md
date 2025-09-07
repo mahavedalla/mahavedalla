@@ -5,6 +5,7 @@ Sutta References: SN 22.58
 Answer: A Buddha attains, discovers, and explains the path hitherto unattained, undiscovered, and unexplained.
 Tags: Arahatta
 Date Entered: March 12, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

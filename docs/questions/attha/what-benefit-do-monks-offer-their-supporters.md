@@ -4,6 +4,7 @@ Category: Attha
 Sutta References: AN 3.6; ITI 107
 Tags: Bhikkhu
 Date Entered: April 1, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

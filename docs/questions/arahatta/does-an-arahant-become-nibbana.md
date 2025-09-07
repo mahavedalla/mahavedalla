@@ -4,6 +4,7 @@ Category: Arahatta
 Sutta References:
 Tags: Nibbāna
 Date Entered: March 31, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

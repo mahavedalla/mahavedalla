@@ -4,6 +4,7 @@ Category: Akusala
 Sutta References:
 Tags: Sukha
 Date Entered: April 3, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

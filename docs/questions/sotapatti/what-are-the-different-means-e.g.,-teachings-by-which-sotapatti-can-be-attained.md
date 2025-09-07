@@ -4,6 +4,7 @@ Category: Sotāpatti
 Sutta References:
 Tags: Bodhi
 Date Entered: March 22, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

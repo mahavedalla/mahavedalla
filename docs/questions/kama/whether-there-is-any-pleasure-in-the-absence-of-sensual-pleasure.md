@@ -4,6 +4,7 @@ Category: Kāma
 Sutta References: DN 2; MN 27
 Tags: Kāma
 Date Entered: 4-2-25
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

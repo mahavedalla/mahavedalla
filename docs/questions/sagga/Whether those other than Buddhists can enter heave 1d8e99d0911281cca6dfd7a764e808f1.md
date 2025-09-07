@@ -1,6 +1,7 @@
 ---
 Question: Whether outsiders can enter heaven?
 Category: Sagga
+Tags:
 Sutta References: MN 71??
 Date Entered: March 14, 2025
 Last Revised: June 30, 2025

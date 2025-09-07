@@ -1,8 +1,10 @@
 ---
 Question: Did the Buddha listen to music before his going forth?
 Category: Buddha
+Tags:
 Sutta References:
 Date Entered: April 2, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

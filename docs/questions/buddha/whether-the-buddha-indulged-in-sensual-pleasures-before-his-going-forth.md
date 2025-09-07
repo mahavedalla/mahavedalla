@@ -1,8 +1,10 @@
 ---
 Question: Whether the Buddha indulged in sensual pleasures before his going forth?
 Category: Buddha
+Tags:
 Sutta References: MN 75; AN 3.39
 Date Entered: April 2, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

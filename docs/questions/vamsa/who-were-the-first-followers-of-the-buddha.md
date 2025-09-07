@@ -4,6 +4,7 @@ Category: Vamsa
 Sutta References: Mv.1.4.5.1
 Tags: Puggala
 Date Entered: March 20, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

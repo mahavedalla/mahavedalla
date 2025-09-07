@@ -4,6 +4,7 @@ Category:
 Tags:
 Sutta References: AN 9.38
 Date Entered: March 17, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

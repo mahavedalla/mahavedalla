@@ -4,6 +4,7 @@ Category: Arahatta
 Sutta References:
 Tags: Cetanā
 Date Entered: March 18, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

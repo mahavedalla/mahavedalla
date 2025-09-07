@@ -5,6 +5,7 @@ Tags:
 Sutta References: SN 55.24
 Answer: Yes.
 Date Entered: 3-11-25
+Last Revised:
 Review Status: Not started
 Level:
 Priority:

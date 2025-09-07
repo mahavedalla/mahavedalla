@@ -8,6 +8,7 @@ Credence: 90%
 Tags: Ascetic, Asceticism, Nibbāna
 Last Updated: April 21, 2025
 Date Entered: March 23, 2025
+Last Revised:
 Review Status: In progress
 Level: 
 Priority: 

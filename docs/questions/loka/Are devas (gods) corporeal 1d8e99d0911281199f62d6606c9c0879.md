@@ -4,6 +4,7 @@ Category: Loka <!-- Deva -->
 Sutta References:
 Tags: Satta
 Date Entered: March 22, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 

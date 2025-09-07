@@ -4,6 +4,7 @@ Category: Dhamma
 Sutta References: MN 103
 Tags: Buddha
 Date Entered: April 12, 2025
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 
