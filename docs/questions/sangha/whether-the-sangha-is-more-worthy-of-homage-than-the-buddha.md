@@ -1,6 +1,6 @@
 ---
-Question: Whether the Saṇgha is more worthy of homage than the Buddha?
-Category: Saṇgha
+Question: Whether the Saṅgha is more worthy of homage than the Buddha?
+Category: Saṅgha
 Tags: 
 Sutta References: 
 Date Entered: 9-3-25
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the Saṇgha is more worthy of homage than the Buddha?
+# Whether the Saṅgha is more worthy of homage than the Buddha?
 
 ## Bibliography
 

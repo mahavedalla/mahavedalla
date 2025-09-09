@@ -53,8 +53,7 @@ if __name__ == "__main__":
     category = input("Category: ") or "questions"
 
     # Format directory name based on category
-    directory = "".join([c for c in unicodedata.normalize('NFKD', category).strip().lower() if not unicodedata.combining(c)])
-
+    directory = "questions/" + "".join([c for c in unicodedata.normalize('NFKD', category).strip().lower() if not unicodedata.combining(c)])
 
     # Create directory if it doesn't exist
     if not os.path.exists(directory):
