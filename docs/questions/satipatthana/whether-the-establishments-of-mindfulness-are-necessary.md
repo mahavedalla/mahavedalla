@@ -2,7 +2,7 @@
 Question: Whether the establishments of mindfulness are necessary?
 Category: Satipaṭṭhāna
 Tags: 
-Sutta References: AN 10.90
+Sutta References: AN 10.90; AN 10.95
 Date Entered: 9-5-25
 Last Revised: 9-5-25
 Review Status: Not started
