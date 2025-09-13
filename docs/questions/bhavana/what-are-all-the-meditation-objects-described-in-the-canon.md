@@ -2,7 +2,7 @@
 Question: What are all the meditation objects described in the Canon?
 Category: Bhāvanā
 Tags: 
-Sutta References: AN 1.296; AN 1.297; AN 1.298; AN 1.299; AN 1.301; AN 1.302; AN 1.303; AN 1.304; AN 1.305; AN 10.56; AN 10.57; AN 10.60
+Sutta References: AN 1.296; AN 1.297; AN 1.298; AN 1.299; AN 1.301; AN 1.302; AN 1.303; AN 1.304; AN 1.305; AN 10.56; AN 10.57; AN 10.60; AN 10.101
 Date Entered: 8-16-25
 Last Revised: 8-16-25
 Review Status: Not started
