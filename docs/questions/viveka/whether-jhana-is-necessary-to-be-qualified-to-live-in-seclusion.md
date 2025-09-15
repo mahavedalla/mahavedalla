@@ -35,6 +35,15 @@ This discourse implies that once one is endowed with the noble aggregate of virt
 
 1. "Sāmaññaphala Sutta" (DN 2), translated from the Pali by Bhikkhu Bodhi. Sutta Central, 1989, https://suttacentral.net/dn2/en/bodhi?lang=en&reference=none&highlight=false .
 
+<!-- 
+
+Notes:
+
+pañha: yadi jhānaṃ vivekavāsāya parikkhāro hoti
+
+yathātipitakaṃ na jhānaṃ vivekavāsāya parikkhāro
+ -->
+
 
 
 

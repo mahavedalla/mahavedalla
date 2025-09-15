@@ -12,3 +12,9 @@ Priority: 1
 Number: 
 Draft: true
 ---
+
+# Whether outsiders can attain Nibbāna?
+
+# Introduction
+
+An outsider is someone who is not a disciple of the Buddha, and is thus "outside" of Buddhism. Thus, a typical Christian, Hindu, or secular person, is an outsider. 
