@@ -32,7 +32,7 @@ Reply to Objection 1: I grant that in many ways the Buddha criticized particular
 
 Reply to Objection 2: This objection too fails to distinguish the activity, debate, from the unskillful states. I grant that debate may be often beset by the aforesaid unskillful states, but that doesn't mean debate itself is unskillful, nor that it cannot be practiced without those unskillful states. Views themselves are a basis for those aforesaid unskillful states, yet right view is not unskillful itself, and is actually fundamental to the path. Whatever debate leads to the growth of unskillful states, that debate is inappropriate, and should not be pursued; however, whatever debate leads to the growth of skillful states, that debate is appropriate, and should be pursued. 
 
-Surprisingly, there are suttas where the it is explicitly said of the Buddha that he intended to teach his disciples unto the point that they were qualified to refute the doctrines of others:
+Surprisingly, there are suttas where  it is explicitly said of the Buddha that he intended to teach his disciples until the point that they were qualified to refute the doctrines of others:
 
 >‘Wicked One, I shall not be fully extinguished until I have monk disciples who are competent, educated, assured, learned, have memorized the teachings, and practice in line with the teaching. Not until they practice properly, living in line with the teaching. Not until they’ve learned their tradition, and explain, teach, assert, establish, disclose, analyze, and make it clear. Not until they can legitimately and completely refute the doctrines of others that come up, and teach with a demonstrable basis.' (DN 16; see also Mv.mārayācanakathā SN 35.246; SN 51.10; AN 8.70; UD 51)
 
