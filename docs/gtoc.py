@@ -1,36 +1,47 @@
 import os
 import yaml
 
-# Root directory containing your categories
-ROOT_DIR = "questions"
+ROOT_DIR = "questions"   # questions inside docs
+OUTPUT_FILE = "toc.md"   # toc.md inside docs
 
 toc = {}
 
-def get_frontmatter_question(md_path):
-    """Return the 'question' from the frontmatter if available, else None."""
+def get_frontmatter(md_path):
+    """Return the frontmatter as a dict, or None if none exists."""
     with open(md_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
-    
-    if lines[0].strip() == "---":
-        # frontmatter exists
-        frontmatter_lines = []
-        for line in lines[1:]:
-            if line.strip() == "---":
-                break
-            frontmatter_lines.append(line)
-        try:
-            data = yaml.safe_load("".join(frontmatter_lines))
-            return data.get("question")
-        except Exception:
-            return None
-    return None
 
+    if not lines or lines[0].strip() != "---":
+        return None
+
+    frontmatter_lines = []
+    for line in lines[1:]:
+        if line.strip() == "---":
+            break
+        frontmatter_lines.append(line)
+
+    try:
+        return yaml.safe_load("".join(frontmatter_lines))
+    except Exception:
+        return None
+
+# Walk through the questions directory
 for root, dirs, files in os.walk(ROOT_DIR):
-    # Determine category as the top-level directory relative to ROOT_DIR
     rel_path = os.path.relpath(root, ROOT_DIR)
     if rel_path == ".":
         continue
-    category = rel_path.split(os.sep)[0]
+
+    # Determine category name from frontmatter
+    category = None
+    for file in files:
+        if file.endswith(".md"):
+            fm = get_frontmatter(os.path.join(root, file))
+            if fm and "Category" in fm:
+                category = fm["Category"]
+                break
+
+    if not category:
+        category = rel_path.split(os.sep)[0]
 
     if category not in toc:
         toc[category] = []
@@ -38,14 +49,22 @@ for root, dirs, files in os.walk(ROOT_DIR):
     for file in files:
         if file.endswith(".md"):
             full_path = os.path.join(root, file)
-            title = get_frontmatter_question(full_path) or os.path.splitext(file)[0]
-            # Store path relative to ROOT_DIR
-            rel_file_path = os.path.relpath(full_path, ROOT_DIR)
-            toc[category].append((title, rel_file_path))
+            fm = get_frontmatter(full_path)
+            question = fm.get("Question") if fm else None
+            if question:
+                # Path relative to toc.md inside docs/
+                rel_file_path = os.path.relpath(full_path, os.path.dirname(OUTPUT_FILE))
+                rel_file_path = rel_file_path.replace(os.sep, "/")  # forward slashes for VS Code
+                toc[category].append((question, rel_file_path))
 
-# Generate Markdown TOC
-for category, items in toc.items():
-    print(f"## {category}\n")
-    for title, path in sorted(items):
-        print(f"- [{title}]({path})")
-    print("\n")
+# Write TOC
+# inside the write loop
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    for category, items in toc.items():
+        f.write(f"## {category}\n\n")
+        for title, path in sorted(items):
+            # wrap path in angle brackets to handle spaces/special chars
+            f.write(f"- [{title}](<{path}>)\n")
+        f.write("\n")
+
+print(f"Table of contents written to {OUTPUT_FILE}")
