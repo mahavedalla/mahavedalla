@@ -3,8 +3,10 @@ import yaml
 
 ROOT_DIR = "questions"   # questions inside docs
 OUTPUT_FILE = "toc.md"   # toc.md inside docs
+CATEGORIES = "cat.md"
 
 toc = {}
+cat = []
 
 def get_frontmatter(md_path):
     """Return the frontmatter as a dict, or None if none exists."""
@@ -45,6 +47,9 @@ for root, dirs, files in os.walk(ROOT_DIR):
 
     if category not in toc:
         toc[category] = []
+    
+    if category not in cat:
+        cat.append(category)
 
     for file in files:
         if file.endswith(".md"):
@@ -68,3 +73,9 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n")
 
 print(f"Table of contents written to {OUTPUT_FILE}")
+
+with open(CATEGORIES, "w", encoding="utf-8") as f:
+    for c in sorted(cat):
+        f.write(f"- {c}\n")
+
+# print(cat)

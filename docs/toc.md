@@ -23,6 +23,8 @@
 ## Puggala
 
 - [Was this Assaji the same as the one belonging to the bhikkhū pañcavaggiya (the group of five monks who received the Buddha's first discourse)?](<questions/puggala/was-this-assaji-the-same-as-the-one-belonging-to-the-bhikkhu-pancavaggiya-the-group-of-five-monks-who-received-the-buddha's-first-discourse.md>)
+- [Whether the body is essential to the person?](<questions/puggala/whether-the-body-is-essential-to-the-person.md>)
+- [Whether there is a distinction between person and self?](<questions/puggala/whether-there-is-a-distinction-between-person-and-self.md>)
 - [Who were the monks belonging to the pañcavaggiya (the group of five monks taught the Buddha's first discourse, the Dhammacakkappavattana Sutta)?](<questions/puggala/who-were-the-monks-belonging-to-the-pancavaggiya-the-group-of-five-monks-taught-the-buddha's-first-discourse,-the-dhammacakkappavattana-sutta.md>)
 
 ## Dāna
@@ -572,11 +574,21 @@
 
 - [What are the kinds of deliverance (vimutti)?](<questions/vimutti/what-are-the-kinds-of-deliverance-vimutti.md>)
 - [Whether freedom consists in the ability to do evil?](<questions/vimutti/whether-freedom-consists-in-the-ability-to-do-evil.md>)
+- [Whether knowledge of liberation is identical to the attainment of liberation?](<questions/vimutti/whether-knowledge-of-liberation-is-identical-to-the-attainment-of-liberation.md>)
+- [Whether liberation has an essence?](<questions/vimutti/whether-liberation-has-an-essence.md>)
+- [Whether liberation is a condition or state?](<questions/vimutti/whether-liberation-is-a-condition-or-state.md>)
 - [Whether liberation is a form of free will?](<questions/vimutti/whether-liberation-is-a-form-of-free-will.md>)
+- [Whether liberation is an ontological reality?](<questions/vimutti/whether-liberation-is-an-ontological-reality.md>)
 - [Whether liberation is conditioned?](<questions/vimutti/whether-liberation-is-conditioned.md>)
 - [Whether liberation is contrary to free will?](<questions/vimutti/whether-liberation-is-contrary-to-free-will.md>)
+- [Whether liberation is different among the liberated?](<questions/vimutti/whether-liberation-is-different-among-the-liberated.md>)
+- [Whether liberation is itself happiness?](<questions/vimutti/whether-liberation-is-itself-happiness.md>)
 - [Whether liberation is knowledge?](<questions/vimutti/whether-liberation-is-knowledge.md>)
+- [Whether liberation is reversible?](<questions/vimutti/whether-liberation-is-reversible.md>)
 - [Whether liberation is the perfection of free will?](<questions/vimutti/whether-liberation-is-the-perfection-of-free-will.md>)
+- [Whether partial liberation is possible?](<questions/vimutti/whether-partial-liberation-is-possible.md>)
+- [Whether partial liberation is reversible?](<questions/vimutti/whether-partial-liberation-is-reversible.md>)
+- [Whether there is a distinction between liberation and the attainment of liberation?](<questions/vimutti/whether-there-is-a-distinction-between-liberation-and-the-attainment-of-liberation.md>)
 - [Whether there is a distinction between paññāvimutti and cetovimutti?](<questions/vimutti/whether-there-is-a-distinction-between-pannavimutti-and-cetovimutti.md>)
 - [Whether vimutti is from the defilements?](<questions/vimutti/whether-vimutti-is-from-the-defilments.md>)
 
@@ -804,9 +816,11 @@
 - [Whether desire includes desire in relation to ordinary functions?](<questions/chanda/whether-desire-includes-desire-in-relation-to-ordinary-functions.md>)
 - [Whether desire includes desire in relation to skillful qualities?](<questions/chanda/whether-desire-includes-desire-in-relation-to-skillful-qualities.md>)
 - [Whether desire is necessary for human development?](<questions/chanda/whether-desire-is-necessary-for-human-development.md>)
+- [Whether frustrated desire, not desire itself, is the cause of suffering?](<questions/chanda/whether-frustrated-desire-not-desire-itself-is-the-cause-of-suffering.md>)
 - [Whether one's desires are as alien to them as another's?](<questions/chanda/whether-one's-desires-are-as-alien-to-them-as-another's.md>)
 - [Whether the distinction between wholesome and unwholesome desires adequately accounts for the permissibility of ordinary desires?](<questions/chanda/whether-the-distinction-between-wholesome-and-unwholesome-desires-adequately-accounts-for-the-permissibility-of-ordinary-desires.md>)
 - [Whether the doctrine of desire is life-negating?](<questions/chanda/whether-the-doctrine-of-desire-is-life-negating.md>)
+- [Whether the indulgence of desire can ever extinguish that desire?](<questions/chanda/whether-the-indulgence-of-desire-can-ever-extinguish-that-desire.md>)
 - [Whether there is a distinction between attachment and desire?](<questions/chanda/whether-there-is-a-distinction-between-attachment-and-desire.md>)
 
 ## Arahatta
@@ -916,6 +930,7 @@
 
 - [What is the highest gratification of feelings?](<questions/vedana/what-is-the-highest-gratification-of-feelings.md>)
 - [Whether all feelings are suffering?](<questions/vedana/whether-all-feelings-are-suffering.md>)
+- [Whether feelings are many of one?](<questions/vedana/whether-feelings-are-many-of-one.md>)
 
 ## Rata
 
@@ -966,7 +981,9 @@
 - [Whether sensual craving partly fabricates the pleasure of sensuality?](<questions/sukha/whether-sensual-craving-partly-fabricates-the-pleasure-of-sensuality.md>)
 - [Whether sensual pleasure is the highest form of pleasure?](<questions/sukha/whether-sensual-pleasure-is-the-highest-form-of-pleasure.md>)
 - [Whether the Buddha disapproved of all pleasure?](<questions/sukha/whether-the-buddha-disapproved-of-all-pleasure.md>)
+- [Whether the body is necessary for ultimate happiness?](<questions/sukha/whether-the-body-is-necessary-for-ultimate-happiness.md>)
 - [Whether the love of another is necessary for happiness?](<questions/sukha/whether-the-love-of-another-is-necessary-for-happiness.md>)
+- [Whether the perpetual fulfillment of desire is equal to the abandonment of desire as regards happiness?](<questions/sukha/whether-the-perpetual-fulfillment-of-desire-is-equal-to-the-abandonment-of-desire-as-regards-happiness.md>)
 - [Whether the pleasure of jhāna surpasses divine pleasure?](<questions/sukha/whether-the-pleasure-of-jhana-surpasses-divine-pleasure.md>)
 - [Whether the pleasure of jhāna surpasses sensual pleasure?](<questions/sukha/whether-the-pleasure-of-jhana-surpasses-sensual-pleasure.md>)
 - [Whether the pleasure of sensuality is exclusively the relief from sensual desire?](<questions/sukha/whether-the-pleasure-of-sensuality-is-exclusively-the-relief-from-sensual-desire.md>)
@@ -1152,6 +1169,9 @@
 
 ## Vihāra
 
+- [Whether itinerancy has drawbacks?](<questions/vihara/whether-itinerancy-has-drawbacks.md>)
+- [Whether itinerancy is beneficial?](<questions/vihara/whether-itinerancy-is-beneficial.md>)
+- [Whether stability of residence has drawbacks?](<questions/vihara/whether-stability-of-residence-has-drawbacks.md>)
 - [Whether stability of residence is beneficial?](<questions/vihara/whether-stability-of-residence-is-beneficial.md>)
 
 ## Dhamma
@@ -1367,6 +1387,12 @@
 
 ## Brahmavihāra
 
+- [Whether the brahmaviharas are suitable for beginners?](<questions/brahmavihara/whether-the-brahmaviharas-are-suitable-for-beginners.md>)
+- [Whether the brahmavihāras are identical to the jhānas?](<questions/brahmavihara/whether-the-brahmaviharas-are-identical-to-the-jhanas.md>)
+- [Whether the brahmavihāras are inferior to the jhānas?](<questions/brahmavihara/whether-the-brahmaviharas-are-inferior-to-the-jhanas.md>)
+- [Whether the brahmavihāras are similar to the jhānas?](<questions/brahmavihara/whether-the-brahmaviharas-are-similar-to-the-jhanas.md>)
+- [Whether the brahmavihāras are suitable for advanced meditators?](<questions/brahmavihara/whether-the-brahmaviharas-are-suitable-for-advanced-meditators.md>)
+- [Whether the brahmavihāras lead to union with Brahma?](<questions/brahmavihara/whether-the-brahmaviharas-lead-to-union-with-brahma.md>)
 - [Whether the development of the Brahmavihāras is directly conducive to Nibbāna?](<questions/brahmavihara/whether-the-development-of-the-brahmaviharas-is-directly-conducive-to-nibbana.md>)
 - [Whether the successive brahmavihāras are superior to the preceding ones?](<questions/brahmavihara/whether-the-successive-brahmaviharas-are-superior-to-the-preceding-ones.md>)
 
