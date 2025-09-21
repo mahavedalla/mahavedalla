@@ -2,7 +2,7 @@
 Question: Whether the noble eightfold path is an end?
 Category: Magga
 Tags: 
-Sutta References: MN 22; AN 10.117
+Sutta References: MN 22; AN 10.117; AN 10.137
 Date Entered: 9-15-25
 Last Revised: 9-15-25
 Review Status: Not started

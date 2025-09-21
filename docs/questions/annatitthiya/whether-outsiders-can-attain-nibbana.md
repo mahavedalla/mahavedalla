@@ -2,7 +2,7 @@
 Question: Whether outsiders can attain Nibbāna?
 Category: Aññatitthiya
 Tags:
-Sutta References: DN 16; MN 11; MN 30; MN 48; MN 71; SN 12.66; SN 48.53; AN 10.95
+Sutta References: DN 16; MN 11; MN 30; MN 48; MN 71; SN 12.66; SN 48.53; AN 10.95; AN 10.123
 Date Entered: April 4, 2025
 Last Revised:
 Last Reviewed:

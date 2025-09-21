@@ -2,6 +2,7 @@ import os
 import re
 import unicodedata
 from datetime import datetime
+from pathlib import Path
 
 # Default metadata for the new entry
 # Automatically set the date fields to the current date and review status to "Not started"
@@ -42,6 +43,16 @@ def clean_filename(name):
     uni_text = unicodedata.normalize('NFKD', re.sub(r'[!@#$%^&*()?,]', '', name)).strip().lower().replace(" ", "-") + ".md"
     return "".join([c for c in uni_text if not unicodedata.combining(c)])
 
+def find_category_path(category: str) -> Path:
+    """
+    Search recursively under QUESTIONS_ROOT for a directory whose name matches category.
+    Returns the full Path if found, raises FileNotFoundError otherwise.
+    """
+    for path in Path("questions").rglob("*"):  # recursive search
+        if path.is_dir() and path.name == category:
+            return path
+    return None
+
 # Usage
 if __name__ == "__main__":
     # Needed Updates
@@ -53,12 +64,21 @@ if __name__ == "__main__":
     category = input("Category: ") or "questions"
 
     # Format directory name based on category
-    directory = "questions/" + "".join([c for c in unicodedata.normalize('NFKD', category).strip().lower() if not unicodedata.combining(c)])
+    strcat = "".join([c for c in unicodedata.normalize('NFKD', category).strip().lower() if not unicodedata.combining(c)])
+    directory = find_category_path(strcat)
+    if directory is None:
+        directory = "questions/" + strcat
+        os.makedirs(directory)
+        print(f"Category directory not found. Created new directory: {directory}")
+    else: 
+        print(f"Found category directory: {directory}")
 
     # Create directory if it doesn't exist
+    '''
     if not os.path.exists(directory):
         print(f"Directory does not exist. Making directory: {directory}")
         os.makedirs(directory)
+    '''
     
     # Create new entry if file name is provided
     if filename == "":
