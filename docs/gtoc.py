@@ -2,7 +2,7 @@ import os
 import yaml
 
 ROOT_DIR = "questions"   # questions inside docs
-OUTPUT_FILE = "toc.md"   # toc.md inside docs
+OUTPUT_FILE = "questions/toc.md"   # toc.md inside docs
 CATEGORIES = "cat.md"
 
 toc = {}

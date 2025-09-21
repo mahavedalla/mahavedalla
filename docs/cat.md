@@ -73,6 +73,7 @@
 - Nīvaraṇa
 - Ovāda
 - Pabbajja
+- Paccakkhāna
 - Pajānāti
 - Pariyatti
 - Pariñña
@@ -131,15 +132,17 @@
 - Vimutti
 - Vināya
 - Virāga
+- Visuddhi
 - Viveka
 - Vācā
 - Vāda
 - ahimsa
-- anicca
+- anupubbasikkhā
+- ariyapuggala
 - bhavana
 - nibbida
-- notes
 - sort
+- tilakkhana
 - vedalla
 - vinaya
 - vinnana
