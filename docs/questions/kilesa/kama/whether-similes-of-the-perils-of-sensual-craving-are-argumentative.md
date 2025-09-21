@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+The question is whether the Buddha used these similes as arguments from analogy, or just as illustrations to pump the intuitions of his listeners. The distinction is important, because depending on which intention the Buddha had, how we might use those similes ourselves is altered, particularly when trying to clarify the Buddhist view of sensuality. I'm inclined to think they were illustrative and not argumentative.
 
  -->

@@ -1,5 +1,5 @@
 ---
-Question: WWhether dukkha inheres in phenomena?
+Question: Whether dukkha inheres in phenomena?
 Category: Dukkha
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# WWhether dukkha inheres in phenomena?
+# Whether dukkha inheres in phenomena?
 
 ## Bibliography
 

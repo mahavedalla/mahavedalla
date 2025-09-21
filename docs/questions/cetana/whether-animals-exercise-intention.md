@@ -1,5 +1,5 @@
 ---
-Question: WWhether animals exercise intention?
+Question: Whether animals exercise intention?
 Category: Cetanā
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# WWhether animals exercise intention?
+# Whether animals exercise intention?
 
 ## Bibliography
 

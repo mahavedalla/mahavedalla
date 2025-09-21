@@ -1,5 +1,5 @@
 ---
-Question: WWhether the holy life has a goal?
+Question: Whether the holy life has a goal?
 Category: Brahmacariya
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# WWhether the holy life has a goal?
+# Whether the holy life has a goal?
 
 ## Bibliography
 

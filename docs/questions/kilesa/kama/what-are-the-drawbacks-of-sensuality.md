@@ -13,7 +13,7 @@ Draft: true
 ---
 
 # What are the drawbacks of sensuality?
-
+<!--
 ## Introduction
 
 There are at least five distinct, though related, families of drawbacks of sensuality:
@@ -41,8 +41,8 @@ The first mental drawback of sensuality is the suffering of frustrated sensual c
 
 However, on the other hand, for those unafflicted by sensual craving, suffering, to that extent, will not arise. For, the same discourse continues:
 
->If one is devoid of lust, desire, affection, thirst, passion, and craving in regarding to feeling ... perception ... volitional formations ... consciousness, then with the change and alteration of consciousness sorrow, lamentation, pain, displeasure, and despair do not arise in one. Having seen this benefit, our teacher teaches the removal of desire and lust for form, the removal of desire and lust for feeling ... perception ... volitional formations ... consciousness.' (SN 22.??)<!-- citation -->
-<!-- more suttas which discuss this such as MN 87 -->
+>If one is devoid of lust, desire, affection, thirst, passion, and craving in regarding to feeling ... perception ... volitional formations ... consciousness, then with the change and alteration of consciousness sorrow, lamentation, pain, displeasure, and despair do not arise in one. Having seen this benefit, our teacher teaches the removal of desire and lust for form, the removal of desire and lust for feeling ... perception ... volitional formations ... consciousness.' (SN 22.??) *citation*
+*more suttas which discuss this such as MN 87*
 
 Thus, the first mental drawback of sensual craving is the suffering of frustrated sensual craving.
 
@@ -62,7 +62,7 @@ of it as pleasant."
 >"So too, Māgandiya, in the past sensual pleasures were painful to touch, hot, and scorching; in the future sensual pleasures will be painful to touch, hot, and scorching; and now at present sensual pleasures are painful to touch, hot, and
 scorching. But these beings who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with fever for sensual pleasures, have faculties that are impaired; thus, though sensual pleasures are actually painful to touch, they acquire a mistaken perception of them as pleasant." 
 >
->"Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterising his body over a burning charcoal pit; the more he scratches the scabs and cauterises his body, the fouler, more evil-smelling and more infected the openings of his wounds would become, yet he would find a certain measure of satisfaction and enjoyment in scratching the openings of his wounds. So too, Māgandiya, beings who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with fever for sensual pleasures, still indulge in sensual pleasures; the more such beings indulge in sensual pleasures, the more their craving for sensual pleasures increases and the more they are burned by their fever for sensual pleasures, yet they find a certain measure of satisfaction and enjoyment in dependence on the five cords of sensual pleasure."<!-- Let it be noted here that I should hope to proceed with more questions and back and forth on this particular issue. -->
+>"Suppose, Māgandiya, there was a leper with sores and blisters on his limbs, being devoured by worms, scratching the scabs off the openings of his wounds with his nails, cauterising his body over a burning charcoal pit; the more he scratches the scabs and cauterises his body, the fouler, more evil-smelling and more infected the openings of his wounds would become, yet he would find a certain measure of satisfaction and enjoyment in scratching the openings of his wounds. So too, Māgandiya, beings who are not free from lust for sensual pleasures, who are devoured by craving for sensual pleasures, who burn with fever for sensual pleasures, still indulge in sensual pleasures; the more such beings indulge in sensual pleasures, the more their craving for sensual pleasures increases and the more they are burned by their fever for sensual pleasures, yet they find a certain measure of satisfaction and enjoyment in dependence on the five cords of sensual pleasure." *Let it be noted here that I should hope to proceed with more questions and back and forth on this particular issue.*
 
 This example in particular illustrates the Buddha's mastery of the use of simile.
 
@@ -70,7 +70,7 @@ Thus, the second mental drawback of sensual craving is the suffering inherent in
 
 <i>1.3 The unsatisfactoriness of sensual pleasures</i>
  
- The third mental drawback of sensual craving is the unsatisfactoriness of sensual pleasures. Despite their often irresistible seductive charm, sensual pleasures afford a trifling and ephemeral gratification that doesn't ultimately satisfy.<!-- AN 10.46 -->
+ The third mental drawback of sensual craving is the unsatisfactoriness of sensual pleasures. Despite their often irresistible seductive charm, sensual pleasures afford a trifling and ephemeral gratification that doesn't ultimately satisfy. *AN 10.46*
 
 ## 2. Obstructive drawbacks
 
@@ -82,10 +82,6 @@ Thus, the second mental drawback of sensual craving is the suffering inherent in
 
 
 ## 5. Practical drawbacks
-
-<!-- Footnotes -->
-
-[^1]:kadjflk
 
 ## Bibliography
 

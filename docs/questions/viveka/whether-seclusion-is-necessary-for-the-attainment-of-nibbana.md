@@ -11,3 +11,5 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether seclusion is necessary for the attainment of Nibbāna?

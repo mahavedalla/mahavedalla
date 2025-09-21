@@ -1,5 +1,5 @@
 ---
-Question: WWhether there is a noble ninefold path?
+Question: Whether there is a noble ninefold path?
 Category: Magga
 Tags: 
 Sutta References: AN 10.016
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# WWhether there is a noble ninefold path?
+# Whether there is a noble ninefold path?
 
 ## Bibliography
 
