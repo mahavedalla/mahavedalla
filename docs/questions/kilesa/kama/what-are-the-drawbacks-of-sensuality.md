@@ -2,7 +2,7 @@
 Question: What are the drawbacks of sensuality?
 Category: Kāma
 Tags: adinava
-Sutta References: MN 13; MN 14; MN 26; MN 36; MN 39; MN 54; MN 75; MN 82; MN 87; SN 8.2; AN 10.46; UD 44
+Sutta References: MN 13; MN 14; MN 26; MN 36; MN 39; MN 54; MN 75; MN 82; MN 87; MN 101; SN 8.2; AN 10.46; UD 44
 Date Entered: 3-30-25
 Last Revised: 7-5-25
 Review Status: Started
