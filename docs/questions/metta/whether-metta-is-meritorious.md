@@ -1,5 +1,5 @@
 ---
-Question: Is mettā meritorious?
+Question: Whether mettā is meritorious?
 Category: Mettā
 Sutta References: ITI 27; AN 9.20
 Tags: Puñña
