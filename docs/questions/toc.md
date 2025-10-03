@@ -211,9 +211,10 @@
 
 ## Cetanā
 
-- [WWhether animals exercise intention?](<cetana/wwhether-animals-exercise-intention.md>)
+- [What is sañcetanā?](<cetana/What is sañcetanā 1dbe99d09112806c9b64fc47faecb1d8.md>)
 - [What is sañcetanā?](<cetana/what-is-sancetana.md>)
 - [Whether all intention is directed to an end?](<cetana/whether-all-intention-is-directed-to-an-end.md>)
+- [Whether animals exercise intention?](<cetana/whether-animals-exercise-intention.md>)
 - [Whether free will is valuable?](<cetana/whether-free-will-is-valuable.md>)
 - [Whether leeway freedom is necessary for free will?](<cetana/whether-leeway-freedom-is-necessary-for-free-will.md>)
 - [Whether the value of free will exceeds consequent evil?](<cetana/whether-the-value-of-free-will-exceeds-consequent-evil.md>)
@@ -378,6 +379,7 @@
 - [Whether Nibbāna is the best?](<nibbana/whether-nibbana-is-the-best.md>)
 - [Whether Nibbāna is the foremost and ultimate end?](<nibbana/whether-nibbana-is-the-foremost-and-ultimate-end.md>)
 - [Whether Nibbāna is the same as the deathless (amata)?](<nibbana/whether-nibbana-is-the-same-as-the-deathless-amata.md>)
+- [Whether Nibbāna is the ultimate sustenance or the end of all sustenance?](<nibbana/whether-nibbana-is-the-ultimate-sustenance-or-the-end-of-all-sustenance.md>)
 - [Whether Nibbāna is truth?](<nibbana/whether-nibbana-is-truth.md>)
 - [Whether Nibbāna leads to enlightenment?](<nibbana/whether-nibbana-leads-to-enlightenment.md>)
 - [Whether Nibbāna precedes awakening?](<nibbana/whether-nibbana-precedes-awakening.md>)
@@ -419,6 +421,11 @@
 
 - [Where the eight precepts originated?](<atthasila/where-the-eight-precepts-originated.md>)
 
+## Byāpāda
+
+- [Whether anger is a contradiction?](<byapada/whether-anger-is-a-contradiction.md>)
+- [Whether anger is skillful in regard to social injustices and other wrongs?](<byapada/whether-anger-is-skillful-in-regard-to-social-injustices-and-other-wrongs.md>)
+
 ## ahimsa
 
 
@@ -428,41 +435,64 @@
 
 ## Upekkhā
 
+- [Whether equanimity can be attached to?](<upekkha/whether-equanimity-can-be-attached-to.md>)
+- [Whether equanimity is a feeling?](<upekkha/whether-equanimity-is-a-feeling.md>)
+- [Whether equanimity is a state or condition?](<upekkha/whether-equanimity-is-a-state-or-condition.md>)
+- [Whether equanimity is bodily?](<upekkha/whether-equanimity-is-bodily.md>)
 - [Whether equanimity is conditioned?](<upekkha/whether-equanimity-is-conditioned.md>)
+- [Whether equanimity is exclusive to meditation?](<upekkha/whether-equanimity-is-exclusive-to-meditation.md>)
+- [Whether equanimity is experienced by the mind?](<upekkha/whether-equanimity-is-experienced-by-the-mind.md>)
 - [Whether equanimity is indifference?](<upekkha/whether-equanimity-is-indifference.md>)
 - [Whether equanimity is the goal of the holy life?](<upekkha/whether-equanimity-is-the-goal-of-the-holy-life.md>)
+- [Whether equanimity manifests in worldlings?](<upekkha/whether-equanimity-manifests-in-worldlings.md>)
 - [Whether there are different forms of equanimity?](<upekkha/whether-there-are-different-forms-of-equanimity.md>)
 
 ## Maraṇa
 
 - [What happens after death?](<marana/what-happens-after-death.md>)
 
-## sort
-
-- [What is sañcetanā?](<sort/What is sañcetanā 1dbe99d09112806c9b64fc47faecb1d8.md>)
-- [What is upadhi?](<sort/what-is-upadhi.md>)
-- [Whether the Buddha ever encouraged faith?](<sort/Whether the Buddha ever encouraged faith 1dee99d091128009951cd46e5d7cf587.md>)
-- [Whether the Dhamma is the same as Nibbāna?](<sort/whether-the-dhamma-is-the-same-as-nibbana.md>)
-- [Whether upadhi has a cause?](<sort/whether-upadhi-has-a-cause.md>)
-- [Whether upadhi is the same as the āsavā, kilesā, and upādānā?](<sort/whether-upadhi-is-the-same-as-the-asava,-kilesa,-and-upadana.md>)
-
 ## Virāga
 
+- [Whether dispassion arises gradually or suddenly?](<viraga/whether-dispassion-arises-gradually-or-suddenly.md>)
+- [Whether dispassion can be realized without mastery of jhāna?](<viraga/whether-dispassion-can-be-realized-without-mastery-of-jhana.md>)
+- [Whether dispassion is a positive phenomenon?](<viraga/whether-dispassion-is-a-positive-phenomenon.md>)
+- [Whether dispassion is a property of Nibbāna?](<viraga/whether-dispassion-is-a-property-of-nibbana.md>)
+- [Whether dispassion is apathy?](<viraga/whether-dispassion-is-apathy.md>)
+- [Whether dispassion is attained by an action or intention?](<viraga/whether-dispassion-is-attained-by-an-action-or-intention.md>)
+- [Whether dispassion is attained?](<viraga/whether-dispassion-is-attained.md>)
+- [Whether dispassion is compatible with compassion among other divine abidings?](<viraga/whether-dispassion-is-compatible-with-compassion-among-other-divine-abidings.md>)
+- [Whether dispassion is compatible with enjoyment of sensual pleasures?](<viraga/whether-dispassion-is-compatible-with-enjoyment-of-sensual-pleasures.md>)
 - [Whether dispassion is conditioned?](<viraga/whether-dispassion-is-conditioned.md>)
+- [Whether dispassion is depression?](<viraga/whether-dispassion-is-depression.md>)
 - [Whether dispassion is identical to Nibbāna?](<viraga/Whether dispassion is identical to Nibbāna 1d8e99d09112817c8e70cad64df96c11.md>)
+- [Whether dispassion is identical to equanimity?](<viraga/whether-dispassion-is-identical-to-equanimity.md>)
+- [Whether dispassion is known by the intellect?](<viraga/whether-dispassion-is-known-by-the-intellect.md>)
+- [Whether dispassion is known by the mind?](<viraga/whether-dispassion-is-known-by-the-mind.md>)
+- [Whether dispassion is known by wisdom?](<viraga/whether-dispassion-is-known-by-wisdom.md>)
+- [Whether dispassion is known directly?](<viraga/whether-dispassion-is-known-directly.md>)
+- [Whether dispassion is possible without prior development?](<viraga/whether-dispassion-is-possible-without-prior-development.md>)
+- [Whether dispassion is reversible or can be lost?](<viraga/whether-dispassion-is-reversible-or-can-be-lost.md>)
+- [Whether dispassion is the absence of some phenomenon?](<viraga/whether-dispassion-is-the-absence-of-some-phenomenon.md>)
+- [Whether dispassion pertains only to passion or other defilements?](<viraga/whether-dispassion-pertains-only-to-passion-or-other-defilements.md>)
+- [Whether there are multiple forms of dispassion?](<viraga/whether-there-are-multiple-forms-of-dispassion.md>)
 
 ## Kula
 
 - [Whether duties to family are the highest?](<kula/whether-duties-to-family-are-the-highest.md>)
 - [Whether family is a good?](<kula/whether-family-is-a-good.md>)
 - [Whether family is an end?](<kula/whether-family-is-an-end.md>)
+- [Whether it is permissible for one gone forth to temporarily suspend all contact with family?](<kula/whether-it-is-permissible-for-one-gone-forth-to-temporarily-suspend-all-contact-with-family.md>)
 - [Whether it is permissible to abandon one's duties to family for the noble search?](<kula/whether-it-is-permissible-to-abandon-one's-duties-to-family-for-the-noble-search.md>)
 - [Whether the duty of the noble search is higher than that of family?](<kula/whether-the-duty-of-the-noble-search-is-higher-than-that-of-family.md>)
 
+## Mātāpitar
+
+- [Did the Buddha value the relationship between child and mother and father?](<kula/matapitar/did-the-buddha-value-the-relationship-between-child-and-mother-and-father.md>)
+
 ## Dukkha
 
-- [WWhether dukkha inheres in phenomena?](<dukkha/wwhether-dukkha-inheres-in-phenomena.md>)
 - [Whether a reductive and precise definition of suffering is necessary?](<dukkha/whether-a-reductive-and-precise-definition-of-suffering-is-necessary.md>)
+- [Whether dukkha inheres in phenomena?](<dukkha/whether-dukkha-inheres-in-phenomena.md>)
 - [Whether dukkha is existential anxiety or saṃsāric existence?](<dukkha/whether-dukkha-is-existential-anxiety-or-samsaric-existence.md>)
 - [Whether dukkha is relational?](<dukkha/whether-dukkha-is-relational.md>)
 - [Whether if that saṃsāra is suffering prevents freedom from suffering while alive?](<dukkha/whether-if-that-samsara-is-suffering-prevents-freedom-from-suffering-while-alive.md>)
@@ -585,21 +615,34 @@
 
 - [Whether reasoning is integral?](<nana/takka/whether-reasoning-is-integral.md>)
 
-## Pūja
+## Pūjā
 
 - [Did bhikkhus in the Buddha's time offer meal blessings?](<puja/did-bhikkhus-in-the-buddha's-time-offer-meal-blessings.md>)
 - [Is it appropriate for a monk to die in an inhabited area?](<puja/is-it-appropriate-for-a-monk-to-die-in-an-inhabited-area.md>)
 - [Was it appropriate to bow to the Buddha's feet?](<puja/was-it-appropriate-to-bow-to-the-buddha's-feet.md>)
 - [Was it appropriate to listen to the Buddha's Dhamma on a high seat?](<puja/was-it-appropriate-to-listen-to-the-buddha's-dhamma-on-a-high-seat.md>)
+- [Whether Arahants besides the Buddha are worthy of homage?](<puja/whether-arahants-besides-the-buddha-are-worthy-of-homage.md>)
+- [Whether a being worthy of homage is present in a form?](<puja/whether-a-being-worthy-of-homage-is-present-in-a-form.md>)
+- [Whether a form of a being worthy of homage is a symbol of them?](<puja/whether-a-form-of-a-being-worthy-of-homage-is-a-symbol-of-them.md>)
+- [Whether all beings are worthy of homage?](<puja/whether-all-beings-are-worthy-of-homage.md>)
+- [Whether all forms of paying homage are equal?](<puja/whether-all-forms-of-paying-homage-are-equal.md>)
 - [Whether devotion is encouraged?](<puja/whether-devotion-is-encouraged.md>)
 - [Whether devotion is necessary?](<puja/whether-devotion-is-necessary.md>)
+- [Whether forms of paying homage are conventional?](<puja/whether-forms-of-paying-homage-are-conventional.md>)
+- [Whether it is impermissible to pay homage to a being unworthy of homage?](<puja/whether-it-is-impermissible-to-pay-homage-to-a-being-unworthy-of-homage.md>)
 - [Whether it is permissible for lay people to use honorifics to refer to members of other sects?](<puja/Whether it is permissible for lay people to use ho 1d8e99d0911281729dd0d201801c532f.md>)
 - [Whether it is permissible for lay people to use honorifics to refer to members of other sects?](<puja/whether-it-is-permissible-for-lay-people-to-use-honorifics-to-refer-to-members-of-other-sects.md>)
+- [Whether it is permissible to pay homage to a form?](<puja/whether-it-is-permissible-to-pay-homage-to-a-form.md>)
 - [Whether it was appropriate to pay homage to the Buddha's feet?](<puja/Whether it was appropriate to pay homage to the Bu 1d8e99d0911281cc84fdce74d3526cf1.md>)
 - [Whether marriage is holy?](<puja/whether-marriage-is-holy.md>)
+- [Whether one pays homage to one worthy of homage through a form?](<puja/whether-one-pays-homage-to-one-worthy-of-homage-through-a-form.md>)
+- [Whether one who has attained Parinibbāna can even be paid homage to?](<puja/whether-one-who-has-attained-parinibbana-can-even-be-paid-homage-to.md>)
+- [Whether paying homage is holy?](<puja/whether-paying-homage-is-holy.md>)
+- [Whether rituals can purify one with impure conduct?](<puja/whether-rituals-can-purify-one-with-impure-conduct.md>)
 - [Whether the Buddha making offerings to gods?](<puja/whether-the-buddha-making-offerings-to-gods.md>)
 - [Whether the Dhamma is more worthy of veneration than the Buddha?](<puja/whether-the-dhamma-is-more-worthy-of-veneration-than-the-buddha.md>)
 - [Whether there are sacraments?](<puja/whether-there-are-sacraments.md>)
+- [Whether, in paying homage, the being worthy of homage or their qualities are paid homage to?](<puja/whether-in-paying-homage-the-being-worthy-of-homage-or-their-qualities-are-paid-homage-to.md>)
 
 ## Vāda
 
@@ -815,6 +858,10 @@
 - [Whether one should never associate with fools?](<mitta/whether-one-should-never-associate-with-fools.md>)
 - [Whether relationships are a good?](<mitta/whether-relationships-are-a-good.md>)
 - [Whether relationships are an end?](<mitta/whether-relationships-are-an-end.md>)
+
+## Kristavāda
+
+- [Whether the love of money is the root of all evil?](<kristavada/whether-the-love-of-money-is-the-root-of-all-evil.md>)
 
 ## Diṭṭhi
 
@@ -1032,12 +1079,12 @@
 
 ## Brahmacariya
 
-- [WWhether the holy life has a goal?](<brahmacariya/wwhether-the-holy-life-has-a-goal.md>)
 - [What is the purpose of leading the spiritual life?](<brahmacariya/what-is-the-purpose-of-leading-the-spiritual-life.md>)
 - [Whether celibacy is a form of escapism?](<brahmacariya/whether-celibacy-is-a-form-of-escapism.md>)
 - [Whether celibacy is purity?](<brahmacariya/whether-celibacy-is-purity.md>)
 - [Whether celibacy is superior to incelibacy?](<brahmacariya/whether-celibacy-is-superior-to-incelibacy.md>)
 - [Whether the foremost goal of the holy life is one's own awakening?](<brahmacariya/whether-the-foremost-goal-of-the-holy-life-is-one's-own-awakening.md>)
+- [Whether the holy life has a goal?](<brahmacariya/whether-the-holy-life-has-a-goal.md>)
 
 ## Kāla
 
@@ -1091,14 +1138,6 @@
 
 - [Whether inter-religious debate is permissible?](<katha/whether-inter-religious-debate-is-permissible.md>)
 
-## Nekkhama
-
-- [Whether the Buddha instructed to laity in renunciation (nekkhamma)?](<nekkhama/whether-the-buddha-instructed-to-laity-in-renunciation-nekkhamma.md>)
-
-## Mātāpitar
-
-- [Did the Buddha value the relationship between child and mother and father?](<matapitar/did-the-buddha-value-the-relationship-between-child-and-mother-and-father.md>)
-
 ## Viveka
 
 - [What is seclusion?](<viveka/what-is-seclusion.md>)
@@ -1127,12 +1166,17 @@
 - [What is the maxim of skillfulness?](<kusala/what-is-the-maxim-of-skillfulness.md>)
 - [Whether evil and unskillfulness are identical?](<kusala/whether-evil-and-unskillfulness-are-identical.md>)
 - [Whether evil and unskillfulness are separable?](<kusala/whether-evil-and-unskillfulness-are-separable.md>)
+- [Whether goodness is diffusive?](<kusala/whether-goodness-is-diffusive.md>)
 - [Whether regret is skillful?](<kusala/whether-regret-is-skillful.md>)
 - [Whether what is skillful is rationally self-motivating?](<kusala/whether-what-is-skillful-is-rationally-self-motivating.md>)
 
 ## Attavāda
 
 - [Whether there is a difference between sakkāyadiṭṭhi and attavāda?](<attavada/whether-there-is-a-difference-between-sakkayaditthi-and-attavada.md>)
+
+## Pāṇātipāta
+
+- [Whether intentional taking of life is necessarily rooted in defilement?](<panatipata/whether-intentional-taking-of-life-is-necessarily-rooted-in-defilement.md>)
 
 ## Bhaya
 
@@ -1212,7 +1256,13 @@
 
 ## Nekkhamma
 
+- [Whether renunciation is exclusively for monastics?](<nekkhamma/whether-renunciation-is-exclusively-for-monastics.md>)
+- [Whether renunciation is found outside of the this Dhamma-Vināya?](<nekkhamma/whether-renunciation-is-found-outside-of-the-this-dhamma-vinaya.md>)
+- [Whether renunciation is inherently renunciation of something?](<nekkhamma/whether-renunciation-is-inherently-renunciation-of-something.md>)
 - [Whether seeking renunciation is to be abandoned?](<nekkhamma/whether-seeking-renunciation-is-to-be-adandoned.md>)
+- [Whether the Buddha instructed to laity in renunciation (nekkhamma)?](<nekkhamma/whether-the-buddha-instructed-to-laity-in-renunciation-nekkhamma.md>)
+- [Whether true renunciation is a mode of being or state of mind?](<nekkhamma/whether-true-renunciation-is-a-mode-of-being-or-state-of-mind.md>)
+- [Whether true renunciation is in the act of renunciation?](<nekkhamma/whether-true-renunciation-is-in-the-act-of-renunciation.md>)
 
 ## Ariyasaccāni
 
@@ -1238,6 +1288,7 @@
 - [Whether defilement is intentional?](<kilesa/whether-defilement-is-intentional.md>)
 - [Whether defilements are caused by Māra?](<kilesa/whether-defilements-are-caused-by-mara.md>)
 - [Whether depression is a defilement?](<kilesa/whether-depression-is-a-defilement.md>)
+- [Whether extinguishment of the defilements is through lack of sustenance or an act of extinguishment?](<kilesa/whether-extinguishment-of-the-defilements-is-through-lack-of-sustenance-or-an-act-of-extinguishment.md>)
 - [Whether fear is a defilement?](<kilesa/whether-fear-is-a-defilement.md>)
 - [Whether joy and sorrow are causal effects of defilements?](<kilesa/whether-joy-and-sorrow-are-causal-effects-of-defilements.md>)
 - [Whether joy and sorrow follow defilements temporally?](<kilesa/whether-joy-and-sorrow-follow-defilements-temporally.md>)
@@ -1292,6 +1343,7 @@
 - [Whether attachment to desire, not merely desire, is the cause of suffering?](<kilesa/chanda/whether-attachment-to-desire-not-merely-desire-is-the-cause-of-suffering.md>)
 - [Whether desire includes desire in relation to ordinary functions?](<kilesa/chanda/whether-desire-includes-desire-in-relation-to-ordinary-functions.md>)
 - [Whether desire includes desire in relation to skillful qualities?](<kilesa/chanda/whether-desire-includes-desire-in-relation-to-skillful-qualities.md>)
+- [Whether desire is a contradiction?](<kilesa/chanda/whether-desire-is-a-contradiction.md>)
 - [Whether desire is necessary for human development?](<kilesa/chanda/whether-desire-is-necessary-for-human-development.md>)
 - [Whether frustrated desire, not desire itself, is the cause of suffering?](<kilesa/chanda/whether-frustrated-desire-not-desire-itself-is-the-cause-of-suffering.md>)
 - [Whether in the absence of all desires there is any happiness?](<kilesa/chanda/whether-in-the-absence-of-all-desires-there-is-any-happiness.md>)
@@ -1402,11 +1454,23 @@
 
 - [What are forms of meritorious deeds?](<punna/what-are-forms-of-meritorious-deeds.md>)
 - [What are the bases of merit?](<punna/what-are-the-bases-of-merit.md>)
+- [Whether acts of merit are zero sum?](<punna/whether-acts-of-merit-are-zero-sum.md>)
+- [Whether acts of merit require intention?](<punna/whether-acts-of-merit-require-intention.md>)
+- [Whether all acts of merit are equally meritorious?](<punna/whether-all-acts-of-merit-are-equally-meritorious.md>)
+- [Whether an act of merit is reversible?](<punna/whether-an-act-of-merit-is-reversible.md>)
+- [Whether mental actions can be meritorious or only bodily and verbal actions?](<punna/whether-mental-actions-can-be-meritorious-or-only-bodily-and-verbal-actions.md>)
+- [Whether merit benefits only the person who makes the merit?](<punna/whether-merit-benefits-only-the-person-who-makes-the-merit.md>)
+- [Whether merit can be exhausted?](<punna/whether-merit-can-be-exhausted.md>)
+- [Whether merit can be nullified?](<punna/whether-merit-can-be-nullified.md>)
+- [Whether merit is kammic?](<punna/whether-merit-is-kammic.md>)
+- [Whether merit is the meritorious action or the meritorious consequence?](<punna/whether-merit-is-the-meritorious-action-or-the-meritorious-consequence.md>)
+- [Whether merit is transferable?](<punna/whether-merit-is-transferable.md>)
+- [Whether the accumulation of merit is directly conducive to liberation?](<punna/whether-the-accumulation-of-merit-is-directly-conducive-to-liberation.md>)
+- [Whether the accumulation of merit leads to favorable rebirths?](<punna/whether-the-accumulation-of-merit-leads-to-favorable-rebirths.md>)
 
 ## Magga
 
 - [Is the Noble Eightfol Path conditioned or unconditioned?](<magga/is-the-noble-eightfol-path-conditioned-or-unconditioned.md>)
-- [WWhether there is a noble ninefold path?](<magga/wwhether-there-is-a-noble-ninefold-path.md>)
 - [What is the noble eightfold path?](<magga/what-is-the-noble-eightfold-path.md>)
 - [Whether the noble eightfol path is the ultimate end?](<magga/whether-the-noble-eightfol-path-is-the-ultimate-end.md>)
 - [Whether the noble eightfold path is an end?](<magga/whether-the-noble-eightfold-path-is-an-end.md>)
@@ -1419,6 +1483,7 @@
 - [Whether there are separate meditative and intellectual paths?](<magga/whether-there-are-separate-meditative-and-intellectual-paths.md>)
 - [Whether there are separate paths for laypeople and renunciates?](<magga/whether-there-are-separate-paths-for-laypeople-and-renunciates.md>)
 - [Whether there are two paths?](<magga/whether-there-are-two-paths.md>)
+- [Whether there is a noble ninefold path?](<magga/whether-there-is-a-noble-ninefold-path.md>)
 
 ## Sati
 
@@ -1459,7 +1524,6 @@
 
 ## Atta
 
-- [Is the teaching on not-self a strategy?](<tilakkhana/anatta/Is the teaching on not-self a strategy 1d8e99d09112812084c3e73094ff680a.md>)
 - [Is the teaching on not-self an ontology?](<tilakkhana/anatta/Is the teaching on not-self an ontology 1d8e99d0911281c38688edc3a034d954.md>)
 - [Is there no self?](<tilakkhana/anatta/Is there no self 1d8e99d0911281578056f255434621f4.md>)
 - [Is there no self?](<tilakkhana/anatta/is-there-no-self.md>)
@@ -1467,6 +1531,7 @@
 - [Whether the self exists conventionally?](<tilakkhana/anatta/whether-the-self-exists-conventionally.md>)
 - [Whether the self is a convention?](<tilakkhana/anatta/whether-the-self-is-a-convention.md>)
 - [Whether the sense of self is constituted by craving?](<tilakkhana/anatta/whether-the-sense-of-self-is-constituted-by-craving.md>)
+- [Whether the teaching on not-self is strategic?](<tilakkhana/anatta/whether-the-teaching-on-not-self-is-strategic.md>)
 - [Whether there is a sense in which the path is about developing oneself?](<tilakkhana/anatta/whether-there-is-a-sense-in-which-the-path-is-about-developing-oneself.md>)
 - [Whether there is a sense in which the path is about finding oneself?](<tilakkhana/anatta/whether-there-is-a-sense-in-which-the-path-is-about-finding-oneself.md>)
 
@@ -1573,6 +1638,7 @@
 - [Whether every action is for an end?](<kamma/whether-every-action-is-for-an-end.md>)
 - [Whether kamma is a law which governs actions or actions are disposed to produce certain results?](<kamma/Whether kamma is a law which governs actions or ac 1d8e99d09112814a9df3c0764527b0e5.md>)
 - [Whether kammic retribution is just?](<kamma/whether-kammic-retribution-is-just.md>)
+- [Whether suffering can be ended without experiencing the results of all past actions?](<kamma/whether-suffering-can-be-ended-without-experiencing-the-results-of-all-past-actions.md>)
 - [Whether the doctrine of kamma is categorical?](<kamma/whether-the-doctrine-of-kamma-is-categorial.md>)
 - [Whether the effect of an action depends on the qualities of the person to whom it is directed?](<kamma/whether-the-effect-of-an-action-depends-on-the-qualities-of-the-person-to-whom-it-is-directed.md>)
 - [Whether the influence of the defilements absolves moral responsibility?](<kamma/whether-the-influence-of-the-defilements-absolves-moral-responsibility.md>)

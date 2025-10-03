@@ -21,6 +21,7 @@
 - Brahmavihāra
 - Brāhmaṇa
 - Buddha
+- Byāpāda
 - Byāpādo
 - Cetanā
 - Chanda
@@ -47,6 +48,7 @@
 - Kathā
 - Khanda
 - Kilesa
+- Kristavāda
 - Kula
 - Kusala
 - Kāla
@@ -64,7 +66,6 @@
 - Moggallāna
 - Māra
 - Mātāpitar
-- Nekkhama
 - Nekkhamma
 - Nibbāna
 - Niraya
@@ -87,8 +88,9 @@
 - Phassa
 - Puggala
 - Puñña
+- Pāṇātipāta
 - Pīti
-- Pūja
+- Pūjā
 - Rata
 - Rāga
 - Rājā
@@ -141,7 +143,6 @@
 - ariyapuggala
 - bhavana
 - nibbida
-- sort
 - tilakkhana
 - vedalla
 - vinaya
