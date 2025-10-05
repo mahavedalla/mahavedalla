@@ -1,6 +1,6 @@
 ---
 Question: Whether questioning is important?
-Category: 
+Category: Vedalla
 Tags: 
 Sutta References: AN 9.13; AN 10.83; AN 10.84
 Date Entered: 8-23-25
