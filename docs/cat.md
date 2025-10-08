@@ -1,4 +1,5 @@
 - Abyāpāda
+- Ahiṃsā
 - Akusala
 - Anabhijjhā
 - Anāgāmi
@@ -22,10 +23,8 @@
 - Brāhmaṇa
 - Buddha
 - Byāpāda
-- Byāpādo
 - Cetanā
 - Chanda
-- Christianity
 - Citta
 - Cīvara
 - Deva
@@ -36,8 +35,8 @@
 - Dāna
 - Gandha
 - Hiri
+- Hāsa
 - Iddhi
-- Iddhipada
 - Indriya
 - Indriyasaṃvara
 - Issara
@@ -61,7 +60,6 @@
 - Methuna
 - Mettā
 - Micchādiṭṭhi
-- Misc
 - Mitta
 - Moggallāna
 - Māra
@@ -85,6 +83,7 @@
 - Paṭinissagga
 - Paṭipadā
 - Pema
+- Phala
 - Phassa
 - Puggala
 - Puñña
@@ -122,6 +121,7 @@
 - Sīla
 - Takka
 - Tapas
+- Tathatā
 - Taṇhā
 - Tiracchāna
 - Upekkhā
@@ -129,6 +129,7 @@
 - Upādana
 - Upāsaka
 - Vamsa
+- Vedalla
 - Vedanā
 - Vihāra
 - Vimutti
@@ -138,13 +139,9 @@
 - Viveka
 - Vācā
 - Vāda
-- ahimsa
-- anupubbasikkhā
-- ariyapuggala
-- bhavana
+- magga
 - nibbida
-- tilakkhana
-- vedalla
+- satta
 - vinaya
 - vinnana
 - Ñāya
