@@ -2,7 +2,7 @@
 Question: Whether purity applies to the mind?
 Category: Visuddhi
 Tags: 
-Sutta References: 
+Sutta References: SN 22.100
 Date Entered: 9-18-25
 Last Revised: 9-18-25
 Review Status: Not started

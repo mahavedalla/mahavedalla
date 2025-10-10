@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+## Bibliography
+
+1. https://suttas.github.io/seeds/index.html#n1
+
+<!-- 
+
+Notes:
+
+Bhikkhu Sunyo thinks so.
+
+ -->
