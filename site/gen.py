@@ -40,7 +40,7 @@ def create_new_entry(filename, question, category, directory="questions"):
 
 # Function to clean and format the filename (removing special characters and diacritics)    
 def clean_filename(name):
-    uni_text = unicodedata.normalize('NFKD', re.sub(r'[!@#$%^&*()?,]', '', name)).strip().lower().replace(" ", "-") + ".md"
+    uni_text = unicodedata.normalize('NFKD', re.sub(r"[!@#$%^&*()?,']", '', name)).strip().lower().replace(" ", "-") + ".md"
     return "".join([c for c in uni_text if not unicodedata.combining(c)])
 
 def find_category_path(category: str) -> Path:
