@@ -1,3 +1,4 @@
+- Abyākata
 - Abyāpāda
 - Ahiṃsā
 - Akusala
@@ -34,6 +35,7 @@
 - Dukkha
 - Dāna
 - Gandha
+- Gandhabba
 - Hiri
 - Hāsa
 - Iddhi
@@ -85,8 +87,10 @@
 - Pema
 - Phala
 - Phassa
+- Piṇḍapāta
 - Puggala
 - Puñña
+- Pārājika
 - Pāṇātipāta
 - Pīti
 - Pūjā
@@ -117,6 +121,7 @@
 - Sukha
 - Suta
 - Sāriputta
+- Sāsana
 - Sāvaka
 - Sīla
 - Takka
@@ -141,6 +146,7 @@
 - Vāda
 - magga
 - nibbida
+- sarana
 - satta
 - vinaya
 - vinnana
