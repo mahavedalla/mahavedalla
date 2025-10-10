@@ -29,4 +29,5 @@ extra_javascript:
 markdown_extensions:
   - footnotes
 
-site_url: https://mahavedalla.com
+site_url: mahavedalla.com
+cname: mahavedalla.com
