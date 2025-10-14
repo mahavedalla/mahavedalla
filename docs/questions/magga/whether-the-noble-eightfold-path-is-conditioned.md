@@ -1,5 +1,5 @@
 ---
-Question: Is the Noble Eightfol Path conditioned or unconditioned?
+Question: Whether the noble eightfold path is conditioned?
 Category: Magga
 Tags:
 Sutta References: MN 44

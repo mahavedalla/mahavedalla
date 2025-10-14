@@ -66,4 +66,12 @@ vaṅkeyyāni
 10.88
 akkosakaparibhāsako
 
+AN 10.2..-
+thambhassa
+sārambha
+māna
+atimāna
+mada 
+pamāda
+
  -->

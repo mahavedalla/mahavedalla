@@ -72,6 +72,8 @@ Thus, the second mental drawback of sensual craving is the suffering inherent in
  
  The third mental drawback of sensual craving is the unsatisfactoriness of sensual pleasures. Despite their often irresistible seductive charm, sensual pleasures afford a trifling and ephemeral gratification that doesn't ultimately satisfy. *AN 10.46*
 
+ Note about Thomas Aquinas on sensual pleasures being cloying, whereas other pleasures are not.
+
 ## 2. Obstructive drawbacks
 
 
