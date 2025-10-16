@@ -9,7 +9,6 @@
 - [Is a first point of saṃsāra discerned?](<questions/loka/Is a first point of saṃsāra discerned 1d8e99d0911281458239fe83f4ee2965.md>)
 - [What are the different realms of existence?](<questions/loka/What are the different realms of existence 1d8e99d09112813ba26efbee650b04ca.md>)
 - [Whether all worldly pursuits are futile?](<questions/loka/whether-all-worldly-pursuits-are-futile.md>)
-- [Whether devas (gods) are corporeal?](<questions/loka/Are devas (gods) corporeal 1d8e99d0911281199f62d6606c9c0879.md>)
 - [Whether different realms are causally isolated?](<questions/loka/whether-different-realms-are-causally-isolated.md>)
 - [Whether different realms are spatially isolated?](<questions/loka/whether-different-realms-are-spatially-isolated.md>)
 - [Whether different realms are temporally isolated?](<questions/loka/whether-different-realms-are-temporally-isolated.md>)
@@ -20,8 +19,15 @@
 
 ## Sagga
 
+- [Whether heaven is a physical place?](<questions/loka/sagga/discussion-of-heaven-itself/whether-heaven-is-a-physical-place.md>)
+- [Whether heaven is spatio-temporal?](<questions/loka/sagga/discussion-of-heaven-itself/whether-heaven-is-spatio-temporal.md>)
 - [Whether outsiders can enter heaven?](<questions/loka/sagga/Whether those other than Buddhists can enter heave 1d8e99d0911281cca6dfd7a764e808f1.md>)
 - [Whether there are animals in heaven?](<questions/loka/sagga/whether-there-are-animals-in-heaven.md>)
+
+## Loka <!-- Deva -->
+
+- [Whether devas (gods) are corporeal?](<questions/loka/sagga/discussion-of-heavenly-gods/Are devas (gods) corporeal 1d8e99d0911281199f62d6606c9c0879.md>)
+- [Whether heavenly gods have defilements?](<questions/loka/sagga/discussion-of-heavenly-gods/whether-heavenly-gods-have-defilements.md>)
 
 ## Niraya
 
@@ -94,6 +100,48 @@
 ## Bhaya
 
 - [What is the Buddha's advice for fear?](<questions/akusala/bhaya/what-is-the-buddha's-advice-for-fear.md>)
+- [Whether all beings live with a peripheral fear of death?](<questions/akusala/bhaya/discussion-of-the-object-of-fear/whether-all-beings-live-with-a-peripheral-fear-of-death.md>)
+- [Whether all fear is identical or reducible to fear of death?](<questions/akusala/bhaya/discussion-of-the-object-of-fear/whether-all-fear-is-identical-or-reducible-to-fear-of-death.md>)
+- [Whether all fear should be categorically abandoned?](<questions/akusala/bhaya/discussion-of-the-escape-from-fear/whether-all-fear-should-be-categorically-abandoned.md>)
+- [Whether fear belongs to the defilement of aversion?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-belongs-to-the-defilement-of-aversion.md>)
+- [Whether fear belongs to the defilement of passion?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-belongs-to-the-defilement-of-passion.md>)
+- [Whether fear belongs to the passion of delusion?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-belongs-to-the-passion-of-delusion.md>)
+- [Whether fear causes anger?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-causes-anger.md>)
+- [Whether fear causes madness or insanity?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-causes-madness-or-insanity.md>)
+- [Whether fear causes stinginess?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-causes-stinginess.md>)
+- [Whether fear causes stress and suffering?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-causes-stress-and-suffering.md>)
+- [Whether fear causes trembling?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-causes-trembling.md>)
+- [Whether fear has a skillful counterpart?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-has-a-skillful-counterpart.md>)
+- [Whether fear is a defilement?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-a-defilement.md>)
+- [Whether fear is a general or specific defilement?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-a-general-or-specific-defilement.md>)
+- [Whether fear is a necessary component of the functioning of living beings?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-a-necessary-component-of-the-functioning-of-living-beings.md>)
+- [Whether fear is a rational emotion?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-a-rational-emotion.md>)
+- [Whether fear is an emotion?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-an-emotion.md>)
+- [Whether fear is bodily?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-bodily.md>)
+- [Whether fear is categorically unskillful?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-categorically-unskillful.md>)
+- [Whether fear is distinguished according to its object?](<questions/akusala/bhaya/discussion-of-the-object-of-fear/whether-fear-is-distinguished-according-to-its-object.md>)
+- [Whether fear is mental?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-mental.md>)
+- [Whether fear is similar to conscience and compunction?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-similar-to-conscience-and-compunction.md>)
+- [Whether fear is suffering and stress?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-suffering-and-stress.md>)
+- [Whether fear is the foremost defilement?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-fear-is-the-foremost-defilement.md>)
+- [Whether fear is to be addressed directly?](<questions/akusala/bhaya/discussion-of-the-escape-from-fear/whether-fear-is-to-be-addressed-directly.md>)
+- [Whether fear itself can be feared?](<questions/akusala/bhaya/discussion-of-the-object-of-fear/whether-fear-itself-can-be-feared.md>)
+- [Whether fear necessarily has an object?](<questions/akusala/bhaya/discussion-of-the-object-of-fear/whether-fear-necessarily-has-an-object.md>)
+- [Whether fear produces effects?](<questions/akusala/bhaya/discussion-of-the-effects-of-fear/whether-fear-produces-effects.md>)
+- [Whether the gratification in fear is bodily?](<questions/akusala/bhaya/discussion-of-the-gratification-of-fear/whether-the-gratification-in-fear-is-bodily.md>)
+- [Whether the gratification in fear is mental?](<questions/akusala/bhaya/discussion-of-the-gratification-of-fear/whether-the-gratification-in-fear-is-mental.md>)
+- [Whether there is a gratification in fear?](<questions/akusala/bhaya/discussion-of-the-gratification-of-fear/whether-there-is-a-gratification-in-fear.md>)
+- [Whether there is an escape from fear?](<questions/akusala/bhaya/discussion-of-the-escape-from-fear/whether-there-is-an-escape-from-fear.md>)
+- [Whether there is any distinction between fear and anxiety?](<questions/akusala/bhaya/discussion-of-fear-itself/whether-there-is-any-distinction-between-fear-and-anxiety.md>)
+
+## akusala
+
+
+## Bhaa
+
+- [Whether fear is is caused by its object?](<questions/akusala/bhaya/discussion-of-the-causes-of-fear/whether-fear-is-is-caused-by-its-object.md>)
+- [Whether fear is more symptomatic than fundamental?](<questions/akusala/bhaya/discussion-of-the-causes-of-fear/whether-fear-is-more-symptomatic-than-fundamental.md>)
+- [Whether love, desire, craving, and other such passions cause fear?](<questions/akusala/bhaya/discussion-of-the-causes-of-fear/whether-love-desire-craving-and-other-such-passions-cause-fear.md>)
 
 ## Kilesa
 
@@ -134,7 +182,11 @@
 
 ## Rāga
 
-- [What is rāga?](<questions/akusala/kilesa/raga/what-is-raga.md>)
+- [What is rāga?](<questions/akusala/kilesa/raga/discussion-of-lust-itself/what-is-raga.md>)
+- [Whether lust is to be directly known?](<questions/akusala/kilesa/raga/discussion-of-the-knowledge-of-lust/whether-lust-is-to-be-directly-known.md>)
+- [Whether rāga is aptly translated as 'greed'?](<questions/akusala/kilesa/raga/discussion-of-lust-itself/whether-raga-is-aptly-translated-as-greed.md>)
+- [Whether rāga is aptly translated as 'lust'?](<questions/akusala/kilesa/raga/discussion-of-lust-itself/whether-raga-is-aptly-translated-as-lust.md>)
+- [Whether rāga is aptly translated as 'passion'?](<questions/akusala/kilesa/raga/discussion-of-lust-itself/whether-raga-is-aptly-translated-as-passion.md>)
 
 ## Kāma
 
@@ -168,21 +220,22 @@
 ## Chanda
 
 - [What is the reason why suffering arises over the misfortune of some individuals and not others?](<questions/akusala/kilesa/chanda/what-is-the-reason-why-suffering-arises-over-the-misfortune-of-some-individuals-and-not-others.md>)
-- [Whether a sufficient distinction can be drawn between ordinary function and desire?](<questions/akusala/kilesa/chanda/whether-a-sufficient-distinction-can-be-drawn-between-ordinary-function-and-desire.md>)
-- [Whether a sufficient distinction can be drawn between wholesome and unwholesome desires?](<questions/akusala/kilesa/chanda/whether-a-sufficient-distinction-can-be-drawn-between-wholesome-and-unwholesome-desires.md>)
-- [Whether attachment to desire, not merely desire, is the cause of suffering?](<questions/akusala/kilesa/chanda/whether-attachment-to-desire-not-merely-desire-is-the-cause-of-suffering.md>)
-- [Whether desire cannot be the cause of suffering because certain desires do not cause suffering?](<questions/akusala/kilesa/chanda/whether-desire-cannot-be-the-cause-of-suffering-because-certain-desires-do-not-cause-suffering.md>)
-- [Whether desire includes desire in relation to ordinary functions?](<questions/akusala/kilesa/chanda/whether-desire-includes-desire-in-relation-to-ordinary-functions.md>)
-- [Whether desire includes desire in relation to skillful qualities?](<questions/akusala/kilesa/chanda/whether-desire-includes-desire-in-relation-to-skillful-qualities.md>)
-- [Whether desire is a contradiction?](<questions/akusala/kilesa/chanda/whether-desire-is-a-contradiction.md>)
-- [Whether desire is necessary for human development?](<questions/akusala/kilesa/chanda/whether-desire-is-necessary-for-human-development.md>)
-- [Whether frustrated desire, not desire itself, is the cause of suffering?](<questions/akusala/kilesa/chanda/whether-frustrated-desire-not-desire-itself-is-the-cause-of-suffering.md>)
+- [Whether a sufficient distinction can be drawn between ordinary function and desire?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-a-sufficient-distinction-can-be-drawn-between-ordinary-function-and-desire.md>)
+- [Whether a sufficient distinction can be drawn between wholesome and unwholesome desires?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-a-sufficient-distinction-can-be-drawn-between-wholesome-and-unwholesome-desires.md>)
+- [Whether attachment to desire, not merely desire, is the cause of suffering?](<questions/akusala/kilesa/chanda/discussion-of-the-effects-of-desire/whether-attachment-to-desire-not-merely-desire-is-the-cause-of-suffering.md>)
+- [Whether desire cannot be the cause of suffering because certain desires do not cause suffering?](<questions/akusala/kilesa/chanda/discussion-of-the-effects-of-desire/whether-desire-cannot-be-the-cause-of-suffering-because-certain-desires-do-not-cause-suffering.md>)
+- [Whether desire includes desire in relation to ordinary functions?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-desire-includes-desire-in-relation-to-ordinary-functions.md>)
+- [Whether desire includes desire in relation to skillful qualities?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-desire-includes-desire-in-relation-to-skillful-qualities.md>)
+- [Whether desire is a contradiction?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-desire-is-a-contradiction.md>)
+- [Whether desire is necessary for human development?](<questions/akusala/kilesa/chanda/discussion-of-the-effects-of-desire/whether-desire-is-necessary-for-human-development.md>)
+- [Whether desire pertains to the will?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-desire-pertains-to-the-will.md>)
+- [Whether frustrated desire, not desire itself, is the cause of suffering?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-frustrated-desire-not-desire-itself-is-the-cause-of-suffering.md>)
 - [Whether in the absence of all desires there is any happiness?](<questions/akusala/kilesa/chanda/whether-in-the-absence-of-all-desires-there-is-any-happiness.md>)
 - [Whether one's desires are as alien to them as another's?](<questions/akusala/kilesa/chanda/whether-one's-desires-are-as-alien-to-them-as-another's.md>)
-- [Whether the distinction between wholesome and unwholesome desires adequately accounts for the permissibility of ordinary desires?](<questions/akusala/kilesa/chanda/whether-the-distinction-between-wholesome-and-unwholesome-desires-adequately-accounts-for-the-permissibility-of-ordinary-desires.md>)
+- [Whether the distinction between wholesome and unwholesome desires adequately accounts for the permissibility of ordinary desires?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-the-distinction-between-wholesome-and-unwholesome-desires-adequately-accounts-for-the-permissibility-of-ordinary-desires.md>)
 - [Whether the doctrine of desire is life-negating?](<questions/akusala/kilesa/chanda/whether-the-doctrine-of-desire-is-life-negating.md>)
 - [Whether the indulgence of desire can ever extinguish that desire?](<questions/akusala/kilesa/chanda/whether-the-indulgence-of-desire-can-ever-extinguish-that-desire.md>)
-- [Whether there is a distinction between attachment and desire?](<questions/akusala/kilesa/chanda/whether-there-is-a-distinction-between-attachment-and-desire.md>)
+- [Whether there is a distinction between attachment and desire?](<questions/akusala/kilesa/chanda/discussion-of-desire-itself/whether-there-is-a-distinction-between-attachment-and-desire.md>)
 
 ## Dosa
 
@@ -215,7 +268,8 @@
 
 ## Āsava
 
-- [What are the āsavā?](<questions/akusala/asava/what-are-the-asava.md>)
+- [What are the āsavā?](<questions/akusala/asava/discussion-of-the-effluents-themselves/what-are-the-asava.md>)
+- [Whether there is any distinction between the effluents and the defilements?](<questions/akusala/asava/discussion-of-the-effluents-themselves/whether-there-is-any-distinction-between-the-effluents-and-the-defilements.md>)
 
 ## Jātaka
 
@@ -256,8 +310,17 @@
 
 - [Were the monks odorous?](<questions/gandha/were-the-monks-odorous.md>)
 
-## Rājā
+## Rā
 
+- [Whether all forms of government are equal before the Dhamma?](<questions/raja/whether-all-forms-of-government-are-equal-before-the-dhamma.md>)
+- [Whether it is a duty to rebel against an unjust state?](<questions/raja/whether-it-is-a-duty-to-rebel-against-an-unjust-state.md>)
+- [Whether living beings are innately above the state or law?](<questions/raja/whether-living-beings-are-innately-above-the-state-or-law.md>)
+- [Whether the individuals should be subservient to the state?](<questions/raja/whether-the-individuals-should-be-subservient-to-the-state.md>)
+- [Whether the state is subordinate to the Dhamma?](<questions/raja/whether-the-state-is-subordinate-to-the-dhamma.md>)
+- [Whether the state or government is compatible with the Dhamma?](<questions/raja/whether-the-state-or-government-is-compatible-with-the-dhamma.md>)
+- [Whether the state should be ordained by the Buddha?](<questions/raja/whether-the-state-should-be-ordained-by-the-buddha.md>)
+- [Whether the state's ordinances should be observed by default in the absence of outweighing reasons not to?](<questions/raja/whether-the-states-ordinances-should-be-observed-by-default-in-the-absence-of-outweighing-reasons-not-to.md>)
+- [Whether the state's usage of coercion is compatible with the precepts of non-violence?](<questions/raja/whether-the-states-usage-of-coercion-is-compatible-with-the-precepts-of-non-violence.md>)
 
 ## Ovāda
 
@@ -332,7 +395,7 @@
 - [Whether Nibbāna is mutable?](<questions/nibbana/whether-nibbana-is-mutable.md>)
 - [Whether Nibbāna is natural?](<questions/nibbana/whether-nibbana-is-natural.md>)
 - [Whether Nibbāna is one or many?](<questions/nibbana/whether-nibbana-is-one-or-many.md>)
-- [Whether Nibbāna is peace?](<questions/nibbana/Whether Nibbāna is peace 1d8e99d0911281c39280f4bc75f4c81d.md>)
+- [Whether Nibbāna is peace?](<questions/nibbana/Whether Nibbāna is peace 1d8e99d0911281c39280f4bc75f4c81d.md>)
 - [Whether Nibbāna is peace?](<questions/nibbana/whether-nibbana-is-peace.md>)
 - [Whether Nibbāna is perfect?](<questions/nibbana/whether-nibbana-is-perfect.md>)
 - [Whether Nibbāna is personal?](<questions/nibbana/whether-nibbana-is-personal.md>)
@@ -347,6 +410,7 @@
 - [Whether Nibbāna is the same as the deathless (amata)?](<questions/nibbana/whether-nibbana-is-the-same-as-the-deathless-amata.md>)
 - [Whether Nibbāna is the ultimate sustenance or the end of all sustenance?](<questions/nibbana/whether-nibbana-is-the-ultimate-sustenance-or-the-end-of-all-sustenance.md>)
 - [Whether Nibbāna is truth?](<questions/nibbana/whether-nibbana-is-truth.md>)
+- [Whether Nibbāna is utopic and idealistic?](<questions/nibbana/whether-nibbana-is-utopic-and-idealistic.md>)
 - [Whether Nibbāna leads to enlightenment?](<questions/nibbana/whether-nibbana-leads-to-enlightenment.md>)
 - [Whether Nibbāna precedes awakening?](<questions/nibbana/whether-nibbana-precedes-awakening.md>)
 - [Whether Nibbāna refers to the event of cessation?](<questions/nibbana/whether-nibbana-refers-to-the-event-of-cessation.md>)
@@ -390,6 +454,12 @@
 - [Where the eight precepts originated?](<questions/atthasila/where-the-eight-precepts-originated.md>)
 - [Whether causing or inducing another to engage the activities prohibited by the seventh precept violates the same precept?](<questions/atthasila/whether-causing-or-inducing-another-to-engage-the-activities-prohibited-by-the-seventh-precept-violates-the-same-precept.md>)
 - [Whether the act of turning on or selecting music itself transgresses the seventh precept?](<questions/atthasila/whether-the-act-of-turning-on-or-selecting-music-itself-transgresses-the-seventh-precept.md>)
+
+## Pañcasīla
+
+- [Whether causing another to violate the first precept is a violation of the same precept?](<questions/atthasila/pancasila/whether-causing-another-to-violate-the-first-precept-is-a-violation-of-the-same-precept.md>)
+- [Whether consenting to another violating the first precept is a violation of the same precept?](<questions/atthasila/pancasila/whether-consenting-to-another-violating-the-first-precept-is-a-violation-of-the-same-precept.md>)
+- [Whether speaking in praise of violating the first precept is a violation of the same precept?](<questions/atthasila/pancasila/whether-speaking-in-praise-of-violating-the-first-precept-is-a-violation-of-the-same-precept.md>)
 
 ## Paṭiccasamuppada
 
@@ -549,6 +619,7 @@
 - [Whether an Arahant has motivations?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-has-motivations.md>)
 - [Whether an Arahant has preferences?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-has-preferences.md>)
 - [Whether an Arahant has values?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-has-values.md>)
+- [Whether an Arahant is a Worthy One?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-a-worthy-one.md>)
 - [Whether an Arahant is capable of evil action?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-capable-of-evil-action.md>)
 - [Whether an Arahant is disturbed by the recognition of the suffering of others?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-disturbed-by-the-recognition-of-the-suffering-of-others.md>)
 - [Whether an Arahant is divine?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-divine.md>)
@@ -557,6 +628,7 @@
 - [Whether an Arahant is in the world? How does an Arahant relate to the world?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-in-the-world-how-does-an-arahant-relate-to-the-world.md>)
 - [Whether an Arahant is infallible about the Dhamma?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-infallible-about-the-dhamma.md>)
 - [Whether an Arahant is infallible about the Vināya?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-infallible-about-the-vinaya.md>)
+- [Whether an Arahant is perfect in every respect?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-perfect-in-every-respect.md>)
 - [Whether an Arahant is skillful by nature?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-skillful-by-nature.md>)
 - [Whether an Arahant is skillful for none other than its own sake?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-skillful-for-none-other-than-its-own-sake.md>)
 - [Whether an Arahant is subject to morality?](<questions/satta/ariyapuggala/arahatta/whether-an-arahant-is-subject-to-morality.md>)
@@ -730,24 +802,49 @@
 
 ## Ñāṇa
 
-- [On what basis can inferences to past and future be made?](<questions/nana/on-what-basis-can-inferences-to-past-and-future-be-made.md>)
 - [What is the highest form of knowledge?](<questions/nana/what-is-the-highest-form-of-knowledge.md>)
-- [Whether any knowledge can be incontrovertible?](<questions/nana/whether-any-knowledge-can-be-incontrovertible.md>)
-- [Whether direct knowledge is bodily?](<questions/nana/whether-direct-knowledge-is-bodily.md>)
-- [Whether direct knowledge is cognitive?](<questions/nana/whether-direct-knowledge-is-cognitive.md>)
-- [Whether direct knowledge is fallible?](<questions/nana/whether-direct-knowledge-is-fallible.md>)
-- [Whether direct knowledge is perceptual?](<questions/nana/whether-direct-knowledge-is-perceptual.md>)
+- [Whether a faculty that knows is necessary for knowledge?](<questions/nana/discussion-of-knowledge-itself/whether-a-faculty-that-knows-is-necessary-for-knowledge.md>)
+- [Whether all knowledge should be gained?](<questions/nana/discussion-of-the-objects-of-knowledge/whether-all-knowledge-should-be-gained.md>)
+- [Whether any knowledge can be incontrovertible?](<questions/nana/discussion-of-knowledge-itself/whether-any-knowledge-can-be-incontrovertible.md>)
+- [Whether direct knowledge is bodily?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-bodily.md>)
+- [Whether direct knowledge is cognitive?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-cognitive.md>)
+- [Whether direct knowledge is fallible?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-fallible.md>)
+- [Whether direct knowledge is gained by the faculty of wisdom?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-gained-by-the-faculty-of-wisdom.md>)
+- [Whether direct knowledge is identical to knowledge and vision?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-identical-to-knowledge-and-vision.md>)
+- [Whether direct knowledge is intuitive?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-intuitive.md>)
+- [Whether direct knowledge is perceptual?](<questions/nana/discussion-of-direct-knowledge/whether-direct-knowledge-is-perceptual.md>)
 - [Whether foreknowledge is compatible with free will?](<questions/nana/whether-foreknowledge-is-compatible-with-free-will.md>)
 - [Whether foreknowledge is possible?](<questions/nana/whether-foreknowledge-is-possible.md>)
-- [Whether knowledge and vision is superior to samadhi?](<questions/nana/whether-knowledge-and-vision-is-superior-to-samadhi.md>)
-- [Whether knowledge of the Dhamma is intellectual?](<questions/nana/whether-knowledge-of-the-dhamma-is-intellectual.md>)
-- [Whether one can have direct knowledge of another's mind?](<questions/nana/whether-one-can-have-direct-knowledge-of-another's-mind.md>)
+- [Whether knowledge and vision is superior to samadhi?](<questions/nana/discussion-of-direct-knowledge/whether-knowledge-and-vision-is-superior-to-samadhi.md>)
+- [Whether knowledge can be an object of itself?](<questions/nana/discussion-of-the-objects-of-knowledge/whether-knowledge-can-be-an-object-of-itself.md>)
+- [Whether knowledge enters into the composition of other phenomena?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-enters-into-the-composition-of-other-phenomena.md>)
+- [Whether knowledge is a mode of the intellect or mind?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-a-mode-of-the-intellect-or-mind.md>)
+- [Whether knowledge is a potential?](<questions/nana/whether-knowledge-is-a-potential.md>)
+- [Whether knowledge is an operation?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-an-operation.md>)
+- [Whether knowledge is composite?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-composite.md>)
+- [Whether knowledge is conditioned?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-conditioned.md>)
+- [Whether knowledge is in some sense bodily?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-in-some-sense-bodily.md>)
+- [Whether knowledge is naturally pleasant?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-naturally-pleasant.md>)
+- [Whether knowledge is one or many?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-is-one-or-many.md>)
+- [Whether knowledge necessarily has a subject?](<questions/nana/discussion-of-the-subject-of-knowledge/whether-knowledge-necessarily-has-a-subject.md>)
+- [Whether knowledge necessarily has an object?](<questions/nana/discussion-of-the-objects-of-knowledge/whether-knowledge-necessarily-has-an-object.md>)
+- [Whether knowledge of the Dhamma is intellectual?](<questions/nana/discussion-of-the-objects-of-knowledge/whether-knowledge-of-the-dhamma-is-intellectual.md>)
+- [Whether knowledge permits of degrees?](<questions/nana/discussion-of-knowledge-itself/whether-knowledge-permits-of-degrees.md>)
+- [Whether one can have direct knowledge of another's mind?](<questions/nana/discussion-of-direct-knowledge/whether-one-can-have-direct-knowledge-of-another's-mind.md>)
 - [Whether right knowledge is identical to right wisdom?](<questions/nana/whether-right-knowledge-is-identical-to-right-wisdom.md>)
+- [Whether the heart can be a subject of knowledge?](<questions/nana/whether-the-heart-can-be-a-subject-of-knowledge.md>)
 - [Whether the intuition that sensual pleasures are worthy of craving is undermined by craving?](<questions/nana/whether-the-intuition-that-sensual-pleasures-are-worthy-of-craving-is-undermined-by-craving.md>)
-- [Whether, besides direct knowledge, there are grounds for certain knowledge?](<questions/nana/whether-besides-direct-knowledge-there-are-grounds-for-certain-knowledge.md>)
+- [Whether the subject of knowledge is a faculty?](<questions/nana/discussion-of-the-subject-of-knowledge/whether-the-subject-of-knowledge-is-a-faculty.md>)
+- [Whether the subject of knowledge is one or many?](<questions/nana/discussion-of-the-subject-of-knowledge/whether-the-subject-of-knowledge-is-one-or-many.md>)
+- [Whether there is a distinction between discursive and intellectual knowledge?](<questions/nana/whether-there-is-a-distinction-between-discursive-and-intellectual-knowledge.md>)
+- [Whether there is ever any conflict between knowledge and happiness?](<questions/nana/whether-there-is-ever-any-conflict-between-knowledge-and-happiness.md>)
+- [Whether there is no knowledge that should be gained?](<questions/nana/discussion-of-the-objects-of-knowledge/whether-there-is-no-knowledge-that-should-be-gained.md>)
+- [Whether, besides direct knowledge, there are grounds for certain knowledge?](<questions/nana/discussion-of-direct-knowledge/whether-besides-direct-knowledge-there-are-grounds-for-certain-knowledge.md>)
 
 ## Takka
 
+- [On what basis can inferences to past and future be made?](<questions/nana/takka/on-what-basis-can-inferences-to-past-and-future-be-made.md>)
+- [Whether logic is applicable to the Dhamma?](<questions/nana/takka/whether-logic-is-applicable-to-the-dhamma.md>)
 - [Whether reasoning is integral?](<questions/nana/takka/whether-reasoning-is-integral.md>)
 
 ## Pūjā
@@ -943,6 +1040,7 @@
 - [Whether happiness is identical to wisdom?](<questions/sukha/whether-happiness-is-identical-to-wisdom.md>)
 - [Whether happiness is separable from truth?](<questions/sukha/whether-happiness-is-separable-from-truth.md>)
 - [Whether happiness is speculative or practical?](<questions/sukha/whether-happiness-is-speculative-or-practical.md>)
+- [Whether pleasure causes desire for itself?](<questions/sukha/whether-pleasure-causes-desire-for-itself.md>)
 - [Whether pleasure is subjective or objective?](<questions/sukha/whether-pleasure-is-subjective-or-objective.md>)
 - [Whether sensual craving partly fabricates the pleasure of sensuality?](<questions/sukha/whether-sensual-craving-partly-fabricates-the-pleasure-of-sensuality.md>)
 - [Whether sensual pleasure is the highest form of pleasure?](<questions/sukha/whether-sensual-pleasure-is-the-highest-form-of-pleasure.md>)
@@ -985,6 +1083,10 @@
 - [Whether celibacy is a form of escapism?](<questions/brahmacariya/whether-celibacy-is-a-form-of-escapism.md>)
 - [Whether celibacy is purity?](<questions/brahmacariya/whether-celibacy-is-purity.md>)
 - [Whether celibacy is superior to incelibacy?](<questions/brahmacariya/whether-celibacy-is-superior-to-incelibacy.md>)
+- [Whether life is adequately divided into active and contemplative?](<questions/brahmacariya/discussion-of-the-divisions-of-life/whether-life-is-adequately-divided-into-active-and-contemplative.md>)
+- [Whether life is adequately divided into homeless and household?](<questions/brahmacariya/discussion-of-the-divisions-of-life/whether-life-is-adequately-divided-into-homeless-and-household.md>)
+- [Whether life is suitably divided into active and contemplative?](<questions/brahmacariya/discussion-of-the-divisions-of-life/whether-life-is-suitably-divided-into-active-and-contemplative.md>)
+- [Whether life is suitably divided into homeless and household?](<questions/brahmacariya/discussion-of-the-divisions-of-life/whether-life-is-suitably-divided-into-homeless-and-household.md>)
 - [Whether the contemplative life is inferior to the active life?](<questions/brahmacariya/whether-the-contemplative-life-is-inferior-to-the-active-life.md>)
 - [Whether the foremost goal of the holy life is one's own awakening?](<questions/brahmacariya/whether-the-foremost-goal-of-the-holy-life-is-one's-own-awakening.md>)
 - [Whether the holy life has a goal?](<questions/brahmacariya/whether-the-holy-life-has-a-goal.md>)
@@ -993,10 +1095,12 @@
 
 ## Kāla
 
+- [Whether there is a distinction between what will happen and what is determined to happen?](<questions/kala/whether-there-is-a-distinction-between-what-will-happen-and-what-is-determined-to-happen.md>)
 - [Whether time is tensed or tenseless?](<questions/kala/whether-time-is-tensed-or-tenseless.md>)
 
 ## Pema
 
+- [Whether a Buddha is the highest and ultimate object of love?](<questions/pema/discussion-of-the-objects-of-love/whether-a-buddha-is-the-highest-and-ultimate-object-of-love.md>)
 - [Whether another being can be the direct object of love?](<questions/pema/discussion-of-the-objects-of-love/whether-another-being-can-be-the-direct-object-of-love.md>)
 - [Whether discord is an effect of love?](<questions/pema/discussion-of-the-effects-of-love/whether-discord-is-an-effect-of-love.md>)
 - [Whether envy and covetousness are effects of love?](<questions/pema/discussion-of-the-effects-of-love/whether-envy-and-covetousness-are-effects-of-love.md>)
@@ -1041,6 +1145,33 @@
 ## Ariyapariyesanā
 
 - [What is the ariyapariyesanā (noble search)?](<questions/ariyapariyesana/what-is-the-ariyapariyesana-noble-search.md>)
+
+## sampanna
+
+
+## Sampanna
+
+- [Whether Nibbāna conditions perfection?](<questions/sampanna/discussion-of-the-causes-of-perfection/whether-nibbana-conditions-perfection.md>)
+- [Whether complete perfection is reversible?](<questions/sampanna/discussion-of-perfection-itself/whether-complete-perfection-is-reversible.md>)
+- [Whether partial perfection is reversible?](<questions/sampanna/discussion-of-perfection-itself/whether-partial-perfection-is-reversible.md>)
+- [Whether perfection applies exclusively to living beings?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-applies-exclusively-to-living-beings.md>)
+- [Whether perfection can be known?](<questions/sampanna/discussion-of-the-knowledge-of-perfection/whether-perfection-can-be-known.md>)
+- [Whether perfection conditions the attainment of Nibbāna?](<questions/sampanna/discussion-of-the-effects-of-perfection/whether-perfection-conditions-the-attainment-of-nibbana.md>)
+- [Whether perfection has any drawbacks?](<questions/sampanna/discussion-of-the-drawbacks-of-perfection/whether-perfection-has-any-drawbacks.md>)
+- [Whether perfection is a means or instrument?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-a-means-or-instrument.md>)
+- [Whether perfection is a state?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-a-state.md>)
+- [Whether perfection is an end?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-an-end.md>)
+- [Whether perfection is caused or conditioned?](<questions/sampanna/discussion-of-the-causes-of-perfection/whether-perfection-is-caused-or-conditioned.md>)
+- [Whether perfection is identical to Nibbāna?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-identical-to-nibbana.md>)
+- [Whether perfection is individual or social?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-individual-or-social.md>)
+- [Whether perfection is known directly or inferentially?](<questions/sampanna/discussion-of-the-knowledge-of-perfection/whether-perfection-is-known-directly-or-inferentially.md>)
+- [Whether perfection is one or many?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-one-or-many.md>)
+- [Whether perfection is possible or exists?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-possible-or-exists.md>)
+- [Whether perfection is private or public?](<questions/sampanna/discussion-of-perfection-itself/whether-perfection-is-private-or-public.md>)
+- [Whether perpetual celibacy is required for perfection?](<questions/sampanna/discussion-of-the-causes-of-perfection/whether-perpetual-celibacy-is-required-for-perfection.md>)
+- [Whether the knowledge of perfection is continuous and uninterrupted?](<questions/sampanna/discussion-of-the-knowledge-of-perfection/whether-the-knowledge-of-perfection-is-continuous-and-uninterrupted.md>)
+- [Whether there are degrees of perfection?](<questions/sampanna/discussion-of-perfection-itself/whether-there-are-degrees-of-perfection.md>)
+- [Whether there is any gratification in perfection?](<questions/sampanna/discussion-of-the-gratification-of-perfection/whether-there-is-any-gratification-in-perfection.md>)
 
 ## Phassa
 
@@ -1092,6 +1223,9 @@
 ## Ahiṃsā
 
 - [Whether a person who is truly happy can commit intentional acts of violence?](<questions/kusala/ahimsa/whether-a-person-who-is-truly-happy-can-commit-intentional-acts-of-violence.md>)
+- [Whether mutually consensual physical aggression caters to the primal and lower instincts of living beings?](<questions/kusala/ahimsa/whether-mutually-consensual-physical-aggression-caters-to-the-primal-and-lower-instincts-of-living-beings.md>)
+- [Whether mutually consensual physical aggression fuels aversion?](<questions/kusala/ahimsa/whether-mutually-consensual-physical-aggression-fuels-aversion.md>)
+- [Whether mutually consensual physical aggression, such as boxing, is violence nonetheless?](<questions/kusala/ahimsa/whether-mutually-consensual-physical-aggression-such-as-boxing-is-violence-nonetheless.md>)
 
 ## Upekkhā
 
@@ -1161,6 +1295,11 @@
 ## Abyāpāda
 
 - [What is non–ill will?](<questions/kusala/abyapada/what-is-non–ill-will.md>)
+
+## Upāya
+
+- [Whether directing expressions of anger at inanimate objects can be skillful?](<questions/upaya/whether-directing-expressions-of-anger-at-inanimate-objects-can-be-skillful.md>)
+- [Whether expressing anger through loud verbal expressions not directed at any living being can be skillful?](<questions/upaya/whether-expressing-anger-through-loud-verbal-expressions-not-directed-at-any-living-being-can-be-skillful.md>)
 
 ## nibbida
 
@@ -1233,16 +1372,16 @@
 
 ## Cetanā
 
-- [What is sañcetanā?](<questions/dhamma/cetana/What is sañcetanā 1dbe99d09112806c9b64fc47faecb1d8.md>)
 - [What is sañcetanā?](<questions/dhamma/cetana/what-is-sancetana.md>)
 - [Whether all intention is directed to an end?](<questions/dhamma/cetana/whether-all-intention-is-directed-to-an-end.md>)
 - [Whether animals exercise intention?](<questions/dhamma/cetana/whether-animals-exercise-intention.md>)
-- [Whether free will is valuable?](<questions/dhamma/cetana/whether-free-will-is-valuable.md>)
-- [Whether leeway freedom is necessary for free will?](<questions/dhamma/cetana/whether-leeway-freedom-is-necessary-for-free-will.md>)
-- [Whether the value of free will exceeds consequent evil?](<questions/dhamma/cetana/whether-the-value-of-free-will-exceeds-consequent-evil.md>)
+- [Whether free will is a power?](<questions/dhamma/cetana/discussion-of-free-will/whether-free-will-is-a-power.md>)
+- [Whether free will is valuable?](<questions/dhamma/cetana/discussion-of-free-will/whether-free-will-is-valuable.md>)
+- [Whether leeway freedom is necessary for free will?](<questions/dhamma/cetana/discussion-of-free-will/whether-leeway-freedom-is-necessary-for-free-will.md>)
+- [Whether the value of free will exceeds consequent evil?](<questions/dhamma/cetana/discussion-of-free-will/whether-the-value-of-free-will-exceeds-consequent-evil.md>)
 - [Whether the will is exclusively skillful?](<questions/dhamma/cetana/whether-the-will-is-exclusively-skillful.md>)
 - [Whether the will is innately skillful?](<questions/dhamma/cetana/whether-the-will-is-innately-skillful.md>)
-- [Whether true free will consists in the inability to do evil?](<questions/dhamma/cetana/whether-true-free-will-consists-in-the-inability-to-do-evil.md>)
+- [Whether true free will consists in the inability to do evil?](<questions/dhamma/cetana/discussion-of-free-will/whether-true-free-will-consists-in-the-inability-to-do-evil.md>)
 
 ## Citta
 
@@ -1310,7 +1449,9 @@
 - [Whether in some sense the path concerns self-search?](<questions/magga/whether-in-some-sense-the-path-concerns-self-search.md>)
 - [Whether the noble eightfol path is the ultimate end?](<questions/magga/whether-the-noble-eightfol-path-is-the-ultimate-end.md>)
 - [Whether the noble eightfold path is an end?](<questions/magga/whether-the-noble-eightfold-path-is-an-end.md>)
+- [Whether the noble eightfold path is conditioned?](<questions/magga/whether-the-noble-eightfold-path-is-conditioned.md>)
 - [Whether the noble eightfold path is linear?](<questions/magga/whether-the-noble-eightfold-path-is-linear.md>)
+- [Whether the noble eightfold path is the ultimate end?](<questions/magga/whether-the-noble-eightfold-path-is-the-ultimate-end.md>)
 - [Whether the path involves bodily development?](<questions/magga/whether-the-path-involves-bodily-development.md>)
 - [Whether the path is identical for different individuals?](<questions/magga/whether-the-path-is-identical-for-different-individuals.md>)
 - [Whether the path is to be abandoned?](<questions/magga/whether-the-path-is-to-be-abandoned.md>)
@@ -1363,20 +1504,31 @@
 - [Whether the consumption of intoxicants is intrinsically unethical?](<questions/magga/sila/whether-the-consumption-of-intoxicants-is-intrinsically-unethical.md>)
 - [Whether the conusummation of virtue is virtue for its own sake?](<questions/magga/sila/whether-the-conusummation-of-virtue-is-virtue-for-its-own-sake.md>)
 - [Whether the lunar observance should be observed?](<questions/magga/sila/whether-the-lunar-observance-should-be-observed.md>)
+- [Whether there can be virtue in one with defilement?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-there-can-be-virtue-in-one-with-defilement.md>)
+- [Whether violating the precepts to prevent greater violations of the precepts in oneself is permissible?](<questions/magga/sila/whether-violating-the-precepts-to-prevent-greater-violations-of-the-precepts-in-oneself-is-permissible.md>)
+- [Whether violating the precepts to prevent greater violations of the precepts in others is permissible?](<questions/magga/sila/whether-violating-the-precepts-to-prevent-greater-violations-of-the-precepts-in-others-is-permissible.md>)
+- [Whether virtue can exist if there are no defilements?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-virtue-can-exist-if-there-are-no-defilements.md>)
+- [Whether virtue can exist in someone without defilement?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-virtue-can-exist-in-someone-without-defilement.md>)
+- [Whether virtue fundamentally pertains to the defilements?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-virtue-fundamentally-pertains-to-the-defilements.md>)
+- [Whether virtue is a defilement?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-virtue-is-a-defilement.md>)
 - [Whether virtue is one or many?](<questions/magga/sila/whether-virtue-is-one-or-many.md>)
 - [Whether virtue is practiced for one's own sake or that of others?](<questions/magga/sila/whether-virtue-is-practiced-for-one's-own-sake-or-that-of-others.md>)
+- [Whether virtues can be distinguished according to different defilements?](<questions/magga/sila/discussion-of-virtue-in-relation-to-the-defilements/whether-virtues-can-be-distinguished-according-to-different-defilements.md>)
+
+## magga
+
 
 ## Dāna
 
-- [What are the reasons for giving?](<questions/magga/sila/dana/what-are-the-reasons-for-giving.md>)
-- [What is the ultimate form of generosity?](<questions/magga/sila/dana/what-is-the-ultimate-form-of-generosity.md>)
-- [Whether a donation made by an immoral person is fruitful?](<questions/magga/sila/dana/whether-a-donation-made-by-an-immoral-person-is-fruitful.md>)
-- [Whether generosity is identical to altruism?](<questions/magga/sila/dana/whether-generosity-is-identical-to-altruism.md>)
-- [Whether generosity is identical to charity?](<questions/magga/sila/dana/whether-generosity-is-identical-to-charity.md>)
-- [Whether generosity is identical to patronage and benefaction?](<questions/magga/sila/dana/whether-generosity-is-identical-to-patronage-and-benefaction.md>)
-- [Whether generosity should be effective?](<questions/magga/sila/dana/whether-generosity-should-be-effective.md>)
-- [Whether it is permissible to make donations to other sects and religions?](<questions/magga/sila/dana/whether-it-is-permissible-to-make-donations-to-other-sects-and-religions.md>)
-- [Whether the Buddha encouraged donations to be made exclusively to him and his disciples?](<questions/magga/sila/dana/whether-the-buddha-encouraged-donations-to-be-made-exclusively-to-him-and-his-disciples.md>)
+- [What are the reasons for giving?](<questions/magga/sila/dana/discussion-of-the-causes-of-giving/what-are-the-reasons-for-giving.md>)
+- [What is the ultimate form of generosity?](<questions/magga/sila/dana/discussion-of-giving-itself/what-is-the-ultimate-form-of-generosity.md>)
+- [Whether a donation made by an immoral person is fruitful?](<questions/magga/sila/dana/discussion-of-givers/whether-a-donation-made-by-an-immoral-person-is-fruitful.md>)
+- [Whether generosity is identical to altruism?](<questions/magga/sila/dana/discussion-of-giving-itself/whether-generosity-is-identical-to-altruism.md>)
+- [Whether generosity is identical to charity?](<questions/magga/sila/dana/discussion-of-giving-itself/whether-generosity-is-identical-to-charity.md>)
+- [Whether generosity is identical to patronage and benefaction?](<questions/magga/sila/dana/discussion-of-giving-itself/whether-generosity-is-identical-to-patronage-and-benefaction.md>)
+- [Whether generosity should be effective?](<questions/magga/sila/dana/discussion-of-giving-itself/whether-generosity-should-be-effective.md>)
+- [Whether it is permissible to make donations to other sects and religions?](<questions/magga/sila/dana/discussion-of-the-recipients-of-giving/whether-it-is-permissible-to-make-donations-to-other-sects-and-religions.md>)
+- [Whether the Buddha encouraged donations to be made exclusively to him and his disciples?](<questions/magga/sila/dana/discussion-of-the-recipients-of-giving/whether-the-buddha-encouraged-donations-to-be-made-exclusively-to-him-and-his-disciples.md>)
 
 ## Bhikkhu
 
@@ -1416,10 +1568,11 @@
 - [Did the Buddha dispraise all asceticism?](<questions/magga/sila/tapas/did-the-buddha-dispraise-all-asceticism.md>)
 - [Did the Buddha praise all asceticism?](<questions/magga/sila/tapas/did-the-buddha-praise-all-asceticism.md>)
 - [Did the Buddha praise the observance of the thirteen ascetic practices?](<questions/magga/sila/tapas/did-the-buddha-praise-the-observance-of-the-thirteen-ascetic-practices.md>)
-- [What are the thirteen ascetic practices (dhutaṅgā)?](<questions/magga/sila/tapas/what-are-the-thirteen-ascetic-practices-dhutanga.md>)
+- [What are the thirteen ascetic practices (dhutaṅgā)?](<questions/magga/sila/tapas/discussion-of-asceticism-itself/what-are-the-thirteen-ascetic-practices-dhutanga.md>)
+- [Whether asceticism consists in physical austerities?](<questions/magga/sila/tapas/discussion-of-asceticism-itself/whether-asceticism-consists-in-physical-austerities.md>)
 - [Whether it is necessary to eat one meal per day?](<questions/magga/sila/tapas/whether-it-is-necessary-to-eat-one-meal-per-day.md>)
 - [Whether the observance of the thirteen dhutaṅgā is necessary for the attainment Arahatta?](<questions/magga/sila/tapas/whether-the-observance-of-the-thirteen-dhutanga-is-necessary-for-the-attainment-arahatta.md>)
-- [Whether there is a distinction between asceticism and self-mortification?](<questions/magga/sila/tapas/whether-there-is-a-distinction-between-asceticism-and-self-mortification.md>)
+- [Whether there is a distinction between asceticism and self-mortification?](<questions/magga/sila/tapas/discussion-of-asceticism-itself/whether-there-is-a-distinction-between-asceticism-and-self-mortification.md>)
 
 ## Ājīva
 
@@ -1475,9 +1628,6 @@
 - [Whether itinerancy is beneficial?](<questions/magga/sila/vihara/whether-itinerancy-is-beneficial.md>)
 - [Whether stability of residence has drawbacks?](<questions/magga/sila/vihara/whether-stability-of-residence-has-drawbacks.md>)
 - [Whether stability of residence is beneficial?](<questions/magga/sila/vihara/whether-stability-of-residence-is-beneficial.md>)
-
-## magga
-
 
 ## Sammādiṭṭhi
 
@@ -1545,17 +1695,25 @@
 
 - [Whether anything is eternal?](<questions/magga/panna/ditthi/sassata/whether-anything-is-eternal.md>)
 
+## Pañña
+
+- [With what qualities is someone described as a great man?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/with-what-qualities-is-someone-described-as-a-great-man.md>)
+
 ## Paññā
 
-- [What is wisdom?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/what-is-wisdom.md>)
-- [Whether consummation in concentration is necessary for consummation in discernment?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-consummation-in-concentration-is-necessary-for-consummation-in-discernment.md>)
-- [Whether consummation in virtue is necessary for consummation in discernment?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-consummation-in-virtue-is-necessary-for-consummation-in-discernment.md>)
-- [Whether wisdom exists in the body or mind?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-wisdom-exists-in-the-body-or-mind.md>)
-- [Whether wisdom is a faculty?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-wisdom-is-a-faculty.md>)
-- [Whether wisdom is intellectual?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-wisdom-is-intellectual.md>)
-- [Whether wisdom is mental?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-wisdom-is-mental.md>)
-- [Whether wisdom is worldly or mundane?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/whether-wisdom-is-worldly-or-mundane.md>)
-- [With what qualities is someone described as a great man?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/with-what-qualities-is-someone-described-as-a-great-man.md>)
+- [What is wisdom?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/what-is-wisdom.md>)
+- [Whether consummation in concentration is necessary for consummation in discernment?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-the-causes-of-wisdom/whether-consummation-in-concentration-is-necessary-for-consummation-in-discernment.md>)
+- [Whether consummation in virtue is necessary for consummation in discernment?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-the-causes-of-wisdom/whether-consummation-in-virtue-is-necessary-for-consummation-in-discernment.md>)
+- [Whether fear is the beginning of wisdom?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-the-causes-of-wisdom/whether-fear-is-the-beginning-of-wisdom.md>)
+- [Whether suffering is the beginning of wisdom?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-the-causes-of-wisdom/whether-suffering-is-the-beginning-of-wisdom.md>)
+- [Whether there is a distinction between wisdom and consciousness?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-there-is-a-distinction-between-wisdom-and-consciousness.md>)
+- [Whether wisdom can be present in someone with defilement?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-can-be-present-in-someone-with-defilement.md>)
+- [Whether wisdom exists in the body or mind?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-exists-in-the-body-or-mind.md>)
+- [Whether wisdom is a faculty?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-a-faculty.md>)
+- [Whether wisdom is intellectual?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-intellectual.md>)
+- [Whether wisdom is mental?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-mental.md>)
+- [Whether wisdom is practical or speculative?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-practical-or-speculative.md>)
+- [Whether wisdom is worldly or mundane?](<questions/magga/panna/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-worldly-or-mundane.md>)
 
 ## Sassatavāda
 
@@ -1749,6 +1907,8 @@
 ## Mettā
 
 - [Whether an Arahant necessarily has perfected mettā?](<questions/magga/samadhi/brahmavihara/metta/whether-an-arahant-necessarily-has-perfected-metta.md>)
+- [Whether goodwill for another is solely an act of reason?](<questions/magga/samadhi/brahmavihara/metta/whether-goodwill-for-another-is-solely-an-act-of-reason.md>)
+- [Whether metta is limitless?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-is-limitless.md>)
 - [Whether mettā admits of degrees?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-admits-of-degrees.md>)
 - [Whether mettā can be cultivated without prior ethical development?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-can-be-cultivated-without-prior-ethical-development.md>)
 - [Whether mettā can be developed in the worldly life, or only in seclusion?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-can-be-developed-in-the-worldly-life-or-only-in-seclusion.md>)
@@ -1770,6 +1930,7 @@
 - [Whether mettā perfects or is perfected by virtue?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-perfects-or-is-perfected-by-virtue.md>)
 - [Whether mettā perfects or is perfected by wisdom?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-perfects-or-is-perfected-by-wisdom.md>)
 - [Whether mettā should first be directed towards oneself or others?](<questions/magga/samadhi/brahmavihara/metta/whether-metta-should-first-be-directed-towards-oneself-or-others.md>)
+- [Whether suffering and stress can touch one whose mind is developed in mettā?](<questions/magga/samadhi/brahmavihara/metta/whether-suffering-and-stress-can-touch-one-whose-mind-is-developed-in-metta.md>)
 
 ## Samphappalāpa
 

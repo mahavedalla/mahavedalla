@@ -13,6 +13,7 @@
 - Avijjā
 - Aññatitthiya
 - Aṭṭhasīla
+- Bhaa
 - Bhava
 - Bhaya
 - Bhikkhu
@@ -56,6 +57,7 @@
 - Kāma
 - Kāya
 - Loka
+- Loka <!-- Deva -->
 - Magga
 - Manas
 - Maraṇa
@@ -79,7 +81,9 @@
 - Pariyatti
 - Pariñña
 - Passaddhi
+- Pañcasīla
 - Pañha
+- Pañña
 - Paññā
 - Paṭiccasamuppada
 - Paṭinissagga
@@ -95,14 +99,15 @@
 - Pīti
 - Pūjā
 - Rata
+- Rā
 - Rāga
-- Rājā
 - Sacca
 - Saddhā
 - Sagga
 - Samaggī
 - Samatha
 - Sammādiṭṭhi
+- Sampanna
 - Samphappalāpa
 - Samādhi
 - Santi
@@ -133,6 +138,7 @@
 - Uposatha
 - Upādana
 - Upāsaka
+- Upāya
 - Vamsa
 - Vedalla
 - Vedanā
@@ -144,8 +150,10 @@
 - Viveka
 - Vācā
 - Vāda
+- akusala
 - magga
 - nibbida
+- sampanna
 - sarana
 - satta
 - vinaya
