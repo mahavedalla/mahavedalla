@@ -2,7 +2,7 @@
 Question: Whether an Arahant can delight?
 Category: Arahatta
 Tags: 
-Sutta References: 
+Sutta References: DHP 187
 Date Entered: 9-19-25
 Last Revised: 9-19-25
 Review Status: Not started

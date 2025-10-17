@@ -1,6 +1,6 @@
 ---
 Question: Whether the individuals should be subservient to the state?
-Category: Rā
+Category: Rājā
 Tags: 
 Sutta References: 
 Date Entered: 10-11-25
