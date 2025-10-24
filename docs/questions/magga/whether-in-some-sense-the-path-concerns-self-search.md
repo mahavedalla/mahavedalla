@@ -2,7 +2,7 @@
 Question: Whether in some sense the path concerns self-search?
 Category: Magga
 Tags: 
-Sutta References: 
+Sutta References: Mv.; MN 75; Thag 8.1
 Date Entered: 10-5-25
 Last Revised: 10-5-25
 Review Status: Not started
@@ -32,6 +32,6 @@ On the contrary, it is written:
 >
 >“It’s better that we search for ourselves.”
 
-I answer that while an integral part and fruit of the path is the abandonment of all perception of self, insofar as the following not be construed to make any ontological commitment about the actual existence of a self, soul, or other, we may say in many ways that the path concerns self-search. Namely, insofar as the path involves solitude, abandoning external pleasures (i.e., sensual pleasures), developing internal pleasures (i.e., virtue, concentration, wisdom, Nibbāna), focusing internally on the development of the mind, etc., to that extent the path in some sense concerns self-search.
+I answer that while an integral part and fruit of the path is the abandonment of all perception of self, insofar as the following not be construed to make any ontological commitment about the actual existence of a self, soul, or other, we may say in many ways that the path concerns self-search. Namely, insofar as the path involves solitude, abandoning external pleasures (i.e., sensual pleasures), developing internal pleasures (i.e., virtue, concentration, wisdom, Nibbāna), focusing internally on the development of the mind, etc., to that extent the path concerns self-search.
 
 -->

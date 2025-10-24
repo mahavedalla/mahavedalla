@@ -1,5 +1,6 @@
 - Abyākata
 - Abyāpāda
+- Adhiṭṭhāna
 - Ahiṃsā
 - Akusala
 - Anabhijjhā
@@ -31,6 +32,7 @@
 - Cīvara
 - Deva
 - Dhamma
+- Dhana
 - Diṭṭhi
 - Dosa
 - Dukkha
@@ -49,6 +51,7 @@
 - Kamma
 - Kathā
 - Khanda
+- Khanti
 - Kilesa
 - Kristavāda
 - Kula
@@ -61,6 +64,7 @@
 - Magga
 - Manas
 - Maraṇa
+- Marriage
 - Methuna
 - Mettā
 - Micchādiṭṭhi
@@ -89,6 +93,7 @@
 - Paṭinissagga
 - Paṭipadā
 - Pema
+- Perseverance
 - Phala
 - Phassa
 - Piṇḍapāta
@@ -99,8 +104,8 @@
 - Pīti
 - Pūjā
 - Rata
-- Rā
 - Rāga
+- Rājā
 - Sacca
 - Saddhā
 - Sagga
@@ -118,6 +123,7 @@
 - Satipaṭṭhāna
 - Satta
 - Satthā
+- Saṃyojana
 - Saṅgha
 - Saṅkhata
 - Saṅkhāra
@@ -140,6 +146,7 @@
 - Upāsaka
 - Upāya
 - Vamsa
+- Vatthu
 - Vedalla
 - Vedanā
 - Vihāra
@@ -152,6 +159,7 @@
 - Vāda
 - akusala
 - magga
+- nibbana
 - nibbida
 - sampanna
 - sarana

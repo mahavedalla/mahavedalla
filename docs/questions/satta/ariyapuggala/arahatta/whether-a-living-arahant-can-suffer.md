@@ -2,7 +2,7 @@
 Question: Whether a living Arahant can suffer?
 Category: Arahatta
 Tags: arahant; cessation; dukkha; dukkhanirodha; suffering
-Sutta References: AN 10.27; AN 10.81
+Sutta References: AN 10.27; AN 10.81; Thag 16.1
 Date Entered: 7-15-25
 Last Revised: 7-15-25
 Review Status: Not started
