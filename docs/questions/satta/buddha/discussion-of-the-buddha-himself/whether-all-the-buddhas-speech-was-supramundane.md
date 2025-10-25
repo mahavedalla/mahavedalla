@@ -1,5 +1,5 @@
 ---
-Question: Whether all the Buddha speech was supramundane?
+Question: Whether all the Buddha's speech was supramundane?
 Category: Buddha
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether all the Buddha speech was supramundane?
+# Whether all the Buddha's speech was supramundane?
 
 ## Bibliography
 

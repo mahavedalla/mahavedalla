@@ -1,5 +1,5 @@
 ---
-Question: Whether the Buddha sexually active before his going forth?
+Question: Whether the Buddha was sexually active before his going forth?
 Category: Buddha
 Tags:
 Sutta References:
