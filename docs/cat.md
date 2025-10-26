@@ -68,6 +68,7 @@
 - Methuna
 - Mettā
 - Micchādiṭṭhi
+- Misc
 - Mitta
 - Moggallāna
 - Māra
@@ -99,6 +100,7 @@
 - Piṇḍapāta
 - Puggala
 - Puñña
+- Pāpa
 - Pārājika
 - Pāṇātipāta
 - Pīti
@@ -140,6 +142,7 @@
 - Tathatā
 - Taṇhā
 - Tiracchāna
+- Upasampadā
 - Upekkhā
 - Uposatha
 - Upādana
@@ -158,13 +161,16 @@
 - Vācā
 - Vāda
 - akusala
+- atthasila
 - magga
+- naya
 - nibbana
 - nibbida
+- papa
 - sampanna
+- sangha
 - sarana
 - satta
-- vinaya
 - vinnana
 - Ñāya
 - Ñāṇa
