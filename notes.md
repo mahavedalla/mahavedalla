@@ -1,3 +1,0 @@
-It is at this juncture that I consider a few issues: whether or not the project should be neutral or opinionated; whether or not the project should focus exclusively on the dhammavinaya of the Canon or answer other questions as well; whether it should be oriented towards beginners.
-
-Regarding the first two, I think it could be both. There could be an additional section to all of the neutral work that gives an opinion.
