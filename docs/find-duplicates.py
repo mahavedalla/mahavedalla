@@ -18,10 +18,12 @@ def find_duplicates():
         f.write("# Duplicate Filenames\n\n")
         
         duplicates_found = False
+        i = 1
         for filename, paths in sorted(filenames.items()):
             if len(paths) > 1:
                 duplicates_found = True
-                f.write(f"## {filename} ({len(paths)} copies)\n\n")
+                f.write(f"## {i}. {filename} ({len(paths)} copies)\n\n")
+                i += 1
                 for path in sorted(paths):
                     f.write(f"- {path}\n")
                 f.write("\n")

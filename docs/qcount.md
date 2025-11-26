@@ -61,9 +61,9 @@ Count:
 11-10-25: 2048
 11-11-25: 2056
 11-22-25: 2117
-11-23-25: 2099 (had to delete lots of duplicates)
+11-23-25: 2099 (duplicates deleted)
 11-24-25: 2113
-11-25-25: 2100
+11-25-25: 2093 (duplicates deleted)
 
 
 
