@@ -7,7 +7,7 @@ from pathlib import Path
 # Default metadata for the new entry
 # Automatically set the date fields to the current date and review status to "Not started"
 
-def create_new_entry(filename, question, category, directory="en/questions/dhamma"):
+def create_new_entry(filename, question, category, directory="pali"):
     
     # The raw template string with placeholders for metadata
     DEFAULT_METADATA = {
@@ -21,7 +21,8 @@ def create_new_entry(filename, question, category, directory="en/questions/dhamm
     "Level": "",
     "Priority": "",
     "Number": "",
-    "Draft": "true"
+    "Draft": "true",
+    "Language": "Pāḷi"
     }
 
     TEMPLATE = "---\n" + "\n".join(f"{key}: {value}" for key, value in DEFAULT_METADATA.items()) + "\n---\n\n"
@@ -33,7 +34,7 @@ def create_new_entry(filename, question, category, directory="en/questions/dhamm
     if os.path.exists(filename):
         print(f"File already exists: {filename}")
         return
-
+    print("filename: ", filename)
     # Write the template to the new file
     with open(filename, "w") as f:
         f.write(TEMPLATE + "# " + question + "\n\n## Bibliography\n\n<!-- \n\nNotes:\n\n\n\n-->")
@@ -61,7 +62,7 @@ if __name__ == "__main__":
     # Receive user input for file name and directory
     question = input("Enter new question: ")
     # filename = clean_filename(question)
-    filename = os.path.join("en/questions/dhamma", clean_filename(question))
+    filename = os.path.join("pali", clean_filename(question))
     category = input("Category: ") or "questions"
 
     # Format directory name based on category
