@@ -1,6 +1,6 @@
 ---
 Question: What perceptions culminate in Nibbāna?
-Category: Bhāvana
+Category: Khanda
 Sutta References: AN 7.49
 Tags: Saññā
 Date Entered: April 1, 2025
