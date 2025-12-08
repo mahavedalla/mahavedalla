@@ -15,18 +15,18 @@ Language: Pāḷi
 
 # Yadi sabbesaṃ chandānaṃ abhāvasmiṃ koci sukho atthi?
 
-Pathamaṃ: Na sabbesaṃ chandānaṃ abhavasmiṃ sukho bhaveyya dissati. Kiñhi sukho jānāma, yo chandāssādato ajāto; tasmā, sabbesaṃ chandānaṃ abhāvasmiṃ, kuto sukho?
+Paṭhamaṃ: Na sabbesaṃ chandānaṃ abhāvasmiṃ sukho bhaveyya dissati. Kiṃ hi sukho jānāma, yo chandassādena jātena aññatra; tasmā, sabbesaṃ chandānaṃ abhāvasmiṃ, kuto sukho?
 
-Atthi sukho, vuttaṃ h'etaṃ: 
+Atthi kho sukho, vuttaṃ h'etaṃ: 
 
-"susukhaṃ vata jīvāma,\
-ussukesu anussukā,\
-ussukesu manassesu,\
-viharāma anussukā."ti (DHP 199)
+"yañca kāmasukhaṃ loke,\
+yañcidaṃ diviyaṃ sukhaṃ,\
+taṇhakkhayasukhassete,\
+kalaṃ nāgghanti soḷasi"nti. (UD 12)
 
-ca pana etaṃ bhagavatā ca ariyasāvakehi ca anekapariyāyena desitaṃ, yaṃ na nicchandattaṃ sukhena vinā. Punacaparaṃ, nicchandattaṃ eva pāṇīnaṃ uttarisukho.
+Idaṃ pana bhagavatā ca ariyasāvakehi ca anekapariyāyena desitaṃ, yaṃ na nicchandattaṃ, tasmiṃ na sukhassa abhāvo. Punacaparaṃ, nicchandattaṃ eva pāṇānaṃ uttarisukho.
 
-Pathamaṃ: Addhā, pāṇīnaṃ sukho yebbhuyyena vā chandāssādato jāto, vā sabbaso'va, ca pana yasmā yo sukho chandāssādasaṅgaho (kilesachando), so dukkhena ābādhito, yathābhāsitaṃ "Yadi chandahetuko dukkho?"tiādi kathasmiṃ; tasmā tassa sukhassa anto, chandakkhayahetu, ekantasukho hoti. Yathāha
+Paṭhamaṃ: Pāṇīnampi sukho yebbhuyyena vā chandassādaja, vā sabbaso'va, ca pana yasmā yo sukho chandassādajo, so sadukkho, yathābhāsitaṃ pubbe vā "Yadi chandahetuko dukkho?"ti kathasmiṃ, "kāmapaṭisandhisukhino somanassānuyogan"tiādiṃ sandhāya, yathāha vā "anuyogo ca kho, sadukkho eso dhammo" (MN 139) apaṭhitātthāya; tasmā tassa sukhassa anto, chandakkhayahetu, ekantasukho hoti.
 
 ## Bibliography
 

@@ -1,6 +1,6 @@
 ---
 Question: Did the Buddha praise all meditation?
-Category: Bhāvana
+Category: Buddha
 Tags:
 Sutta References:
 Date Entered: March 18, 2025

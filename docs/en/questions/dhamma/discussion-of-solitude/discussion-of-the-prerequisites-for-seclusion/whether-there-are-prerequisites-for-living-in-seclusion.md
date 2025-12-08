@@ -2,7 +2,7 @@
 Question: Whether there are prerequisites for to be qualified to live in seclusion?
 Category: Viveka
 Tags: seclusion; solitude
-Sutta References: DN 1; DN 2; MN 4; MN 27; MN 38; MN 94; MN 101; MN 125; AN 4.198; AN 4.262; AN 6.68; AN 10.99; UD 4.1
+Sutta References: DN 1; DN 2; MN 4; MN 27; MN 38; MN 94; MN 101; MN 125; AN 3.93; AN 4.198; AN 4.262; AN 6.68; AN 10.99; UD 4.1
 Date Entered: 8-9-25
 Last Revised: 8-9-25
 Review Status: Not started
@@ -12,11 +12,27 @@ Number:
 Draft: true
 ---
 
-# Whether there are prerequisites for living in seclusion?
+# Whether there are qualities, unendowed with which one is not fit to live in seclusion?
 
-## Introduction
+Question: Whether there are qualities, unendowed with which one is not fit to live in seclusion?
+Answer: There are.
 
-"Living in seclusion" is assumed in this article to mean "qualified for living in seclusion". According to the Canon, there are at least eight related prerequisites for living in seclusion:
+## Section on Existence
+
+First, it will be established that there are such qualities, and after those qualities will be analyzed.
+
+That there are such qualities is to be known in four ways: the Discourse on Meghiya, the Discourse on Upāli, the Discourse on Woodsmen, and the Discourse on the Fruits of Recluseship.
+
+First, in this case, the story of Venerable Meghiya is to be understood in brief.
+
+At one time, the Blessed One was living in Cālikā, in the Cālikā Mountain. And at that time, the Venerable Meghiya was the Blessed One's attendant. 
+
+Then, the Venerable Meghiya, after the meal, returning from his almsround, saw an inspiring and delightful mango grove. Having become inspired, he approached the Blessed One. Having approached, asking again and again, "If the Blessed One would allow me, I would approach this mango grove for the sake of striving." The Blessed One, having replied twice, "Wait first, Meghiya!", and so on, having consented the third time [saying] "Meghiya, saying "striving', what should we say?", and so on, Venerable Meghiya approached that mango grove. 
+
+Then, Venerable Meghiya, abiding in that mango grove, was mostly overwhelmed by three evil, unskillful thoughts. Then, the Venerable Meghiya approached the Blessed One. Having approached him, he informed the Blessed One all the extent to which evil, unskillful thoughts overwhelmed his mind.
+
+## Section on Analysis
+
 1. Renunciate thoughts
 2. Thought free from ill-will
 3. Non-cruel thoughts
@@ -24,7 +40,7 @@ Draft: true
 5. The noble aggregate of virtue
 6. Noble sense-restraint
 7. Noble mindfulness and clear comprehension
-8. Samādhi
+8. Concentration
 9. Non-delight in company
 
 Let us examine each in turn.
