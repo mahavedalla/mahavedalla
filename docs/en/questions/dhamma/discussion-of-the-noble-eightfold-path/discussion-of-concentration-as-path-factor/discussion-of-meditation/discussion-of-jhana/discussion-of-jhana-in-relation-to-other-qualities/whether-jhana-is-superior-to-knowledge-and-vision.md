@@ -1,8 +1,8 @@
 ---
-Question: Is kamma intentional?
-Category: Kamma
-Sutta References: AN 6.63
-Tags: Cetanā
+Question: Is jhāna superior to knowledge and vision?
+Category: Jhāna
+Tags:
+Sutta References:
 Date Entered: March 29, 2025
 Last Revised:
 Review Status: Not started

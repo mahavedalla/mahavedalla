@@ -1,5 +1,5 @@
 ---
-Question: What are the different realms of existence?
+Question: Whether there are different realms of existence?
 Category: Loka
 Tags:
 Sutta References: MN 41

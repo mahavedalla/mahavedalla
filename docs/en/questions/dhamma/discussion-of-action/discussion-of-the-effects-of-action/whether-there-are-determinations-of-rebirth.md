@@ -1,9 +1,9 @@
 ---
-Question: Can an action be both wholesome and unwholesome?
+Question: Whether there are determinations of rebirth?
 Category: Kamma
 Tags:
-Sutta References:
-Date Entered: March 30, 2025
+Sutta References: MN 41
+Date Entered: March 14, 2025
 Last Revised:
 Review Status: Not started
 Level: 

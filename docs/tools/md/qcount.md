@@ -1,6 +1,6 @@
 terminal command to count .md files: 
     
-find questions -type f -name "*.md" | wc -l
+find en -type f -name "*.md" | wc -l
 
 Count:
 
@@ -65,6 +65,7 @@ Count:
 11-24-25: 2113
 11-25-25: 2093 (duplicates deleted)
 11-27-25: 2005 (duplicates deleted)
+12-9-25: 2051 (duplicates deleted)
 
 
 

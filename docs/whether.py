@@ -3,7 +3,7 @@ import os
 
 # set ROOT to the docs directory (file is already inside docs/)
 ROOT = os.path.abspath(os.path.dirname(__file__))  # docs/
-SEARCH_DIR = os.path.join(ROOT, "questions")
+SEARCH_DIR = os.path.join(ROOT, "en")
 OUTPUT = os.path.join(ROOT, "whether-files.md")
 
 def main():

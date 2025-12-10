@@ -1,5 +1,5 @@
 ---
-Question: Is one still perceptive while in jhāna?
+Question: Whether one is still perceptive while in jhāna?
 Category: Jhāna
 Tags:
 Sutta References: DN 16; AN 3.63

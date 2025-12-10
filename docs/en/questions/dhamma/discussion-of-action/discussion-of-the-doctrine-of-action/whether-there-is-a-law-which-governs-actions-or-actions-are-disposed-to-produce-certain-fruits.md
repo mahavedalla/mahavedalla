@@ -1,5 +1,5 @@
 ---
-Question: Whether kamma is a law which governs actions or actions are disposed to produce certain results?
+Question: Whether there is a law which governs actions or actions are disposed to produce certain results?
 Category: Kamma
 Tags:
 Sutta References:

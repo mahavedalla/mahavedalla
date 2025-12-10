@@ -1,8 +1,8 @@
 ---
-Question: Is the fruit of kamma deserved?
+Question: Whether action is intentional?
 Category: Kamma
-Sutta References: MN 50
-Tags: Sīla
+Sutta References: AN 6.63
+Tags: Cetanā
 Date Entered: March 29, 2025
 Last Revised:
 Review Status: Not started

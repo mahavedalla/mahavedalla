@@ -1,8 +1,9 @@
 ---
-Question: What determines rebirth?
+Question: Whether everything experienced is the consequence of past action?
 Category: Kamma
 Tags:
-Sutta References: MN 41
+Sutta References:
+Answer: No.
 Date Entered: March 14, 2025
 Last Revised:
 Review Status: Not started

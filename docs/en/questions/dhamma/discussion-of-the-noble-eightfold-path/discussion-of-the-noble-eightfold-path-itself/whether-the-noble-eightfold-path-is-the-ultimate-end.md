@@ -1,5 +1,5 @@
 ---
-Question: Whether the noble eightfol path is the ultimate end?
+Question: Whether the noble eightfold path is the ultimate end?
 Category: Magga
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the noble eightfol path is the ultimate end?
+# Whether the noble eightfold path is the ultimate end?
 
 ## Bibliography
 

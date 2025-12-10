@@ -1,9 +1,9 @@
 ---
-Question: Can abstention be kusala (wholesome)?
+Question: Whether there are divisions of action?
 Category: Kamma
 Tags:
-Sutta References: MN 9
-Date Entered: March 14, 2025
+Sutta References: AN 4.232
+Date Entered: March 30, 2025
 Last Revised:
 Review Status: Not started
 Level: 

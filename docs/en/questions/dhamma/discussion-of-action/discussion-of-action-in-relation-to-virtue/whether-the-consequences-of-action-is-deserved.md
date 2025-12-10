@@ -1,8 +1,8 @@
 ---
-Question: Is jhāna superior to knowledge & vision?
-Category: Jhāna
-Tags:
-Sutta References:
+Question: Whether the consequences of action is deserved?
+Category: Kamma
+Sutta References: MN 50
+Tags: Sīla
 Date Entered: March 29, 2025
 Last Revised:
 Review Status: Not started

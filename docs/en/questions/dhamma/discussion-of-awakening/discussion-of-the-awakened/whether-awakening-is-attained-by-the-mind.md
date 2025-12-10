@@ -1,5 +1,5 @@
 ---
-Question: What attains Nibbāna? What is liberated?
+Question: Whether awakening is attained by the mind?
 Category: Bodhi
 Sutta References: SN 15.13; SN 35.38
 Tags: Core

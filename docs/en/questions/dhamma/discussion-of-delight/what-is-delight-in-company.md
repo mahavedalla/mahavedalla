@@ -1,6 +1,6 @@
 ---
 Question: What is delight in company?
-Category: Rata
+Category: Rati
 Tags: company
 Sutta References: AN 6.68
 Date Entered: 8-13-25

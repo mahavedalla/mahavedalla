@@ -1,9 +1,9 @@
 ---
-Question: Is the Dhamma immaterial?
-Category: Dhamma
+Question: Whether an action can be both wholesome and unwholesome?
+Category: Kamma
 Tags:
 Sutta References:
-Date Entered: March 29, 2025
+Date Entered: March 30, 2025
 Last Revised:
 Review Status: Not started
 Level: 
