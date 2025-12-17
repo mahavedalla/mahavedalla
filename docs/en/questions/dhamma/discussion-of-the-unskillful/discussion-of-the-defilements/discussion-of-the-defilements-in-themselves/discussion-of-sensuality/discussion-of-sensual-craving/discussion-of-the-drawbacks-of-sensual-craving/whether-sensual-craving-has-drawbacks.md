@@ -52,4 +52,7 @@ Notes:
 I am uncertain whether or not to discuss sensuality, or sensual craving, and if there is even any meaningful distinction.
 
 Thought: sensual happiness is mediated; an unmediated happiness is more desirable
+
+It is worth including insights/confirmation from contemporary science, especially neuroscience, neurobiology, psychology, etc.
+
  -->

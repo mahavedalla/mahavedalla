@@ -1,5 +1,5 @@
 ---
-Question: Whether the first jhāna is sufficient for the Arahatta?
+Question: Whether the first jhāna is sufficient for the Arahantship?
 Category: Jhāna
 Tags:
 Sutta References: AN 9.36

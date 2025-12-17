@@ -1,5 +1,5 @@
 ---
-Question: Whether solitude can be an expression of love for all beings?
+Question: Whether seclusion can be an expression of love for all beings?
 Category: Viveka
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether solitude can be an expression of love for all beings?
+# Whether seclusion can be an expression of love for all beings?
 
 ## Bibliography
 

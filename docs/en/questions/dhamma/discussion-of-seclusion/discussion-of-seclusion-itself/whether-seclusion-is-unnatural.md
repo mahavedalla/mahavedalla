@@ -1,5 +1,5 @@
 ---
-Question: Whether solitude is unnatural?
+Question: Whether seclusion is unnatural?
 Category: Viveka
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether solitude is unnatural?
+# Whether seclusion is unnatural?
 
 ## Bibliography
 

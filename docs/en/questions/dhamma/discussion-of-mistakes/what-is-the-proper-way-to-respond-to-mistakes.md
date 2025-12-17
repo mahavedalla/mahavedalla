@@ -1,8 +1,8 @@
 ---
-Question: Whether saṃsāra is identical with the world (loka)?
-Category: Loka
-Sutta References:
-Tags: Saṃsāra
+Question: What is the proper way to respond to mistakes?
+Category: Accaya
+Tags:
+Sutta References: MN 65
 Date Entered: April 2, 2025
 Last Revised:
 Review Status: Not started

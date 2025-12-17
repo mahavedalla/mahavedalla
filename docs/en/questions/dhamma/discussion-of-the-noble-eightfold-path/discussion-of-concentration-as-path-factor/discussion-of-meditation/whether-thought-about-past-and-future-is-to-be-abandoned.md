@@ -1,5 +1,5 @@
 ---
-Question: Is thought about past and future to be abandoned?
+Question: Whether thought about past and future is to be abandoned?
 Category: Bhāvana
 Sutta References: SN 42.11; AN 3.54; MN 131
 Tags: Core
