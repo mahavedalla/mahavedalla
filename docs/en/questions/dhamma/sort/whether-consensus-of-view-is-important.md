@@ -1,9 +1,9 @@
 ---
-Question: Whether everything is a plurality?
+Question: Whether consensus of view is important?
 Category: Diṭṭhi
 Tags:
-Sutta References:
-Date Entered: April 2, 2025
+Sutta References: MN 103; MN 104
+Date Entered: April 6, 2025
 Last Revised:
 Review Status: Not started
 Level: 

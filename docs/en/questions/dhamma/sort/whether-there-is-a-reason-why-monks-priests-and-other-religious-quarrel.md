@@ -1,5 +1,5 @@
 ---
-Question: What is the reason why ascetics and priests fight with one another?
+Question: Whether there is a reason why monks, priests, and other religious fight with one another?
 Category: Diṭṭhi
 Tags:
 Sutta References: AN 2.37

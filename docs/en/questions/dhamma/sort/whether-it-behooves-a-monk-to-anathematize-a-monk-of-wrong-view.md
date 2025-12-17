@@ -1,5 +1,5 @@
 ---
-Question: Whether unity of view is important?
+Question: Whether it behooves a monk to anathematize a monk of wrong view?
 Category: Diṭṭhi
 Tags:
 Sutta References: MN 103

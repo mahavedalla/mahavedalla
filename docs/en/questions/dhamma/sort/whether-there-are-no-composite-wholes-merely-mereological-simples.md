@@ -1,5 +1,5 @@
 ---
-Question: Was the Buddha a mereological nihilist?
+Question: Whether there are no composite wholes, merely mereological simples?
 Category: Diṭṭhi
 Tags:
 Sutta References: SN 5.10

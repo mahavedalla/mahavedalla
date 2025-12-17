@@ -1,9 +1,9 @@
 ---
-Question: Whether everything is a oneness?
+Question: Whether belief in rebirth is necessary for new practitioners?
 Category: Diṭṭhi
 Tags:
 Sutta References:
-Date Entered: April 2, 2025
+Date Entered: March 22, 2025
 Last Revised:
 Review Status: Not started
 Level: 

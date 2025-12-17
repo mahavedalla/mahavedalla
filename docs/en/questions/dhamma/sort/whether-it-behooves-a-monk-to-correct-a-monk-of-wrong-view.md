@@ -1,5 +1,5 @@
 ---
-Question: Whether it behooves bhikkhus to correct a bhikkhu of wrong view?
+Question: Whether it behooves a monk to correct a monk of wrong view?
 Category: Diṭṭhi
 Tags:
 Sutta References: MN 103

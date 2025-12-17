@@ -1,9 +1,9 @@
 ---
-Question: Whether consensus of view is important?
+Question: Whether there are souls?
 Category: Diṭṭhi
 Tags:
-Sutta References: MN 104
-Date Entered: April 6, 2025
+Sutta References:
+Date Entered: March 18, 2025
 Last Revised:
 Review Status: Not started
 Level: 

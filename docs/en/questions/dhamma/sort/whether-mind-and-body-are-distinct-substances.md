@@ -1,9 +1,9 @@
 ---
-Question: Is belief in rebirth required for the attainment of Nibbāna?
+Question: Whether mind and body are distinct substances?
 Category: Diṭṭhi
 Tags:
 Sutta References:
-Date Entered: March 14, 2025
+Date Entered: March 18, 2025
 Last Revised:
 Review Status: Not started
 Level: 

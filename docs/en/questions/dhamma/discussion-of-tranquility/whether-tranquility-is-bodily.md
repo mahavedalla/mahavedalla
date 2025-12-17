@@ -1,5 +1,5 @@
 ---
-Question: Whether passaddhi is bodily?
+Question: Whether tranquility is bodily?
 Category: Passaddhi
 Tags: passaddhi; transquility; calm; body
 Sutta References: AN 10.2
