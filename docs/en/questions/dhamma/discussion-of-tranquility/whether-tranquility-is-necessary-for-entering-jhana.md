@@ -22,7 +22,7 @@ Notes:
 
 Norbu
 
-Question selected: Whether tranquility (passaddhi) is necessary for entering jhāna, or whether strong mindfulness alone can suffice for absorption?
+Whether tranquility (passaddhi) is necessary for entering jhāna, or whether strong mindfulness alone can suffice for absorption?
 
 Objections
 1. It seems tranquility is not necessary. For in many places concentration (samādhi) is said to be established by mindfulness (sati) alone, as when the Buddha speaks of mindfulness of breathing leading to concentration (see AN references; I may be mistaken about the numbering). Therefore strong mindfulness suffices.

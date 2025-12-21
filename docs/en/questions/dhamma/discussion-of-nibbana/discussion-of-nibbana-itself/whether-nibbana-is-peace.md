@@ -2,8 +2,8 @@
 Question: Whether Nibbāna is peace?
 Category: Nibbāna
 Tags: 
-Sutta References: 
-Date Entered: 8-31-25
+Sutta References: MN 26
+Date Entered: 3-26-25
 Last Revised: 8-31-25
 Review Status: Not started
 Level: 
