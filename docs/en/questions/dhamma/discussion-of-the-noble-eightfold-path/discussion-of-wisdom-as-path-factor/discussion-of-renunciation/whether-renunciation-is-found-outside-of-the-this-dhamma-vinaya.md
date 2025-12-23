@@ -1,5 +1,5 @@
 ---
-Question: Whether renunciation is found outside of the this Dhamma-Vināya?
+Question: Whether renunciation is found outside of the this Dhamma-Vinaya?
 Category: Nekkhamma
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether renunciation is found outside of the this Dhamma-Vināya?
+# Whether renunciation is found outside of the this Dhamma-Vinaya?
 
 ## Bibliography
 

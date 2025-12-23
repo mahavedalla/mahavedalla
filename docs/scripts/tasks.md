@@ -8,9 +8,18 @@
 - āsava -> effluents or influxes; neutral translation
 - deva -> perhaps leave untranslated
 - bahiraka -> outsider is easiest but tribalistic in tone
+- vināya -> vinaya; I've been misspelling it
 
 3. 
 - Cloudfare to Spaceship?
 
 4. Frontmatter
 - Correct date format in frontmatter
+
+5. Questions
+    1. Dependent origination
+    2. Rūpa
+    3. Vedanā
+    4. Saññā
+    5. Saṅkhāra
+    6. Idle chatter

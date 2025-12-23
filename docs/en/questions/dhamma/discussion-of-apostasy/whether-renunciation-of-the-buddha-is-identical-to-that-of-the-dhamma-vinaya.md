@@ -1,5 +1,5 @@
 ---
-Question: Whether renunciation of the Buddha is identical to that of the Dhamma-Vināya?
+Question: Whether renunciation of the Buddha is identical to that of the Dhamma-Vinaya?
 Category: Paccakkhāna
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether renunciation of the Buddha is identical to that of the Dhamma-Vināya?
+# Whether renunciation of the Buddha is identical to that of the Dhamma-Vinaya?
 
 ## Bibliography
 

@@ -1,6 +1,6 @@
 ---
 Question: Whether bhikkhus may accept raw food?
-Category: Vināya
+Category: Vinaya
 Tags:
 Sutta References:
 Date Entered: April 6, 2025

@@ -1,5 +1,5 @@
 ---
-Question: Whether the Dhamma-Vināya has peace as its ultimate end?
+Question: Whether the Dhamma-Vinaya has peace as its ultimate end?
 Category: Santi
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the Dhamma-Vināya has peace as its ultimate end?
+# Whether the Dhamma-Vinaya has peace as its ultimate end?
 
 ## Bibliography
 

@@ -1,5 +1,5 @@
 ---
-Question: Whether an Arahant is infallible about the Vināya?
+Question: Whether an Arahant is infallible about the Vinaya?
 Category: Arahatta
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether an Arahant is infallible about the Vināya?
+# Whether an Arahant is infallible about the Vinaya?
 
 ## Bibliography
 

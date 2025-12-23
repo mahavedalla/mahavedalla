@@ -1,5 +1,5 @@
 ---
-Question: Whether noble disciples could question the Dhamma-Vināya?
+Question: Whether noble disciples could question the Dhamma-Vinaya?
 Category: Vedalla
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether noble disciples could question the Dhamma-Vināya?
+# Whether noble disciples could question the Dhamma-Vinaya?
 
 ## Bibliography
 

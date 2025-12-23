@@ -1,5 +1,5 @@
 ---
-Question: Whether this Dhamma & Vināya is unique?
+Question: Whether this Dhamma & Vinaya is unique?
 Category: Dhamma
 Tags:
 Sutta References: Mv.1?? (graduated discourse); MN 11

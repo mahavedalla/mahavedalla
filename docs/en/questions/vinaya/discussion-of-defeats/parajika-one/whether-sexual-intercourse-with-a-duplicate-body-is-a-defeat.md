@@ -1,6 +1,6 @@
 ---
 Question: Whether sexual intercourse with a duplicate body is a defeat?
-Category: Vināya
+Category: Vinaya
 Tags: 
 Sutta References: 
 Date Entered: 10-9-25

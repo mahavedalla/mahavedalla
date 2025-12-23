@@ -1,5 +1,5 @@
 ---
-Question: Whether the four noble truths are a distinguishing characteristic of this Dhamma and Vināya?
+Question: Whether the four noble truths are a distinguishing characteristic of this Dhamma and Vinaya?
 Category: Ariyasaccāni
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the four noble truths are a distinguishing characteristic of this Dhamma and Vināya?
+# Whether the four noble truths are a distinguishing characteristic of this Dhamma and Vinaya?
 
 ## Bibliography
 

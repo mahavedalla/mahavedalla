@@ -1,6 +1,6 @@
 ---
 Question: Whether the ingestion of intoxicants is categorically unethical?
-Category: Vināya
+Category: Vinaya
 Tags: 
 Sutta References: 
 Date Entered: 9-6-25

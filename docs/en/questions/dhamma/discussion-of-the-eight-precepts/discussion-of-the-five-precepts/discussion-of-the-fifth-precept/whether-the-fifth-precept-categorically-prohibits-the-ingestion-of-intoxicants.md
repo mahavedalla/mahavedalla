@@ -1,6 +1,6 @@
 ---
 Question: Whether the fifth precept categorically prohibits the ingestion of intoxicants?
-Category: Vināya
+Category: Vinaya
 Tags: 
 Sutta References: 
 Date Entered: 9-6-25

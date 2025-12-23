@@ -42,6 +42,6 @@ Moreover, there are all of the discussions and debates which occurred between th
 
 >“Monks, even a monk who has long penetrated the Dhamma in this Doctrine & Discipline would do well periodically & righteously to refute the wanderers of other persuasions in just the way Vajjiya Mahita the householder has done.” (AN 10.94; see also AN 10.93; cf. MN 35, MN 64, )
 
-On the other hand, there are suttas which seem to be critical of debate: suttas which criticize people for concerning themselves solely or specifically with skill in debate to refute others. It seems to me that discussion and debate have their drawbacks, but that nonetheless can form an important part of development on the path and defending the rationality of the Dhamma-Vināya.
+On the other hand, there are suttas which seem to be critical of debate: suttas which criticize people for concerning themselves solely or specifically with skill in debate to refute others. It seems to me that discussion and debate have their drawbacks, but that nonetheless can form an important part of development on the path and defending the rationality of the Dhamma-Vinaya.
 
  -->

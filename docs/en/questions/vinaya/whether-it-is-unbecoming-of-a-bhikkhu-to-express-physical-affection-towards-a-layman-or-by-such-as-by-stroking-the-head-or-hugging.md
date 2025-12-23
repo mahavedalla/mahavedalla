@@ -1,6 +1,6 @@
 ---
 Question: Whether it is unbecoming of a bhikkhu to express physical affection towards a layman or by, such as by stroking the head or hugging?
-Category: Vināya
+Category: Vinaya
 Tags: 
 Sutta References: 
 Date Entered: 11-11-25

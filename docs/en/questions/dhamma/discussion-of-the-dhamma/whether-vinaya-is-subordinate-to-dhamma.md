@@ -1,5 +1,5 @@
 ---
-Question: Whether Vināya is subordinate to Dhamma?
+Question: Whether Vinaya is subordinate to Dhamma?
 Category: Dhamma
 Tags:
 Sutta References:

@@ -10,7 +10,7 @@ Contact: vr58cbm2@anonaddy.me
 
 <b>Q: What is the Mahāvedalla project?</b>
 
-The Mahāvedalla project is dedicated to systematically asking and answering, as far as is possible, every and all relevant questions about the doctrine and discipline of the Pāli Canon, particularly the Nikāyas, Vināya, and the other early texts therein. It does so in a question and answer, or catechetical, format.
+The Mahāvedalla project is dedicated to systematically asking and answering, as far as is possible, every and all relevant questions about the doctrine and discipline of the Pāli Canon, particularly the Nikāyas, Vinaya, and the other early texts therein. It does so in a question and answer, or catechetical, format.
 
 <b>Q: What is the purpose of the Mahāvedalla?</b>
 
