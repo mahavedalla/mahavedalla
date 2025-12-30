@@ -9,6 +9,7 @@
 - deva -> perhaps leave untranslated
 - bahiraka -> outsider is easiest but tribalistic in tone
 - vināya -> vinaya; I've been misspelling it
+- Dhamma and Vinaya
 
 3. 
 - Cloudfare to Spaceship?

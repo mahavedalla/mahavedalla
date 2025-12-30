@@ -1,5 +1,5 @@
 ---
-Question: What is the purpose of observing the sixth precept?<!-- alternatively: why should one keep the sixth precept? why was it instituted? -->
+Question: What is the purpose of observing the sixth precept?
 Answer in Brief:
 Category:
 Tags:
@@ -54,6 +54,8 @@ so taṃ piṇḍapātaṃ bhuñjitvā jighacchādubbalyaṃ paṭivinodetvā ev
 
 <!-- 
 
+Notes:
+
 (2) 
 
 "Conventional" refers to the conventions and customs that a person, in this case a renunciate, is expected to observe.
@@ -68,5 +70,7 @@ This refers to the observance of the sixth precept as a practice for the sake of
  <!-- 
  Notes:
  If you can't control your belly, you won't be able to control your mind
+
+ <!-- alternatively: why should one keep the sixth precept? why was it instituted? -->
  
   -->

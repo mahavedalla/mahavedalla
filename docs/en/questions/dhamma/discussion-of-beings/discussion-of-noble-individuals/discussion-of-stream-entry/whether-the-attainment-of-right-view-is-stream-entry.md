@@ -1,6 +1,6 @@
 ---
-Question: Whether wisdom has degrees?
-Category: Paññā
+Question: Whether the attainment of right view is stream-entry?
+Category:
 Sutta References:
 Tags:
 Date Entered: 12-30-25

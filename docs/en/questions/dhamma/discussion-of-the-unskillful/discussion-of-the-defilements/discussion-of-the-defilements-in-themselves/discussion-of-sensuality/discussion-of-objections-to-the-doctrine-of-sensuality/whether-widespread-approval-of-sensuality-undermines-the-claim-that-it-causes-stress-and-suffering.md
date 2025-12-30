@@ -1,6 +1,6 @@
 ---
-Question: Whether wisdom has degrees?
-Category: Paññā
+Question: Whether widespread approval of sensuality undermines the claim that it causes stress and suffering?
+Category: Kāma
 Sutta References:
 Tags:
 Date Entered: 12-30-25
