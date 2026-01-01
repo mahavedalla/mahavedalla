@@ -1,6 +1,6 @@
 ---
-Question:
-Category:
+Question: Whether learning can be a form of meditation?
+Category: Suta
 Tags:
 Sutta References:
 Date Entered:

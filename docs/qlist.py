@@ -1,7 +1,4 @@
 import os
-import re
-import unicodedata
-from pathlib import Path
 
 with open('qlist.md', 'w', encoding='utf-8') as contents_file:
     i = 1
