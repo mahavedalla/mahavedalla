@@ -1,5 +1,5 @@
 ---
-Question: Whether the factor or wrong livelihood is redundant?
+Question: Whether the factor of wrong livelihood is redundant?
 Category: Ājīva
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the factor or wrong livelihood is redundant?
+# Whether the factor of wrong livelihood is redundant?
 
 ## Bibliography
 

@@ -1,5 +1,5 @@
 ---
-Question: Whether the teaching of not-self a strategy?
+Question: Whether the teaching of not-self is a strategy?
 Category: Anattā
 Sutta References: -
 Date Entered: March 31, 2025

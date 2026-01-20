@@ -71,9 +71,16 @@ Count:
 12-20-25: 2092
 12-21-25: 2088 (duplicates deleted)
 
+find . -type d -exec bash -c 'count=$(find "{}" -maxdepth 1 -type f -name ".md" | wc -l); [ "$count" -gt 15 ] && echo "{}"' \;
 
+find . -type d -exec bash -c 'count=$(find "{}" -maxdepth 1 -type f -name "en/questions.md" | wc -l); [ "$count" -gt 15 ] && echo "{}"' \;
 
-
+find . -type d -print0 | while IFS= read -r -d '' dir; do
+    count=$(find "$dir" -maxdepth 1 -type f -name "*.md" -print0 | grep -zc .);
+    if [ "$count" -gt 10 ]; then
+        echo "$dir";
+    fi;
+done
 
 
 

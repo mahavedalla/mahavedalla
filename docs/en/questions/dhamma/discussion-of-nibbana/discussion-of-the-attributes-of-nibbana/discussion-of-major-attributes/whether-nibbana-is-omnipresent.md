@@ -1,9 +1,9 @@
 ---
-Question: What are the attributes of Nibbāna?
+Question: Whether Nibbāna is omnipresent?
 Category: Nibbāna
 Tags:
 Sutta References:
-Date Entered: March 17, 2025
+Date Entered: April 1, 2025
 Last Revised:
 Review Status: Not started
 Level: 

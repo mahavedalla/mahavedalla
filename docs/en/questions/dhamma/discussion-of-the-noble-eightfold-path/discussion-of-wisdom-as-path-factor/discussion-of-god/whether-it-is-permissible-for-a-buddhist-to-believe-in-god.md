@@ -1,6 +1,6 @@
 ---
-Question: Does Nibbāna have attributes?
-Category: Nibbāna
+Question: Whether it is permissible for a Buddhist to believe in God?
+Category: Issara
 Tags:
 Sutta References:
 Date Entered: March 30, 2025

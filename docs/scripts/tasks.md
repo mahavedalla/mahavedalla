@@ -24,3 +24,4 @@
     4. Saññā
     5. Saṅkhāra
     6. Idle chatter
+    7. Upaṭṭhāna

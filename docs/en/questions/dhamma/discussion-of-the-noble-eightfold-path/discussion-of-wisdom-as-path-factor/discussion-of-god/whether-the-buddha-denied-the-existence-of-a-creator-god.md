@@ -1,5 +1,5 @@
 ---
-Question: Did the Buddha deny the existence of a Creator God?
+Question: Whether the Buddha denied the existence of a Creator God?
 Category: Issara
 Tags:
 Sutta References:
