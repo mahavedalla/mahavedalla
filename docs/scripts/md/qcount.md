@@ -70,6 +70,7 @@ Count:
 12-17-25: 2084
 12-20-25: 2092
 12-21-25: 2088 (duplicates deleted)
+12-20-25: 2148 (duplicates deleted)
 
 find . -type d -exec bash -c 'count=$(find "{}" -maxdepth 1 -type f -name ".md" | wc -l); [ "$count" -gt 15 ] && echo "{}"' \;
 

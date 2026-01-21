@@ -80,7 +80,7 @@ if __name__ == "__main__":
     else:
         print("No qualifying folders found.") """
 
-folders_found = find_folders_with_many_markdown("en/questions")
+folders_found = find_folders_with_many_markdown("en/questions", min_files=15)
 i = 1
 if folders_found:
     print("The following directories contain more than 15 .md files:")
