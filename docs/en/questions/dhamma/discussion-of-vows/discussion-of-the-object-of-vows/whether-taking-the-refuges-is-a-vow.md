@@ -1,5 +1,5 @@
 ---
-Question: Whether taking the refuges are a vow?
+Question: Whether taking the refuges is a vow?
 Category: Adhiṭṭhāna
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether taking the refuges are a vow?
+# Whether taking the refuges is a vow?
 
 ## Bibliography
 

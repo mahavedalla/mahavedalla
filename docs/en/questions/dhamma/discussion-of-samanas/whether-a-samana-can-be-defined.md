@@ -2,7 +2,7 @@
 Question: Whether a samaṇa can be defined?
 Category: Samaṇa
 Tags: 
-Sutta References: DN 14; MN 39
+Sutta References: DN 14; MN 39; DHP 388
 Date Entered: 12-2-25
 Last Revised: 12-2-25
 Review Status: Not started
