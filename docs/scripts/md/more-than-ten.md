@@ -24,8 +24,5 @@
 ./en/questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-faith-in-itself
 ./en/questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-merit
 ./en/questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself
-./en/questions/dhamma/discussion-of-the-unskillful/discussion-of-ignorance
 ./en/questions/dhamma/discussion-of-the-unskillful/discussion-of-fear/discussion-of-fear-itself
 ./en/questions/dhamma/discussion-of-perfection/discussion-of-perfection-itself
-./en/questions/dhamma/discussion-of-teaching
-./en/questions/dhamma/discussion-of-vows
