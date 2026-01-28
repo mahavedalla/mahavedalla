@@ -10,6 +10,7 @@
 - bahiraka -> outsider is easiest but tribalistic in tone
 - vināya -> vinaya; I've been misspelling it
 - Dhamma and Vinaya
+- Gods -> Devas
 
 3. 
 - Cloudfare to Spaceship?
@@ -25,3 +26,5 @@
     5. Saṅkhāra
     6. Idle chatter
     7. Upaṭṭhāna
+
+6. Categorization system is currently ad hoc for the sake of neatness, so somewhat imprecise.
