@@ -1,5 +1,5 @@
 ---
-Question: Whether scented detergent violates the seventh precept?
+Question: Whether the usage of scented detergent on clothes violates the seventh precept?
 Category: Aṭṭhasīla
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether scented detergent violates the seventh precept?
+# Whether the usage of scented detergent on clothes violates the seventh precept?
 
 ## Bibliography
 

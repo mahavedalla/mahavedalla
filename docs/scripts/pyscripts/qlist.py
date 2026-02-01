@@ -1,8 +1,8 @@
 import os
 
-with open('qlist.md', 'w', encoding='utf-8') as contents_file:
+with open('/Users/trashboy/Documents/Repositories/mahavedalla/docs/scripts/md/qlist.md', 'w', encoding='utf-8') as contents_file:
     i = 1
-    for root, dirs, files in os.walk('en/questions/dhamma'):
+    for root, dirs, files in os.walk('/Users/trashboy/Documents/Repositories/mahavedalla/docs/en'):
         for file in files:
             if file.endswith('.md'):
                 # file_path = os.path.join(root, file)

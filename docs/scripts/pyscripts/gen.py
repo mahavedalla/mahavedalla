@@ -7,7 +7,7 @@ from pathlib import Path
 # Default metadata for the new entry
 # Automatically set the date fields to the current date and review status to "Not started"
 
-def create_new_entry(filename, question, category, directory="pali"):
+def create_new_entry(filename, question, category, directory="/Users/trashboy/Documents/Repositories/mahavedalla/docs/en/questions/dhamma/sort"):
     
     # The raw template string with placeholders for metadata
     DEFAULT_METADATA = {
@@ -21,8 +21,7 @@ def create_new_entry(filename, question, category, directory="pali"):
     "Level": "",
     "Priority": "",
     "Number": "",
-    "Draft": "true",
-    "Language": "Pāḷi"
+    "Draft": "true"
     }
 
     TEMPLATE = "---\n" + "\n".join(f"{key}: {value}" for key, value in DEFAULT_METADATA.items()) + "\n---\n\n"
@@ -34,7 +33,7 @@ def create_new_entry(filename, question, category, directory="pali"):
     if os.path.exists(filename):
         print(f"File already exists: {filename}")
         return
-    print("filename: ", filename)
+
     # Write the template to the new file
     with open(filename, "w") as f:
         f.write(TEMPLATE + "# " + question + "\n\n## Bibliography\n\n<!-- \n\nNotes:\n\n\n\n-->")
@@ -62,20 +61,9 @@ if __name__ == "__main__":
     # Receive user input for file name and directory
     question = input("Enter new question: ")
     # filename = clean_filename(question)
-    filename = os.path.join("pali", clean_filename(question))
+    filename = os.path.join("/Users/trashboy/Documents/Repositories/mahavedalla/docs/en/questions/dhamma/sort", clean_filename(question))
     category = input("Category: ") or "questions"
 
-    # Format directory name based on category
-    # strcat = "".join([c for c in unicodedata.normalize('NFKD', category).strip().lower() if not unicodedata.combining(c)])
-    # directory = find_category_path(strcat)
-    # if directory is None:
-        # directory = "questions/" + strcat
-        # os.makedirs(directory)
-        # print(f"Category directory not found. Created new directory: {directory}")
-    # else: 
-        # print(f"Found category directory: {directory}")
-
-    # Create directory if it doesn't exist
     '''
     if not os.path.exists(directory):
         print(f"Directory does not exist. Making directory: {directory}")
@@ -87,7 +75,3 @@ if __name__ == "__main__":
         print("No file name provided. Exiting.")
     else:
         create_new_entry(filename, question, category)
-        # if directory != "":
-            # create_new_entry(filename, question, category, directory=directory)
-        # else:
-            # create_new_entry(filename, question, category)

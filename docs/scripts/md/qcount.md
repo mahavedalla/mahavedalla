@@ -77,6 +77,8 @@ find . -type d -exec bash -c 'count=$(find "{}" -maxdepth 1 -type f -name ".md" 
 
 find . -type d -exec bash -c 'count=$(find "{}" -maxdepth 1 -type f -name "en/questions.md" | wc -l); [ "$count" -gt 15 ] && echo "{}"' \;
 
+## More than 10
+
 find . -type d -print0 | while IFS= read -r -d '' dir; do
     count=$(find "$dir" -maxdepth 1 -type f -name "*.md" -print0 | grep -zc .);
     if [ "$count" -gt 10 ]; then
@@ -84,9 +86,20 @@ find . -type d -print0 | while IFS= read -r -d '' dir; do
     fi;
 done
 
+## Between 10 and 12
+
 find . -type d -print0 | while IFS= read -r -d '' dir; do
     count=$(find "$dir" -maxdepth 1 -type f -name "*.md" -print0 | grep -zc .);
     if [ "$count" -gt 10 ] && [ "$count" -le 12 ]; then
+        echo "$dir";
+    fi;
+done
+
+## Less than 4
+
+find . -type d -print0 | while IFS= read -r -d '' dir; do
+    count=$(find "$dir" -maxdepth 1 -type f -name "*.md" -print0 | grep -zc .);
+    if [ "$count" -le 4 ]; then
         echo "$dir";
     fi;
 done

@@ -26,5 +26,10 @@
     5. Saṅkhāra
     6. Idle chatter
     7. Upaṭṭhāna
+    8. Spiritual bypassing
+    9. Practicing in other religious traditions
+    10. Vināya
 
 6. Categorization system is currently ad hoc for the sake of neatness, so somewhat imprecise.
+
+7. List of Buddhist and non-Buddhist thinkers to cite

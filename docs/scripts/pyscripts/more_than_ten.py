@@ -53,34 +53,7 @@ def find_folders_with_many_markdown(directory_path, min_files=10):
 
     return qualifying_folders
 
-""" # --- Example Usage ---
-if __name__ == "__main__":
-    # Define the directory you want to search
-    # You can pass this as a command line argument or hardcode it
-    
-    # Example 1: Use the current working directory as the target
-    target_directory = Path.cwd() 
-    
-    # Example 2: Manually specify a path
-    # target_directory = "/path/to/your/main/folder" 
-    
-    # Example 3: Get directory from command line arguments
-    if len(sys.argv) > 1:
-        target_directory = sys.argv[1]
-
-    print(f"Searching for folders with > 15 .md files in: {target_directory}\n")
-    
-    folders_found = find_folders_with_many_markdown(target_directory, min_files=15)
-
-    i = 1
-    if folders_found:
-        print("The following directories contain more than 15 .md files:")
-        for folder in folders_found:
-            print(f"{i}. - {folder}")
-    else:
-        print("No qualifying folders found.") """
-
-folders_found = find_folders_with_many_markdown("en/questions", min_files=15)
+folders_found = find_folders_with_many_markdown("/Users/trashboy/Documents/Repositories/mahavedalla/docs/en/question", min_files=15)
 i = 1
 if folders_found:
     print("The following directories contain more than 15 .md files:")
