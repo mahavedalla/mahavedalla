@@ -34,5 +34,3 @@ if __name__ == "__main__":
         for d in results:
             f.write(f"{i}: {d}\n")
             i += 1
-    for d in results:
-        print(d)

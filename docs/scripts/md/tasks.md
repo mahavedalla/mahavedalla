@@ -11,6 +11,8 @@
 - vināya -> vinaya; I've been misspelling it
 - Dhamma and Vinaya
 - Gods -> Devas
+- Morality as chosen term over ethics
+- Form as chosen term for type, kind, etc.
 
 3. 
 - Cloudfare to Spaceship?
