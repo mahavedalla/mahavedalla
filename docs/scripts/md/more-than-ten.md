@@ -1,10 +1,5 @@
-./en/questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-nibbana-in-relation-to-other-qualities
-./en/questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor
-./en/questions/dhamma/sort
-./en/questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-third-precept
-./en/questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-fifth-precept
-./en/questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-seventh-precept
-./en/questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience
-./en/questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-properties-of-the-arahant
-./en/questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-consciousness
-./en/questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-craving/questions
+./docs/en/questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-nibbana-in-relation-to-other-qualities
+./docs/en/questions/dhamma/sort
+./docs/en/questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-seventh-precept
+./docs/en/questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-consciousness
+./docs/en/questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-craving/questions
