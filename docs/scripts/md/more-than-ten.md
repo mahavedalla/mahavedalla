@@ -1,5 +1,4 @@
 ./en/questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-nibbana-in-relation-to-other-qualities
-./en/questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-the-divine-abidings/metta
 ./en/questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor
 ./en/questions/dhamma/sort
 ./en/questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-third-precept
