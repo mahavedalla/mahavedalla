@@ -52,6 +52,8 @@ api nu so bhikkhu tasmiṁ samaye attabyābādhāya vā ceteti, parabyābādhāy
 
 “Nanu so, jīvaka, bhikkhu tasmiṁ samaye anavajjaṁyeva āhāraṁ āhāretī”ti?" (MN 55)
 
+"Byañjanaṁ kho pana bhavaṁ gotamo byañjanamattāya āhāreti, na ca byañjanena ālopaṁ atināmeti." (MN 91)
+
 "mā, bhikkhave, puññānaṃ bhāyittha. sukhassetaṃ, bhikkhave, adhivacanaṃ iṭṭhassa kantassa piyassa manāpassa yadidaṃ puññāni." (ITI 22)
 
 Extra-canonical: 
