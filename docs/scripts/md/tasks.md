@@ -13,6 +13,7 @@
 - Gods -> Devas
 - Morality as chosen term over ethics
 - Form as chosen term for type, kind, etc.
+- Parinibbāna to anupādisesa...
 
 3. 
 - Cloudfare to Spaceship?

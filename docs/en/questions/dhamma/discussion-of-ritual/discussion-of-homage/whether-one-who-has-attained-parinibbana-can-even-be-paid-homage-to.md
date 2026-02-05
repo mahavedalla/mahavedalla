@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+The thought being: can one who has attained the anupādisesa Nibbāna for whom the aggregates have irrevocably ceased even be an object of homage at all.
 
 -->
