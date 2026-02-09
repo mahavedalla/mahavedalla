@@ -11,3 +11,11 @@ Priority: 2
 Number: 
 Draft: true
 ---
+
+<!-- 
+
+Notes:
+
+Talk by Tan Ajaan Geoff within the last few weeks of 2/8/26.
+
+ -->
