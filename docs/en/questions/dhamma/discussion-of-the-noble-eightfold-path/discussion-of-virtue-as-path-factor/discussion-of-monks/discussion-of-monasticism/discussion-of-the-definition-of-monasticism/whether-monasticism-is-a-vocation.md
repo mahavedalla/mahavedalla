@@ -1,7 +1,7 @@
 ---
 Question: Whether monasticism is a vocation?
 Category: Bhikkhu
-Tags: 
+Tags: UD 29
 Sutta References: 
 Date Entered: 9-13-25
 Last Revised: 9-13-25
@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+UD 29: "...asippajīvī,..."; "...living without a craft...".
 
 -->

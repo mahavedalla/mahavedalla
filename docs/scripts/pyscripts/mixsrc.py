@@ -32,5 +32,5 @@ if __name__ == "__main__":
     with open("/Users/trashboy/Documents/Repositories/mahavedalla/docs/scripts/md/mixed_dirs.md", "w") as f:
         i = 1
         for d in results:
-            f.write(f"{i}: {d}\n")
+            f.write(f"{i}: {d}\n\n")
             i += 1

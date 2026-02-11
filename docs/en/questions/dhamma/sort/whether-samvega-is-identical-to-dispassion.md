@@ -16,6 +16,10 @@ Draft: true
 
 ## Bibliography
 
+1. https://www.youtube.com/watch?v=tyxREgB3m1k
+260206 Compunction & Awe \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
+
+
 <!-- 
 
 Notes:

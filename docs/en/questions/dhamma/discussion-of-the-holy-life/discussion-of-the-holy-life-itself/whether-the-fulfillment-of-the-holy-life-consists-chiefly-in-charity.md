@@ -16,10 +16,15 @@ Draft: true
 
 ## Bibliography
 
+1. https://www.youtube.com/watch?v=UZ0qJN3kTxA
+
+260205 Seres queridos \ \ Thanissaro Bhikkhu \ \ Charla sobre el Dhamma
+
+
 <!-- 
 
 Notes:
 
-
+Paraphrasing: "The practice of the Dharma is one thing clear through, and it's basically giving..."
 
 -->

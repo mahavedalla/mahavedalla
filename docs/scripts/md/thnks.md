@@ -4,7 +4,7 @@
 2. Bhikkhu Anālayo
 3. Bhikkhu Ñāṇananda
 4. Ñāṇavīra Thera
-5. Ñāṇamoli Thera
+5. Ñāṇamoli Thera 
 6. Buddhaghosa
 7. Dhammapāla
 8. Anuruddha
@@ -13,6 +13,10 @@
 11. Shantideva
 12. Shangharakshita
 13. Vasubandhu
+14. Hillside Hermitage
+15. Ajahn Amaro
+16. Ajahn Pasanno
+17. 
 
 ## Non-Buddhists
 
@@ -23,3 +27,4 @@
 5. Desert Fathers (Christian)
 6. Jiva Goswami (Vaishnaiva?)
 7. Adi Shankara (Vaishnaiva?)
+8. Marcus Aurelius
