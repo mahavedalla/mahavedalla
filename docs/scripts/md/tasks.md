@@ -32,7 +32,25 @@
     8. Spiritual bypassing
     9. Practicing in other religious traditions
     10. Vināya
+    11. Yāma
+    12. Long-suffering long animity
 
 6. Categorization system is currently ad hoc for the sake of neatness, so somewhat imprecise.
 
 7. List of Buddhist and non-Buddhist thinkers to cite
+
+8. List of categories of questions pertaining to any topic
+    1. Gratification
+    2. Danger
+    3. Origination
+    4. Cessation
+    5. Escape
+    6. Cause
+    7. Effect
+    8. Itself
+    9. Attributes
+    10. Purpose
+    11. Purification
+    12. Defilements
+    13. Practice
+    14. 
