@@ -1,5 +1,5 @@
 ---
-Question: Whether contraceptives should not be used in sexual misconduct?
+Question: Whether the use of contraceptives is sexual misconduct?
 Category: Methuna
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether contraceptives should not be used in sexual misconduct?
+# Whether the use of contraceptives is sexual misconduct?
 
 ## Bibliography
 

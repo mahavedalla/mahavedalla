@@ -14,6 +14,7 @@
 - Morality as chosen term over ethics
 - Form as chosen term for type, kind, etc.
 - Parinibbāna to anupādisesa...
+- Sensual stimulation to sensual pleasure
 
 3. 
 - Cloudfare to Spaceship?

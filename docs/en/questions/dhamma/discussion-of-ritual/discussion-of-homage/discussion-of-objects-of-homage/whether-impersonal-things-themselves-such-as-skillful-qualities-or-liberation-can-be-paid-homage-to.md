@@ -2,7 +2,7 @@
 Question: Whether impersonal things themselves, such as skillful qualities or liberation, can be paid homage to?
 Category: Pūjā
 Tags: 
-Sutta References: AN 4.137; AN 7.33; JA 159
+Sutta References: DN 16; AN 4.137; AN 6.33; AN 7.32; AN 7.33; JA 159
 Date Entered: 1-20-26
 Last Revised: 1-20-26
 Review Status: Not started
@@ -20,9 +20,11 @@ Draft: true
 
 Notes:
 
-AN 7.33: "satthugaru dhammagaru, saṅghe ca tibbagāravo, samādhigaru ātāpī". "One with respect for the teacher and Dhamma, and strong respect for the Saṅgha, one who is ardent with respect for concentration."
+AN 7.32: "satthugaru dhammagaru, saṅghe ca tibbagāravo, samādhigaru ātāpī". "One with respect for the teacher and Dhamma, and strong respect for the Saṅgha, one who is ardent with respect for concentration."
 
 The Mora Paritta: "Namo bodhiyā...namo vimuttiyā". Is there not also the case of the Buddha paying homage to the Dhamma after the awakening?
+
+There is also the case of the institution of the Dhamma and Vinaya becoming the teacher after the Buddha's Parinibbāna.
 
 The above could be taken to suggest that inanimate qualities can be the subject of at least respect, in the case of AN 7.33, or even salutation, in the case of the Mora Paritta, and if AN 7.33 is construed as implying salutation, beyond just respect. AN 7.33 could just be interpreted as saying that one should have respect for concentration in the sense of devotion; and further, devotion here is not devotion in a reverential, salutational, or venerable sense, but in the sense of striving, effort, steadfastness, and so on, as when it is said, "He is devoted to his profession." The aim of this interpretation is to circumvent the oddity of respecting something which isn't a person, by viewing "respect" in an honorary or analogical sense. The trouble for this interpretation is that in the Mora Paritta one would expect a univocal usage of "namo". Assuming "namo" in "namatthu Buddhānaṃ" means homage in the ordinary sense, it would be expected that such is its meaning in the quotes above regarding awakening and liberation. 
 
@@ -43,6 +45,13 @@ Interpretations:
 1. Analogical interpretation
 2. Objectual interpretation
 3. Personal interpretation
+
+It seems perhaps another breakdown is needed:
+
+1. Anti-realism
+2. Realism
+
+The anti-realist family encompasses views that deny that impersonal things, such as qualities, can be the objects of homage. The realist position affirms as much. The analogical interpretation would seem to be anti-realist, and the objectual and personal interpretations realist. The anti-realist's burden is to provide a plausible explanation of Canonical evidence and practical experience which seems to suggest the affirmative. The realist's burden is to explain just what the object is supposed to be. The analogical interpretation attempts to fulfill the burden by claiming that usages of reverential terminology with respect to impersonal objects can be understood in a different sense of reverence, devotion, and so on.
 
 
 -->
