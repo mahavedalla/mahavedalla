@@ -2,7 +2,7 @@
 Question: Whether sensual pleasures are the highest pleasure?
 Category: Taṇhā
 Tags: 
-Sutta References: 
+Sutta References: AN 36.19
 Date Entered: 12-27-25
 Last Revised: 12-27-25
 Review Status: Not started

@@ -7,7 +7,7 @@ from pathlib import Path
 # Default metadata for the new entry
 # Automatically set the date fields to the current date and review status to "Not started"
 
-def create_new_entry(filename, question, category, directory="/Users/trashboy/Documents/Repositories/mahavedalla/docs/en/questions/dhamma/sort"):
+def create_new_entry(filename, question, category, directory="/Users/trashboy/Documents/Repositories/mahavedalla_fresh/docs/en/questions/dhamma/sort"):
     
     # The raw template string with placeholders for metadata
     DEFAULT_METADATA = {
@@ -61,7 +61,7 @@ if __name__ == "__main__":
     # Receive user input for file name and directory
     question = input("Enter new question: ")
     # filename = clean_filename(question)
-    filename = os.path.join("/Users/trashboy/Documents/Repositories/mahavedalla/docs/en/questions/dhamma/sort", clean_filename(question))
+    filename = os.path.join("/Users/trashboy/Documents/Repositories/mahavedalla_fresh/docs/en/questions/dhamma/sort", clean_filename(question))
     category = input("Category: ") or "questions"
 
     '''

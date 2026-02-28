@@ -16,10 +16,14 @@ Draft: true
 
 ## Bibliography
 
+1. 230313 You Are Not Redundant
+
 <!-- 
 
 Notes:
 
+You Are Not Redundant: "Wealth doesn’t have inherent value, nor does status, nor does praise, nor do sensual pleasures."
 
+Strictly speaking, as I currently understand the terms, they are not identical in meaning, though they are often interchanged.  
 
 -->
