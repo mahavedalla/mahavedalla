@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+The question might be raised: Why is craving the cause of stress and suffering? "Why" here can be understood in various ways. To name two: "why" in the sense of how—what is the mechanism by which craving generates stress and suffering; and "why" in an epistemic sense—how do you know? The latter question seems to permit of a further response. For instance, one can empirically observe the effect of craving on the minds of living beings and develop inductive reason for thinking craving causes stress and suffering. It is unclear whether the former question permits of an answer.
 
 -->

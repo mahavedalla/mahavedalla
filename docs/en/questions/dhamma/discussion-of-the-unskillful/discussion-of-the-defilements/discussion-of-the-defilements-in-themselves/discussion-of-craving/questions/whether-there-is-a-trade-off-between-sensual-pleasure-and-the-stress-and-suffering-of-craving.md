@@ -44,6 +44,6 @@ And also:
 
 That is: the pleasure of renunciation is the superior pleasure. In other places, the phrase "pleasure of renunciation" seems to refer specifically to the four jhānas and the formless attainments. However, I am inclined to understand the pleasure of renunciation in the context of this article as being much more inclusive: all of the pleasures connected with developing the noble eightfold: the pleasure of virtue and discernment, the pleasure of solitude, or simplicity, of contentment, and so on. Then again, it is also at least partly true that all of the pleasures just listed are to some extent available to one still enjoying sensual pleasures. To avoid proposing a false trade-off, perhaps the additional claim must be presented that while the pleasures of renunciation are partly available to one enjoying sensual pleasures, they are not totally so; and, moreover, they are much harder to develop with sensual pleasures unrenounced, and far less stable under said conditions as well. In this way, renunciation and sensual pleasures are placed in competition with each other.
 
-There is the question about whether or not any of the aforesaid comments are relevant to the question as stated. To argue that the pleasure of 
+There is the question about whether or not any of the aforesaid comments are relevant to the question as stated. To argue that sensual pleasures is inferior to those of renunciation, and so on, is not to say that sensual pleasures do not carry some weight, merely that they are outweighed. 
  
 -->

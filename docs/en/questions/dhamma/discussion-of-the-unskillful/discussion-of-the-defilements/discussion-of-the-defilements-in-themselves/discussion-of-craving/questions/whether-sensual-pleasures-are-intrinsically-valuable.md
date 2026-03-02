@@ -24,6 +24,6 @@ Notes:
 
 You Are Not Redundant: "Wealth doesn’t have inherent value, nor does status, nor does praise, nor do sensual pleasures."
 
-Strictly speaking, as I currently understand the terms, they are not identical in meaning, though they are often interchanged.  
+Strictly speaking, as I currently understand the terms "inherent" and "intrinsic", they are not identical in meaning, though they are often interchanged.  
 
 -->

@@ -16,9 +16,19 @@ Draft: true
 
 ## Bibliography
 
+1. https://dictionary.apa.org/repression
+
 <!-- 
 
 Notes:
+
+The APA offers three definitions on their website of repression, only the first of which seems to be relevant here:
+
+>in classical psychoanalytic theory and other forms of depth psychology, the basic defense mechanism that excludes painful experiences and unacceptable impulses from consciousness. Repression operates on an unconscious level as a protection against anxiety produced by objectionable sexual wishes, feelings of hostility, and ego-threatening experiences and memories of all kinds. It also comes into play in many other forms of defense, as in denial, in which individuals avoid unpleasant realities by first trying to repress them and then negating them when repression fails. See primary repression; repression proper.
+
+This definition that "repression" is specifically an unconscious or subconscious phenomenon, not a conscious one. Is the abandonment of craving, its renunciation, annihilation, destruction, and so on, following the noble eightfold path described in the Canon, unconscious? It is not clear this question can be suitably answered, as is, categorically. Why? It seems that at some times the path could be either conscious (e.g., in the beginnings when great efforts must be made to arouse it) or unconscious (e.g., in the later stages if and/or when the path does itself, as it were, or at least certain aspects thereof are so ingrained as to become unconscious nature for the practitioner). Nevertheless, generally speaking, it seems the path is by and large developed consciously—very consciously and deliberately—wherefore, by definition, the abandonment of craving, as a principle part of that path, is not repressive. 
+
+The more relevant question, however, is whether or not the abandonment of craving is suppressive, though that is to be treated elsewhere.
 
 The objection combines several lines of thought:
 
