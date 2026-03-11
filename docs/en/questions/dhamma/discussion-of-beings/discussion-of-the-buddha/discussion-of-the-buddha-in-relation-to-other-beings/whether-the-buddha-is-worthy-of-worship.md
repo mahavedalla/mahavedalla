@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
+More reading on worship in philosophy and theology is needed. If worship is understood as something which is fit for a creator God and also a central part of religious practice itself, then it seems the term cannot be suitably applied to the Buddha.
 
-
- -->
+-->
