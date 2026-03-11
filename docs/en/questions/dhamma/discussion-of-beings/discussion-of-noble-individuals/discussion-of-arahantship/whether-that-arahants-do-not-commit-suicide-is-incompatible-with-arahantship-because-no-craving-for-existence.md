@@ -1,5 +1,5 @@
 ---
-Question: Whether that Arahants do not commit suicide is incompatible with Arahantship because no craving for existence?
+Question: Whether that Arahants do not commit suicide is incompatible with the destruction of craving for existence?
 Category: Arahatta
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether that Arahants do not commit suicide is incompatible with Arahantship because no craving for existence?
+# Whether that Arahants do not commit suicide is incompatible with the destruction of craving for existence?
 
 ## Bibliography
 
