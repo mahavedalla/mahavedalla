@@ -1,5 +1,5 @@
 ---
-Question: Whether, besides the Canon, any further commentary is necessary?
+Question: Whether, besides the Canon, any further science is necessary?
 Category: Ñāya
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether, besides the Canon, any further commentary is necessary?
+# Whether, besides the Canon, any further science is necessary?
 
 ## Bibliography
 
