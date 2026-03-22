@@ -20,6 +20,8 @@ Draft: true
 
 Notes:
 
-Tu quo que. Progressive nature of practice. Assumption that all sensual pleasures must be abandoned to abandon craving.
+1. Tu quo que.
+2. Progressive nature of practice.
+3. Assumption that all sensual pleasures must be abandoned to abandon craving.
 
 -->

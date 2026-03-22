@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+There are passages where the Buddha criticizes people who lend an ear to the teachings with a mind bent on finding flaws therewith. Yet, this science is concerned with unveiling flaws and patching them in the form of dialectic.
 
 -->

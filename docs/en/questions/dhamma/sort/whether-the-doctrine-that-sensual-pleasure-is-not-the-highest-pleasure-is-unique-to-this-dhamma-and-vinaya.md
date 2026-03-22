@@ -1,5 +1,5 @@
 ---
-Question: Whether the doctrine that sensual pleasure is not the highest pleasure is unqiue to this Dhamma and Vinaya?
+Question: Whether the doctrine that sensual pleasure is not the highest pleasure is unique to this Dhamma and Vinaya?
 Category: Kāma
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the doctrine that sensual pleasure is not the highest pleasure is unqiue to this Dhamma and Vinaya?
+# Whether the doctrine that sensual pleasure is not the highest pleasure is unique to this Dhamma and Vinaya?
 
 ## Bibliography
 
