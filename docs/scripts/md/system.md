@@ -1,0 +1,1 @@
+One primary question is a meta-question: how to produce an exhaustive list of questions regarding systematic philosophical buddhology? Considering a generative system, inspired by Pāṇinian grammar.

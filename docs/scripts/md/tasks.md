@@ -15,6 +15,7 @@
 - Form as chosen term for type, kind, etc.
 - Parinibbāna to anupādisesa...
 - Sensual stimulation to sensual pleasure
+- Laicization -> Secularization
 
 3. 
 - Cloudfare to Spaceship?
