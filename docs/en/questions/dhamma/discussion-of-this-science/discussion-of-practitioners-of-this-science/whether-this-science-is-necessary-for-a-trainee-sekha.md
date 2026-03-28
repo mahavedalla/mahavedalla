@@ -1,5 +1,5 @@
 ---
-Question: Whether sacred doctrine is necessary for a trainee (sekha)?
+Question: Whether this science is necessary for a trainee (sekha)?
 Category: Pariyatti
 Tags:
 Sutta References:

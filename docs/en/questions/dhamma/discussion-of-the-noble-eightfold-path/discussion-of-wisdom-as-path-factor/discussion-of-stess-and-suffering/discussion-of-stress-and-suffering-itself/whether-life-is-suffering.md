@@ -16,13 +16,17 @@ Draft: true
 
 ## Bibliography
 
+1. The Karma of Questions
+
+2. What the Buddha Taught
+
 <!-- 
 
 Notes:
 
-I think it was Walpola Rahula who famously said in What the Buddha Taught that the first noble truth amounts to the idea that life is suffering. For better or for worse, that one line has had an enduring influence on Buddhism in the west. Anecdotally, what most people seem to know about Buddhism amounts to that claim. However, among monks and scholars, it has been a matter of controversy. Does the first noble truth amount to that claim? Moreover, did the Buddha ever claim that, not just within the first noble truth? Is that claim consistent with the Dhamma? 
+"You’ve probably heard the rumor that “Life is suffering” is Buddhism’s first principle, the Buddha’s first noble truth. It’s a rumor with good credentials, spread by well-respected academics and Dharma teachers alike, but a rumor nonetheless." (https://www.dhammatalks.org/books/KarmaOfQuestions/Section0004.html)
 
-Ajaan Geoff, as I recall it, has pretty consistently denied that the first noble truth makes that claim, and also seems to deny that the Buddha did take a stance or that any stance should be taken on the issue. However, others have been more sympathetic. For instance, Ajahn Brahmali more or less outwardly affirms that life if suffering. 
+"The First Noble Truth (Dukkha-ariyasacca) is generally translated by almost all scholars as 'The Noble Truth of Suffering', and it is interpreted to mean that life according to Buddhism is nothing but suffering and pain. Both translation and interpretation are highly unsatisfactory and misleading." (https://drive.google.com/file/d/1YxZS4v8-jlj-2CfpfDMPyk_6J0wqQBe_/view)
 
 It is understandable how one might arrive at the view that life is suffering from the suttas. The suttas do not seem to speak very favorably, in the end, about any aspect of life, and it can seem like the whole purpose of Buddhism is escape from it. 
 

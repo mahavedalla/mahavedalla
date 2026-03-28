@@ -1,6 +1,6 @@
 ---
-Question: Whether the laicization of the Dhamma and Vinaya can be resisted?
-Category: questions
+Question: Whether the secularization of the Dhamma and Vinaya is caused?
+Category: Upāsakatta
 Tags: 
 Sutta References: 
 Date Entered: 3-22-26
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the laicization of the Dhamma and Vinaya can be resisted?
+# Whether the secularization of the Dhamma and Vinaya is caused?
 
 ## Bibliography
 

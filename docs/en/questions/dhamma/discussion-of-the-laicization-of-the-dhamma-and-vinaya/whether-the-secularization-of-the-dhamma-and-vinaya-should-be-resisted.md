@@ -1,5 +1,5 @@
 ---
-Question: Whether the laicization of the Dhamma and Vinaya is caused by lay people, monastics, or both?
+Question: Whether the secularization of the Dhamma and Vinaya should be resisted?
 Category: Upāsakatta
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the laicization of the Dhamma and Vinaya is caused by lay people, monastics, or both?
+# Whether the secularization of the Dhamma and Vinaya should be resisted?
 
 ## Bibliography
 

@@ -1,5 +1,5 @@
 ---
-Question: Whether the laicization of the Dhamma and Vinaya should be resisted?
+Question: Whether secularization corrupts the Dhamma and Vinaya?
 Category: Upāsakatta
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether the laicization of the Dhamma and Vinaya should be resisted?
+# Whether secularization corrupts the Dhamma and Vinaya?
 
 ## Bibliography
 

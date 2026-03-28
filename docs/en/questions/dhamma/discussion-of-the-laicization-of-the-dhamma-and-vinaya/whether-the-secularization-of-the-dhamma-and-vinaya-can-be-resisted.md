@@ -1,6 +1,6 @@
 ---
-Question: Whether laicization corrupts the Dhamma and Vinaya?
-Category: Upāsakatta
+Question: Whether the secularization of the Dhamma and Vinaya can be resisted?
+Category: questions
 Tags: 
 Sutta References: 
 Date Entered: 3-22-26
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether laicization corrupts the Dhamma and Vinaya?
+# Whether the secularization of the Dhamma and Vinaya can be resisted?
 
 ## Bibliography
 

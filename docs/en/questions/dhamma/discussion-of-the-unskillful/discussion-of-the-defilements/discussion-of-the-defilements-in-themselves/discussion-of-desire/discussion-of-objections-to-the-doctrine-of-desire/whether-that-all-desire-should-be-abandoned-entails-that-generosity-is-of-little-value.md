@@ -28,4 +28,13 @@ Strictly speaking, 3 does not follow from 1 or 2 or both. Suppressed premises co
 
 1 and 2 are both questionable without further qualification. It is uncertain exactly how to spell out that qualification, but it is key to the entirety of the edifice of the Dhamma and Vinaya. One way is to deny 1 and 2, and state that it is not desire as such, but unskillful desire, which is to be abandoned, and generosity is not included therein. The issue remains that it seems that even skillful desires are ultimately to be abandoned, though not in the same way as unskillful ones (i.e., unskillful desires are to be abandoned like a shipwreck, whereas skillful ones are let go like a lifeboat once one has reached dry land, the far shore). Nonetheless, even if we recognize skillful desires are ultimately to be abandoned, it still seems true that the Buddha and other Ariyans exemplified some desire-like, some desiderative, traits, with regard to generosity and other qualities. The examples of the Buddha talking about being a good friend, or being a teacher who teaches out of compassion; the choice to teach and the whole Dhamma and Vinaya.
 
+The following is perhaps a more probative argument, simply adding an additional premise to the preceding.
+
+1. All desire is to be abandoned.
+2. Therefore, desire to be generous is to be abandoned.
+3. Therefore, generosity is not desirable.
+4. Therefore, generosity (to be generous) is of little value.
+
+Putting aside whether or not the argument is valid, but granting some logical lenience, at first glance one might suspect equivocation on the word "desire" and one of its adjectival forms "desirable". Namely, "desirable" could be taken to mean "not to be desired" in the sense of "not to be lusted or craved" (seemingly consonant with the doctrine of desire), or in the general sense of "valuable", as in "not to be valued". If the latter is intended, some might find it much more questionable whether or not the doctrine of desire is concerns value theory (axiology).
+
 -->
