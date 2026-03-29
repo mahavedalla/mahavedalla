@@ -1,5 +1,5 @@
 ---
-Question: Whether to gain merit the use of a gift on the part of the recipient is required_
+Question: Whether to gain merit the use of a gift on the part of the recipient is required?
 Category: Puñña
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether to gain merit the use of a gift on the part of the recipient is required_
+# Whether to gain merit the use of a gift on the part of the recipient is required?
 
 ## Bibliography
 
