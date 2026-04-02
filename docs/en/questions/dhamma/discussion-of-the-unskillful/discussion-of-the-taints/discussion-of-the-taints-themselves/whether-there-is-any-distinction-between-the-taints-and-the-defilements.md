@@ -1,5 +1,5 @@
 ---
-Question: Whether there is any distinction between the effluents and the defilements?
+Question: Whether there is any distinction between the taints and the defilements?
 Category: Āsava
 Tags: 
 Sutta References: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether there is any distinction between the effluents and the defilements?
+# Whether there is any distinction between the taints and the defilements?
 
 ## Bibliography
 

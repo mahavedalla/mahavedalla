@@ -20,6 +20,8 @@ Draft: true
 
 Notes:
 
-Tu quo que. Progressive nature of practice. Assumption that all sensual pleasures must be abandoned to abandon craving.
+(1) Tu quoque.
+(2) Progressive nature of practice. 
+(3) Strong Abstention Thesis: that all pleasant sensorial experiences must be renounced to abandon craving.
 
 -->

@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+It is not clear this question is any different than that of "Whether sensual indulgence suppresses the stress and suffering of craving?".
 
 -->

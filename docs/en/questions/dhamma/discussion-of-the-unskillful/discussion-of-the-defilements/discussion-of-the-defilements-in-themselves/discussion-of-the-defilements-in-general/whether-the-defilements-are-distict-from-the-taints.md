@@ -1,5 +1,5 @@
 ---
-Question: Whether the defilements are distinct from the effluents?
+Question: Whether the defilements are distinct from the taints?
 Category: Kilesa
 Tags:
 Sutta References:

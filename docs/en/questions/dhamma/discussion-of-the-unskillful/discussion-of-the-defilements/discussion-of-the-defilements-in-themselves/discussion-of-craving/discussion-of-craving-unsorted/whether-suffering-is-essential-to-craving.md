@@ -1,6 +1,6 @@
 ---
 Question: Whether suffering is essential to craving?
-Category: Tanha<!-- add diacritics -->
+Category: Taṇhā
 Tags: craving; suffering; essential; essence; intrinsic
 Sutta References:
 Date Entered: 7-10-25

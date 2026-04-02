@@ -16,10 +16,4 @@ Draft: true
 
 ## Bibliography
 
-<!-- 
-
-Notes:
-
-
-
--->
+1. Tan Ajaan Geoff t

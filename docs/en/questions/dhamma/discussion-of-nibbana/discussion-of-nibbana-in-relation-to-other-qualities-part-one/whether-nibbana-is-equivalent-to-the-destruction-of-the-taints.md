@@ -1,5 +1,5 @@
 ---
-Question: Whether Nibbāna is equivalent to the destruction of the effluents?
+Question: Whether Nibbāna is equivalent to the destruction of the taints?
 Category: Nibbāna
 Tags:
 Sutta References:

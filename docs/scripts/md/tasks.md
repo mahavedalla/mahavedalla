@@ -16,6 +16,7 @@
 - Parinibbāna to anupādisesa...
 - Sensual stimulation to sensual pleasure
 - Laicization -> Secularization
+- Giving -> generosity
 
 3. 
 - Cloudfare to Spaceship?
