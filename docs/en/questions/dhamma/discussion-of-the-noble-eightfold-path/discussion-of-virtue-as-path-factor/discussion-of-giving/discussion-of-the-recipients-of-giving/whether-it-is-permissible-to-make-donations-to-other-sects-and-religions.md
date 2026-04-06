@@ -3,7 +3,7 @@ Question: Whether it is permissible to make donations to other sects and religio
 Category: Dāna
 Tags:
 Sutta References: Mv.6.31.11.1
-Date Entered: March 31, 2025
+Date Entered: 3-31-25
 Last Revised:
 Review Status: Not started
 Level: 

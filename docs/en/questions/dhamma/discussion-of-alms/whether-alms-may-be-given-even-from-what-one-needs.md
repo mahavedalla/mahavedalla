@@ -16,4 +16,12 @@ Draft: true
 
 ## Bibliography
 
-1. Tan Ajaan Geoff t
+1. Tan Ajaan Geoff talk given morning of 4/2
+
+<!-- 
+
+Notes:
+
+Tan Ajaan Geoff, I recall saying something in the ballpark of, "I don't think the Buddha ever says you should give so much to harm yourself".
+
+-->
