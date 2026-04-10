@@ -20,6 +20,7 @@ Draft: true
 
 Notes:
 
+As I recall it, in a Q&A 4-9-26, Tan Ajaan, questioned by Sunethra, suggested that the steps are part of a "catalogue": you don't buy everything in the catalogue. Sunethra does not seem to agree.
 
 
 -->

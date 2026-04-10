@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether non-Dhamma learning justified?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+Recalling the Māra's words to Buddha.
+
+ -->

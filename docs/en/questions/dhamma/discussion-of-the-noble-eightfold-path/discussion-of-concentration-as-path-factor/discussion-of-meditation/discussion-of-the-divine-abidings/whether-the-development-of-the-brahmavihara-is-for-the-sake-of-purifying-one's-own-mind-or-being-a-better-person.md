@@ -1,5 +1,5 @@
 ---
-Question: Is the development of the Brahmavihārā for the sake of purifying one's own mind of being a better person?
+Question: Whether the development of the Brahmavihārā is for the sake of purifying one's own mind or being a better person?
 Category: Bhāvana
 Sutta References: MN 104
 Tags: Brahmavihāra
@@ -9,5 +9,4 @@ Review Status: Not started
 Level: 
 Priority: 
 Number: 
-Draft: true
----
+Draft: t
