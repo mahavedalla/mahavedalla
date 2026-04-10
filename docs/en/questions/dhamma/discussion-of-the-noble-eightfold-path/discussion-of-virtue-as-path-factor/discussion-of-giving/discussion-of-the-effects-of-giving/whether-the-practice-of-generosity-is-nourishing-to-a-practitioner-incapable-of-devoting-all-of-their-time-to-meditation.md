@@ -16,7 +16,7 @@ Draft: true
 
 ## Bibliography
 
-1. Tan Ajaan Geoff talk given morning of 4/2
+1. Tan Ajaan Geoff Merit as Medicine 9-5-14
 
 <!-- 
 
