@@ -12,7 +12,7 @@ Sensual craving is a species of craving, which is (one of) the principal cause(s
 
 How is sensual craving the cause of stress and suffering?
 
-"How" in epistemic sense: That sensual craving is the cause of stress and suffering can be known in various ways: (1) reflection on one's own experience of craving, particularly when frustrated; (2) reflection on that of others; (3) counterfactual questions such as, "If my desire(s) were to be frustrated, would I suffer"; (4) Mindfulness of craving itself, whether frustrated or not; (5) abstaining from indulging craving.
+"How" in epistemic sense: That sensual craving is the cause of stress and suffering can be known in various ways: (1) reflection on one's own experience of craving, particularly when frustrated; (2) reflection on that of others; (3) counterfactual questions such as, "If my craving(s) were to be frustrated, would I suffer"; (4) Mindfulness of craving itself, whether frustrated or not; (5) abstaining from indulging craving.
 
 "How" in ontological sense: It is part of the essence of craving that it is rooted in stress and dissatisfaction. This is primitive.
 
