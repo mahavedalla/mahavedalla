@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+Famous exchange between King Pasenadi and Mallika. Also SN 1.13.
 
 -->
