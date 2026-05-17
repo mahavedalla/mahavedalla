@@ -22,4 +22,6 @@ Notes:
 
 Famous exchange between King Pasenadi and Mallika. Also SN 1.13.
 
+"sabbā disā anuparigamma cetasā, nevajjhagā piyataramattanā kvaci" (SN 3.8)
+
 -->
