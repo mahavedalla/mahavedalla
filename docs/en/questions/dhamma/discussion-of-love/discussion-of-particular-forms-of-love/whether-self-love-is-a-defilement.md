@@ -20,7 +20,7 @@ Draft: true
 
 Notes:
 
-There is a question about how self-love should be understood in the Canon. If "love" is read as "pema", then the prospects for an undefiled self-love seem fewer.
+There is a question about how self-love should be understood in the Canon. If "love" is read as "pema", then the prospects for an undefiled self-love seem fewer. If "love" is divested of its affectionate connotations and is understood merely along the lines of a wish for one's own true happiness and pursuing that, then the prospects seem good.
 
 Famous exchange between King Pasenadi and Mallika. Also SN 1.13.
 
