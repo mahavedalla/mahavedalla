@@ -66,4 +66,12 @@ Extra-canonical:
 
 "The pleasures that come from going out into nature are relatively harmless, as are the pleasures of solitude and the pleasures of being in the company of virtuous people when there’s a sense of harmony in the group."
 
+“Remember, the Buddha was afraid of sensual pleasures because they made you heedless.
+
+Of course, not all sensual pleasures do that, but the fascination with planning for sensuality is a heedless pursuit. Sensual pleasures come and go, and as long as they don't have a bad effect on the mind, and the Buddha says that not all sensual pleasures have a bad effect on the mind, then they're okay. It's only when they give rise to a more creative version of delusion, that's when they're a problem.”
+
+From Dhammatalks.org Evening Talks: May All Beings Be Heedful, May 17, 2026
+https://podcasts.apple.com/us/podcast/dhammatalks-org-evening-talks/id1569745165?i=1000768324038
+This material may be protected by copyright.
+
 -->
