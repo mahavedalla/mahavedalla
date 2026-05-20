@@ -32,6 +32,8 @@ As for extra Canonical sources, Tan Ajaan Geoff has specifically stated numerous
 
 Quotes:
 
+There is also the Canonical quote like "even if he eats the finest curries...".
+
 Canon: 
 "Bhikkhuṁ paneva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhuṁ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā..." (PC 39)
 
