@@ -6,7 +6,7 @@ Sutta References:
 Date Entered: 1-28-26
 Last Revised: 1-28-26
 Review Status: Not started
-Level: 
+Level:  
 Priority: 
 Number: 
 Draft: true
