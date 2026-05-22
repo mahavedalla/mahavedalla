@@ -24,3 +24,9 @@ Notes:
 
 The use of the word "ekaṃsena" is noteworthy. 
 The above quote seems to suggest that gold and silver (perhaps money or monetary goods more generally) are deemed unbecoming for a bhikkhu instumentally (extrinsically): that is, they grant one access to something (sensual pleasures) which themselves are unbecoming of a bhikkhu. One might think some issues arise when this reason has been pinpointed. For instance, are there not plenty of other things which can grant a bhikkhu such access which are permissibile for them to possess? Moreover, are there not plenty of other means by which bhikkhus may access sensual pleasures, such as donations, and the like. 
+It would be worth clarifying what the "kāmaguṇā" here mean. In other contexts:
+
+"evameva kho, vāseṭṭha, pañcime kāmaguṇā ariyassa vinaye andūtipi vuccanti, bandhanantipi vuccanti. katame pañca? cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. sotaviññeyyā saddā…pe… ghānaviññeyyā gandhā… jivhāviññeyyā rasā… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā." (DN 13)
+
+Perhaps, this—the question of how to interpret the kāmaguṇā so as to avoid inconsistency—is beyond the scope of this question and the answer suffices for present purposes. The aforesaid difficulty is that if "kāmaguṇā" is understood at face value as a pleasure mediated by the five physical senses, then it seems the Buddha and the bhikkhus still may and do use them, as when they receive a delicious meal, or fine robes or lodgings, and so on. This might seem conflicting. Then again, one might think that the error is in assuming that various of the comments in the Canon regarding them imply a bhikkhu simply may not use them, period. Perhaps, that was rash.
+ 
