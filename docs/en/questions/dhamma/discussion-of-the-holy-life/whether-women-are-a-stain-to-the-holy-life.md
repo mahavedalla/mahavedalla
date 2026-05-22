@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-
+"itthī malaṃ brahmacariyassa" (SN 1.58)
 
 -->
