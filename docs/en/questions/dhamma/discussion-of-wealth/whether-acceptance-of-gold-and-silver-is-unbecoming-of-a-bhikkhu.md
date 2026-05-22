@@ -28,5 +28,12 @@ It would be worth clarifying what the "kāmaguṇā" here mean. In other context
 
 "evameva kho, vāseṭṭha, pañcime kāmaguṇā ariyassa vinaye andūtipi vuccanti, bandhanantipi vuccanti. katame pañca? cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. sotaviññeyyā saddā…pe… ghānaviññeyyā gandhā… jivhāviññeyyā rasā… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā." (DN 13)
 
-Perhaps, this—the question of how to interpret the kāmaguṇā so as to avoid inconsistency—is beyond the scope of this question and the answer suffices for present purposes. The aforesaid difficulty is that if "kāmaguṇā" is understood at face value as a pleasure mediated by the five physical senses, then it seems the Buddha and the bhikkhus still may and do use them, as when they receive a delicious meal, or fine robes or lodgings, and so on. This might seem conflicting. Then again, one might think that the error is in assuming that various of the comments in the Canon regarding them imply a bhikkhu simply may not use them, period. Perhaps, that was rash.
- 
+Perhaps, this—the question of how to interpret the kāmaguṇā so as to avoid inconsistency—is beyond the scope of this question and the answer suffices for present purposes. The aforesaid difficulty is that if "kāmaguṇā" is understood at face value as a pleasure mediated by the five physical senses, then it seems the Buddha and the bhikkhus still may and do use them, as when they receive a delicious meal, or fine robes or lodgings, and so on. This might seem conflicting. Then again, one might think that the error is in assuming that various of the comments in the Canon regarding them imply a bhikkhu simply may not use them, period. Perhaps, that was rash. Perhaps, the implication is of restricted use:
+
+"ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā ime pañca kāmaguṇe agathitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā [P 1.174] paribhuñjanti, te evamassu veditabbā – ‘na anayamāpannā na byasanamāpannā na yathākāmakaraṇīyā pāpimato" (MN 26)
+
+If that is the case, the question might arise: Why then fully restrict a monk's use of gold and silver? Perhaps, here one might think the answer is hinges on ease of access. 
+
+That aside, other reasons for abstinence from monetary goods have been suggested:
+
+"If it seems long and involved, remember that the purpose of the protocols is to free bhikkhus from the even more bothersome worries and complexities that come with participating in buying, selling, and monetary matters in general." (pp. 279, BMC)
