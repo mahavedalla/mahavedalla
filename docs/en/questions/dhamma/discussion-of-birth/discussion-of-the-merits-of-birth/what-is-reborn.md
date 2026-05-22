@@ -11,3 +11,8 @@ Priority:
 Number: 
 Draft: true
 ---
+
+kiṃsu janeti purisaṃ, kiṃsu tassa vidhāvati,
+kiṃsu saṃsāramāpādi, kiṃsu tassa mahabbhaya"nti.
+"taṇhā janeti purisaṃ, cittamassa vidhāvati,
+satto saṃsāramāpādi, dukkhamassa mahabbhaya"nti." (SN 1.55)
