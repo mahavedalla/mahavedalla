@@ -1,9 +1,9 @@
 ---
 Question: What is reborn?
 Category: Kamma
-Sutta References: SN 12:12; SN 12.34
+Sutta References: SN 1.55; SN 12:12; SN 12.34
 Tags: Jāti
-Date Entered: March 18, 2025
+Date Entered: 3-18-25
 Last Revised:
 Review Status: Not started
 Level: 
