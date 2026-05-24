@@ -14,5 +14,16 @@ Draft: true
 
 # Whether learning is beneficial?
 
-## Introduction
+<!--
+
+
+
+-->
+
+Presently, the intention of this question is to make progress towards the right view of intellectual study along the path. It is as yet unclear precisely what citations should be sought for, and what would constitute a decisive answer to this question. Generally, it seems the suttas often speak positively about individuals who are learned in the one or another of the bodies of texts (Dhamma or Vinaya), and praise learning itself. There are, nonetheless, other sutta which caution about the potential pitfalls of learning.
+The question was originally formulated without sense of a clear distinction between levels of relevance to practice: necessary, practically necessary, and expedient. The question is supposed to be relevant to the long-standing contigent of practitioners who discount learning, typically emphasizing a practice seen as mostly not including intellectual study.
+
+"bhikkhu, bhikkhave, viyatto vinīto visārado bahussuto dhammadharo dhammānudhammappaṭipanno saṅghaṃ sobheti" (AN 4.7; repeated for nuns, laymen, and laywomen)
+
+"bahussutopi ce hoti, sīlesu susamāhito, ubhayena naṃ pasaṃsanti, sīlato ca sutena ca." (AN 4.6)
 
