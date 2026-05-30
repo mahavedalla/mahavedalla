@@ -24,4 +24,6 @@ The question concerns whether or not right effort is merely the effort for the d
 
 "Right effort is a matter not only of exerting yourself in the proper way, but also of making yourself want to do so." (On the Path)
 
+A literal parsing of the stock formula for right effort also suggests as much (e.g., "chandaṃ janeti"). One might think this fairly subtle consideration adds a significant and highly practical layer to the practice, given the widespread apathy that many practitioners face: it is not enough to try to strive, but one must also strive to strive, to desire to strive.
+
 -->
