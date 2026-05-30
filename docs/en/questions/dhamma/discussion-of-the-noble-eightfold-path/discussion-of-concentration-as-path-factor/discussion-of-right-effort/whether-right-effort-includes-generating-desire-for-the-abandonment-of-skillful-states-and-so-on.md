@@ -1,0 +1,1 @@
+discussion-of-right-effort/whether-right-effort-includes-generating-desire-for-the-abandonment-of-skillful-states-and-so-on.md
