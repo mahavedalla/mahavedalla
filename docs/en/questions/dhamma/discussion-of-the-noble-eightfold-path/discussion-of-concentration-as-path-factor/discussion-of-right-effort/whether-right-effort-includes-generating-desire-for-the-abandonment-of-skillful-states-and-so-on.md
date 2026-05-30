@@ -1,6 +1,6 @@
 ---
 Question: Whether right effort includes generating desire for the development of skillful states and so on?
-Category:
+Category: Sammāvāyamo
 Tags: 
 Sutta References: 
 Date Entered: 5-29-26
