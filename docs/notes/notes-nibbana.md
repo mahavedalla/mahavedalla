@@ -1,10 +1,20 @@
 A few claims made by Tan Ajaan as I recall them:
 
 1. Nibbāna is outside of space and time
+
+Meditations 5: "This is deathless; this is something that time can't touch, because it's outside of time."
+M5: "The Buddha's teachings never end with a negative. They go through the negative to something positive that lies beyond: for example, as mindfulness of death leads ultimately to the deathless."
+
+At some point, one hasn't attained the deathless. 
+
+M5: "The important thing is that there's a deathless and you haven't found it yet."
+
 2. There is no causality outside of space and time
+
 3. The fetters are cut following (unsure of the verb he used, which is relevant) the experience of Nibbāna
 
 Meditations 11: "It’s that glimpse—the seeing—that cuts the feers."
+Meditations 5: "One of the results of attaining nibbana is that you can be totally detached and equanimous toward the six senses"
 
 4. The experience of cessation lasts a moment
 
