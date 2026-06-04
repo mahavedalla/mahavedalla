@@ -22,6 +22,6 @@ Notes:
 
 The scope of this question is categorical, lay or monastic or other, and refers to sexuality as such. A related question is whether sexuality is not to be pursued, in the same scope and sense.
 
-What would need to be shown to definitively answer the question? 
+What would need to be shown to definitively answer the question? For instance:
 
 -->
