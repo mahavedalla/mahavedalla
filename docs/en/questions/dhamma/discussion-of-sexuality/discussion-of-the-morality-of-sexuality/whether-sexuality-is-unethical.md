@@ -11,3 +11,13 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether sexuality is not to be pursued?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+-->
