@@ -39,6 +39,8 @@ It is also still unclear precisely what Nibbāna is in Tan Ajaan's view.
 "In this extraordinary state of mental poise—neither pressed, forced, blocked, or suppressed—nibbāna in the present life is experienced as freedom from all perception dealing with the six sensory spheres & the dimensions of meditative absorption. Although one is conscious, and these dimensions are present, one does not partake of them.
 On the level of ordinary sensory experience, however, nibbāna in the present life is experienced by the Worthy One as the passing away of passion, aversion, & delusion. This implies that these three states are analogous to fire; and as we saw in the Introduction, they are directly referred to as fires at various points in the Canon. On the surface, the notion of passion & aversion as fires hardly requires explanation, but in order to gain a fuller appreciation of the analogies that the Canon draws between fire on the one hand, and passion, aversion, & delusion on the other, we first need some background on the specifically Buddhist views on fire it contains."
 
+"Thus, for the arahant, nibbana is not an object of consciousness. Instead it is directly known without mediation. Because consciousness without feature is directly known without mediation, there seems good reason to equate the two." (MN 49, n.9)
+
 He seems to often speak of the experience of Nibbāna. It is unclear if the experience is simply supposed to be Nibbāna itself, or if Nibbāna is, at least in a manner of speaking, the object of said experience, though not the experience itself.
 
 1. If Nibbāna is a timeless consciousness, then Nibbānic cognition is timeless
