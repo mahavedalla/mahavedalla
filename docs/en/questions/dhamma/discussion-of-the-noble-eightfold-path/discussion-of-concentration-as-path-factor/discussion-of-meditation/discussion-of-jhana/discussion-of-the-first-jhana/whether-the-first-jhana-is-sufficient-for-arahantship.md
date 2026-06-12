@@ -14,13 +14,13 @@ Draft: true
 
 <!-- 
 
-"Sufficient" is perhaps a misnomer. The question does not ask if the first jhāna is a sufficient cause for Nibbāna (if first jhāna, then Arahatta), but whether or not it is possible to attain Arahatta without any of the jhānas except the first, or something like that : i.e., is it enough?
+"Sufficient" is perhaps a misnomer. The question does not ask if the first jhāna is a sufficient cause for Arahatta (if first jhāna, then Arahatta), but whether or not it is possible to attain Arahatta without any of the jhānas except the first, or something like that : i.e., is it enough?
 
 Perhaps the citation in the Pāḷi nearest to an explicit answer:
 
 "paṭhamampāhaṃ, bhikkhave, jhānaṃ nissāya āsavānaṃ khayaṃ vadāmī’ti" (AN 9.36)
 
-Howevee, there are other discourses (at least this one) which further support an affirmation to the question heading this article.
+However, there are other discourses (at least this one) which further support an affirmation to the question heading this article.
 
 "katamo ca, bhikkhave, asaṅkhatagāmimaggo? savitakkasavicāro samādhi" (SN 43.3)
 
