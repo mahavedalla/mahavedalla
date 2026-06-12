@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether learning is expedient?
+# Whether learning is expedient? 
 
 <!--
 
