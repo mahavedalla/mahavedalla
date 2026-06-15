@@ -1,6 +1,6 @@
 The Mahāvedalla (MV) is a repository which attempts to systematically and philosophically ask and answer as many questions as possible relevant to Buddhadhamma and Vinaya.
 At this time, it is a personal repository, written for my benefit alone in my attempt to systematically and philosophically understand Buddhadhamma. It is not currently written with the intent of publication for any audience, though I understand publication is not excluded as a future possibility. Nonetheless, it is intended to be written in such a style as if it were going to be published.
-This comment is made to absolve me of any responsibility for any confusion, missrepresentation, and such like, which could arise in one reading this, owing to my own failure (such as in knowledge of source texts, inference, etc.), which I am most anxious to avoid. MV is simply my attempt to flesh out, as it were, Buddhadhamma following the aforesaid aim.
+This comment is made to absolve me of any responsibility for any confusion, misrepresentation, and such like, which could arise in one reading this, owing to a failure of mine (such as in knowledge of source texts, inference, etc.), which I am most anxious to avoid. MV is simply my attempt to flesh out, as it were, Buddhadhamma following the aforesaid aim.
 
 Various tools will be employed to avoid falsity and misrepresenation.
 
