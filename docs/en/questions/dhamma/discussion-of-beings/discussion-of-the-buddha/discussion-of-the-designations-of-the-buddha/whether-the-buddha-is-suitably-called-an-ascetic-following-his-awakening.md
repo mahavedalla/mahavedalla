@@ -37,4 +37,8 @@ Nonetheless, SN 2.17 and AN 10.94 speak about asceticism in a way in which I do 
 
 Perhaps "tapas" carries the same ambiguities in Pāḷi which I observe "asceticism" (and cognates) does in English. For instance, it seems asceticism might refer to active bodily torment, or else to certain practices of self-restraint. 
 
+Merriam Webster, concerning "ascetic": "practicing strict self-denial as a measure of personal and especially spiritual discipline"
+
+Insofar as "ascetic" refers to mere self-denial, which is just self and sense restraint, then one might be inclined to affirm the Buddha was an ascetic.
+
 -->
