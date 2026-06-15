@@ -62,13 +62,14 @@ Seemingly Affirmative:
 
 "idha, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na attamano hoti na paripuṇṇasaṅkappo. evaṃ so tasmiṃ ṭhāne parisuddho hoti." (DN 25)
  
-"nāññatra bojjhā tapasā...sotthiṃ passāmi pāṇina’’nti." (SN 2.17)
+"nāññatra bojjhā tapasā...sotthiṃ passāmi pāṇina"nti." (SN 2.17)
 
 "na kho, bhante, bhagavā sabbaṃ tapaṃ garahati napi sabbaṃ tapassiṃ lūkhājīviṃ ekaṃsena upakkosati upavadati" (AN 10.94)
 
-"tapassī bhavaṃ gotamo"ti! "atthi khvesa, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti. tapanīyāhaṃ, brāhmaṇa, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ ‘tapassī’ti vadāmi. tathāgatassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti, no ca kho yaṃ tvaṃ sandhāya vadesī"ti. 
+'"tapassī bhavaṃ gotamo"ti! 
+"atthi khvesa, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti. tapanīyāhaṃ, brāhmaṇa, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ ‘tapassī’ti vadāmi. tathāgatassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti, no ca kho yaṃ tvaṃ sandhāya vadesī"ti.' (AN 8.11)
  
-Seemingly Denying:
+Seemingly Disconfirmational (not found in MW):
 
 "mutto vatamhi tāya dukkarakārikāya. sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya. sādhu vatamhi mutto bodhiṃ samajjhaga’’nti [sādhu ṭhito sato bodhiṃ samajjheganti (sī. pī.), sādhu vatamhi satto bodhisamajjhagūti (syā. kaṃ.)] . 
 atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi – 
