@@ -2,7 +2,7 @@
 Question: Whether the Buddha is suitably called an ascetic?
 Category: Buddha
 Tags: 
-Sutta References: DN 25; SN 2.17; SN 4.1; AN 8.11
+Sutta References: DN 25; SN 2.17; SN 4.1; AN 8.11; SNP 2.4
 Date Entered: 4-10-26
 Last Revised: 4-10-26
 Review Status: Not started
@@ -39,6 +39,9 @@ There is an academic article comparing the Buddha to Epicurus, and I recall the 
  ‘‘anatthasaṃhitaṃ ñatvā, yaṃ kiñci amaraṃ tapaṃ [aparaṃ tapaṃ (ka.)] ; 
  sabbaṃ natthāvahaṃ hoti, phiyārittaṃva dhammani" (SN 4.1)
 
+"tapo ca brahmacariyañca, ariyasaccāna dassanaṃ; 
+ nibbānasacchikiriyā ca, etaṃ maṅgalamuttamaṃ." 
+
 The latter quote lowers my credence that the Buddha can be called an ascetic: namely because, as I recall the sutta, this quote is a parallel of similar quotes wherein labels are attributed to the Buddha, which, as I understand it, are otherwise misrepresentations of him. That the Buddha endorses the term "tapassī" in the qualified sense here might seem to indicate that he is that much more unfit to be called such in a general sense, which is the concern here.
 
 Nonetheless, SN 2.17 and AN 10.94 speak about asceticism in a way in which I do not recall the referents behind the other labels being used.
@@ -49,6 +52,6 @@ Merriam Webster, concerning "ascetic": "practicing strict self-denial as a measu
 
 Insofar as "ascetic" refers to mere self-denial, which is just self and sense restraint, then one might be inclined to affirm the Buddha was an ascetic.
 
-
+In academic literature, I have seen two terms surface: natural and unnatural asceticism: '"Natural asceticism” consisting of a lifestyle where material aspects of life are reduced to utmost simplicity and a minimum but without maiming the body or harsher austerities that make the body suffer, while “Unnatural asceticism” is defined as a practice that involves body mortification and self-infliction of pain such as by sleeping on bed of nails.'
 
 -->
