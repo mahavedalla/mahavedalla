@@ -54,4 +54,40 @@ Insofar as "ascetic" refers to mere self-denial, which is just self and sense re
 
 In academic literature, I have seen two terms surface: natural and unnatural asceticism: '"Natural asceticism” consisting of a lifestyle where material aspects of life are reduced to utmost simplicity and a minimum but without maiming the body or harsher austerities that make the body suffer, while “Unnatural asceticism” is defined as a practice that involves body mortification and self-infliction of pain such as by sleeping on bed of nails.'
 
+--------
+
+Quotes from the TPR CS Edition of the Pāḷi Canon:
+
+Seemingly Affirmative:
+
+"idha, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na attamano hoti na paripuṇṇasaṅkappo. evaṃ so tasmiṃ ṭhāne parisuddho hoti." (DN 25)
+ 
+"nāññatra bojjhā tapasā...sotthiṃ passāmi pāṇina’’nti." (SN 2.17)
+
+"na kho, bhante, bhagavā sabbaṃ tapaṃ garahati napi sabbaṃ tapassiṃ lūkhājīviṃ ekaṃsena upakkosati upavadati" (AN 10.94)
+
+"tapassī bhavaṃ gotamo"ti! "atthi khvesa, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti. tapanīyāhaṃ, brāhmaṇa, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ ‘tapassī’ti vadāmi. tathāgatassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti, no ca kho yaṃ tvaṃ sandhāya vadesī"ti. 
+ 
+Seemingly Denying:
+
+"mutto vatamhi tāya dukkarakārikāya. sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya. sādhu vatamhi mutto bodhiṃ samajjhaga’’nti [sādhu ṭhito sato bodhiṃ samajjheganti (sī. pī.), sādhu vatamhi satto bodhisamajjhagūti (syā. kaṃ.)] . 
+atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi – 
+
+"tapokammā apakkamma, 
+yena na sujjhanti māṇavā; 
+asuddho maññasi suddho, 
+suddhimaggā aparaddho" ti.
+
+atha kho bhagavā "māro ayaṃ pāpimā" iti viditvā māraṃ pāpimantaṃ gāthāhi ajjhabhāsi – 
+
+"anatthasaṃhitaṃ ñatvā, 
+yaṃ kiñci amaraṃ tapaṃ; 
+sabbaṃ natthāvahaṃ hoti, 
+phiyārittaṃva dhammani" (SN 4.1)
+
+"tapo ca brahmacariyañca, ariyasaccāna dassanaṃ; 
+ nibbānasacchikiriyā ca, etaṃ maṅgalamuttamaṃ." (SNP 2.4)
+
+"tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – "dveme, bhikkhave, antā pabbajitena na sevitabbā. katame dve? yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito"
+
 -->
