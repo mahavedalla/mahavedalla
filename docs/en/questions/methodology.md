@@ -29,6 +29,14 @@ Endorsement indicators: Indicators of the speaker's endorsement of some proposit
 
 "sympathetic to," "proponent of," etc., as in "I am sympathetic to the an inflationary view." The difference between this and credence is not entirely clear.
 
+To avoid dogmatism, various dialectical tools will be employed.
+
+Steel-manning of differing views
+
+
+
+
+
 
 
 
