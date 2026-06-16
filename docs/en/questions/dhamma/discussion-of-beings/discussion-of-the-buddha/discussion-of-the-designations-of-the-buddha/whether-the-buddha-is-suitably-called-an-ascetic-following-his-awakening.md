@@ -2,7 +2,7 @@
 Question: Whether the Buddha is suitably called an ascetic? 
 Category: Buddha
 Tags: 
-Sutta References: PJ 1; DN 8; DN 25; MN 77; SN 2.17; SN 4.1; SN 16.5; AN 8.11; SNP 2.4
+Sutta References: PJ 1; DN 8; DN 25; MN 77; SN 2.17; SN 4.1; SN 16.5; AN 4.28; AN 8.11; SNP 2.4
 Date Entered: 4-10-26
 Last Revised: 4-10-26
 Review Status: Not started
@@ -76,6 +76,8 @@ Seemingly Affirmative:
 "atthi khvesa, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti. tapanīyāhaṃ, brāhmaṇa, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ ‘tapassī’ti vadāmi. tathāgatassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti, no ca kho yaṃ tvaṃ sandhāya vadesī"ti.' (AN 8.11)
  
 "atha kho bhagavā āyasmantaṃ sudinnaṃ anekapariyāyena vigarahitvā dubbharatāya dupposatāya mahicchatāya asantuṭṭhitāya saṅgaṇikāya kosajjassa avaṇṇaṃ bhāsitvā anekapariyāyena subharatāya suposatāya appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyārambhassa vaṇṇaṃ bhāsitvā"
+
+"'kassa nvayaṃ bhoto bhāradvājassa agyāgāre tiṇasanthārako paññatto'" (MN 75))
 
 Seemingly Disconfirmimg:
 
