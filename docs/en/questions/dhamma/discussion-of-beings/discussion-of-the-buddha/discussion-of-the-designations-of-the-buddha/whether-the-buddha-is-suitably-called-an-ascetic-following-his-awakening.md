@@ -56,6 +56,10 @@ In academic literature, I have seen two terms surface: natural and unnatural asc
 
 There is a question about what the precise question should be. For instance, it is possible one could adduce plenty of suttas which support the claim that the Buddha praised asceticism (with qualification), yet this wouldn't necessarily entail that the Buddha was rightly called an ascetic, if he, say, didn't actually practice said ascetic practices.
 
+Further resources:
+
+Suttas describing the lifestyle habits of the Buddha, such as where and on what he slept. For instance, sleeping in charnel grounds or directly on the floor.
+
 --------
 
 Quotes from the TPR CS Edition of the Pāḷi Canon:
@@ -94,5 +98,9 @@ phiyārittaṃva dhammani" (SN 4.1)
  nibbānasacchikiriyā ca, etaṃ maṅgalamuttamaṃ." (SNP 2.4)
 
 "tatra kho bhagavā pañcavaggiye bhikkhū āmantesi – "dveme, bhikkhave, antā pabbajitena na sevitabbā. katame dve? yo cāyaṃ kāmesu kāmasukhallikānuyogo hīno gammo pothujjaniko anariyo anatthasaṃhito, yo cāyaṃ attakilamathānuyogo dukkho anariyo anatthasaṃhito"
+
+"ahaṃ kho pana, udāyi, appekadā iminā pattena samatittikampi bhuñjāmi bhiyyopi bhuñjāmi" (MN 77)
+
+"ahaṃ kho panudāyi, appekadā gahapaticīvarāni dhāremi daḷhāni satthalūkhāni alābulomasāni" (MN 77)
 
 -->
