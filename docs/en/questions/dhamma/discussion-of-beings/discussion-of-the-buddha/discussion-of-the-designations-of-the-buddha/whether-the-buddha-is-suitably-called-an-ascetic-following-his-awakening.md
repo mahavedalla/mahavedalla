@@ -2,7 +2,7 @@
 Question: Whether the Buddha is suitably called an ascetic? 
 Category: Buddha
 Tags: 
-Sutta References: PJ 1; DN 8; DN 25; SN 2.17; SN 4.1; SN 16.5; AN 8.11; SNP 2.4
+Sutta References: PJ 1; DN 8; DN 25; MN 77; SN 2.17; SN 4.1; SN 16.5; AN 8.11; SNP 2.4
 Date Entered: 4-10-26
 Last Revised: 4-10-26
 Review Status: Not started
@@ -53,6 +53,8 @@ Merriam Webster, concerning "ascetic": "practicing strict self-denial as a measu
 Insofar as "ascetic" refers to mere self-denial, which is just self and sense restraint, then one might be inclined to affirm the Buddha was an ascetic.
 
 In academic literature, I have seen two terms surface: natural and unnatural asceticism: '"Natural asceticism” consisting of a lifestyle where material aspects of life are reduced to utmost simplicity and a minimum but without maiming the body or harsher austerities that make the body suffer, while “Unnatural asceticism” is defined as a practice that involves body mortification and self-infliction of pain such as by sleeping on bed of nails.'
+
+There is a question about what the precise question should be. For instance, it is possible one could adduce plenty of suttas which support the claim that the Buddha praised asceticism (with qualification), yet this wouldn't necessarily entail that the Buddha was rightly called an ascetic, if he, say, didn't actually practice said ascetic practices.
 
 --------
 
