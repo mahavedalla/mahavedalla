@@ -2,7 +2,7 @@
 Question: Whether the Buddha is suitably called an ascetic? 
 Category: Buddha
 Tags: 
-Sutta References: DN 25; SN 2.17; SN 4.1; AN 8.11; SNP 2.4
+Sutta References: PJ 1; DN 25; SN 2.17; SN 4.1; AN 8.11; SNP 2.4
 Date Entered: 4-10-26
 Last Revised: 4-10-26
 Review Status: Not started
@@ -69,7 +69,9 @@ Seemingly Affirmative:
 '"tapassī bhavaṃ gotamo"ti! 
 "atthi khvesa, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti. tapanīyāhaṃ, brāhmaṇa, pāpake akusale dhamme vadāmi kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ. yassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, tamahaṃ ‘tapassī’ti vadāmi. tathāgatassa kho, brāhmaṇa, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. ayaṃ kho, brāhmaṇa, pariyāyo, yena maṃ pariyāyena sammā vadamāno vadeyya – ‘tapassī samaṇo gotamo’ti, no ca kho yaṃ tvaṃ sandhāya vadesī"ti.' (AN 8.11)
  
-Seemingly Disconfirmational (not found in MW):
+"atha kho bhagavā āyasmantaṃ sudinnaṃ anekapariyāyena vigarahitvā dubbharatāya dupposatāya mahicchatāya asantuṭṭhitāya saṅgaṇikāya kosajjassa avaṇṇaṃ bhāsitvā anekapariyāyena subharatāya suposatāya appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyārambhassa vaṇṇaṃ bhāsitvā"
+
+Seemingly Disconfirmimg:
 
 "mutto vatamhi tāya dukkarakārikāya. sādhu mutto vatamhi tāya anatthasaṃhitāya dukkarakārikāya. sādhu vatamhi mutto bodhiṃ samajjhaga’’nti [sādhu ṭhito sato bodhiṃ samajjheganti (sī. pī.), sādhu vatamhi satto bodhisamajjhagūti (syā. kaṃ.)] . 
 atha kho māro pāpimā bhagavato cetasā cetoparivitakkamaññāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi – 
