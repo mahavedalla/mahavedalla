@@ -20,6 +20,8 @@ Draft: true
 
 Notes:
 
+I find that even the question is difficult to formulate and spell out clearly when it is inspected analytically.
 
+The exchange between Herman and Alt is perhaps a good foundation, followed by the later comments on said exchange by Webster.
 
 -->
