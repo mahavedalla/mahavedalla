@@ -32,4 +32,8 @@ In order to abandon any desire, one must desire to do so.
 
 In order to abandon all desires, one must desire to do so.
 
+Another matter is distinction in desire, which I recall with some confidence Webster mentioning. That is, which desire precisely is the target of this question, for one might there are relevant distinctions within the term "desire" that, if blurred, negatively impact this discussion.
+
+Thus, one could think that skillful desires are not included among the desires to be abandoned, and further that the desire to abandon desire (abandonable desires excluding those skillful) is skillful, and thus, so the thought, the whole paradox is circumvented from the start.
+
 -->
