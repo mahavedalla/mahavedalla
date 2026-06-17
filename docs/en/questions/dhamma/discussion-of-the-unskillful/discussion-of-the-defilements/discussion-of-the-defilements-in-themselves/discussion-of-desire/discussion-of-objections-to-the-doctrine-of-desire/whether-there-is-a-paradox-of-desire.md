@@ -2,7 +2,7 @@
 Question: Whether there is a paradox of desire?
 Category: Chanda
 Tags: 
-Sutta References: SN 51.15
+Sutta References: SN 51.15; AN 4.159
 Date Entered: 
 Last Revised: 
 Review Status: Not started
