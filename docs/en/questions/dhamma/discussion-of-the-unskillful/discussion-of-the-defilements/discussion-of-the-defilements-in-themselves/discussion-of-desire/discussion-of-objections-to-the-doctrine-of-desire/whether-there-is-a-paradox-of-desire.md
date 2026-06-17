@@ -61,7 +61,7 @@ Imagine a monkey swinging from branch to branch among trees. In order to stop sw
 
 I do not presently see much concern for paradox in the general proposition. However, this proposition seems more threatening: 
 
-PD3: In order to end any single desire, one must generate a desire to do so. E(y)->D(e(y))
+PD3: In order to end any single desire, one must have a desire to do so. E(y)->D(e(y))
 
 However, without determining if a paradox strictly does follow, one might think one can avoid it by simply rejecting the premise as question-begging. For instance, one might think that many, if not most, desires require another desire to be ended, but not, for instance, at least the final desire on the path. In other words, you generate desire on the path to end desire, and at the culmination of the path, the final desires are not ended by producing other desires for their ending, but, perhaps, by just letting go dry. One could think to suggest that one must hold PD3 is question-begging against the traditional doctrine. An explanation along these lines might appear to some comprehensive and satisfactory, without importing any strange philosophical or doctrinal commitments. One might also think it blends well with canonical passages which describe the attainment of the final goal. Another topic of interest would be accepting PD3 with a uroboric view of path desire. In other words, one generates a desire to end desire which is reflexive, and at the culmination of the path that desire itself constitutes the needed destructive counterpart desire to end all desire and itself.  
 
@@ -71,8 +71,13 @@ Further, in formulating the question, one might think qualifications about the t
 
 Attempts to logically formulate PD3:
 
-∀y ∀t [End(y, t) → ∃x ∃t' (Desire(x) ∧ Generate(x, t') ∧ Content(x, End(y)) ∧ t' < t)]; y is a desire, t is a time
+∀y ∀t [End(Desire(y), t) → ∃x ∃t' (Desire(x) ∧ Content(x, End(y)) ∧ t' < t)]; y is a desire, t is a time
+∀y ∀t [End(Desire(y), t) → ∃x ∃t' (Desire(End(Desire(y))) ∧ E(Desire(End(Desire(y)),t') ∧ t' < t)]; y is a desire, t is a time
 
 The above should clearly capture the one way necessity of a destructive desire. PD3 does not seem to imply nor require that a destructive desire is sufficient to bring about the destruction of its concomitant desire.
+While ot isn't clear either of the above logical formulations are fully satisfactory, they might still shed led on how paradox is or could be avoided: keeping the formulations as such, ouroboric desires (a desire that contains a desire for its own end); mutually destructive desires. Or, perhaps more plausibly, as suggested above, modifying the formulations: e.g., some desires are "ended" without a desire to do so, as in when a child outgrows an old toy, or one's many ordinary desires fluctuate up and down throughout life without a clear desire for their decrease. Also, one could hold that the desire to end a desire is simply satisfied when the latter is ended. Thus, Joes desire to give up a caffeine addiction ends when Joe is no longer and addict. The latter route simply makes a distinction in desire. Another route is to maintain that at least some "desires" to end "desire" aren't included among the relevant "desires" to be ended. Thus, one might think that the desire to end the last desire (in the endable sense) is not itself the kind of desire the path seeks at all to end, but an unproblematic motivational state, like mettā or wanting to sit for meditation.
+
+Trying to derive paradox:
+Imagine one reaches say the one final desire D1, and is going to try to end D1 at t. Thus, the second formulation means there must be: (Desire(End(Desire(y)) ∧ E(Desire(End(Desire(y)),t') ∧ t' < t)]. Suppose Desire(y) ends. What of Desire(End(Desire(y)))? Supposing no other desires have been generated, paradox? It might seem not, since 
 
 -->
