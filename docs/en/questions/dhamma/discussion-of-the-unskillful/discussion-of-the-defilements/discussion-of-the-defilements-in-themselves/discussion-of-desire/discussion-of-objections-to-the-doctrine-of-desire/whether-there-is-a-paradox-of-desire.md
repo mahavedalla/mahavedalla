@@ -61,12 +61,18 @@ Imagine a monkey swinging from branch to branch among trees. In order to stop sw
 
 I do not presently see much concern for paradox in the general proposition. However, this proposition seems more threatening: 
 
-PD3: In order to end any single desire, one must generate a desire to do so.
+PD3: In order to end any single desire, one must generate a desire to do so. E(y)->D(e(y))
 
 However, without determining if a paradox strictly does follow, one might think one can avoid it by simply rejecting the premise as question-begging. For instance, one might think that many, if not most, desires require another desire to be ended, but not, for instance, at least the final desire on the path. In other words, you generate desire on the path to end desire, and at the culmination of the path, the final desires are not ended by producing other desires for their ending, but, perhaps, by just letting go dry. One could think to suggest that one must hold PD3 is question-begging against the traditional doctrine. An explanation along these lines might appear to some comprehensive and satisfactory, without importing any strange philosophical or doctrinal commitments. One might also think it blends well with canonical passages which describe the attainment of the final goal. Another topic of interest would be accepting PD3 with a uroboric view of path desire. In other words, one generates a desire to end desire which is reflexive, and at the culmination of the path that desire itself constitutes the needed destructive counterpart desire to end all desire and itself.  
 
 There is a question about whether a paradox would ensue from PD3 in the first place, or if it would encounter a modal scope error. The question of interest is ending "all" desire.
 
 Further, in formulating the question, one might think qualifications about the type of "ending" have to be made. For instance, it seems metaphysically possible that all one's desires are ended randomly, but such situations aren't of interest here. Perhaps, "intentionally ending all desires, other constraints assumed".
+
+Attempts to logically formulate PD3:
+
+∀y ∀t [End(y, t) → ∃x ∃t' (Desire(x) ∧ Generate(x, t') ∧ Content(x, End(y)) ∧ t' < t)]; y is a desire, t is a time
+
+The above should clearly capture the one way necessity of a destructive desire. PD3 does not seem to imply nor require that a destructive desire is sufficient to bring about the destruction of its concomitant desire.
 
 -->
