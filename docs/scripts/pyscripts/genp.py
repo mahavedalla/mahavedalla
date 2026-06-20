@@ -88,6 +88,4 @@ if __name__ == "__main__":
     else:
         create_new_entry(filename, question, category)
         # if directory != "":
-            # create_new_entry(filename, question, category, directory=directory)
-        # else:
-            # create_new_entry(filename, question, category)
+            # create_new_entry(filename, question, 
