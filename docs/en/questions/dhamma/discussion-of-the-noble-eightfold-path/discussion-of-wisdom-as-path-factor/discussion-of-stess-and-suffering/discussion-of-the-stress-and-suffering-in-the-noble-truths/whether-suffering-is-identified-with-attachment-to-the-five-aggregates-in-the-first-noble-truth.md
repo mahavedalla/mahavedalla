@@ -22,4 +22,6 @@ Notes:
 
 I remember hearing Ajaan Geoff once say that the first noble truth doesn't identify dukkha with the clinging aggregates, but just uses them to describe dukkha, and that in fact that whole truth is a kind of pointer, not so much an attempt to explain what suffering is on an ontological level. It is important to be clear about what the function of the truth is, for that affects how they are taught and discussed. I have found it quite easy to think of the first noble truth as simply identifying dukkha as clinging.
 
+"The second step in answering the question is to note that the Buddha didn’t deﬁne suffering as clinging. He deﬁned it as clinging-aggregates, or the act of clinging to the aggregates." (Beyond Desire & Passion)
+
 -->
