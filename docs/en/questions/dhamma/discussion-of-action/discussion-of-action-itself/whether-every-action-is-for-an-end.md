@@ -20,6 +20,6 @@ Draft: true
 
 Notes:
 
-"our own minds—means that we can often abuse those relationships. Every action we make is for the sake of happiness, but many of those actions often end up causing suffering for ourselves and for those around us." (Beyond Desire & Passion)
+"Every action we make is for the sake of happiness, but many of those actions often end up causing suffering for ourselves and for those around us." (Beyond Desire & Passion)
 
 -->
