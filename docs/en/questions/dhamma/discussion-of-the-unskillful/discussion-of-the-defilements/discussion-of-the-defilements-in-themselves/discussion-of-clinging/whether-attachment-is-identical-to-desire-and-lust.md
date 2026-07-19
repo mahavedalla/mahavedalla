@@ -11,3 +11,13 @@ Priority:
 Number: 
 Draft: true
 ---
+
+#
+
+<!--
+
+Notes:
+
+"As we will see later, clinging is identical with passion and desire" (Beyond Desire & Passion)
+
+-->
