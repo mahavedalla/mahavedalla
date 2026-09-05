@@ -1,5 +1,5 @@
 ---
-Question: Whether faith is divisible into categories?
+Question: Whether faith is divisible into types?
 Category: Saddhā
 Tags: 
 Sutta References: 
