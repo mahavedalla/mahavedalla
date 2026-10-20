@@ -20,6 +20,9 @@ Draft: true
 
 Notes:
 
+Recently, this question actually arose organically for me, despite that I had preempted here by nearly a year. I was speaking with someone about the difficulties of translation of Pāḷi terms into Spanish. They mentioned "restraint", as in sense restraint. This led me to consider what the precise meaning of indriyasaṃvara was.
+
+I have reached no final conclusions nor can I say I am inclined to the new considerations I will detail, but the research followed the original discussion made me feel that I could not exclude a view that indriyasaṃvara is not precisely the activity of leashing and holding back (i.e., restraining the senses) but rather, perhaps, the attentional and intentional, etc., regulation of sense perception, especially when there is actual contact, such that unwholesome states don't arise.
 
 
 -->
