@@ -24,6 +24,15 @@ Recently, this question actually arose organically for me, despite that I had pr
 
 I have reached no final conclusions nor can I say I am inclined to the new considerations I will detail, but the research that followed the original discussion made me feel that I could not exclude a view that indriyasaṃvara is not precisely the activity of leashing and holding back (i.e., restraining the senses) but rather, perhaps, the attentional and intentional, etc., regulation of sense perception, especially when there is actual contact, such that unwholesome states don't arise (a shutting, a guarding).
 
+It might be useful to introduce some nominal distinctions. They are nominal in that they aren't intended to imply the referents thereof are actually distinct, which is the object of this research.
+
+(1) Sensory deprivation
+(2) Sensory avoidance
+(3) Sensory moderation
+(4) Attentional regulation
+(5) Intentional regulation
+(6) 
+
 Suttas:
 
 "cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati...." (DN 2)
@@ -44,5 +53,14 @@ Commentary:
 
 "apica indriyasaṃvarapūrakena bhikkhunā kuraṇḍakamahāleṇavāsinā cittaguttattherena viya corakamahāvihāravāsinā mahāmittattherena viya ca bhavitabbaṃ. kuraṇḍakamahāleṇe kira sattannaṃ buddhānaṃ abhinikkhamanacittakammaṃ manoramaṃ ahosi, sambahulā bhikkhū senāsanacārikaṃ āhiṇḍantā cittakammaṃ disvā ‘‘
 manoramaṃ, bhante, cittakamman ’’ ti āhaṃsu. thero āha ‘‘ atirekasaṭṭhi me, āvuso, vassāni leṇe vasantassa cittakammaṃ atthītipi na jānāmi, ajja dāni cakkhumante nissāya ñātan ’’ ti. therena kira ettakaṃ addhānaṃ vasantena cakkhuṃ ummīletvā leṇaṃ na ullokitapubbaṃ. leṇadvāre cassa mahānāgarukkhopi ahosi. sopi therena uddhaṃ na ullokitapubbo. anusaṃvaccharaṃ bhūmiyaṃ kesaranipātaṃ disvāvassa pupphitabhāvaṃ jānāti." (Visuddhimagga)
+
+Other:
+
+"The development of sense restraint hinges on the discernment of what non-restraint is. “Guarding the sense doors”, as it’s called in the Suttas, is often inadvertently confused with “sensory deprivation” and blind denial, a mode of practice that is as misguided as careless indulgence.1 2
+
+[Already] contacted, bhikkhus, one feels, intends, and perceives.
+
+—SN 35.933
+The arisen consciousness of a sense object4, vague as it may be, is itself what allows you to do anything in regard to it, including restraint. Therefore, sense restraint (indriyasaṃvara, lit. “holding back” of the faculties) is about preventing the senses from going further “into” the pressuring things that arise of their own accord." https://www.hillsidehermitage.org/restraining-the-senses/#c260f6f8-7942-41d4-91af-b0c6eb1126ba
 
 -->
