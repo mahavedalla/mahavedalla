@@ -33,6 +33,8 @@ It might be useful to introduce some nominal distinctions. They are nominal in t
 (5) Attentional regulation
 (6) Intentional regulation
 (7) Perceptual regulation
+(8) Pre-contact restraint
+(9) Post-contact restraint
 
 Suttas:
 
