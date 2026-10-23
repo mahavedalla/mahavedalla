@@ -66,4 +66,6 @@ Other:
 —SN 35.933
 The arisen consciousness of a sense object4, vague as it may be, is itself what allows you to do anything in regard to it, including restraint. Therefore, sense restraint (indriyasaṃvara, lit. “holding back” of the faculties) is about preventing the senses from going further “into” the pressuring things that arise of their own accord." https://www.hillsidehermitage.org/restraining-the-senses/#c260f6f8-7942-41d4-91af-b0c6eb1126ba
 
+https://suttas.hillsidehermitage.org/?q=mn27&search=restraint#comment1
+
 -->
