@@ -29,13 +29,16 @@ It might be useful to introduce some nominal distinctions. They are nominal in t
 (1) Sensory deprivation
 (2) Sensory avoidance
 (3) Sensory moderation
-(4) Attentional regulation
-(5) Intentional regulation
-(6) 
+(4) Sense restraint
+(5) Attentional regulation
+(6) Intentional regulation
+(7) Perceptual regulation
 
 Suttas:
 
 "cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhā domanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati...." (DN 2)
+
+Commentary:
 
 "na nimittaggāhīti itthipurisanimittaṃ vā subhanimittādikaṃ vā kilesavatthubhūtaṃ nimittaṃ na gaṇhāti, diṭṭhamatteyeva saṇṭhāti. nānubyañjanaggāhīti kilesānaṃ anuanubyañjanato pākaṭabhāvakaraṇato anubyañjananti laddhavohāraṃ hatthapādasitahasitakathitavilokitādibhedaṃ ākāraṃ na gaṇhāti, yaṃ tattha bhūtaṃ, tadeva gaṇhāti, cetiyapabbatavāsī mahātissatthero viya.
  theraṃ kira cetiyapabbatā anurādhapuraṃ piṇḍacāratthāya āgacchantaṃ aññatarā kulasuṇhā sāmikena saddhiṃ bhaṇḍitvā sumaṇḍitapasādhitā devakaññā viya kālasseva anurādhapurato nikkhamitvā[V 1.21] ñātigharaṃ gacchantī antarāmagge disvā vipallatthacittā mahāhasitaṃ hasi. thero kimetanti olokento tassā dantaṭṭhike asubhasaññaṃ paṭilabhitvā arahattaṃ pāpuṇi. tena vuttaṃ –
@@ -48,8 +51,6 @@ Suttas:
  tatrāpi neva bhavaṅgasamaye, na āvajjanādīnaṃ aññatarasamaye saṃvaro vā asaṃvaro vā atthi. javanakkhaṇe pana sace dussīlyaṃ vā muṭṭhasaccaṃ vā aññāṇaṃ vā akkhanti vā kosajjaṃ vā uppajjati, asaṃvaro hoti. evaṃ honto pana so cakkhundriye asaṃvaroti vuccati. kasmā? yasmā tasmiṃ sati dvārampi aguttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. [V 1.22]yathā kiṃ? yathā nagare catūsu dvāresu asaṃvutesu kiñcāpi antogharadvārakoṭṭhakagabbhādayo susaṃvutā honti, tathāpi antonagare sabbaṃ bhaṇḍaṃ arakkhitaṃ agopitameva hoti. nagaradvārena hi pavisitvā corā yadicchanti, taṃ kareyyuṃ, evameva javane dussīlyādīsu uppannesu tasmiṃ asaṃvare sati dvārampi aguttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni.
  tasmiṃ pana sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. yathā kiṃ? yathā nagaradvāresu saṃvutesu kiñcāpi antogharādayo asaṃvutā honti, tathāpi antonagare sabbaṃ bhaṇḍaṃ surakkhitaṃ sugopitameva hoti. nagaradvāresu hi pihitesu corānaṃ paveso natthi, evameva javane sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. tasmā javanakkhaṇe uppajjamānopi cakkhundriye saṃvaroti vutto.
  sotena saddaṃ sutvātiādīsupi eseva nayo. evamidaṃ saṅkhepato rūpādīsu kilesānubandhanimittādiggāhaparivajjanalakkhaṇaṃ indriyasaṃvarasīlanti veditabbaṃ."
-
-Commentary:
 
 "apica indriyasaṃvarapūrakena bhikkhunā kuraṇḍakamahāleṇavāsinā cittaguttattherena viya corakamahāvihāravāsinā mahāmittattherena viya ca bhavitabbaṃ. kuraṇḍakamahāleṇe kira sattannaṃ buddhānaṃ abhinikkhamanacittakammaṃ manoramaṃ ahosi, sambahulā bhikkhū senāsanacārikaṃ āhiṇḍantā cittakammaṃ disvā ‘‘
 manoramaṃ, bhante, cittakamman ’’ ti āhaṃsu. thero āha ‘‘ atirekasaṭṭhi me, āvuso, vassāni leṇe vasantassa cittakammaṃ atthītipi na jānāmi, ajja dāni cakkhumante nissāya ñātan ’’ ti. therena kira ettakaṃ addhānaṃ vasantena cakkhuṃ ummīletvā leṇaṃ na ullokitapubbaṃ. leṇadvāre cassa mahānāgarukkhopi ahosi. sopi therena uddhaṃ na ullokitapubbo. anusaṃvaccharaṃ bhūmiyaṃ kesaranipātaṃ disvāvassa pupphitabhāvaṃ jānāti." (Visuddhimagga)
