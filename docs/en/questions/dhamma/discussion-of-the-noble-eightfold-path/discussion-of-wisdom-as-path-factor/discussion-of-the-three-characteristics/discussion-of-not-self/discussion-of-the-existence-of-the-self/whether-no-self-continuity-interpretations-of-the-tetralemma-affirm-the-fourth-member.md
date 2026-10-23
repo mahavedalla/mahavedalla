@@ -40,7 +40,13 @@ Option 2: ~M1|~M2 ≈ ~(M1&M2) (DeMorgan)
 Prima facie, option 1 seems the better interpretation to me.
 
 Now, onto the rejoinder. It seems Taan Ajaan's objection would succeed if the argument implied that M1 is false and M2 is false, as (~M1&~M2), which is M4, would follow by any standard logic, as far as I am aware.
-However, why could someone with a no-self continuity interpretation not maintain that M1 and M2 do not apply, or have no truth value, and that thus M3 and M4 cannot either? For instance, if the original arguer maintains that M1 and M2 have no truth-value because the name Tathāgata fails to refer, then it seems they can also maintain that M3 and M4 likewise do not apply.
+However, why could someone with a no-self continuity interpretation not maintain that M1 and M2 do not apply, or have no truth value, and that thus M3 and M4 cannot either? For instance, if the original arguer maintains that M1 and M2 have no truth-value because the name Tathāgata fails to refer (perhaps as Strawsonian view), then it seems they can also maintain that M3 and M4 likewise do not apply.
+
+An objection to this rejoinder could be that it assumes a non-standard classical-logical view that permits truth-value gaps.
+
+A further rejoinder to this might be that while this might be a general objection to the rejoinder, it is toothless in this dialectic, since any interpretation of the tetralemma will have to permit truth-value gaps, assuming that the tetralemma must not apply, in the sense of none of its members having a truth-value; e.g., Taan Ajaan and a no-self continuity theorist alike must assume that M1 is neither true nor false.
+
+The latter rejoinder could perhaps be objected to by introducing distinctions in the meaning of applicability in the context of the tetralemma. I leave this here for now.
 
 If this rejoinder succeeds, it would seem to show one can at least defend a no-self continuity interpretation against such an objection. It doesot, however, seem to show that interpretation is correct.
 
