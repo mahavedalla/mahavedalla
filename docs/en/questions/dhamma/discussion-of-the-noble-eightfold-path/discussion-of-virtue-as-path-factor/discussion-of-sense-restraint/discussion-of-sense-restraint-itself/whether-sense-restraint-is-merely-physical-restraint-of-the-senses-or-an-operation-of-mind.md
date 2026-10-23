@@ -39,4 +39,10 @@ Suttas:
  tatrāpi neva bhavaṅgasamaye, na āvajjanādīnaṃ aññatarasamaye saṃvaro vā asaṃvaro vā atthi. javanakkhaṇe pana sace dussīlyaṃ vā muṭṭhasaccaṃ vā aññāṇaṃ vā akkhanti vā kosajjaṃ vā uppajjati, asaṃvaro hoti. evaṃ honto pana so cakkhundriye asaṃvaroti vuccati. kasmā? yasmā tasmiṃ sati dvārampi aguttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. [V 1.22]yathā kiṃ? yathā nagare catūsu dvāresu asaṃvutesu kiñcāpi antogharadvārakoṭṭhakagabbhādayo susaṃvutā honti, tathāpi antonagare sabbaṃ bhaṇḍaṃ arakkhitaṃ agopitameva hoti. nagaradvārena hi pavisitvā corā yadicchanti, taṃ kareyyuṃ, evameva javane dussīlyādīsu uppannesu tasmiṃ asaṃvare sati dvārampi aguttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni.
  tasmiṃ pana sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. yathā kiṃ? yathā nagaradvāresu saṃvutesu kiñcāpi antogharādayo asaṃvutā honti, tathāpi antonagare sabbaṃ bhaṇḍaṃ surakkhitaṃ sugopitameva hoti. nagaradvāresu hi pihitesu corānaṃ paveso natthi, evameva javane sīlādīsu uppannesu dvārampi guttaṃ hoti, bhavaṅgampi āvajjanādīnipi vīthicittāni. tasmā javanakkhaṇe uppajjamānopi cakkhundriye saṃvaroti vutto.
  sotena saddaṃ sutvātiādīsupi eseva nayo. evamidaṃ saṅkhepato rūpādīsu kilesānubandhanimittādiggāhaparivajjanalakkhaṇaṃ indriyasaṃvarasīlanti veditabbaṃ."
+
+Commentary:
+
+"apica indriyasaṃvarapūrakena bhikkhunā kuraṇḍakamahāleṇavāsinā cittaguttattherena viya corakamahāvihāravāsinā mahāmittattherena viya ca bhavitabbaṃ. kuraṇḍakamahāleṇe kira sattannaṃ buddhānaṃ abhinikkhamanacittakammaṃ manoramaṃ ahosi, sambahulā bhikkhū senāsanacārikaṃ āhiṇḍantā cittakammaṃ disvā ‘‘
+manoramaṃ, bhante, cittakamman ’’ ti āhaṃsu. thero āha ‘‘ atirekasaṭṭhi me, āvuso, vassāni leṇe vasantassa cittakammaṃ atthītipi na jānāmi, ajja dāni cakkhumante nissāya ñātan ’’ ti. therena kira ettakaṃ addhānaṃ vasantena cakkhuṃ ummīletvā leṇaṃ na ullokitapubbaṃ. leṇadvāre cassa mahānāgarukkhopi ahosi. sopi therena uddhaṃ na ullokitapubbo. anusaṃvaccharaṃ bhūmiyaṃ kesaranipātaṃ disvāvassa pupphitabhāvaṃ jānāti." (Visuddhimagga)
+
 -->
