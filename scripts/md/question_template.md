@@ -1,18 +1,18 @@
 ---
 Question:
 Category:
-Tags: 
+Tags:
 Sutta References:
 Date Entered:
 Last Revised:
 Review Status: Not started
-Level: 
-Priority: 
-Number: 
+Level:
+Priority:
+Number:
 Draft: true
 ---
 
-# 
+#
 
 ## Bibliography
 
