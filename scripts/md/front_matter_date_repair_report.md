@@ -5,27 +5,27 @@ Fields: `Date Entered`, `Last Revised`.
 
 **Markdown files scanned:** 2341
 **Files with convertible dates:** 2309
-**Files updated this run:** 0
+**Files updated this run:** 5
 
 ## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-action-is-intentional.md`
-- **Date Entered** (WOULD CONVERT): `March 29, 2025` → `03-29-2025`
-- **Last Revised** (WOULD CONVERT): `` → `10-27-2026`
+- **Date Entered** (UPDATED): `March 29, 2025` → `03-29-2025`
+- **Last Revised** (UPDATED): `` → `10-27-2026`
 
 ## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-all-actions-bodily-verbal-and-mental-are-reducible-to-one-kind-of-action.md`
-- **Date Entered** (WOULD CONVERT): `12-13-25` → `12-13-2025`
-- **Last Revised** (WOULD CONVERT): `12-13-25` → `12-13-2025`
+- **Date Entered** (UPDATED): `12-13-25` → `12-13-2025`
+- **Last Revised** (UPDATED): `12-13-25` → `12-13-2025`
 
 ## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-an-action-can-be-both-wholesome-and-unwholesome.md`
-- **Date Entered** (WOULD CONVERT): `March 30, 2025` → `03-30-2025`
-- **Last Revised** (WOULD CONVERT): `` → `10-27-2026`
+- **Date Entered** (UPDATED): `March 30, 2025` → `03-30-2025`
+- **Last Revised** (UPDATED): `` → `10-27-2026`
 
 ## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-every-action-is-for-an-end.md`
-- **Date Entered** (WOULD CONVERT): `9-10-25` → `09-10-2025`
-- **Last Revised** (WOULD CONVERT): `9-10-25` → `09-10-2025`
+- **Date Entered** (UPDATED): `9-10-25` → `09-10-2025`
+- **Last Revised** (UPDATED): `9-10-25` → `09-10-2025`
 
 ## `questions/dhamma/discussion-of-action/discussion-of-actors/whether-beings-act-for-an-end-by-nature-or-by-choice.md`
-- **Date Entered** (WOULD CONVERT): `9-10-25` → `09-10-2025`
-- **Last Revised** (WOULD CONVERT): `9-10-25` → `09-10-2025`
+- **Date Entered** (UPDATED): `9-10-25` → `09-10-2025`
+- **Last Revised** (UPDATED): `9-10-25` → `09-10-2025`
 
 ## `questions/dhamma/discussion-of-action/discussion-of-free-will/whether-there-is-free-will.md`
 - **Date Entered** (WOULD CONVERT): `3-20-25` → `03-20-2025`

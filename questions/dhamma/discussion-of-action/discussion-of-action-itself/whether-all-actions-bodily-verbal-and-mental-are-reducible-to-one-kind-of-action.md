@@ -3,8 +3,8 @@ Question: Whether all actions, bodily, verbal, and mental are reducible to one k
 Category: Kamma
 Tags: 
 Sutta References: MN 56 
-Date Entered: 12-13-25
-Last Revised: 12-13-25
+Date Entered: 12-13-2025
+Last Revised: 12-13-2025
 Review Status: Not started
 Level: 
 Priority: 
