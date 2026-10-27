@@ -1,10 +1,10 @@
 ---
-Question: test
-Category: test
+Question:
+Category:
 Tags: 
-Sutta References: 
-Date Entered: 6-20-26
-Last Revised: 6-20-26
+Sutta References:
+Date Entered:
+Last Revised:
 Review Status: Not started
 Level: 
 Priority: 
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# test
+# 
 
 ## Bibliography
 
