@@ -119,7 +119,7 @@ def main():
     # repository/scripts/pyscripts/export_question_frontmatter.py
     root = Path(__file__).resolve().parents[2]
     questions_dir = root / "questions"
-    output_path = root / "question_front_matter_export.csv"
+    output_path = root / "scripts"/ "md" / "question_front_matter_export.csv"
 
     if not questions_dir.is_dir():
         sys.exit(
