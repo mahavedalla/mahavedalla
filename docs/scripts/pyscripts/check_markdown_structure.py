@@ -51,9 +51,9 @@ def audit_file(path):
 
 def main():
     root = Path(__file__).resolve().parents[3]
-    scan_dir = root / "docs" / "en"
+    scan_dir = root / "docs" / "questions"
     report = root / "markdown_structure_report.csv"
-    notes_report = root / "missing_notes_report.md"
+    notes_report = root / "docs" / "scripts" / "md" / "missing_notes_report.md"
 
     if not scan_dir.is_dir():
         sys.exit(f"Error: scan directory does not exist: {scan_dir}")
