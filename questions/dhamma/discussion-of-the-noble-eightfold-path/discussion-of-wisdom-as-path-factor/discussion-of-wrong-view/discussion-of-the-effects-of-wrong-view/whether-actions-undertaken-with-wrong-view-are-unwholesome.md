@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether actions undertaken with wrong view are unwholesome?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

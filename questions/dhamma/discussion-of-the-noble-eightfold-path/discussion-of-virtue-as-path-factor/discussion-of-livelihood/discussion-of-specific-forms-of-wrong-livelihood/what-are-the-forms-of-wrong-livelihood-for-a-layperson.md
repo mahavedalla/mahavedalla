@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What are the forms of wrong livelihood for a layperson?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

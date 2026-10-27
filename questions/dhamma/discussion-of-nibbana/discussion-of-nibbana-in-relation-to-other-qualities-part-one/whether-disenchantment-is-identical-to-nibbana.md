@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether disenchantment is identical to Nibbāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

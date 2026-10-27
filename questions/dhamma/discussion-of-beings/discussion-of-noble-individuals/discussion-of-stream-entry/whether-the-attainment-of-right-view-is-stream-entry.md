@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the attainment of right view is stream-entry?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

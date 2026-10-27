@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether the Buddha experienced physical ailments?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

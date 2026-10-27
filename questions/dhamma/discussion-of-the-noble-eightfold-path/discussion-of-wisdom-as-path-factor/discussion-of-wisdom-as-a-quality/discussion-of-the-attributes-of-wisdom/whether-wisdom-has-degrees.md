@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether wisdom has degrees?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

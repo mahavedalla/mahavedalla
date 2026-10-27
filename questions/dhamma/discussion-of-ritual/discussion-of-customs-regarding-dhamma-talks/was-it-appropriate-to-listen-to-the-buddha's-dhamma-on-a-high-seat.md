@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Was it appropriate to listen to the Buddha's Dhamma on a high seat?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

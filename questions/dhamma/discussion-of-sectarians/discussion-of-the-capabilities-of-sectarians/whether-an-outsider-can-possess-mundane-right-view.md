@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether an outsider can possess mundane right view?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -9,3 +9,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is a meditative attainment superior to nirodhasamāpatti?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

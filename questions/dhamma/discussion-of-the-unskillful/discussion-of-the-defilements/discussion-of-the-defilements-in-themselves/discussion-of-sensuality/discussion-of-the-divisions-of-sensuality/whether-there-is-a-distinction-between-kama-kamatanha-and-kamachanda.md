@@ -11,3 +11,15 @@ Priority: 2
 Number: 
 Draft: true
 ---
+
+# Whether there is a distinction between kāma, kāmataṇhā, and kāmachanda?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

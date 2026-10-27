@@ -7,3 +7,15 @@ Answer: -
 Date Entered: April 11, 2025
 Review Status: Not started
 ---
+
+# Whether sensual desire affects recollection?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

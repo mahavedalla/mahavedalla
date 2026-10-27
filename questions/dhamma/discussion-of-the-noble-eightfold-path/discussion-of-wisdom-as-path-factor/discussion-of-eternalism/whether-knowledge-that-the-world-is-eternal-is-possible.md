@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether knowledge that the world is eternal is possible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

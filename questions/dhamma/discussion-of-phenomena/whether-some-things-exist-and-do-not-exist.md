@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether some things exist and some do not?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether a Sotāpanna can violate the five precepts?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

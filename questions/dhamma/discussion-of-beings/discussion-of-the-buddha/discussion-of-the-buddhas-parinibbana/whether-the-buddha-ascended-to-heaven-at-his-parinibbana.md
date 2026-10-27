@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha ascended to heaven at his Pārinibbāna
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

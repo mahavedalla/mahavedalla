@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether one is still perceptive while in jhāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

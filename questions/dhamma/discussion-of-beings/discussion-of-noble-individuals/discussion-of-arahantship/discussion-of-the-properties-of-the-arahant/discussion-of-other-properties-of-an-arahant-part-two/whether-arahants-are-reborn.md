@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Arahants are reborn?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

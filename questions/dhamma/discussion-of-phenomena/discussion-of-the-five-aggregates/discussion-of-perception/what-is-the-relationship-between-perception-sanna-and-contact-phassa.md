@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the relationship between perception (saññā) and contact (phassa)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -12,3 +12,15 @@ Number:
 Draft: true
 ---
 
+
+# Whether vimutti is from the defilements?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

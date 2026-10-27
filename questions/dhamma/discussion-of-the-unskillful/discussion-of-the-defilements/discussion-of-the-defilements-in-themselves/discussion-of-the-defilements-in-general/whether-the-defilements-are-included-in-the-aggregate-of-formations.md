@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What aggregate do the defilements fall under?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

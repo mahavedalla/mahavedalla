@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the difference between a Buddha and an Arahant?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

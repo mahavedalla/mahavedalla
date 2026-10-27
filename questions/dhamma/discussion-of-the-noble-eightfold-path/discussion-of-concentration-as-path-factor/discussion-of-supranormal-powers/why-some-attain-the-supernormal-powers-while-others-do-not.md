@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Why some attain the supernormal powers while others do not?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

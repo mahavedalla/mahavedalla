@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether reasoning is integral?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

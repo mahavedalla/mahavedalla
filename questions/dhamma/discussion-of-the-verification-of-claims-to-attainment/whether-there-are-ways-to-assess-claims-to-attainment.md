@@ -11,3 +11,15 @@ Priority: 2
 Number: 
 Draft: true
 ---
+
+# Whether there are ways to assess claims to attainment?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

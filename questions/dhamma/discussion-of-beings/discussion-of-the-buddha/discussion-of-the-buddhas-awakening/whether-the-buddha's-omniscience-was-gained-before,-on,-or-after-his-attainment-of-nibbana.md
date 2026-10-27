@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha's omniscience was gained before, on, or after his attainment of Nibbāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

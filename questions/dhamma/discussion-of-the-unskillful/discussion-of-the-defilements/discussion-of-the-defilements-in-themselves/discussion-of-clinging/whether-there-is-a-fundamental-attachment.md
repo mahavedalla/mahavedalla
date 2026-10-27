@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is a fundamental attachment?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

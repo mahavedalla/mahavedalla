@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is it appropriate to take up and put down different themes of meditation?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

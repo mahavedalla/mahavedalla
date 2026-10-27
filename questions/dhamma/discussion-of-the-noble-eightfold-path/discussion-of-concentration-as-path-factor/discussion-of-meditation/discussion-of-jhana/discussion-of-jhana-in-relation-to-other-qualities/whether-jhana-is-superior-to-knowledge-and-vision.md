@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is jhāna superior to knowledge and vision?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

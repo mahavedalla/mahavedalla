@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the pleasure of jhāna surpasses divine pleasure?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

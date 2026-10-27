@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Was the Buddha capable of indulging in sensual pleasures?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

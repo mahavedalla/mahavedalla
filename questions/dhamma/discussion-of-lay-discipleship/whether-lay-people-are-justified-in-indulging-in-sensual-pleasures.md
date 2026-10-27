@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether lay people are justified in indulging in sensual pleasures?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

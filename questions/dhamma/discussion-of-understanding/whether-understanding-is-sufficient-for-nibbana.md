@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether understanding is sufficient for Nibbāna
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

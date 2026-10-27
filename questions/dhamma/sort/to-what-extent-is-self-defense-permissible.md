@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# To what extent is self-defense permissible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

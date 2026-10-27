@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the defilements are mental?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

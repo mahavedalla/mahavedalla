@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha praise the observance of the thirteen ascetic practices?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

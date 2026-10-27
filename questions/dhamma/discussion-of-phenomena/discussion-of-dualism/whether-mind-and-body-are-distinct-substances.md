@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether mind and body are distinct substances?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

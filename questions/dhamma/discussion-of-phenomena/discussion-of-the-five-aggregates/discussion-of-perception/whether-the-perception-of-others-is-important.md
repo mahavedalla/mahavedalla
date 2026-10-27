@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the perception of others is important?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

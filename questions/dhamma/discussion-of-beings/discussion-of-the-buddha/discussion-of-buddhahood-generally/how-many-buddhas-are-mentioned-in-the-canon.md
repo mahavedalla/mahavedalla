@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How many Buddhas are mentioned in the Canon?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

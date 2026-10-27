@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the bhikkhus were ever confused or ignorant?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

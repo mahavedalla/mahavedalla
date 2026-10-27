@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How does one become an lay follower (upāsaka)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

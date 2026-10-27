@@ -8,3 +8,15 @@ Date Entered: July 4, 2025
 Last Revised:
 Review Status: Not started
 ---
+
+# Whether sati develops sīla?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

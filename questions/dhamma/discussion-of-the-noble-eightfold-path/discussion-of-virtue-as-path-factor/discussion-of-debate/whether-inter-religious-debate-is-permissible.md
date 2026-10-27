@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether inter-religious debate is permissible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

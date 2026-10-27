@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the reason why suffering arises over the misfortune of some individuals and not others?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

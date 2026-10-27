@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether faith is adequate for knowledge?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

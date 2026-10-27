@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether widespread approval of sensuality undermines the claim that it causes stress and suffering?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

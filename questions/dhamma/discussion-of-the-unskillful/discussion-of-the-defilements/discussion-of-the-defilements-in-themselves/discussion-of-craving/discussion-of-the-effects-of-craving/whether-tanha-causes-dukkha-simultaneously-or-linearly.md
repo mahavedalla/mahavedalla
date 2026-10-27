@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether taṇhā causes dukkha simultaneously or linearly?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

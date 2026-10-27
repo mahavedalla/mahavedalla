@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether the path is to be abandoned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

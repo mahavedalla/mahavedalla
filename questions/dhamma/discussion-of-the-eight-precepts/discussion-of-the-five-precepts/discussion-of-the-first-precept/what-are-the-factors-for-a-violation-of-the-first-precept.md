@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What are the factors for a violation of the first precept?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

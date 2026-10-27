@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What rules is a lay follower expected to keep?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

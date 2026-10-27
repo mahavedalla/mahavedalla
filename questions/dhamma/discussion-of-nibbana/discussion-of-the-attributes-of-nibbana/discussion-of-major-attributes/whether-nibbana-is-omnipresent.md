@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is omnipresent?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

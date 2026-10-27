@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Who were the monks belonging to the pañcavaggiya (the group of five monks taught the Buddha's first discourse, the Dhammacakkappavattana Sutta)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

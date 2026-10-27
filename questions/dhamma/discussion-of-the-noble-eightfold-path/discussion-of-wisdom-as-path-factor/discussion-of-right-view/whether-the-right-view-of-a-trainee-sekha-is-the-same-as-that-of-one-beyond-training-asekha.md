@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the right view of a trainee (sekha) is the same as that of one beyond training (asekha)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha have a wife before his going forth?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

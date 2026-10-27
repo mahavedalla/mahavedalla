@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether this science is necessary for a trainee (sekha)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

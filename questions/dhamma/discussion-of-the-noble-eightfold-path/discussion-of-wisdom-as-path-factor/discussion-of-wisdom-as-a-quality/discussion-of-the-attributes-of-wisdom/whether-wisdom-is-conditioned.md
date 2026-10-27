@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether wisdom is conditioned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

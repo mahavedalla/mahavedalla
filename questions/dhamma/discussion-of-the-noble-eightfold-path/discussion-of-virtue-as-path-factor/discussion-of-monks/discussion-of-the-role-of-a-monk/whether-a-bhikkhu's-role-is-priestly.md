@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether a bhikkhu's role is priestly?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

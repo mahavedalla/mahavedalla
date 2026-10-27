@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the purpose of obedience?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

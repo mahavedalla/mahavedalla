@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is rebirth instantaneous?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

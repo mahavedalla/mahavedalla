@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the doctrine of non-doing (akiriyavāda)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -14,3 +14,15 @@ Draft: true
 
 
 
+
+# What are the kinds of deliverance (vimutti)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority: 3
 Number:
 Draft: true
 ---
+
+# Whether dispassion is conditioned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

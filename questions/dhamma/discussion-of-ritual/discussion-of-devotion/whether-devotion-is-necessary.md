@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether devotion is necessary?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

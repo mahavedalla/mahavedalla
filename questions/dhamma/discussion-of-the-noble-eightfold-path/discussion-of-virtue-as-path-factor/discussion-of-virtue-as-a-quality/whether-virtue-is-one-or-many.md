@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether virtue is one or many?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

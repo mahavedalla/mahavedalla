@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether supramundane right view supersedes mundane right view?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

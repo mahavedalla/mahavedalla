@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What was Venerable Moggallāna's lay name?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

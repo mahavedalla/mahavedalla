@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the noble eightfold path is conditioned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

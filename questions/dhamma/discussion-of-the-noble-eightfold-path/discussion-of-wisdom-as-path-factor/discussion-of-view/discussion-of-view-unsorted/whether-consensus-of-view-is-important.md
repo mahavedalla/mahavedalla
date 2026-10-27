@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether consensus of view is important?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

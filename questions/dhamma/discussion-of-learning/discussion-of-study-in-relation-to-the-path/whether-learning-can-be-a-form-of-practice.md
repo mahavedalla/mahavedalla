@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether learning can be a form of practice?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

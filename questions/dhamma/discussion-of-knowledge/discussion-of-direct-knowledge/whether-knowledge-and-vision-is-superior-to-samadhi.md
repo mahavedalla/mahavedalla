@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether knowledge and vision is superior to samadhi?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

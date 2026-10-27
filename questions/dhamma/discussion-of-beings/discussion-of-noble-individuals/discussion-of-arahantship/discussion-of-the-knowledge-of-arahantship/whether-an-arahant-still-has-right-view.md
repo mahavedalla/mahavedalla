@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Does an Arahant still have right view?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

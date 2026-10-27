@@ -11,3 +11,15 @@ Priority: 1
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is known directly or inferentially?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

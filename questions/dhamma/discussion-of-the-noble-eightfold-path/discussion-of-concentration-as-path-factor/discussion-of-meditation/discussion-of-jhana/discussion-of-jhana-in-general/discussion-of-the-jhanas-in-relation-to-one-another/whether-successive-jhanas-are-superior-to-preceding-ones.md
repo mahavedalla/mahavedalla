@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether successive jhānas are superior to preceding ones?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

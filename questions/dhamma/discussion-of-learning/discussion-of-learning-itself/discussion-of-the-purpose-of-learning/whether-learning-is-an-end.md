@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether learning is an end?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How does one come to learn of another's qualities?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is it possible that an Arahant could not possess the dibbacakkhu (divine eye), the ability to see beings passing away and being reborn according to their kamma?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

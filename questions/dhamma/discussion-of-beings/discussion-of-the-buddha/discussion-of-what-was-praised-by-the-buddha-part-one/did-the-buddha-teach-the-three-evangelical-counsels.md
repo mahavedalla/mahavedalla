@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha teach the three evangelical counsels?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

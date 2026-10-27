@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether one should never associate with fools?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

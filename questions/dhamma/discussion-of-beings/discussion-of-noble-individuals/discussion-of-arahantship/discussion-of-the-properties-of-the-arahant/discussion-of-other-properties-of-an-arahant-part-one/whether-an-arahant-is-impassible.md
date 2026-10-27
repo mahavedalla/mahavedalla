@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether an Arahant is impassible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

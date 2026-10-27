@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is it appropriate for a monk to die in an inhabited area?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

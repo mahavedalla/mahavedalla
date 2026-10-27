@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha was detached from material things?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

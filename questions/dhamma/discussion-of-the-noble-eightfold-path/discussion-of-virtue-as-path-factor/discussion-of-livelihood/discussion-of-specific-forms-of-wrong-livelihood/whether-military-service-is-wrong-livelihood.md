@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether military service is wrong livelihood?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

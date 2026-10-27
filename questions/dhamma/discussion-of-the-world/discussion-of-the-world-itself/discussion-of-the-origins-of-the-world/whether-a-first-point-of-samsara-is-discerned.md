@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether a first point of saṃsāra is discerned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

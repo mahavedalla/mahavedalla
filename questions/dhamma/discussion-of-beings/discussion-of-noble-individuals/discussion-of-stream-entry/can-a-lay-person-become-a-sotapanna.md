@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Can a lay person become a sotāpanna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

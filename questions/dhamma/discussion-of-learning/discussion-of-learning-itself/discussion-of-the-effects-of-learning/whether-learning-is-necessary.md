@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether learning is necessary?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

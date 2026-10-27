@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha rejected Brahminism?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether wrong view is blameworthy?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

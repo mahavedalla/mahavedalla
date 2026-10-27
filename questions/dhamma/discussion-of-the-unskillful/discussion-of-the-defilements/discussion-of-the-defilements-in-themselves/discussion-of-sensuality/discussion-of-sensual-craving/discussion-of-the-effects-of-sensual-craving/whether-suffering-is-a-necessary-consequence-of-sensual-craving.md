@@ -11,3 +11,15 @@ Priority: 2
 Number: 
 Draft: true
 ---
+
+# Whether suffering is a necessary consequence of sensual craving?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

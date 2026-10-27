@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the pleasure of jhāna surpasses sensual pleasure?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is afflicted by the defilements?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

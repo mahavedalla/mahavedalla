@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether Vinaya is subordinate to Dhamma?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

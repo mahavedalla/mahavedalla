@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is Nibbāna a mere absence?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

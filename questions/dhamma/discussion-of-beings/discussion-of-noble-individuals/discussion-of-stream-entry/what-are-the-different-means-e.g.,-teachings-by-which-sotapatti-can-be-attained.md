@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What are the different means (e.g., teachings) by which sotāpatti can be attained?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

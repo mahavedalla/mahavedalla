@@ -9,3 +9,15 @@ Review Status: Not started
 Level: 2
 Priority: 3
 ---
+
+# Whether kāma can be skillful?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

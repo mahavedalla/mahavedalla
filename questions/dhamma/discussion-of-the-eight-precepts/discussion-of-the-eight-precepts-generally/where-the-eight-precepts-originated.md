@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Where the eight precepts originated?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is jhāna necessary for the attainment of sotāpatti?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

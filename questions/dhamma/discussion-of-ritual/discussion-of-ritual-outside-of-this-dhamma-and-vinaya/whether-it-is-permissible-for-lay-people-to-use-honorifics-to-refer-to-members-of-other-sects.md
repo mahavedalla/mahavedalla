@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it is permissible for lay people to use honorifics to refer to members of other sects?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

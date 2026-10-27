@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the sense of self, i.e., is it a perception, formation, or feeling?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

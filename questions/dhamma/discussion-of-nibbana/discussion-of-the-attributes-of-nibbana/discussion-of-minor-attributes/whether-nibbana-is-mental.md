@@ -10,3 +10,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is mental?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

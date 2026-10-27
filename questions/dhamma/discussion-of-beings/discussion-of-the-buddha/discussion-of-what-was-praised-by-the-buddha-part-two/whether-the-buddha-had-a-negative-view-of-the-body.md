@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether the Buddha had a negative view of the body?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

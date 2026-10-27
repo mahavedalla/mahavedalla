@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha made offerings to gods?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

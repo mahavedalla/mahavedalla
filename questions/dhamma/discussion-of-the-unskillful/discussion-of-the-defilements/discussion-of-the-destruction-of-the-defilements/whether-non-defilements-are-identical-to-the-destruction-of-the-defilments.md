@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether non-defilments are identical to the destruction of the defilements?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

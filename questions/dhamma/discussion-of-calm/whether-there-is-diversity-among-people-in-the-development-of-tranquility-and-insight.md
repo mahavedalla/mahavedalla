@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is diversity among people in the development of tranquility and insight?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

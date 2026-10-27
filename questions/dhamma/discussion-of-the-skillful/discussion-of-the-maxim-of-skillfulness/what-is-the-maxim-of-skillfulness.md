@@ -11,3 +11,15 @@ Priority: 1
 Number:
 Draft: true
 ---
+
+# What is the maxim of skillfulness?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

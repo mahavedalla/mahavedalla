@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is the observance of the sixth precept necessary for the attainment of Nibbāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is it permissible for lay people to wear adornments?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

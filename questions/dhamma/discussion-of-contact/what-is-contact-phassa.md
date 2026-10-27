@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is contact (phassa)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

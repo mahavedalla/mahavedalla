@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Who was the first to become a lay follower by means of the triple refuge?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

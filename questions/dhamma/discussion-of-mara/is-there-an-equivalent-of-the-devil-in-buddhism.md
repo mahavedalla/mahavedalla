@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is there an equivalent of the devil in Buddhism?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether stability of residence is beneficial?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether wrong view leads to hell?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

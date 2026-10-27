@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the development of the perception of impermanence (alt: inconstancy; anicca) is directly conducive to Nibbāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

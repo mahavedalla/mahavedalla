@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Was this Assaji the same as the one belonging to the bhikkhū pañcavaggiya (the group of five monks who received the Buddha's first discourse)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the purpose of leading the spiritual life?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

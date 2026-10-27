@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether friendship plays a role in the holy life?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

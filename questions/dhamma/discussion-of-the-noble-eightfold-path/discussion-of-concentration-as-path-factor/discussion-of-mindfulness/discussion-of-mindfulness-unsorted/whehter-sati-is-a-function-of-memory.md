@@ -9,3 +9,15 @@ Review Status: Not started
 Level: 2
 Priority: 2
 ---
+
+# Whether sati is a function of memory?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -9,3 +9,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How did the Buddha regard other religions?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

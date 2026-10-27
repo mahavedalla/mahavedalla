@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether faith (saddhā) is necessary for the awakening?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna can be obtained while quarreling isn't abandoned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna has attributes?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

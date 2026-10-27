@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How does the citta differ from manas?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the reject slavery?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

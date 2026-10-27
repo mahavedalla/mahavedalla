@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether Arahatta is attained with intention?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

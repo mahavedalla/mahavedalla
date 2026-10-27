@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether remorse and regret are encouraged?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

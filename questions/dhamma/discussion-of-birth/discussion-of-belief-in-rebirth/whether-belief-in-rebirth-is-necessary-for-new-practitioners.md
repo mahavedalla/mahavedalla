@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether belief in rebirth is necessary for new practitioners?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether sacred doctrine (pariyatti) is necessary? Whether, besides meditation, sacred doctrine is necessary?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

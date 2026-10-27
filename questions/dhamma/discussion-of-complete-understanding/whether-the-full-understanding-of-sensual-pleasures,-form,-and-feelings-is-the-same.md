@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the full understanding of sensual pleasures, form, and feelings is the same?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

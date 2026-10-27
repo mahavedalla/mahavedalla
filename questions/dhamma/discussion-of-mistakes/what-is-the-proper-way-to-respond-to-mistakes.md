@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the proper way to respond to mistakes?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

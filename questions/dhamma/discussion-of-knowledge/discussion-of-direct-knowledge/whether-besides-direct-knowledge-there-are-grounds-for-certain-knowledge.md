@@ -9,3 +9,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether, besides direct knowledge, there are grounds for certain knowledge?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the wanderers of other sects can abandon sensuality?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

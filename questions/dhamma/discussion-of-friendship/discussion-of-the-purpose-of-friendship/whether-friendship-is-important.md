@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether friendship is important?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

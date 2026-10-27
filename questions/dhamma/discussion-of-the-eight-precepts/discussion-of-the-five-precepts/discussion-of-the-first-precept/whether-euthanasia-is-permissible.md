@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether euthanasia is permissible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -7,3 +7,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether upadhi is the same as the āsavā, kilesā, and upādānā?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

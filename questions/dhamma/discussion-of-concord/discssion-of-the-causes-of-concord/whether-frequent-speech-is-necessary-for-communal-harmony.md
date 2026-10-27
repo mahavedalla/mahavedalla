@@ -9,3 +9,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether frequent speech is necessary for communal harmony?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

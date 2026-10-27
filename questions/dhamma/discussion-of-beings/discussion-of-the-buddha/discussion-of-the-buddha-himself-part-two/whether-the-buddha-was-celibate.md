@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha was celibate?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

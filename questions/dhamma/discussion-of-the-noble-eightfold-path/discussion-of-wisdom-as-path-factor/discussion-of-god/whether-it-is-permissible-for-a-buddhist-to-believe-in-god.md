@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it is permissible for a Buddhist to believe in God?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

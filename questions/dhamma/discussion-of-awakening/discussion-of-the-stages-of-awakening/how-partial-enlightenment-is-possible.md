@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How partial enlightenment is possible?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is a term for a scholar?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

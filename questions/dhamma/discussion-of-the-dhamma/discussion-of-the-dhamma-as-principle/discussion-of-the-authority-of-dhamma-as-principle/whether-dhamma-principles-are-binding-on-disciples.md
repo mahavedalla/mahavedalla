@@ -12,3 +12,15 @@ Number:
 Draft: true
 ---
 
+
+# Whether Dhamma principles are binding on disciples?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

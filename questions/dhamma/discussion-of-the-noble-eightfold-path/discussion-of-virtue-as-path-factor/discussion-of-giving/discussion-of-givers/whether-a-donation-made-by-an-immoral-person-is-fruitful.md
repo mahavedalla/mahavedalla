@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether a donation made by an immoral person is fruitful?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

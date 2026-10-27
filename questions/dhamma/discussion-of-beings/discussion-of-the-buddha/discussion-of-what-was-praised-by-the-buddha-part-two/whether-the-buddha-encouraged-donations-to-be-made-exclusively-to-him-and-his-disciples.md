@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha encouraged donations to be made exclusively to him and his disciples?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

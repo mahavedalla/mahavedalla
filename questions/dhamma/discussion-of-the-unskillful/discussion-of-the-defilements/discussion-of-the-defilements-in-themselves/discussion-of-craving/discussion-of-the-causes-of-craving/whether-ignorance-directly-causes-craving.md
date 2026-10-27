@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether ignorance directly causes craving?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

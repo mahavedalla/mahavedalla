@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What benefit do monks offer their supporters?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

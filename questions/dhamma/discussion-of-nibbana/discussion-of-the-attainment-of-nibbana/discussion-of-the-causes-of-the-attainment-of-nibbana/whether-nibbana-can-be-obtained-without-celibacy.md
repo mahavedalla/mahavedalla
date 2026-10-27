@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna can be obtained without celibacy?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

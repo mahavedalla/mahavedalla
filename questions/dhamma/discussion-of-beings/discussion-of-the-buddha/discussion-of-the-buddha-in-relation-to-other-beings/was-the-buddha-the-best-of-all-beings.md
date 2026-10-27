@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Was the Buddha the best of all beings?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

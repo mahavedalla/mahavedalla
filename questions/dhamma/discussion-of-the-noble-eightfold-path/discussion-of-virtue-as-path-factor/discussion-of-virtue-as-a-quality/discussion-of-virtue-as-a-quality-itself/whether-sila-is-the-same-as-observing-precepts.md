@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether sīla is the same as observing precepts?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether homosexuality is kāmesu micchācāra (sexual misconduct)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

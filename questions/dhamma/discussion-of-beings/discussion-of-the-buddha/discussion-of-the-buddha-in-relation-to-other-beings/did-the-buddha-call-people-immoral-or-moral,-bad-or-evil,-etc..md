@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha call people immoral or moral, bad or evil, etc.?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Dhamma is intellectual?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

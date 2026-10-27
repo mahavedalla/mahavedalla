@@ -11,3 +11,15 @@ Priority: 1
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna can be attained by means other than the noble eightfold path?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it is possible to eat fine foods without giving rise to sensual desire?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

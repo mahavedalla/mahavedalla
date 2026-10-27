@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there are reasons to believe in rebirth?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

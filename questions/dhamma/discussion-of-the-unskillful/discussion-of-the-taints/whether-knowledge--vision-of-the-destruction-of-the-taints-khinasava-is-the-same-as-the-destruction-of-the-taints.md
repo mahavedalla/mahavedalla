@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether knowledge & vision of the destruction of the taints (khīṇāsava) is the same as the destruction of the taints?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is belief in rebirth required to be a disciple?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

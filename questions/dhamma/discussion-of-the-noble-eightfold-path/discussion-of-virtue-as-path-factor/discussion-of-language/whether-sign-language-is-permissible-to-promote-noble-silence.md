@@ -9,3 +9,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether sign language is permissible to promote noble silence?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

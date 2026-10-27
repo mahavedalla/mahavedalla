@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is it permissible for a Buddhist to participate in a religious ceremony of another religion?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there are different forms of equanimity?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

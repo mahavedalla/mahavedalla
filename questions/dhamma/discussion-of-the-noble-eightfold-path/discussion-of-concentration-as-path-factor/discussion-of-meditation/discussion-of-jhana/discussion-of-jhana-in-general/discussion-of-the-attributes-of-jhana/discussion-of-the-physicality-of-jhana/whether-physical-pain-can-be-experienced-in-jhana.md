@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether physical pain can be experienced in jhāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

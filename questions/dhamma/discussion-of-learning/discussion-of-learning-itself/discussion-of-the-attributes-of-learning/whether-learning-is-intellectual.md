@@ -11,3 +11,15 @@ Priority: 2
 Number: 
 Draft: true
 ---
+
+# Whether learning is intellectual?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

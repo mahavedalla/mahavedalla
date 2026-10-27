@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the cessation of the hindrances is equivalent to jhāna?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

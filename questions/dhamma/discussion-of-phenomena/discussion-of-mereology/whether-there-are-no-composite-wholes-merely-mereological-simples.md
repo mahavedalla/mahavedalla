@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there are no composite wholes, merely mereological simples?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

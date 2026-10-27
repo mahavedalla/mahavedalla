@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What are the bases of merit?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did bhikkhus in the Buddha's time offer meal blessings?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

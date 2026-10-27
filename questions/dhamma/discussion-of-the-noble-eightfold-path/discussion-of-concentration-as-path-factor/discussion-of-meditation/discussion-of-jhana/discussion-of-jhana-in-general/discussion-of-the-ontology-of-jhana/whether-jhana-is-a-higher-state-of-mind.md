@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether jhāna is a higher state of mind?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

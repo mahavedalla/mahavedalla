@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether an upāsaka become a anāgāmi?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

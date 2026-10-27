@@ -7,3 +7,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether upadhi has a cause?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

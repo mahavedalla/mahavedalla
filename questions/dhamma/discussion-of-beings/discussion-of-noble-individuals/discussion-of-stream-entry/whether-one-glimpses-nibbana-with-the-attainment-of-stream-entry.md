@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether one glimpses Nibbāna with the attainment of stream-entry?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is Nibbāna collective, i.e., is there one Nibbāna that a multitude attain?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

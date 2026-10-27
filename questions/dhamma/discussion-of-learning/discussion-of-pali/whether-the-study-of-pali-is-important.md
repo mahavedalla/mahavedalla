@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the study of Pāli is important?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

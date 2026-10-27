@@ -7,3 +7,15 @@ Answer: -
 Date Entered: March 21, 2025
 Review Status: Not started
 ---
+
+# With what qualities is someone described as a great man?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

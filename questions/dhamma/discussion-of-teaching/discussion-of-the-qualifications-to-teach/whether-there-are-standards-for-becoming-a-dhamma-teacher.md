@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether there are standards for becoming a Dhamma teacher?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

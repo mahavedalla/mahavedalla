@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether non-defilements are substantial?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

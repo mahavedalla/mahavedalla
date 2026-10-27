@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha indulged in sensual pleasures before his going forth?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

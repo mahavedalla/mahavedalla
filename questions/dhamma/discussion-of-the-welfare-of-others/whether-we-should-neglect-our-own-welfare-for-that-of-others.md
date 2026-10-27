@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether we should neglect our own welfare for that of others?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the successive brahmavihāras are superior to the preceding ones?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

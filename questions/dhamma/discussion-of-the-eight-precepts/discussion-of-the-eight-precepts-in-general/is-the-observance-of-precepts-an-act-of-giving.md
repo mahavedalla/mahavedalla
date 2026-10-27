@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is the observance of precepts an act of giving?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

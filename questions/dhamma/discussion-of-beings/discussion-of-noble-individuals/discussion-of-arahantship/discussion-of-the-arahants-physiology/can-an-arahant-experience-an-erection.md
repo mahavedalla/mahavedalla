@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Can an Arahant experience an erection?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

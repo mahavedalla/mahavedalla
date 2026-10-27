@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether abstention itself can be virtuous?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

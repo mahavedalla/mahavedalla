@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha instructed to laity in renunciation (nekkhamma)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

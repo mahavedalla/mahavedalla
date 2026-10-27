@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the attainment of Nibbāna is intellectual?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

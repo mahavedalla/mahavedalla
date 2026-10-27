@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether acting is wrong livelihood?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

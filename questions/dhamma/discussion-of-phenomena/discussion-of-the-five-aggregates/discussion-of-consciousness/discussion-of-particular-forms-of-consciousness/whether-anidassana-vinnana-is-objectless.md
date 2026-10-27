@@ -12,3 +12,15 @@ Number:
 Draft: true
 ---
 
+
+# Whether anidassana viññāṇa is objectless?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

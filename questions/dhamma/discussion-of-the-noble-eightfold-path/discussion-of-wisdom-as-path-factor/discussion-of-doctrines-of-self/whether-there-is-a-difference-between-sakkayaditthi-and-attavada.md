@@ -8,3 +8,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is a difference between sakkāyadiṭṭhi and attavāda?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

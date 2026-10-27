@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha ackowledge a gratification in the five aggregates?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is the same as the deathless (amata)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Did the Buddha acknowledge a gratification in sensual pleasures?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

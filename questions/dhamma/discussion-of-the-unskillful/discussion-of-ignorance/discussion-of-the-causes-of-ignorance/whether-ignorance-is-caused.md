@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether ignorance is caused?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

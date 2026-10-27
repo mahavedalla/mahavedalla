@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether revulsion is encouraged?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

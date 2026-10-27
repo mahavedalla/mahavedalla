@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the factors of the noble eightfold path are separate or related?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

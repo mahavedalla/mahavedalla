@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether someone can experience physical pain while abiding in a Brahmavihāra?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

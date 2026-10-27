@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha could experience sensual craving?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

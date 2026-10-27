@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether it is necessary to know Pāli?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

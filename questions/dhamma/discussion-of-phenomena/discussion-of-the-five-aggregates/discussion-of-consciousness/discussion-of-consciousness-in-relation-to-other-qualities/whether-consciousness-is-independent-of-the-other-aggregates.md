@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether consciousness is independent of the other aggregates?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

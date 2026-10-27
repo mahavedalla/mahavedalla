@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether the study of Pāli is practical?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

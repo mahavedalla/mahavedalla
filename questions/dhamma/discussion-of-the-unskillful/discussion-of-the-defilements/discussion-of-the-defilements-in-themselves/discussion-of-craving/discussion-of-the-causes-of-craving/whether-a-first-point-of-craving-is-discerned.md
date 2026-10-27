@@ -12,3 +12,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether a first point of craving is discerned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

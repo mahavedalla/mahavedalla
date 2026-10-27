@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether sensual indulgence requires sensual thoughts?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

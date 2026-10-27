@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Is the first jhāna necessary for sotāpatti?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

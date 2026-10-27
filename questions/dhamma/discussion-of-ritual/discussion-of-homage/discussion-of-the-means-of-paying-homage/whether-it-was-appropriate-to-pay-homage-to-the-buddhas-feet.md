@@ -11,3 +11,15 @@ Priority: 3
 Number: 
 Draft: true
 ---
+
+# Whether it was appropriate to pay homage to the Buddha's feet?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

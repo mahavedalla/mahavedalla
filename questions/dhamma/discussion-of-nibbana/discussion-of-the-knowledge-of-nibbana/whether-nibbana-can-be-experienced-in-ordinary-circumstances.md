@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna can be experienced in ordinary circumstances?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

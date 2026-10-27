@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it was rude to interrupt someone during meditation?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha ever criticized faith?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

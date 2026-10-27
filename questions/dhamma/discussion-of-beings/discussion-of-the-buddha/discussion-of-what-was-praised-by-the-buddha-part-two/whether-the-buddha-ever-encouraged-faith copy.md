@@ -12,3 +12,15 @@ Number:
 Draft: true
 ---
 
+
+# Whether the Buddha ever encouraged faith?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

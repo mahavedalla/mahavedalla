@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether thought about past and future is to be abandoned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How is progress measured?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is truth?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

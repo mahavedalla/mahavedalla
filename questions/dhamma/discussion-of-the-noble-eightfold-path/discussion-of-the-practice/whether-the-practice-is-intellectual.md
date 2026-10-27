@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the practice is intellectual?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

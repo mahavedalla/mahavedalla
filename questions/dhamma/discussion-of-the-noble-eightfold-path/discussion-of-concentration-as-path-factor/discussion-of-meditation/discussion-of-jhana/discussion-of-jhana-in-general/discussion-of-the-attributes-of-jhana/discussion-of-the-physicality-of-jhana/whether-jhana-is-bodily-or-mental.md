@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether jhāna is bodily or mental?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

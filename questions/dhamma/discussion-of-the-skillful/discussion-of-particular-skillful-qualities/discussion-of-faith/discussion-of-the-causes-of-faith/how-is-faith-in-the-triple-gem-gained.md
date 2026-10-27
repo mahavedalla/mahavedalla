@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# How is faith in the Triple Gem gained?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

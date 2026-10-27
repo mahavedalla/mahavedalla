@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha rejected speculative views just because they were impractical or also unanswerable?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether fasting is instrumentally or intrinsically good?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

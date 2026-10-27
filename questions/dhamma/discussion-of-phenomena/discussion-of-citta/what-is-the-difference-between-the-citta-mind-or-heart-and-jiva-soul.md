@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What is the difference between the citta (mind or heart) and jīva (soul)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

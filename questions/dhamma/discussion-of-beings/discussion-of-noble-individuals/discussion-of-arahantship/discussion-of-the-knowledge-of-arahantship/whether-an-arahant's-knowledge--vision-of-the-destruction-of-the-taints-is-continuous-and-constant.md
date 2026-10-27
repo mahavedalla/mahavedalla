@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether an Arahant's knowledge & vision of the destruction of the taints is continuous and constant?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

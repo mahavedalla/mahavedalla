@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether bhikkhus may accept animals?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether Nibbāna is a state, dimension, or place?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

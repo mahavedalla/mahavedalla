@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether animals are moral agents?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# Whether learning includes analysis?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

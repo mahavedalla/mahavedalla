@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether the Buddha was ever a god?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

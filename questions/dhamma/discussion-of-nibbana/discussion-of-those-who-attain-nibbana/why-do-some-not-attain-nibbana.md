@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Why do some not attain Nibbāna
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

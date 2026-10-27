@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Does consciousness cease in nirodhasamāpatti (the attainment of cessation)?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

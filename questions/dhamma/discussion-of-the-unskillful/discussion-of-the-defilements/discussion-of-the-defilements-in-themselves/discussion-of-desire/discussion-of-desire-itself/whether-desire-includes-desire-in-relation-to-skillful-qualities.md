@@ -11,3 +11,15 @@ Priority: 1
 Number: 
 Draft: true
 ---
+
+# Whether desire includes desire in relation to skillful qualities?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

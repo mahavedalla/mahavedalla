@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether everything is a plurality?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it is important to comprehend the gratification in the world?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

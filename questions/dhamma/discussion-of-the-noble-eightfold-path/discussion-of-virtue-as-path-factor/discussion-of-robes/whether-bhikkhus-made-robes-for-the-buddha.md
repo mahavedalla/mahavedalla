@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether bhikkhus made robes for the Buddha?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

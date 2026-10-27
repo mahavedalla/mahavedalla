@@ -11,3 +11,15 @@ Priority:
 Number:
 Draft: true
 ---
+
+# What is prohibited by the seventh precept?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

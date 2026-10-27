@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether faith is propositional?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

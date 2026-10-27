@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether knowledge & vision is conditioned?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

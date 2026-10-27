@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is an intermediate state between birth and death?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

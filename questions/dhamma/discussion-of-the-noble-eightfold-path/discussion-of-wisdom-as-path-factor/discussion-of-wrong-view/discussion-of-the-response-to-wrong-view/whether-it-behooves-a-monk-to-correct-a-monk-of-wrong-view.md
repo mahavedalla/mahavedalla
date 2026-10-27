@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether it behooves a monk to correct a monk of wrong view?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->
