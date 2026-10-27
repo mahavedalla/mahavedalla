@@ -3,8 +3,8 @@ Question: Whether the consequences of action is deserved?
 Category: Kamma
 Sutta References: MN 50
 Tags: Sīla
-Date Entered: 3-29-25
-Last Revised:
+Date Entered: 03-29-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

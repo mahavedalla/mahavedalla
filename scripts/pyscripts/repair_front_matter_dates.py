@@ -239,12 +239,27 @@ def main():
         default=REPORT_PATH,
     )
 
+    
+    parser.add_argument(
+        "--preview-month-names",
+        type=int,
+        metavar="N",
+        help="Preview the first N files with written-out month-name dates",
+    )
+
+    
     args = parser.parse_args()
 
     if args.preview is not None and args.preview < 1:
         parser.error("--preview must be a positive integer")
     if args.apply_sample is not None and args.apply_sample < 1:
         parser.error("--apply-sample must be a positive integer")
+    if (
+        args.preview_month_names is not None
+        and args.preview_month_names < 1
+    ):
+        parser.error("--preview-month-names must be a positive integer")
+
 
     if not args.questions_dir.is_dir():
         print(f"Error: directory not found: {args.questions_dir}",
@@ -322,8 +337,51 @@ def main():
         except OSError as exc:
             errors.append((result["path"], str(exc)))
 
+    
     # Preview N limits console examples, not the full audit report.
-    if args.preview is not None:
+    if args.preview_month_names is not None:
+        month_name_pattern = re.compile(
+            r"^[A-Za-z]+\s+\d{1,2},\s*\d{4}$"
+        )
+
+        month_name_results = [
+            result for result in eligible
+            if any(
+                item["status"] == "CONVERTED"
+                and month_name_pattern.fullmatch(
+                    item["original"].strip()
+                )
+                for item in result["changes"]
+            )
+        ]
+
+        shown = 0
+        print("\nPROPOSED CHANGES — WRITTEN-OUT MONTH DATES")
+        print("==========================================")
+
+        for result in month_name_results[:args.preview_month_names]:
+            print(f"\n{result['path'].as_posix()}")
+            for item in result["changes"]:
+                if (
+                    item["status"] == "CONVERTED"
+                    and month_name_pattern.fullmatch(
+                        item["original"].strip()
+                    )
+                ):
+                    print(
+                        f"  {item['field']}: "
+                        f"{item['original']} -> {item['normalized']}"
+                    )
+                    shown += 1
+
+        print(
+            "\nFiles shown: "
+            f"{min(args.preview_month_names, len(month_name_results))}"
+        )
+        print(f"Date conversions shown: {shown}")
+
+    elif args.preview is not None:
+
         shown = 0
         print("\nPROPOSED CHANGES")
         print("================")
