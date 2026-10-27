@@ -3,8 +3,8 @@ Question: Whether claims to the degree of the pleasure of sensual pleasures is u
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

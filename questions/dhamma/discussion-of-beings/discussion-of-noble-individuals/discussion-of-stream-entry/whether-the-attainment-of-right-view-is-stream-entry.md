@@ -3,8 +3,8 @@ Question: Whether the attainment of right view is stream-entry?
 Category:
 Sutta References:
 Tags:
-Date Entered: 12-30-25
-Last Revised: 12-30-25
+Date Entered: 12-30-2025
+Last Revised: 12-30-2025
 Review Status: Not started
 Level:
 Priority:

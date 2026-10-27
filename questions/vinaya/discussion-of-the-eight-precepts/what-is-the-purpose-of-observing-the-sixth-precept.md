@@ -4,8 +4,8 @@ Answer in Brief:
 Category:
 Tags:
 Sutta References: MN 3; MN 65; MN 66; MN 70; AN 3.7
-Date Entered: 7-6-25
-Last Revised: 7-6-25
+Date Entered: 07-06-2025
+Last Revised: 07-06-2025
 Review Status: Started
 ---
 

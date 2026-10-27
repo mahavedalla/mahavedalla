@@ -3,8 +3,8 @@ Question: Whether the first jhāna is sufficient for the Arahantship?
 Category: Jhāna
 Tags:
 Sutta References: AN 9.36; SN 43.3
-Date Entered: April 4, 2025
-Last Revised:
+Date Entered: 04-04-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

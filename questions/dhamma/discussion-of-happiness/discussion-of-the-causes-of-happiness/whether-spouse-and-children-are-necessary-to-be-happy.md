@@ -3,8 +3,8 @@ Question: Whether spouse and children are necessary to be happy?
 Category: Sukha
 Tags: 
 Sutta References: SN 10.7
-Date Entered: 12-20-25
-Last Revised: 12-20-25
+Date Entered: 12-20-2025
+Last Revised: 12-20-2025
 Review Status: Not started
 Level: 
 Priority: 

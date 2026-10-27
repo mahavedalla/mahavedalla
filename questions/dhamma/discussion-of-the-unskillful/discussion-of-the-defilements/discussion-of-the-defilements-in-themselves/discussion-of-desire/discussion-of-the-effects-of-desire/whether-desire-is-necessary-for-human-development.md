@@ -3,8 +3,8 @@ Question: Whether desire is necessary for human development?
 Category: Chanda
 Tags: development; flourishing; productivity; technology
 Sutta References:
-Date Entered: 8-15-25
-Last Revised: 8-15-25
+Date Entered: 08-15-2025
+Last Revised: 08-15-2025
 Review Status: Not started
 Level: 2
 Priority: 1

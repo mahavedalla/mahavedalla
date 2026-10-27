@@ -3,8 +3,8 @@ Question: Whether instruction from a teacher is necessary for the attainment of 
 Category: Jhāna
 Tags: 
 Sutta References: 
-Date Entered: 10-6-25
-Last Revised: 10-6-25
+Date Entered: 10-06-2025
+Last Revised: 10-06-2025
 Review Status: Not started
 Level: 
 Priority: 

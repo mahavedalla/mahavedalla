@@ -3,8 +3,8 @@ Question: Did the Buddha ever provide advice on how husbands and wives could be 
 Category: Ovāda
 Tags:
 Sutta References: AN 4.55
-Date Entered: March 25, 2025
-Last Revised:
+Date Entered: 03-25-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

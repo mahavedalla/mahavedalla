@@ -3,8 +3,8 @@ Question: Whether love is intensional, or necessarily is directed towards an obj
 Category: Pema
 Tags: 
 Sutta References: 
-Date Entered: 10-10-25
-Last Revised: 10-10-25
+Date Entered: 10-10-2025
+Last Revised: 10-10-2025
 Review Status: Not started
 Level: 
 Priority: 

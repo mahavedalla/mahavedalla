@@ -3,8 +3,8 @@ Question: Whether acceptance of gold and silver is unbecoming of a bhikkhu?
 Category: Dhana
 Tags: 
 Sutta References: SN 42.10
-Date Entered: 
-Last Revised: 
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

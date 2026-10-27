@@ -3,8 +3,8 @@ Question: Whether delight is a defilement?
 Category: Rati
 Tags: 
 Sutta References: 
-Date Entered: 12-8-25
-Last Revised: 12-8-25
+Date Entered: 12-08-2025
+Last Revised: 12-08-2025
 Review Status: Not started
 Level: 
 Priority: 

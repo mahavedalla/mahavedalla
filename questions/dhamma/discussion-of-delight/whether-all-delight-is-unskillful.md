@@ -3,8 +3,8 @@ Question: Whether all delight is unskillful?
 Category: Rati
 Tags: delight
 Sutta References: AN 4.28; AN 6.68; AN 10.99; SN 22.51; DHP 98; DHP 214
-Date Entered: 8-13-25
-Last Revised: 8-13-25
+Date Entered: 08-13-2025
+Last Revised: 08-13-2025
 Review Status: Not started
 Level: 3
 Priority: 2

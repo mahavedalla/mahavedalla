@@ -3,8 +3,8 @@ Question: Whether learning is an end?
 Category: Suta
 Sutta References:
 Tags:
-Date Entered: 12-30-25
-Last Revised: 12-30-25
+Date Entered: 12-30-2025
+Last Revised: 12-30-2025
 Review Status: Not started
 Level: 2
 Priority: 3

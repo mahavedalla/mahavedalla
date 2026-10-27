@@ -3,8 +3,8 @@ Question: Whether saṃsāra is limited?
 Category: Saṃsāra
 Tags: 
 Sutta References: 
-Date Entered: 3-29-26
-Last Revised: 3-29-26
+Date Entered: 03-29-2026
+Last Revised: 03-29-2026
 Review Status: Not started
 Level: 
 Priority: 

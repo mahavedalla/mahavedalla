@@ -3,8 +3,8 @@ Question: Whether in some sense the path concerns self-search?
 Category: Magga
 Tags: 
 Sutta References: Mv.; MN 75; AN 4.28; Thag 8.1
-Date Entered: 10-5-25
-Last Revised: 10-5-25
+Date Entered: 10-05-2025
+Last Revised: 10-05-2025
 Review Status: Not started
 Level: 
 Priority: 

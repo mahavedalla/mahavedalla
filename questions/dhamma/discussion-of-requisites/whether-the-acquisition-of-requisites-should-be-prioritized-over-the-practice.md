@@ -3,8 +3,8 @@ Question: Whether the acquisition of requisites should be prioritized over the p
 Category: Paccaya
 Tags: 
 Sutta References: MN 17
-Date Entered: 11-22-25
-Last Revised: 11-22-25
+Date Entered: 11-22-2025
+Last Revised: 11-22-2025
 Review Status: Not started
 Level: 
 Priority: 

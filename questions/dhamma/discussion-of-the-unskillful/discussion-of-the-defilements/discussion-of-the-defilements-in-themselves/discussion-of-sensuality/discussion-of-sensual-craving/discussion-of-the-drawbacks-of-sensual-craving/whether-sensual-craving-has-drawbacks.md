@@ -3,8 +3,8 @@ Question: Whether sensual craving has drawbacks?
 Category: Kāma
 Tags: adinava
 Sutta References: MN 13; MN 14; MN 26; MN 36; MN 39; MN 54; MN 75; MN 82; MN 87; MN 101; SN 8.2; AN 10.46; UD 44
-Date Entered: 3-30-25
-Last Revised: 7-5-25
+Date Entered: 03-30-2025
+Last Revised: 07-05-2025
 Review Status: Started
 Level: 2
 Priority: 1

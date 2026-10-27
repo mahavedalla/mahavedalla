@@ -3,8 +3,8 @@ Question: Whether Nibbāna is that than which there is nothing greater?
 Category: Nibbāna
 Tags: 
 Sutta References: SNP 1099-1101
-Date Entered: 1-18-26
-Last Revised: 1-18-26
+Date Entered: 01-18-2026
+Last Revised: 01-18-2026
 Review Status: Not started
 Level: 
 Priority: 

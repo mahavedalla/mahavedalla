@@ -3,8 +3,8 @@ Question: Is the first jhāna necessary for sotāpatti?
 Category: Sotāpatti
 Sutta References:
 Tags: Bhāvana
-Date Entered: March 19, 2025
-Last Revised:
+Date Entered: 03-19-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

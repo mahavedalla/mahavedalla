@@ -3,8 +3,8 @@ Question: Whether stress and suffering are an effect of love?
 Category: Pema
 Tags: 
 Sutta References: SNP 1.3.36
-Date Entered: 10-10-25
-Last Revised: 10-10-25
+Date Entered: 10-10-2025
+Last Revised: 10-10-2025
 Review Status: Not started
 Level: 
 Priority: 

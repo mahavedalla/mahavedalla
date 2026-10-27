@@ -3,8 +3,8 @@ Question: Whether undertaking timed periods of silence throughout the day is a s
 Category: Samphappalāpa
 Tags: 
 Sutta References: 
-Date Entered: 12-23-25
-Last Revised: 12-23-25
+Date Entered: 12-23-2025
+Last Revised: 12-23-2025
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether suffering and stress can touch one whose mind is developed in 
 Category: Mettā
 Tags: 
 Sutta References: AN 10.219
-Date Entered: 10-11-25
-Last Revised: 10-11-25
+Date Entered: 10-11-2025
+Last Revised: 10-11-2025
 Review Status: Not started
 Level: 
 Priority: 

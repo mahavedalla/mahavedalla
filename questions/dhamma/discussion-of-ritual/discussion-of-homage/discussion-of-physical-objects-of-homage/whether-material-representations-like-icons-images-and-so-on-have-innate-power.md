@@ -3,8 +3,8 @@ Question: Whether material representations, like icons, images, and so on, have 
 Category: Pūjā
 Tags: 
 Sutta References: 
-Date Entered: 3-1-26
-Last Revised: 3-1-26
+Date Entered: 03-01-2026
+Last Revised: 03-01-2026
 Review Status: Not started
 Level: 
 Priority: 

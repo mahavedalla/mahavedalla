@@ -3,8 +3,8 @@ Question: Whether speaking in praise of violating the first precept is a violati
 Category: Pañcasīla
 Tags: 
 Sutta References: AN 10.224
-Date Entered: 10-13-25
-Last Revised: 10-13-25
+Date Entered: 10-13-2025
+Last Revised: 10-13-2025
 Review Status: Not started
 Level: 
 Priority: 

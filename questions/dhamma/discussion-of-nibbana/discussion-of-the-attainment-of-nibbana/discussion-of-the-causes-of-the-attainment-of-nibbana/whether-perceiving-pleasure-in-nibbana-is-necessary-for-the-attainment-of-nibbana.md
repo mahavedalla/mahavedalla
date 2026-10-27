@@ -3,8 +3,8 @@ Question: Whether perceiving pleasure in Nibbāna is necessary for the attainmen
 Category: Nibbāna
 Tags: 
 Sutta References: 
-Date Entered: 12-5-25
-Last Revised: 12-5-25
+Date Entered: 12-05-2025
+Last Revised: 12-05-2025
 Review Status: Not started
 Level: 
 Priority: 

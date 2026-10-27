@@ -3,8 +3,8 @@ Question: Whether learning has different modes?
 Category: Suta
 Tags: learning
 Sutta References: AN 10.17
-Date Entered: 8-7-25
-Last Revised: 8-7-25
+Date Entered: 08-07-2025
+Last Revised: 08-07-2025
 Review Status: Not started
 Level: 1
 Priority: 3

@@ -3,8 +3,8 @@ Question: Whether belief in rebirth for those without knowledge is a working hyp
 Category: Jāti
 Tags: 
 Sutta References: 
-Date Entered: 3-22-26
-Last Revised: 3-22-26
+Date Entered: 03-22-2026
+Last Revised: 03-22-2026
 Review Status: Not started
 Level: 
 Priority: 

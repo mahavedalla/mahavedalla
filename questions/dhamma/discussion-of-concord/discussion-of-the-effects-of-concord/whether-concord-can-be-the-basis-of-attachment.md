@@ -3,8 +3,8 @@ Question: Whether concord can be the basis of attachment?
 Category: Samaggī
 Tags: 
 Sutta References: 
-Date Entered: 10-5-25
-Last Revised: 10-5-25
+Date Entered: 10-05-2025
+Last Revised: 10-05-2025
 Review Status: Not started
 Level: 
 Priority: 

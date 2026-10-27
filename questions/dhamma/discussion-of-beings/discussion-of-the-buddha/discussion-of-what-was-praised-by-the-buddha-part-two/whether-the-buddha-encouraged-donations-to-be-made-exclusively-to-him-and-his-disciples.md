@@ -4,8 +4,8 @@ Category: Dāna
 Tags:
 Sutta References: AN 3.57; AN 8.12
 Answer: No.
-Date Entered: March 11, 2025
-Last Revised:
+Date Entered: 03-11-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

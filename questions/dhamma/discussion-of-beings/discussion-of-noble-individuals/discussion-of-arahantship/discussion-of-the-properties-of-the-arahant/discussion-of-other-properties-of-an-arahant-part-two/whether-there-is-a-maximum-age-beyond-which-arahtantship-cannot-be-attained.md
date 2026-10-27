@@ -3,8 +3,8 @@ Question: Whether there is a maximum age beyond which Arahtantship cannot be att
 Category: Arahatta
 Tags: 
 Sutta References: Thag 1.08
-Date Entered: 11-2-25
-Last Revised: 11-2-25
+Date Entered: 11-02-2025
+Last Revised: 11-02-2025
 Review Status: Not started
 Level: 
 Priority: 

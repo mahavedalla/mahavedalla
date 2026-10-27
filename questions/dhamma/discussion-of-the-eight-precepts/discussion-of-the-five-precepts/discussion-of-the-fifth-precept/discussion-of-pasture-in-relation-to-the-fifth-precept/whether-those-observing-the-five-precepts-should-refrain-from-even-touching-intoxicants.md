@@ -3,8 +3,8 @@ Question: Whether those observing the five precepts should refrain from even tou
 Category: Pañcasīla
 Tags: 
 Sutta References: 
-Date Entered: 11-22-25
-Last Revised: 11-22-25
+Date Entered: 11-22-2025
+Last Revised: 11-22-2025
 Review Status: Not started
 Level: 
 Priority: 

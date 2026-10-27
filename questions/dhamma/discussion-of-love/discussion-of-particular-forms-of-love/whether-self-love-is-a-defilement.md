@@ -3,8 +3,8 @@ Question: Whether self-love is a defilement?
 Category: Pema
 Tags: 
 Sutta References: SN 1.13; SN 3.8
-Date Entered: 10-10-25
-Last Revised: 10-10-25
+Date Entered: 10-10-2025
+Last Revised: 10-10-2025
 Review Status: Not started
 Level: 
 Priority: 

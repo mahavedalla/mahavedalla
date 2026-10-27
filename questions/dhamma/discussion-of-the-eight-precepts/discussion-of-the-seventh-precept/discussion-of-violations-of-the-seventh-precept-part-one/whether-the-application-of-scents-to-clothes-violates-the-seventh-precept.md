@@ -3,8 +3,8 @@ Question: Whether the application of scents to clothes violates the seventh prec
 Category: Aṭṭhasīla
 Tags: 
 Sutta References: 
-Date Entered: 10-23-25
-Last Revised: 10-23-25
+Date Entered: 10-23-2025
+Last Revised: 10-23-2025
 Review Status: Not started
 Level: 
 Priority: 

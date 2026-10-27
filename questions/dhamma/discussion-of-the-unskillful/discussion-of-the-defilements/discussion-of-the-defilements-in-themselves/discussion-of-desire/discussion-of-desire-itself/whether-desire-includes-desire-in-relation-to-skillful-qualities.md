@@ -3,8 +3,8 @@ Question: Whether desire includes desire in relation to skillful qualities?
 Category: Chanda
 Tags:
 Sutta References:
-Date Entered: 8-14-25
-Last Revised: 8-14-25
+Date Entered: 08-14-2025
+Last Revised: 08-14-2025
 Review Status: Not started
 Level: 2
 Priority: 1

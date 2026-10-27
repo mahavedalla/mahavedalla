@@ -3,8 +3,8 @@ Question: Whether an Arahant has compassion?
 Category: Arahatta
 Tags: 
 Sutta References: 
-Date Entered: 8-29-25
-Last Revised: 8-29-25
+Date Entered: 08-29-2025
+Last Revised: 08-29-2025
 Review Status: Not started
 Level: 
 Priority: 

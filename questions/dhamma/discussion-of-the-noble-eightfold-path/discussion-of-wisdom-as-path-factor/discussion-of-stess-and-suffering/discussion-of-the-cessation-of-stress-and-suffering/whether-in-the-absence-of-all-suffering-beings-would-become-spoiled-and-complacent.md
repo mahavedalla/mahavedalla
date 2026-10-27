@@ -3,8 +3,8 @@ Question: Whether in the absence of all suffering beings would become spoiled an
 Category: Dukkha
 Tags: 
 Sutta References: 
-Date Entered: 2-16-26
-Last Revised: 2-16-26
+Date Entered: 02-16-2026
+Last Revised: 02-16-2026
 Review Status: Not started
 Level: 
 Priority: 

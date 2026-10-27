@@ -3,8 +3,8 @@ Question: Whether the enjoyment of certain sensual pleasures, such as food, natu
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 12-26-25
-Last Revised: 12-26-25
+Date Entered: 12-26-2025
+Last Revised: 12-26-2025
 Review Status: Not started
 Level: 
 Priority: 

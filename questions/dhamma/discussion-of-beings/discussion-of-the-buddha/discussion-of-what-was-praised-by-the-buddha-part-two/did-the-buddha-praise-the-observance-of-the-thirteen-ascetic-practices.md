@@ -3,8 +3,8 @@ Question: Did the Buddha praise the observance of the thirteen ascetic practices
 Category: Tapas
 Tags:
 Sutta References: MN 113; MN 5; SN 16.5
-Date Entered: March 25, 2025
-Last Revised:
+Date Entered: 03-25-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

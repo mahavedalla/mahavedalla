@@ -3,8 +3,8 @@ Question: Whether Nibbāna is awesome?
 Category: Nibbāna
 Tags: 
 Sutta References: 
-Date Entered: 2-8-26
-Last Revised: 2-8-26
+Date Entered: 02-08-2026
+Last Revised: 02-08-2026
 Review Status: Not started
 Level: 
 Priority: 

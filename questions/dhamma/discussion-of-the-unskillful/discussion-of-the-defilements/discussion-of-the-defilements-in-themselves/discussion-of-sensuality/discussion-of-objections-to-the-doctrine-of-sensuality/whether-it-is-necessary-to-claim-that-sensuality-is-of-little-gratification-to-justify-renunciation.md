@@ -3,8 +3,8 @@ Question: Whether it is necessary to claim that sensuality is of little gratific
 Category: Kāma
 Tags: 
 Sutta References: 
-Date Entered: 12-30-25
-Last Revised: 12-30-25
+Date Entered: 12-30-2025
+Last Revised: 12-30-2025
 Review Status: Not started
 Level: 
 Priority: 

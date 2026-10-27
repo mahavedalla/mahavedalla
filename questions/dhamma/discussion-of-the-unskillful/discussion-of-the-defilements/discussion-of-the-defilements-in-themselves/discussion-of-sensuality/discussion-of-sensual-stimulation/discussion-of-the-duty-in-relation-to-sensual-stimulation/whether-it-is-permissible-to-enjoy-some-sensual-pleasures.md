@@ -3,8 +3,8 @@ Question: Whether it is permissible to enjoy some sensual pleasures?
 Category:
 Tags:
 Sutta References:
-Date Entered:
-Last Revised:
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

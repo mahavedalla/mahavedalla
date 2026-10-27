@@ -3,8 +3,8 @@ Question: Whether suffering is caused by oneself?
 Category: Dukkha
 Tags: Atta
 Sutta References: SN 12.17
-Date Entered: 3-26-25
-Last Revised: 7-19-25
+Date Entered: 03-26-2025
+Last Revised: 07-19-2025
 Review Status: Not started
 Level: 1
 Priority: 1

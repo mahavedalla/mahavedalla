@@ -3,8 +3,8 @@ Question: Whether the terms "right" and "wrong" are unsuitable?
 Category: 
 Tags: 
 Sutta References: 
-Date Entered: 3-18-26
-Last Revised: 3-18-26
+Date Entered: 03-18-2026
+Last Revised: 03-18-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether the Pāḷi language should be revived as a natural language?
 Category: Pāḷi
 Tags: 
 Sutta References: 
-Date Entered: 3-30-26
-Last Revised: 3-30-26
+Date Entered: 03-30-2026
+Last Revised: 03-30-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -4,8 +4,8 @@ Category: Upāsaka
 Tags:
 Sutta References: MN 73; MN 81
 Answer: Yes.
-Date Entered: March 11, 2025
-Last Revised:
+Date Entered: 03-11-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

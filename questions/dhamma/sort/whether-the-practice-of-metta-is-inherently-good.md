@@ -3,8 +3,8 @@ Question: Whether the practice of mettā is inherently good?
 Category: Mettā
 Tags: 
 Sutta References: 
-Date Entered: 4-30-26
-Last Revised: 4-30-26
+Date Entered: 04-30-2026
+Last Revised: 04-30-2026
 Review Status: Not started
 Level: 
 Priority: 

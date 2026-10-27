@@ -3,8 +3,8 @@ Question: Whether Nibbāna is the foremost and ultimate end?
 Category: Nibbāna
 Tags: 
 Sutta References: SN 23.1
-Date Entered: 8-31-25
-Last Revised: 8-31-25
+Date Entered: 08-31-2025
+Last Revised: 08-31-2025
 Review Status: Not started
 Level: 
 Priority: 

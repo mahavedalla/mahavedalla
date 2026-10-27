@@ -3,8 +3,8 @@ Question: Whether impersonal things themselves, such as skillful qualities or li
 Category: Pūjā
 Tags: 
 Sutta References: DN 16; MN 3; AN 4.137; AN 6.33; AN 7.32; AN 7.33; JA 159
-Date Entered: 1-20-26
-Last Revised: 1-20-26
+Date Entered: 01-20-2026
+Last Revised: 01-20-2026
 Review Status: Not started
 Level: 
 Priority: 

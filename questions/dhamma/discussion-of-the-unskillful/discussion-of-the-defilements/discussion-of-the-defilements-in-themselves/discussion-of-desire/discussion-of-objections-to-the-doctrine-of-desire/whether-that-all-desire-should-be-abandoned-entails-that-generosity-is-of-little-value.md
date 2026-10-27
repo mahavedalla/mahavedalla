@@ -3,8 +3,8 @@ Question: Whether that all desire should be abandoned entails that generosity is
 Category: Chanda
 Tags: 
 Sutta References: 
-Date Entered: 2-19-26
-Last Revised: 2-19-26
+Date Entered: 02-19-2026
+Last Revised: 02-19-2026
 Review Status: Not started
 Level: 
 Priority: 

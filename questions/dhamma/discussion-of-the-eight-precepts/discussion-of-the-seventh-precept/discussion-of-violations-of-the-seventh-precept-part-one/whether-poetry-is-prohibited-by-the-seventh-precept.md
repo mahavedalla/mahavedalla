@@ -3,8 +3,8 @@ Question: Whether poetry is prohibited by the seventh precept?
 Category: Aṭṭhasīlāni
 Tags: 
 Sutta References: 
-Date Entered: 
-Last Revised: 
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

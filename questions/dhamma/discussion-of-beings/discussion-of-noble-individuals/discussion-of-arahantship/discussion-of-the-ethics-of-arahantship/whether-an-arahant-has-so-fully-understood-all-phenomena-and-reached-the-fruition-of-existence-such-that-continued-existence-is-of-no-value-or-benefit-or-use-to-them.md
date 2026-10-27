@@ -3,8 +3,8 @@ Question: Whether an Arahant has so fully understood all phenomena and reached t
 Category: Arahatta
 Tags: 
 Sutta References: 
-Date Entered: 11-1-25
-Last Revised: 11-1-25
+Date Entered: 11-01-2025
+Last Revised: 11-01-2025
 Review Status: Not started
 Level: 
 Priority: 

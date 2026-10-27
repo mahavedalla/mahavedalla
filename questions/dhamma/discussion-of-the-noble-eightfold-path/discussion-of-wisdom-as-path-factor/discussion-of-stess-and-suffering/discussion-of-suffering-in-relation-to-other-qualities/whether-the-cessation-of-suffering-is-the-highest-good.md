@@ -3,8 +3,8 @@ Question: Whether the cessation of suffering is the highest good?
 Category: Dukkha
 Tags: 
 Sutta References: 
-Date Entered: 8-29-25
-Last Revised: 8-29-25
+Date Entered: 08-29-2025
+Last Revised: 08-29-2025
 Review Status: Not started
 Level: 
 Priority: 

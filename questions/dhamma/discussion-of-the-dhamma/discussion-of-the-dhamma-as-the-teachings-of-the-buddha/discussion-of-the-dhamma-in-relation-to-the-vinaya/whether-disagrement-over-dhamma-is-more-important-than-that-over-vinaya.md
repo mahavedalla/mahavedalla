@@ -3,8 +3,8 @@ Question: Whether disagrement over Dhamma is more important than that over Vinay
 Category: questions
 Tags: 
 Sutta References: 
-Date Entered: 3-28-26
-Last Revised: 3-28-26
+Date Entered: 03-28-2026
+Last Revised: 03-28-2026
 Review Status: Not started
 Level: 
 Priority: 

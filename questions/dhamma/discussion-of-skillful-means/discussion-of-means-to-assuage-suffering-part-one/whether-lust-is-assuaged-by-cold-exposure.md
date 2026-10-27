@@ -3,8 +3,8 @@ Question: Whether lust is assuaged by cold exposure?
 Category: Upāya
 Tags: 
 Sutta References: 
-Date Entered: 10-18-25
-Last Revised: 10-18-25
+Date Entered: 10-18-2025
+Last Revised: 10-18-2025
 Review Status: Not started
 Level: 
 Priority: 

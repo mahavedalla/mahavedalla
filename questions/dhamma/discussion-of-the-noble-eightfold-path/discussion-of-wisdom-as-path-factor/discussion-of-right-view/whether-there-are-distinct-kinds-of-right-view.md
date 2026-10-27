@@ -3,8 +3,8 @@ Question: Whether there are distinct kinds of right view?
 Category: Sammādiṭṭhi
 Tags: view
 Sutta References: MN 65; MN 78; AN 10.111; AN. 10.112
-Date Entered: 8-16-25
-Last Revised: 8-16-25
+Date Entered: 08-16-2025
+Last Revised: 08-16-2025
 Review Status: Not started
 Level: 2
 Priority: 3

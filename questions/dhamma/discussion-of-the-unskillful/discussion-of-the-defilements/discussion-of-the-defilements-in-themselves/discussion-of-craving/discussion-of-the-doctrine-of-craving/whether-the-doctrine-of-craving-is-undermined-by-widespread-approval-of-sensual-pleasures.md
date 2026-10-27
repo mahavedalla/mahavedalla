@@ -3,8 +3,8 @@ Question: Whether the doctrine of craving is undermined by widespread approval o
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 12-27-25
-Last Revised: 12-27-25
+Date Entered: 12-27-2025
+Last Revised: 12-27-2025
 Review Status: Not started
 Level: 
 Priority: 

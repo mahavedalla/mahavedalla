@@ -5,8 +5,8 @@ Sutta References: SN 22.59, SN 35.28; AN 10.59
 Credence: 60%
 Tags: Nibbāna
 Last Updated: May 2, 2025
-Date Entered: March 30, 2025
-Last Revised:
+Date Entered: 03-30-2025
+Last Revised: 10-27-2026
 Review Status: In progress
 Level: 
 Priority: 

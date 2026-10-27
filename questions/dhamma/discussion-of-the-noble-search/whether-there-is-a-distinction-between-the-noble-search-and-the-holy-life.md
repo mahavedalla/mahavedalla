@@ -3,8 +3,8 @@ Question: Whether there is a distinction between the noble search and the holy l
 Category: Ariyapariyesanā
 Tags: 
 Sutta References: 
-Date Entered: 11-30-25
-Last Revised: 11-30-25
+Date Entered: 11-30-2025
+Last Revised: 11-30-2025
 Review Status: Not started
 Level: 
 Priority: 

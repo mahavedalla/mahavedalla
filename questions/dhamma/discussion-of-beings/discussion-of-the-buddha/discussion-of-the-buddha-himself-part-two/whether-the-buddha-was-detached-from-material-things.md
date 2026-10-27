@@ -3,8 +3,8 @@ Question: Whether the Buddha was detached from material things?
 Category: Buddha
 Tags:
 Sutta References: MN 70
-Date Entered: April 5, 2025
-Last Revised:
+Date Entered: 04-05-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

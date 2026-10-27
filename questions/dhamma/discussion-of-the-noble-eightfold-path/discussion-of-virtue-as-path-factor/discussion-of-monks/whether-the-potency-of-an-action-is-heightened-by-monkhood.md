@@ -3,8 +3,8 @@ Question: Whether the potency of an action is heightened by monkhood?
 Category: Bhikkhu
 Tags: 
 Sutta References: 
-Date Entered: 9-8-25
-Last Revised: 9-8-25
+Date Entered: 09-08-2025
+Last Revised: 09-08-2025
 Review Status: Not started
 Level: 
 Priority: 

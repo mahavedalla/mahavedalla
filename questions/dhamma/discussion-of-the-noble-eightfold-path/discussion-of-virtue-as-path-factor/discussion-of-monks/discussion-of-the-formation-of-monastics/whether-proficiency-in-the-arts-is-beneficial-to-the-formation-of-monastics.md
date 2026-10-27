@@ -3,8 +3,8 @@ Question: Whether proficiency in the arts is beneficial to the formation of mona
 Category: Studies
 Tags: 
 Sutta References: 
-Date Entered: 1-25-26
-Last Revised: 1-25-26
+Date Entered: 01-25-2026
+Last Revised: 01-25-2026
 Review Status: Not started
 Level: 
 Priority: 

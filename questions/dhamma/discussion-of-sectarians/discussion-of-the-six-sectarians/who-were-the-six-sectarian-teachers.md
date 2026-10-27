@@ -3,8 +3,8 @@ Question: Who were the six sectarian teachers?
 Category: Aññatitthiya
 Tags: other_sects; sectarians; heretics; heretical
 Sutta References: DN 2
-Date Entered: 4-2-25
-Last Revised: 7-8-25
+Date Entered: 04-02-2025
+Last Revised: 07-08-2025
 Review Status: Started
 Level:
 Priority:

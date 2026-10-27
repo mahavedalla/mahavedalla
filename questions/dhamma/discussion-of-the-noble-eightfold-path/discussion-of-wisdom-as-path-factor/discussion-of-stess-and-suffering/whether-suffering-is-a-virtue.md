@@ -3,8 +3,8 @@ Question: Whether suffering is a virtue?
 Category: Dukkha
 Tags: 
 Sutta References: 
-Date Entered: 5-19-26
-Last Revised: 5-19-26
+Date Entered: 05-19-2026
+Last Revised: 05-19-2026
 Review Status: Not started
 Level: 
 Priority: 

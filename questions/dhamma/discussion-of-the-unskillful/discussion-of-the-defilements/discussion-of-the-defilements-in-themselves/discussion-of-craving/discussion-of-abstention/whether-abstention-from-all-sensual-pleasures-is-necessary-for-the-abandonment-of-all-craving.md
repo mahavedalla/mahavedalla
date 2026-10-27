@@ -3,8 +3,8 @@ Question: Whether abstention from all sensual pleasures is necessary for the aba
 Category: Taṇhā
 Tags: 
 Sutta References: PC 34; Cv.V.14.1; DN 3; DN 4; DN 5; MN 26; Mn 55; MN 91; SN 16.5; AN 5.208; ITI 22; MN-a 26
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

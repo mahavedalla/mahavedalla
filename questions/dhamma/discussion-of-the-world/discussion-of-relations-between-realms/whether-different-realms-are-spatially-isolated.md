@@ -3,8 +3,8 @@ Question: Whether different realms are spatially isolated?
 Category: Loka
 Tags: 
 Sutta References: 
-Date Entered: 9-14-25
-Last Revised: 9-14-25
+Date Entered: 09-14-2025
+Last Revised: 09-14-2025
 Review Status: Not started
 Level: 
 Priority: 

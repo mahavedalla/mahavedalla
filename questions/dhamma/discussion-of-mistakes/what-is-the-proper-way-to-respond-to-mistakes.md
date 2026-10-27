@@ -3,8 +3,8 @@ Question: What is the proper way to respond to mistakes?
 Category: Accaya
 Tags:
 Sutta References: MN 65
-Date Entered: April 2, 2025
-Last Revised:
+Date Entered: 04-02-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

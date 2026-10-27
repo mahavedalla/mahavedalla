@@ -3,8 +3,8 @@ Question: Whether an Arahant can experience the five hindrances?
 Category: Arahatta
 Tags: 
 Sutta References: SN 54.12
-Date Entered: 12-3-25
-Last Revised: 12-3-25
+Date Entered: 12-03-2025
+Last Revised: 12-03-2025
 Review Status: Not started
 Level: 
 Priority: 

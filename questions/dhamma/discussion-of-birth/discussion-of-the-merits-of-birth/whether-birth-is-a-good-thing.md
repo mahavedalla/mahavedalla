@@ -3,8 +3,8 @@ Question: Whether birth is a good thing?
 Category: Jāti
 Tags: 
 Sutta References: 
-Date Entered: 12-16-25
-Last Revised: 12-16-25
+Date Entered: 12-16-2025
+Last Revised: 12-16-2025
 Review Status: Not started
 Level: 
 Priority: 

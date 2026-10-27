@@ -3,8 +3,8 @@ Question: Whether vimutti is identical to Nibbāna?
 Category: Nibbāna
 Tags: Vimutti
 Sutta References: AN 10.20; AN 10.61
-Date Entered: April 3, 2025
-Last Revised: 7-15-25
+Date Entered: 04-03-2025
+Last Revised: 07-15-2025
 Review Status: Started
 Level: 2
 Priority: 2

@@ -3,8 +3,8 @@ Question: Whether it is permissible to cite verse in controversial doctrinal mat
 Category: Ñaya
 Tags: 
 Sutta References: SN 22:3, AN 2.46; AN 3:32; AN 3:33; AN 4:41; AN 6:61
-Date Entered: 8-27-25
-Last Revised: 8-27-25
+Date Entered: 08-27-2025
+Last Revised: 08-27-2025
 Review Status: Not started
 Level: 
 Priority: 

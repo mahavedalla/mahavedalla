@@ -3,8 +3,8 @@ Question: Whether the undeclared points should only be limited to those mentione
 Category: Abyākata
 Tags: 
 Sutta References: 
-Date Entered: 10-9-25
-Last Revised: 10-9-25
+Date Entered: 10-09-2025
+Last Revised: 10-09-2025
 Review Status: Not started
 Level: 
 Priority: 

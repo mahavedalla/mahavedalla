@@ -3,8 +3,8 @@ Question: Whether an Arahant still strives even after attaining Arahantship?
 Category: Arahatta
 Tags: 
 Sutta References: MN 70
-Date Entered: 2-9-26
-Last Revised: 2-9-26
+Date Entered: 02-09-2026
+Last Revised: 02-09-2026
 Review Status: Not started
 Level: 
 Priority: 

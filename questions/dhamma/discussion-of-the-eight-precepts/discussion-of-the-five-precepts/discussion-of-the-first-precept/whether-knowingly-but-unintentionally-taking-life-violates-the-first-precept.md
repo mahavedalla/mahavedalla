@@ -3,8 +3,8 @@ Question: Whether knowingly but unintentionally taking life violates the first p
 Category: Pāṇātipāta
 Tags: 
 Sutta References: 
-Date Entered: 2-2-26
-Last Revised: 2-2-26
+Date Entered: 02-02-2026
+Last Revised: 02-02-2026
 Review Status: Not started
 Level: 
 Priority: 

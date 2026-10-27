@@ -3,8 +3,8 @@ Question: Whether causing another to violate the first precept is a violation of
 Category: Pañcasīla
 Tags: 
 Sutta References: AN 10.222
-Date Entered: 10-13-25
-Last Revised: 10-13-25
+Date Entered: 10-13-2025
+Last Revised: 10-13-2025
 Review Status: Not started
 Level: 
 Priority: 

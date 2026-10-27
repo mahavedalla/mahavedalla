@@ -3,8 +3,8 @@ Question: Whether celibacy should not be practiced because unnatural?
 Category: Brahmacariya
 Tags: 
 Sutta References: 
-Date Entered: 3-11-26
-Last Revised: 3-11-26
+Date Entered: 03-11-2026
+Last Revised: 03-11-2026
 Review Status: Not started
 Level: 
 Priority: 

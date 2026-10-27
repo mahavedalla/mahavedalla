@@ -3,8 +3,8 @@ Question: What instructions does the Canon offer on walking meditation?
 Category: Bhāvana
 Tags:
 Sutta References: AN 4.11-20
-Date Entered: March 23, 2025
-Last Revised:
+Date Entered: 03-23-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

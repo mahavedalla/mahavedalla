@@ -3,8 +3,8 @@ Questions: Whether junior bhikkhus should be instructed in mindfulness meditatio
 Category: Bhāvana
 Tags:
 Sutta References: DN 1; DN 2; MN 118; MN 125; SN 46.53; 47.4; AN 5.114
-Date Entered: 4-7-25
-Last Revised:
+Date Entered: 04-07-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

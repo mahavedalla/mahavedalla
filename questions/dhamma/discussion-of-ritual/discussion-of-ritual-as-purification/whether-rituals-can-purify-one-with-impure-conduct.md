@@ -3,8 +3,8 @@ Question: Whether rituals can purify one with impure conduct?
 Category: Pūjā
 Tags: 
 Sutta References: 
-Date Entered: 9-24-25
-Last Revised: 9-24-25
+Date Entered: 09-24-2025
+Last Revised: 09-24-2025
 Review Status: Not started
 Level: 
 Priority: 

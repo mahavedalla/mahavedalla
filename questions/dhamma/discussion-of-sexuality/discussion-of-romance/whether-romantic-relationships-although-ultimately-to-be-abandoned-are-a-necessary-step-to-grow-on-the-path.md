@@ -3,8 +3,8 @@ Question: Whether romantic relationships, although ultimately to be abandoned, a
 Category: Bhariyā
 Tags: 
 Sutta References: 
-Date Entered: 2-12-26
-Last Revised: 2-12-26
+Date Entered: 02-12-2026
+Last Revised: 02-12-2026
 Review Status: Not started
 Level: 
 Priority: 

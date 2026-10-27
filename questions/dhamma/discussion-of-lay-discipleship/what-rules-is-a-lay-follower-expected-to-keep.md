@@ -4,8 +4,8 @@ Category: Upāsaka
 Tags:
 Sutta References: AN 8.25
 Answer: A lay follower is expected to keep the five precepts.
-Date Entered: March 11, 2025
-Last Revised:
+Date Entered: 03-11-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

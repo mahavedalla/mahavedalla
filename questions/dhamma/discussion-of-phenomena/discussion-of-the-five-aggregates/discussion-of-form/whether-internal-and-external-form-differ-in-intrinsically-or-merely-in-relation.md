@@ -3,8 +3,8 @@ Question: Whether internal and external form differ in intrinsically or merely i
 Category: Rūpa
 Tags: 
 Sutta References: 
-Date Entered: 12-30-25
-Last Revised: 12-30-25
+Date Entered: 12-30-2025
+Last Revised: 12-30-2025
 Review Status: Not started
 Level: 
 Priority: 

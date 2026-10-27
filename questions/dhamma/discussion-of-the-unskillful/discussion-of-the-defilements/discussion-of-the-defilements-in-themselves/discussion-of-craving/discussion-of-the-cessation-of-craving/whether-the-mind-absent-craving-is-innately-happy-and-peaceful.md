@@ -3,8 +3,8 @@ Question: Whether the mind absent craving is innately happy and peaceful?
 Category: Taṇhā
 Tags: 
 Sutta References: AN 1.49-52
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

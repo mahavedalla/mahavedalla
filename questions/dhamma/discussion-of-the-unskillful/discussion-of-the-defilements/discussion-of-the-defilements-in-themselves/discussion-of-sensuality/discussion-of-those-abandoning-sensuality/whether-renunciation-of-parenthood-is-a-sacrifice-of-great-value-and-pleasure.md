@@ -3,8 +3,8 @@ Question: Whether renunciation of parenthood is a sacrifice of great value and p
 Category: Kāma
 Tags: 
 Sutta References: 
-Date Entered: 12-20-25
-Last Revised: 12-20-25
+Date Entered: 12-20-2025
+Last Revised: 12-20-2025
 Review Status: Not started
 Level: 
 Priority: 

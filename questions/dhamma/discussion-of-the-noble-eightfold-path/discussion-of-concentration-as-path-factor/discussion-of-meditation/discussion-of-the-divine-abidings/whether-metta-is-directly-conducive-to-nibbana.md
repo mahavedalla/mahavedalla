@@ -3,8 +3,8 @@ Question: Whether mettā is directly conducive to Nibbāna?
 Category: Brahmavihāra
 Tags: metta; loving-kindness; friendliness; friendness
 Sutta References:
-Date Entered:
-Last Revised:
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 2
 Priority: 3

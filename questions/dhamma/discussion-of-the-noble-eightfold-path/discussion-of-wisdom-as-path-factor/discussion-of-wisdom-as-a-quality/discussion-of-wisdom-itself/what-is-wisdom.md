@@ -3,8 +3,8 @@ Question: What is wisdom?
 Category: Paññā
 Tags: 
 Sutta References:
-Date Entered: July 4, 2025
-Last Revised: July 4, 2025
+Date Entered: 07-04-2025
+Last Revised: 07-04-2025
 Review Status: Started
 ---
 

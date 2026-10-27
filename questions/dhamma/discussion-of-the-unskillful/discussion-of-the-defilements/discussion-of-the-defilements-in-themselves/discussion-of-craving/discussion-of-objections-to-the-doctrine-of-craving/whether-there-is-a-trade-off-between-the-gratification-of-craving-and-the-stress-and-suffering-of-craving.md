@@ -3,8 +3,8 @@ Question: Whether there is a trade-off between the gratification of craving and 
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

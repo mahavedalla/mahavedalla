@@ -3,8 +3,8 @@ Question: Is the observance of the sixth precept necessary for the attainment of
 Category: Sīla
 Sutta References: MN 66
 Tags: Nibbāna
-Date Entered: March 31, 2025
-Last Revised:
+Date Entered: 03-31-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

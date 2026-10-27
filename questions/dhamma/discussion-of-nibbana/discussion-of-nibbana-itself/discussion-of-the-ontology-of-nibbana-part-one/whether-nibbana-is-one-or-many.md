@@ -3,8 +3,8 @@ Question: Whether Nibbāna is one or many?
 Category: Nibbāna
 Tags:
 Sutta References: MN 11
-Date Entered: April 4, 2025
-Last Revised:
+Date Entered: 04-04-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

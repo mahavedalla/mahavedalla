@@ -3,8 +3,8 @@ Question: Whether the Buddha is suitably called an ascetic?
 Category: Buddha
 Tags: 
 Sutta References: PJ 1; DN 8; DN 25; MN 2; MN 75; MN 77; SN 2.17; SN 4.1; SN 16.5; AN 4.28; AN 8.11; SNP 2.4
-Date Entered: 4-10-26
-Last Revised: 4-10-26
+Date Entered: 04-10-2026
+Last Revised: 04-10-2026
 Review Status: Not started
 Level: 
 Priority: 

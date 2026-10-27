@@ -3,8 +3,8 @@ Question: Whether living Arahants continue to act and exercise intention after a
 Category: Arahatta
 Sutta References: AN 10.175
 Tags: Cetanā
-Date Entered: March 18, 2025
-Last Revised:
+Date Entered: 03-18-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

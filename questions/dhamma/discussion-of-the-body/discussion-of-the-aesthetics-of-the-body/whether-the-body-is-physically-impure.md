@@ -3,8 +3,8 @@ Question: Whether the body is physically impure?
 Category: Kāya
 Tags: 
 Sutta References: 
-Date Entered: 1-1-26
-Last Revised: 1-1-26
+Date Entered: 01-01-2026
+Last Revised: 01-01-2026
 Review Status: Not started
 Level: 
 Priority: 

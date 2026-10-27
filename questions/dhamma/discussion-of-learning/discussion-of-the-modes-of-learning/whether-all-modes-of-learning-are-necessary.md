@@ -3,8 +3,8 @@ Question: Whether all modes of learning are necessary?
 Category: Suta
 Tags: 
 Sutta References: 
-Date Entered: 10-26-25
-Last Revised: 10-26-25
+Date Entered: 10-26-2025
+Last Revised: 10-26-2025
 Review Status: Not started
 Level: 
 Priority: 

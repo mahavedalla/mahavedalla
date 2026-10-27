@@ -3,8 +3,8 @@ Question: Whether the form aggregate is identical to the body?
 Category: Rūpa
 Tags: 
 Sutta References: 
-Date Entered: 12-30-25
-Last Revised: 12-30-25
+Date Entered: 12-30-2025
+Last Revised: 12-30-2025
 Review Status: Not started
 Level: 
 Priority: 

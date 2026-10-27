@@ -3,8 +3,8 @@ Question: Whether sensual indulgence suppresses the stress and suffering of crav
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 4-1-26
-Last Revised: 4-1-26
+Date Entered: 04-01-2026
+Last Revised: 04-01-2026
 Review Status: Not started
 Level: 
 Priority: 

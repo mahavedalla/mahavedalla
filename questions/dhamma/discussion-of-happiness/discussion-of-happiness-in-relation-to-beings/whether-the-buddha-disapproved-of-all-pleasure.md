@@ -3,8 +3,8 @@ Question: Whether the Buddha disapproved of all pleasure?
 Category: Sukha
 Tags: happiness, jhana, kama, pleasure
 Sutta References: ITI 49; MN 111; MN 139; MN 66
-Date Entered: March 11, 2025
-Last Revised: April 21, 2025
+Date Entered: 03-11-2025
+Last Revised: 04-21-2025
 Review Status: Started
 Level:
 Priority:

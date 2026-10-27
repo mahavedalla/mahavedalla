@@ -3,8 +3,8 @@ Question: Whether mettā is loving-kindness?
 Category: Mettā
 Tags: 
 Sutta References: 
-Date Entered: 5-22-26
-Last Revised: 5-22-26
+Date Entered: 05-22-2026
+Last Revised: 05-22-2026
 Review Status: Not started
 Level: 
 Priority: 

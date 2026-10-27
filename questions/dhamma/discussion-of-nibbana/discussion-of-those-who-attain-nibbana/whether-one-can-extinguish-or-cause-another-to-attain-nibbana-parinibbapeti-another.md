@@ -3,8 +3,8 @@ Question: Whether one can extinguish or cause another to attain Nibbāna (parini
 Category: Nibbāna
 Tags:
 Sutta References: MN 8; MN 13; AN 3.24; DHP-a 8
-Date Entered: March 26, 2025
-Last Revised:
+Date Entered: 03-26-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

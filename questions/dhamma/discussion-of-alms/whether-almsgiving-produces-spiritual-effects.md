@@ -3,8 +3,8 @@ Question: Whether almsgiving produces spiritual effects?
 Category: Piṇḍapāta
 Tags: 
 Sutta References: 
-Date Entered: 10-8-25
-Last Revised: 10-8-25
+Date Entered: 10-08-2025
+Last Revised: 10-08-2025
 Review Status: Not started
 Level: 
 Priority: 

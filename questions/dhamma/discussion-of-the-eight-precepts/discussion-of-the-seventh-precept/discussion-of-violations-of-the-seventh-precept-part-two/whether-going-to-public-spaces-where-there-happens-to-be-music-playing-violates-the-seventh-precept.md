@@ -3,8 +3,8 @@ Question: Whether going to public spaces where there happens to be music playing
 Category: Aṭṭhasīla
 Tags: 
 Sutta References: 
-Date Entered: 2-15-26
-Last Revised: 2-15-26
+Date Entered: 02-15-2026
+Last Revised: 02-15-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether sexuality is unethical?
 Category: Methuna
 Tags: 
 Sutta References: MN 114; AN 3.71; AN 7.49; AN 7.50
-Date Entered: 8-16-25
-Last Revised: 8-16-25
+Date Entered: 08-16-2025
+Last Revised: 08-16-2025
 Review Status: Not started
 Level:
 Priority:

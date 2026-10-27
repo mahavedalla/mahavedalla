@@ -3,8 +3,8 @@ Question: Whether the drawbacks of craving are obscured by indulgence?
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 3-22-26
-Last Revised: 3-22-26
+Date Entered: 03-22-2026
+Last Revised: 03-22-2026
 Review Status: Not started
 Level: 
 Priority: 

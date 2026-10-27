@@ -3,8 +3,8 @@ Question: Whether in the absence of craving there is any pleasure, happiness, or
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

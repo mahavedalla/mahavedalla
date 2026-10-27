@@ -3,8 +3,8 @@ Question: Whether learning is practically necessary?
 Category: Suta
 Tags: 
 Sutta References: 
-Date Entered: 5-24-26
-Last Revised: 5-24-26
+Date Entered: 05-24-2026
+Last Revised: 05-24-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether right view is the foremost factor of the path?
 Category: Sammādiṭṭhi
 Tags: 
 Sutta References: 
-Date Entered: 9-19-25
-Last Revised: 9-19-25
+Date Entered: 09-19-2025
+Last Revised: 09-19-2025
 Review Status: Not started
 Level: 
 Priority: 

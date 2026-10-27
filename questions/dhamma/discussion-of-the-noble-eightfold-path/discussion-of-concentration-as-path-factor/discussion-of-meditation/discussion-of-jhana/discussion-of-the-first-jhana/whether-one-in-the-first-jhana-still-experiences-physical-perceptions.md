@@ -3,8 +3,8 @@ Question: Whether one in the first jhāna still experiences physical perceptions
 Category: Bhāvana
 Sutta References: AN 9.37
 Tags: Jhāna
-Date Entered: March 19, 2025
-Last Revised:
+Date Entered: 03-19-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

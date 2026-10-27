@@ -3,8 +3,8 @@ Question: Whether one free from sensual craving would choose or want to enjoy se
 Category: Kāma
 Tags: 
 Sutta References: AN 10.90
-Date Entered: 9-1-25
-Last Revised: 9-1-25
+Date Entered: 09-01-2025
+Last Revised: 09-01-2025
 Review Status: Not started
 Level: 
 Priority: 

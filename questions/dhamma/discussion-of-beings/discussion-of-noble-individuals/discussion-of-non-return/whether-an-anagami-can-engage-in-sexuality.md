@@ -3,8 +3,8 @@ Question: Whether an Anāgāmi can engage in sexual activity?
 Category:
 Tags:
 Sutta References:
-Date Entered: 10-26-26
-Last Revised: 10-26-26
+Date Entered: 10-26-2026
+Last Revised: 10-26-2026
 Review Status: 
 Level: 
 Priority: 

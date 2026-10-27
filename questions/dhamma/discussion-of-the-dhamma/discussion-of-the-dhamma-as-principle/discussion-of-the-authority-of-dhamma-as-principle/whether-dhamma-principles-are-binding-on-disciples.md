@@ -3,8 +3,8 @@ Question: Whether Dhamma principles are binding on disciples?
 Category: Dhamma
 Tags: 
 Sutta References: 
-Date Entered: 8-25-25
-Last Revised: 8-25-25
+Date Entered: 08-25-2025
+Last Revised: 08-25-2025
 Review Status: Not started
 Level: 
 Priority: 

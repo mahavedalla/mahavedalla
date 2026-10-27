@@ -3,8 +3,8 @@ Question: Whether the observance of the thirteen dhutaṅgā is necessary for th
 Category: Tapas
 Sutta References: MN 113, Mv.1.??, SN 38.1
 Tags: Ascetic, Asceticism, Nibbāna
-Date Entered: March 23, 2025
-Last Revised: April 21, 2025
+Date Entered: 03-23-2025
+Last Revised: 04-21-2025
 Review Status: In progress
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Questions: Whether there are reasons for fasting?
 Category: Sīla
 Tags: Tapas
 Sutta References: MN 3; MN 65; AN 3.7
-Date Entered: 3-26-25
-Last Revised:
+Date Entered: 03-26-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 1
 Priority: 1

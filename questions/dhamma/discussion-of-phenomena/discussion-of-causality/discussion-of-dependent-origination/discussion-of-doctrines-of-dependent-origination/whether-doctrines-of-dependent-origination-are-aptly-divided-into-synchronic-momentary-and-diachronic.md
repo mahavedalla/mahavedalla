@@ -3,8 +3,8 @@ Question: Whether doctrines of dependent origination are aptly divided into sync
 Category: Paṭiccasamuppada
 Tags: 
 Sutta References: 
-Date Entered: 4-2-26
-Last Revised: 4-2-26
+Date Entered: 04-02-2026
+Last Revised: 04-02-2026
 Review Status: Not started
 Level: 
 Priority: 

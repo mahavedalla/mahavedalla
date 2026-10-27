@@ -3,8 +3,8 @@ Question: Whether the effect of an action depends on the qualities of the person
 Category: Kamma
 Tags: 
 Sutta References: 
-Date Entered: 9-3-25
-Last Revised: 9-3-25
+Date Entered: 09-03-2025
+Last Revised: 09-03-2025
 Review Status: Not started
 Level: 
 Priority: 

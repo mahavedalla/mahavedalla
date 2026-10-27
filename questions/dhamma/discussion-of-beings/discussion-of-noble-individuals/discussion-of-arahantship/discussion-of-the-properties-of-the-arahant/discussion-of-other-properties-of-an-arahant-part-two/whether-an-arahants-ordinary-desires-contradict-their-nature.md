@@ -3,8 +3,8 @@ Question: Whether an Arahant's ordinary desires contradict their nature?
 Category: Arahatta
 Tags: desire
 Sutta References:
-Date Entered: 7-13-25
-Last Revised: 7-13-25
+Date Entered: 07-13-2025
+Last Revised: 07-13-2025
 Review Status: Not started
 Priority: 1
 Level: 

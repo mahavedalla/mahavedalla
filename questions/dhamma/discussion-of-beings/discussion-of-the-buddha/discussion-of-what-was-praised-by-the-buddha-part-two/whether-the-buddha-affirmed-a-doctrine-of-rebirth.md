@@ -3,8 +3,8 @@ Quesiton: Whether the Buddha affirmed a doctrine of rebirth?
 Category: Jāti
 Tags: rebirth; birth; reincarnation
 Sutta References: MN 60<!-- All of the places where the Buddha describes the rebirth of a particular person -->
-Date Entered: 3-18-25
-Last Revised: 7-8-25
+Date Entered: 03-18-2025
+Last Revised: 07-08-2025
 Review Status: Started
 Level: 1
 Priority: 1

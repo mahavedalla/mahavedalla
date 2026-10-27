@@ -3,8 +3,8 @@ Question: What is the sense of self, i.e., is it a perception, formation, or fee
 Category: Atta
 Sutta References:
 Tags: Khanda
-Date Entered: March 23, 2025
-Last Revised:
+Date Entered: 03-23-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

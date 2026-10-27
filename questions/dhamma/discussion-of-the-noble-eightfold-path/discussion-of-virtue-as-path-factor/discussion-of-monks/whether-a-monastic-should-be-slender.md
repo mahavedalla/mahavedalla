@@ -3,8 +3,8 @@ Question: Whether a monastic should be slender?
 Category: Bhikkhu
 Tags: 
 Sutta References: DHP 395
-Date Entered: 1-24-26
-Last Revised: 1-24-26
+Date Entered: 01-24-2026
+Last Revised: 01-24-2026
 Review Status: Not started
 Level: 
 Priority: 

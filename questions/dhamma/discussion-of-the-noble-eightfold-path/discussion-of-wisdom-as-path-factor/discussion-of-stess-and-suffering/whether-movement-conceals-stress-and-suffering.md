@@ -3,8 +3,8 @@ Question: Whether movement conceals stress and suffering?
 Category: Dukkha
 Tags: 
 Sutta References: 
-Date Entered: 1-28-26
-Last Revised: 1-28-26
+Date Entered: 01-28-2026
+Last Revised: 01-28-2026
 Review Status: Not started
 Level:  
 Priority: 

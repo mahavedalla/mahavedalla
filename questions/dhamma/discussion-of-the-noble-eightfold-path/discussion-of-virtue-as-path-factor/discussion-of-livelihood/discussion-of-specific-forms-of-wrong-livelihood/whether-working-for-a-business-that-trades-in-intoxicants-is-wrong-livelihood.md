@@ -3,8 +3,8 @@ Question: Whether working for a business that trades in intoxicants is wrong liv
 Category: Ājīva
 Tags: 
 Sutta References: 
-Date Entered: 10-19-25
-Last Revised: 10-19-25
+Date Entered: 10-19-2025
+Last Revised: 10-19-2025
 Review Status: Not started
 Level: 
 Priority: 

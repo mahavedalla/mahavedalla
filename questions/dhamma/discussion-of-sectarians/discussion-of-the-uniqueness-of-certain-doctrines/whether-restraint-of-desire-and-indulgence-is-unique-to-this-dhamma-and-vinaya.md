@@ -3,8 +3,8 @@ Question: Whether restraint of desire and indulgence is unique to this Dhamma an
 Category: Aññatitthiya
 Tags: 
 Sutta References: 
-Date Entered: 12-31-25
-Last Revised: 12-31-25
+Date Entered: 12-31-2025
+Last Revised: 12-31-2025
 Review Status: Not started
 Level: 
 Priority: 

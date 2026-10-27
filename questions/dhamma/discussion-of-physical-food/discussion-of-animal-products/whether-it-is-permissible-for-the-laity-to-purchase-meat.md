@@ -3,8 +3,8 @@ Question: Whether it is permissible for the laity to purchase meat?
 Category: Maṃsa
 Tags: 
 Sutta References: 
-Date Entered: 11-7-25
-Last Revised: 11-7-25
+Date Entered: 11-07-2025
+Last Revised: 11-07-2025
 Review Status: Not started
 Level: 
 Priority: 

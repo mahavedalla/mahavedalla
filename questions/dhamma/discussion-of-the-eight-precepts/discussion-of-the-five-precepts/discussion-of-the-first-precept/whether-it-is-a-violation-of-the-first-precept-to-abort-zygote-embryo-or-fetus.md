@@ -3,8 +3,8 @@ Question: Whether it is a violation of the first precept to abort a a zygote, em
 Category: Sīla
 Sutta References:
 Tags: Gabbha
-Date Entered: March 18, 2025
-Last Revised: 8-20-25
+Date Entered: 03-18-2025
+Last Revised: 08-20-2025
 Review Status: Not started
 Level:
 Priority:

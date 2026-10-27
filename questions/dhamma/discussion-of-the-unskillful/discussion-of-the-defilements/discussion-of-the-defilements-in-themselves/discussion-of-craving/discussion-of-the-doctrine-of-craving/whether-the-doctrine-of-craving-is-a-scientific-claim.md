@@ -3,8 +3,8 @@ Question: Whether the doctrine of craving is a scientific claim?
 Category: Taṇhā
 Tags: 
 Sutta References: 
-Date Entered: 2-18-26
-Last Revised: 2-18-26
+Date Entered: 02-18-2026
+Last Revised: 02-18-2026
 Review Status: Not started
 Level: 
 Priority: 

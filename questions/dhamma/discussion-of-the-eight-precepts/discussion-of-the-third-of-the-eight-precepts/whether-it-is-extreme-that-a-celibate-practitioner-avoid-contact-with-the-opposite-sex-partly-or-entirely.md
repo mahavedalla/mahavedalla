@@ -3,8 +3,8 @@ Question: Whether it is extreme that a celibate practitioner avoid contact with 
 Category: Brahmacariya
 Tags: 
 Sutta References: 
-Date Entered: 10-24-25
-Last Revised: 10-24-25
+Date Entered: 10-24-2025
+Last Revised: 10-24-2025
 Review Status: Not started
 Level: 
 Priority: 

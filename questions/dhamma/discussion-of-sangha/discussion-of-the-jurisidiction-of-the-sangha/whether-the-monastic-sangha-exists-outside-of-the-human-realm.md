@@ -3,8 +3,8 @@ Question: Whether the monastic Saṅgha exists outside of the human realm?
 Category: Saṅgha
 Tags: 
 Sutta References: 
-Date Entered: 1-26-26
-Last Revised: 1-26-26
+Date Entered: 01-26-2026
+Last Revised: 01-26-2026
 Review Status: Not started
 Level: 
 Priority: 

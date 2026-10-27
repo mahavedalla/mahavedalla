@@ -3,8 +3,8 @@ Question: Whether silence is natural?
 Category: Tuṇhībhāva
 Tags: 
 Sutta References: 
-Date Entered: 4-6-26
-Last Revised: 4-6-26
+Date Entered: 04-06-2026
+Last Revised: 04-06-2026
 Review Status: Not started
 Level: 
 Priority: 

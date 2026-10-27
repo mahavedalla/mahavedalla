@@ -3,8 +3,8 @@ Question: Whether there is a trade-off between sensual pleasure and the stress a
 Category: Taṇhā
 Tags: 
 Sutta References: MN 75; AN 6.42; AN 7.49; SN 36.19
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

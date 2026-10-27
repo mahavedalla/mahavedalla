@@ -3,8 +3,8 @@ Question: Whether bahussuta and pariyatti are identical?
 Category: Suta
 Tags: learning; scholarship
 Sutta References: attādānavaggo (parivara); AN 10.44
-Date Entered:
-Last Revised:
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

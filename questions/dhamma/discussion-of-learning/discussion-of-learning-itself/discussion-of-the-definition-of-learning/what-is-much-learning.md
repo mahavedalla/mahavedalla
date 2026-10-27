@@ -3,8 +3,8 @@ Question: What is bahussuta?
 Category: Suta
 Tags:
 Sutta References: CV. codakenapaccavekkhitabbadhammā; Pv. attādānavaggo; DN 33; DN 34; MN 32; AN 10.17; AN 10.44; AN 10.50; AN 11.14
-Date Entered: 8-16-25
-Last Revised:
+Date Entered: 08-16-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

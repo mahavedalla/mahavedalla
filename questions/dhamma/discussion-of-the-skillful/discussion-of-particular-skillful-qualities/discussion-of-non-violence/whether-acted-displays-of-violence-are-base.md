@@ -3,8 +3,8 @@ Question: Whether acted displays of violence are base?
 Category: Ahiṃsā
 Tags: 
 Sutta References: 
-Date Entered: 1-18-26
-Last Revised: 1-18-26
+Date Entered: 01-18-2026
+Last Revised: 01-18-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether there is a distinction between the purpose of life and the pur
 Category: Attha
 Tags: 
 Sutta References: 
-Date Entered: 9-18-25
-Last Revised: 9-18-25
+Date Entered: 09-18-2025
+Last Revised: 09-18-2025
 Review Status: Not started
 Level: 
 Priority: 

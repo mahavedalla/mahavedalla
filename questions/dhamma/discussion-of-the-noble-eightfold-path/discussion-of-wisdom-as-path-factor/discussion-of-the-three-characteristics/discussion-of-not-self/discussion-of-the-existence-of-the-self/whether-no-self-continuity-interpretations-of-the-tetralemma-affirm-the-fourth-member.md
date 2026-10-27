@@ -3,8 +3,8 @@ Question: Whether no-self continuity interpretations of the tetralemma affirm th
 Category: Anattā
 Tags: 
 Sutta References: 
-Date Entered: 10-12-26
-Last Revised: 10-12-26
+Date Entered: 10-12-2026
+Last Revised: 10-12-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether there are sufficient conditions for the attainment of Nibbāna
 Category: Nibbāna
 Tags: sufficient; conditions; extinction; extinguishment
 Sutta References: AN 3.92 (accāyika sutta)
-Date Entered: 7-19-25
-Last Revised: 7-19-25
+Date Entered: 07-19-2025
+Last Revised: 07-19-2025
 Review Status: Not started
 Level: 2
 Priority: 3

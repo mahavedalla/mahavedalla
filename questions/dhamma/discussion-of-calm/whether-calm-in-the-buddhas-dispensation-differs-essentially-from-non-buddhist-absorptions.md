@@ -3,8 +3,8 @@ Question: Whether calm in the Buddha's dispensation differs essentially from non
 Category: Samatha
 Tags: 
 Sutta References: 
-Date Entered: 12-17-25
-Last Revised: 12-17-25
+Date Entered: 12-17-2025
+Last Revised: 12-17-2025
 Review Status: Not started
 Level: 
 Priority: 

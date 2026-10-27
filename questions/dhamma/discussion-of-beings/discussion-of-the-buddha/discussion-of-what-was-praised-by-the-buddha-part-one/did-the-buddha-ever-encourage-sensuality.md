@@ -3,8 +3,8 @@ Question: Did the Buddha ever encourage sensuality?
 Category: Kāma
 Tags:
 Sutta References: AN 5.148; AN 8.35
-Date Entered: April 1, 2025
-Last Revised:
+Date Entered: 04-01-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

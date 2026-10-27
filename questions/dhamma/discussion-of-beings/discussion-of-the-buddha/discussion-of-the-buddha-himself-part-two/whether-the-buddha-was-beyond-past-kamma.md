@@ -3,8 +3,8 @@ Question: Whether the Buddha was beyond past kamma?
 Category: Buddha
 Tags:
 Sutta References:
-Date Entered: 8-19-25
-Last Revised:
+Date Entered: 08-19-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

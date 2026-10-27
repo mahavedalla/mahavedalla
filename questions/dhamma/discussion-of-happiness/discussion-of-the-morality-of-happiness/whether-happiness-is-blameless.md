@@ -3,8 +3,8 @@ Question: Whether happiness is blameless?
 Category: Sukha
 Tags: 
 Sutta References: AN 10.99
-Date Entered: 9-12-25
-Last Revised: 9-12-25
+Date Entered: 09-12-2025
+Last Revised: 09-12-2025
 Review Status: Not started
 Level: 
 Priority: 

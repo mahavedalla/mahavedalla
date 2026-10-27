@@ -3,8 +3,8 @@ Question: Who was the first person to awaken following the Buddha?
 Category: Vamsa
 Sutta References: Mv.1.6.29.4-35.1
 Tags: Puggala
-Date Entered: March 24, 2025
-Last Revised:
+Date Entered: 03-24-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

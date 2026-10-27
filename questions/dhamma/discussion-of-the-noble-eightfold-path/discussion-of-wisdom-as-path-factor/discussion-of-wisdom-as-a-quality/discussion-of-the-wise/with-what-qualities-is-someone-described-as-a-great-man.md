@@ -4,7 +4,7 @@ Answer in Brief: -
 Category: Pañña
 Sutta References: AN 4.35
 Answer: -
-Date Entered: March 21, 2025
+Date Entered: 03-21-2025
 Review Status: Not started
 ---
 

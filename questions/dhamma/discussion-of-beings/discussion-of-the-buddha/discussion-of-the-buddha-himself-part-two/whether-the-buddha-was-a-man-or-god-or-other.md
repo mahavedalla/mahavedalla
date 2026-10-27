@@ -3,8 +3,8 @@ Question: Whether the Buddha was a man or god or other?
 Category: Buddha
 Tags:
 Sutta References: DN 14; MN 123 AN 4.36
-Date Entered: March 26, 2025
-Last Revised: 
+Date Entered: 03-26-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

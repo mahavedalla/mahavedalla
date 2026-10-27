@@ -3,8 +3,8 @@ Question: Whether Nibbāna causes the destruction of the defilements?
 Category: Nibbāna
 Tags: 
 Sutta References: SN 22.52; AN 10.100
-Date Entered: 5-21-26
-Last Revised: 5-21-26
+Date Entered: 05-21-2026
+Last Revised: 05-21-2026
 Review Status: Not started
 Level: 
 Priority: 

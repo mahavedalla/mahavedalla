@@ -3,8 +3,8 @@ Question: Whether debate is appropriate to doctrinal study?
 Category: Ñāya
 Tags: 
 Sutta References: Mv.mārayācanakathā; DN 16; MN 22; MN 35; MN 36; MN 56; MN 64; MN 101; SN 35.246; SN 51.10; SN 56.40; AN 8.70; AN 10.93; AN 10.94; AN 10.116; UD 51
-Date Entered: 8-30-25
-Last Revised: 8-30-25
+Date Entered: 08-30-2025
+Last Revised: 08-30-2025
 Review Status: Not started
 Level: 
 Priority: 

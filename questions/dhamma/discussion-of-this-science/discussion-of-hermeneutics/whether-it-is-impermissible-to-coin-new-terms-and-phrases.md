@@ -3,8 +3,8 @@ Question: Whether it is impermissible to coin new terms and phrases?
 Category: Ñāya
 Tags: 
 Sutta References: 
-Date Entered: 9-11-25
-Last Revised: 9-11-25
+Date Entered: 09-11-2025
+Last Revised: 09-11-2025
 Review Status: Not started
 Level: 
 Priority: 

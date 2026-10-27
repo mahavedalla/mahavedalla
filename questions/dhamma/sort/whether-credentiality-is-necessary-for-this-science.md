@@ -3,8 +3,8 @@ Question: Whether credentiality is necessary for this science?
 Category: Ñāya
 Tags: 
 Sutta References: 
-Date Entered: 6-20-26
-Last Revised: 6-20-26
+Date Entered: 06-20-2026
+Last Revised: 06-20-2026
 Review Status: Not started
 Level: 
 Priority: 

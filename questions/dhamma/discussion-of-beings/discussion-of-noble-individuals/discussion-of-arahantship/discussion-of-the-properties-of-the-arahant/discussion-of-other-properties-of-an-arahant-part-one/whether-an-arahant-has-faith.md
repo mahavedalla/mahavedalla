@@ -3,8 +3,8 @@ Question: Whether an Arahant has faith?
 Category: Arahatta
 Tags: 
 Sutta References: SN 48.44
-Date Entered: 11-29-25
-Last Revised: 11-29-25
+Date Entered: 11-29-2025
+Last Revised: 11-29-2025
 Review Status: Not started
 Level: 
 Priority: 

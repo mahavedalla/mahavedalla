@@ -3,8 +3,8 @@ Question: Whether sense restraint should only be practiced in public, not in pri
 Category: Indriyasaṃvara
 Tags: 
 Sutta References: 
-Date Entered: 12-7-25
-Last Revised: 12-7-25
+Date Entered: 12-07-2025
+Last Revised: 12-07-2025
 Review Status: Not started
 Level: 
 Priority: 

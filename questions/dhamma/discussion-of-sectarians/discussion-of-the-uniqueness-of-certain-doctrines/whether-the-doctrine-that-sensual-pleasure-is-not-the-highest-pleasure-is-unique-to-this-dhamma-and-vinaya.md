@@ -3,8 +3,8 @@ Question: Whether the doctrine that sensual pleasure is not the highest pleasure
 Category: Kāma
 Tags: 
 Sutta References: 
-Date Entered: 2-27-26
-Last Revised: 2-27-26
+Date Entered: 02-27-2026
+Last Revised: 02-27-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether carrying a watch such that it isn't visible, such as in the po
 Category: Aṭṭhasīla
 Tags: 
 Sutta References: 
-Date Entered: 10-23-25
-Last Revised: 10-23-25
+Date Entered: 10-23-2025
+Last Revised: 10-23-2025
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether all beings have Buddha-nature?
 Category: Satta
 Tags: 
 Sutta References: 
-Date Entered: 8-31-25
-Last Revised: 8-31-25
+Date Entered: 08-31-2025
+Last Revised: 08-31-2025
 Review Status: Not started
 Level: 
 Priority: 

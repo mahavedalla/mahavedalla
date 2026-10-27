@@ -3,8 +3,8 @@ Question: Whether the Buddha was identifiable in any sense?
 Category: Buddha
 Tags: 
 Sutta References: 
-Date Entered: 9-18-25
-Last Revised: 9-18-25
+Date Entered: 09-18-2025
+Last Revised: 09-18-2025
 Review Status: Not started
 Level: 
 Priority: 

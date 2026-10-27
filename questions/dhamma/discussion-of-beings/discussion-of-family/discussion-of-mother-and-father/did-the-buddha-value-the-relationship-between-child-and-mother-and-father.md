@@ -3,8 +3,8 @@ Question: Did the Buddha value the relationship between child and mother and fat
 Category: Mātāpitar
 Tags:
 Sutta References: DN 31; AN 2.33
-Date Entered: March 25, 2025
-Last Revised:
+Date Entered: 03-25-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

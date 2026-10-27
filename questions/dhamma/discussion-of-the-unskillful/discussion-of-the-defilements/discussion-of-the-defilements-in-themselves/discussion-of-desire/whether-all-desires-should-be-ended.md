@@ -3,8 +3,8 @@ Question: Whether all desires should be ended?
 Category: Chanda
 Tags: 
 Sutta References: 
-Date Entered: 
-Last Revised: 
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

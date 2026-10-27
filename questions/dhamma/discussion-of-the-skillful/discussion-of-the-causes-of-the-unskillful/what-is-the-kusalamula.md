@@ -4,8 +4,8 @@ Category: Kusala
 Tags:
 Sutta References: MN 9
 Answer: Non-greed, non-hatred, and non-delusion are the wholesome roots.
-Date Entered: March 14, 2025
-Last Revised:
+Date Entered: 03-14-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether, once craving is abandoned, some sensual pleasures actually ap
 Category: Taṇhā
 Tags: 
 Sutta References: MN 75; AN 6.42; AN 7.49
-Date Entered: 12-28-25
-Last Revised: 12-28-25
+Date Entered: 12-28-2025
+Last Revised: 12-28-2025
 Review Status: Not started
 Level: 
 Priority: 

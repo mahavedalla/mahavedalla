@@ -3,8 +3,8 @@ Question: Whether knowledge is naturally pleasant?
 Category: Ñāṇa
 Tags: 
 Sutta References: 
-Date Entered: 10-16-25
-Last Revised: 10-16-25
+Date Entered: 10-16-2025
+Last Revised: 10-16-2025
 Review Status: Not started
 Level: 
 Priority: 

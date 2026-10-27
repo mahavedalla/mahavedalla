@@ -3,8 +3,8 @@ Question: Whether a Buddha can physically strike a living being?
 Category: Buddha
 Tags: 
 Sutta References: DHP-a 15
-Date Entered: 2-16-26
-Last Revised: 2-16-26
+Date Entered: 02-16-2026
+Last Revised: 02-16-2026
 Review Status: Not started
 Level: 
 Priority: 

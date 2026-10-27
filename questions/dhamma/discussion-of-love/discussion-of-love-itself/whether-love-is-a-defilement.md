@@ -3,8 +3,8 @@ Question: Whether love is a defilement?
 Category: Pema
 Tags: 
 Sutta References: MV 17; SN 22.87; AN 4.200; AN 8.2; DHP 213; Thag 5.12
-Date Entered: 8-30-25
-Last Revised: 8-30-25
+Date Entered: 08-30-2025
+Last Revised: 08-30-2025
 Review Status: Not started
 Level: 
 Priority: 

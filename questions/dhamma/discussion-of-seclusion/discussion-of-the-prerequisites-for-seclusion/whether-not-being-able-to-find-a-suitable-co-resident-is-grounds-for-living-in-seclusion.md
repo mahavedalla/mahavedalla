@@ -3,8 +3,8 @@ Question: Whether not being able to find a suitable co-resident is grounds for l
 Category: Viveka
 Tags: 
 Sutta References: DHP 329
-Date Entered: 12-14-25
-Last Revised: 12-14-25
+Date Entered: 12-14-2025
+Last Revised: 12-14-2025
 Review Status: Not started
 Level: 
 Priority: 

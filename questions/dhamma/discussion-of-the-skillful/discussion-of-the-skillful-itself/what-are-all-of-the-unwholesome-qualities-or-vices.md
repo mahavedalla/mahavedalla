@@ -3,8 +3,8 @@ Question: What are all of the unwholesome qualities or vices?
 Category: Kusala
 Tags: 
 Sutta References: AN 10.76; AN 10.77; AN 10.82; AN 10.84; AN 10.85
-Date Entered: 8-29-25
-Last Revised: 8-29-25
+Date Entered: 08-29-2025
+Last Revised: 08-29-2025
 Review Status: Not started
 Level: 
 Priority: 

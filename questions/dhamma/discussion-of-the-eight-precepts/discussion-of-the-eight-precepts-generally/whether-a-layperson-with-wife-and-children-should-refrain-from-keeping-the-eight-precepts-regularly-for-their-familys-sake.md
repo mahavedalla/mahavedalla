@@ -3,8 +3,8 @@ Question: Whether a layperson with wife and children should refrain from keeping
 Category: Aṭṭhasīla
 Tags: 
 Sutta References: 
-Date Entered: 10-23-25
-Last Revised: 10-23-25
+Date Entered: 10-23-2025
+Last Revised: 10-23-2025
 Review Status: Not started
 Level: 
 Priority: 

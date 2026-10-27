@@ -3,8 +3,8 @@ Question: Whether all property is precious?
 Category: Dhana
 Tags: 
 Sutta References: 
-Date Entered: 2-11-26
-Last Revised: 2-11-26
+Date Entered: 02-11-2026
+Last Revised: 02-11-2026
 Review Status: Not started
 Level: 
 Priority: 

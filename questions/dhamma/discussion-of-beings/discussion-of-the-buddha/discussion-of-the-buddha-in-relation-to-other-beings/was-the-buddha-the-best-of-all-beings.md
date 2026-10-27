@@ -4,8 +4,8 @@ Category: Buddha
 Tags:
 Sutta References: AN 10.15
 Answer: Yes.
-Date Entered: March 11, 2025
-Last Revised:
+Date Entered: 03-11-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

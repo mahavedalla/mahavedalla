@@ -3,8 +3,8 @@ Question: Whether Māra is metaphorical?
 Category: Māra
 Tags: 
 Sutta References: SN 23.31
-Date Entered: 9-11-25
-Last Revised: 9-11-25
+Date Entered: 09-11-2025
+Last Revised: 09-11-2025
 Review Status: Not started
 Level: 
 Priority: 

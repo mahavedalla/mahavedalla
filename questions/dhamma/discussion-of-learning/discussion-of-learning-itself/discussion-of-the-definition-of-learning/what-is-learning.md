@@ -4,8 +4,8 @@ Category: Suta
 Tags: learning; pariyatti
 Sutta References: MN 22; AN 4.102; AN 4.103; AN 4.107; AN 4.108; AN 4.186; AN 4.191; AN 4.192; AN 5.73; AN 5.74; AN 5.75; AN 5.155; AN 10.17; attādānavagga (parivara)
  
-Date Entered: 3-23-25
-Last Revised: 8-7-25
+Date Entered: 03-23-2025
+Last Revised: 08-07-2025
 Review Status: Not started
 Level: 1
 Priority: 2

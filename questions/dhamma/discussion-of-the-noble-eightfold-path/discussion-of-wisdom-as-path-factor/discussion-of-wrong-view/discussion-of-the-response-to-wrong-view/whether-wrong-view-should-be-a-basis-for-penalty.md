@@ -3,8 +3,8 @@ Question: Whether wrong view should be a basis for penalty?
 Category: Micchādiṭṭhi
 Tags: 
 Sutta References: 
-Date Entered: 9-20-25
-Last Revised: 9-20-25
+Date Entered: 09-20-2025
+Last Revised: 09-20-2025
 Review Status: Not started
 Level: 
 Priority: 

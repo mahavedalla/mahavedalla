@@ -3,8 +3,8 @@ Question: Whether there are animals in heaven?
 Category: Sagga
 Tags: 
 Sutta References: 
-Date Entered: 9-16-25
-Last Revised: 9-16-25
+Date Entered: 09-16-2025
+Last Revised: 09-16-2025
 Review Status: Not started
 Level: 
 Priority: 

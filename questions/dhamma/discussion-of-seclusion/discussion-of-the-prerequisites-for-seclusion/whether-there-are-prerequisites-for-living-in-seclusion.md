@@ -3,8 +3,8 @@ Question: Whether there are prerequisites for to be qualified to live in seclusi
 Category: Viveka
 Tags: seclusion; solitude
 Sutta References: DN 1; DN 2; MN 4; MN 27; MN 38; MN 94; MN 101; MN 125; AN 3.93; AN 4.198; AN 4.262; AN 5.114; 6.68; AN 10.99; UD 4.1
-Date Entered: 8-9-25
-Last Revised: 8-9-25
+Date Entered: 08-09-2025
+Last Revised: 08-09-2025
 Review Status: Not started
 Level: 2
 Priority: 3

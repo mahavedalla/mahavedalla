@@ -3,8 +3,8 @@ Question: Whether the Dhamma is suitably divided into Dhamma as principle, as th
 Category: Dhamma
 Tags: 
 Sutta References: 
-Date Entered: 11-30-25
-Last Revised: 11-30-25
+Date Entered: 11-30-2025
+Last Revised: 11-30-2025
 Review Status: Not started
 Level: 
 Priority: 

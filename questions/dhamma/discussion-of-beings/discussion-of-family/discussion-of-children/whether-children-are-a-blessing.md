@@ -3,8 +3,8 @@ Question: Whether children are a blessing?
 Category: Dahara
 Tags: 
 Sutta References: SNP 1.2.34; SNP 1.3.35
-Date Entered: 10-25-25
-Last Revised: 10-25-25
+Date Entered: 10-25-2025
+Last Revised: 10-25-2025
 Review Status: Not started
 Level: 
 Priority: 

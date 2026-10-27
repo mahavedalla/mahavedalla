@@ -3,8 +3,8 @@ Question: Whether the Dhamma is more worthy of veneration than the Buddha?
 Category: Pūjā
 Tags:
 Sutta References: DN 16; DN 24; SN 6.2; SN 12.65; AN 9.2
-Date Entered: March 30, 2025
-Last Revised:
+Date Entered: 03-30-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

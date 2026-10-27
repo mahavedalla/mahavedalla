@@ -3,8 +3,8 @@ Question: Whether suicide is permissible?
 Category: Sīla
 Tags: 
 Sutta References: SN 4.23; SN 54.9
-Date Entered: 3-28-25
-Last Revised: 8-21-25
+Date Entered: 03-28-2025
+Last Revised: 08-21-2025
 Review Status: Not started
 Level:
 Priority:

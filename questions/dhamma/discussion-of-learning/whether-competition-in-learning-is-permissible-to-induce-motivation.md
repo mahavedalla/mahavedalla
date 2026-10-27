@@ -3,8 +3,8 @@ Question: Whether competition in learning is permissible to induce motivation?
 Category: Suta
 Tags: 
 Sutta References: SN 16.6
-Date Entered: 
-Last Revised: 
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

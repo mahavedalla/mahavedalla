@@ -3,8 +3,8 @@ Question: Whether virtue practiced for the sake of the welfare of all beings is 
 Category: Sīla
 Tags: 
 Sutta References: Vsm. Sīlappabhedakathā
-Date Entered: 11-8-25
-Last Revised: 11-8-25
+Date Entered: 11-08-2025
+Last Revised: 11-08-2025
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: Whether there are reasons for belief in Nibbāna?
 Category: Nibbāna
 Tags:
 Sutta References:
-Date Entered: 3-29-25
-Last Revised: 7-15-25
+Date Entered: 03-29-2025
+Last Revised: 07-15-2025
 Review Status: Not started
 Level: 2
 Priority: 2

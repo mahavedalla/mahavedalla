@@ -3,8 +3,8 @@ Question: Whether someone can experience physical pain while abiding in a Brahma
 Category: Bhāvana
 Tags: Brahmavihāra
 Sutta References: SN 4.13
-Date Entered: March 18, 2025
-Last Revised:
+Date Entered: 03-18-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

@@ -3,8 +3,8 @@ Question: What epithets are used for Nibbāna?
 Category: Nibbāna
 Tags:
 Sutta References:
-Date Entered: March 17, 2025
-Last Revised:
+Date Entered: 03-17-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

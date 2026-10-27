@@ -3,8 +3,8 @@ Question: Whether the holy life has a goal?
 Category: Brahmacariya
 Tags: 
 Sutta References: MN 29; SN 35.74; SN 35.75; SN 35.232; SN 38.4; SN 45.5; SN 45.41-48; AN 9.13
-Date Entered: 9-5-25
-Last Revised: 9-5-25
+Date Entered: 09-05-2025
+Last Revised: 09-05-2025
 Review Status: Not started
 Level: 
 Priority: 

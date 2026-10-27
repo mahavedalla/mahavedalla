@@ -3,8 +3,8 @@ Question: Whether there is a foremost doctrine among other sects?
 Category: Aññatitthiya
 Tags: outsiders; sectarians; sects; foremost; doctrine
 Sutta References: AN 10.29
-Date Entered: 7-25-25
-Last Revised: 7-25-25
+Date Entered: 07-25-2025
+Last Revised: 07-25-2025
 Review Status: Not started
 Level: 2
 Priority: 3

@@ -3,8 +3,8 @@ Question: Whether sensual craving inheres in life functions?
 Category: Kāma
 Tags:
 Sutta References:
-Date Entered: 8-4-25
-Last Revised:
+Date Entered: 08-04-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

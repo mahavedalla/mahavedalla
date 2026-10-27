@@ -3,8 +3,8 @@ Question: Whether non-defilments are identical to the destruction of the defilem
 Category: Kilesa
 Tags:
 Sutta References: AN 10.47
-Date Entered:
-Last Revised:
+Date Entered: 10-27-2026
+Last Revised: 10-27-2026
 Review Status: Not started
 Level:
 Priority:

@@ -3,8 +3,8 @@ Question: Whether right effort includes generating desire for the development of
 Category: Sammāvāyamo
 Tags: 
 Sutta References: 
-Date Entered: 5-29-26
-Last Revised: 5-29-26
+Date Entered: 05-29-2026
+Last Revised: 05-29-2026
 Review Status: Not started
 Level: 
 Priority: 

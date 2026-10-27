@@ -3,8 +3,8 @@ Question: Whether refuge in the triple gem is invalidated by refuge in other rel
 Category: Saraṇa
 Tags: 
 Sutta References: 
-Date Entered: 9-20-25
-Last Revised: 9-20-25
+Date Entered: 09-20-2025
+Last Revised: 09-20-2025
 Review Status: Not started
 Level: 
 Priority: 

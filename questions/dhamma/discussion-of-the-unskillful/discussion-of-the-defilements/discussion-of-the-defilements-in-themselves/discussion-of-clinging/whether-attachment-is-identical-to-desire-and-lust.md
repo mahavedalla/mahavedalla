@@ -3,8 +3,8 @@ Question: Whether attachment is identical to desire and lust?
 Category: Upādāna
 Tags:
 Sutta References: MN 44
-Date Entered: March 18, 2025
-Last Revised:
+Date Entered: 03-18-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

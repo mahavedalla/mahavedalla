@@ -4,8 +4,8 @@ Category: Khanda
 Sutta References: MN 44
 Answer: There are three kinds of feeling: pleasure, pain, and neither-pleasure-nor-pain.
 Tags: Vedanā
-Date Entered: March 22, 2025
-Last Revised:
+Date Entered: 03-22-2025
+Last Revised: 10-27-2026
 Review Status: Not started
 Level: 
 Priority: 

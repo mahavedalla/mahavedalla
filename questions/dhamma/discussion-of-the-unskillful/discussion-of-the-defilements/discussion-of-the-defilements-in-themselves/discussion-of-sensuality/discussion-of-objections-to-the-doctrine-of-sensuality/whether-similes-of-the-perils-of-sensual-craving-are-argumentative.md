@@ -3,8 +3,8 @@ Question: Whether similes of the perils of sensual craving are argumentative?
 Category: Kāma
 Tags: 
 Sutta References: 
-Date Entered: 9-2-25
-Last Revised: 9-2-25
+Date Entered: 09-02-2025
+Last Revised: 09-02-2025
 Review Status: Not started
 Level: 
 Priority: 

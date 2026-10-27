@@ -3,8 +3,8 @@ Question: Whether widespread belief in rebirth is some justification for belief 
 Category: Jāti
 Tags: 
 Sutta References: 
-Date Entered: 3-22-26
-Last Revised: 3-22-26
+Date Entered: 03-22-2026
+Last Revised: 03-22-2026
 Review Status: Not started
 Level: 
 Priority: 
