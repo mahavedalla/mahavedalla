@@ -1,0 +1,1961 @@
+# Nonstandard Front Matter Dates
+
+Expected format: `MM/DD/YY`.
+Fields checked: `Date Entered` and `Last Revised`.
+
+**Markdown files scanned:** 2341
+**Files needing review:** 498
+
+## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-the-consequences-of-action-is-deserved.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-action-is-intentional.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-an-action-can-be-both-wholesome-and-unwholesome.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-divisions-of-action/whether-there-are-divisions-of-action.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-doctrine-of-action/whether-there-is-a-law-which-governs-actions-or-actions-are-disposed-to-produce-certain-fruits.md`
+- **Date Entered:** `April 8, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-effects-of-action/What causes being to be reborn inferior and superi 1d8e99d0911281b09ef1d238b05281af.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-effects-of-action/whether-an-action-born-of-a-defilement-can-yield-a-positive-result.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-effects-of-action/whether-everything-experienced-is-the-consequence-of-past-action.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-action/discussion-of-the-effects-of-action/whether-there-are-determinations-of-rebirth.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-awakening/discussion-of-the-awakened/whether-awakening-is-attained-by-the-mind.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-awakening/discussion-of-the-causes-of-awakening/whether-awakening-can-be-attained-without-a-teacher,-but-through-individual-study-and-implementation-of-the-suttas.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-awakening/discussion-of-the-stages-of-awakening/how-partial-enlightenment-is-possible.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-being/what-is-a-being.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-beings-in-general/who-is-the-foremost-being.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-brahmans/did-the-buddha-ever-show-deference-to-brahmins.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-brahmans/who-were-the-ten-ancient-brahmin-seers.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-demons/did-the-buddha-acknowledge-the-existence-of-demons.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-disciples/discussion-of-venerable-mogallana/was-moggallana-ever-mara.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-disciples/discussion-of-venerable-mogallana/what-was-venerable-moggallana's-lay-name.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-disciples/discussion-of-venerable-sariputta/on-what-occasion-did-the-venerable-sariputta-attain-arahatta.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-family/discussion-of-mother-and-father/did-the-buddha-value-the-relationship-between-child-and-mother-and-father.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-gods/discussion-of-heavenly-gods/whether-devas-are-corporeal.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-gods/discussion-of-the-activities-of-gods/whether-devas-procreate.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-gods/discussion-of-the-attributes-of-devas-part-two/how-long-do-devas-live-for.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-gods/discussion-of-the-existence-of-gods/whether-there-are-devas.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-gods/discussion-of-the-happiness-of-devas/how-does-the-happiness-of-devas-compare-to-that-of-humans.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-individuals/was-this-assaji-the-same-as-the-one-belonging-to-the-bhikkhu-pancavaggiya-the-group-of-five-monks-who-received-the-buddha's-first-discourse.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-individuals/who-were-the-monks-belonging-to-the-pancavaggiya-the-group-of-five-monks-taught-the-buddha's-first-discourse,-the-dhammacakkappavattana-sutta.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-arahants-physiology/can-an-arahant-become-ill.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-arahants-physiology/can-an-arahant-cry.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-arahants-physiology/can-an-arahant-experience-an-erection.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-arahants-physiology/can-an-arahant-nap.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-attainment-of-arahantship/whether-arahatta-is-attained-with-intention.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-knowledge-of-arahantship/whether-an-arahant's-knowledge--vision-of-the-destruction-of-the-taints-is-continuous-and-constant.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-knowledge-of-arahantship/whether-an-arahant-still-has-right-view.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-properties-of-the-arahant/discussion-of-other-properties-of-an-arahant-part-two/whether-an-arahant-will-take-up-another-body-at-death.md.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-properties-of-the-arahant/discussion-of-other-properties-of-an-arahant-part-two/whether-arahants-are-reborn.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-the-properties-of-the-arahant/discussion-of-other-properties-of-an-arahant-part-two/whether-living-arahants-continue-to-act-and-exercise-intention-after-attaining-arahatta.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-commit-suicide.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-disrobe.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-experience-greed,-hatred,-and-delusion.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-experience-sensual-delight.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-experience-sensual-pleasure.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-can-experience-part-one/can-an-arahant-violate-the-five-precepts.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-is-capable-of/is-it-possible-that-an-arahant-could-be-unable-to-enter-jhana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-arahantship/discussion-of-what-an-arahant-is-capable-of/is-it-possible-that-an-arahant-could-not-possess-the-dibbacakkhu-divine-eye,-the-ability-to-see-beings-passing-away-and-being-reborn-according-to-their-kamma.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/can-a-lay-person-become-a-sotapanna.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/is-jhana-necessary-for-the-attainment-of-sotapatti.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/is-the-first-jhana-necessary-for-sotapatti.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/what-are-the-conditions-for-sotapatti.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/what-are-the-different-means-e.g.,-teachings-by-which-sotapatti-can-be-attained.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/whether-a-sotapatti-can-violate-the-five-precepts.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-noble-individuals/discussion-of-stream-entry/whether-one-glimpses-nibbana-with-the-attainment-of-stream-entry.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-buddhahood-generally/how-are-the-buddha-and-the-dhamma-related.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-buddhahood-generally/how-many-buddhas-are-mentioned-in-the-canon.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-buddhahood-generally/what-is-the-difference-between-a-buddha-and-an-arahant.md`
+- **Date Entered:** `March 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-bodhisatta/did-the-buddha-ever-listen-to-music.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-bodhisatta/did-the-buddha-listen-to-music-before-his-going-forth.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-bodhisatta/what-were-the-circumstances-surrounding-the-buddha's-birth.md`
+- **Date Entered:** `March 28, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-bodhisatta/whether-the-buddha-indulged-in-sensual-pleasures-before-his-going-forth.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-bodhisatta/whether-the-buddha-was-sexually-active-before-his-going-forth.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/was-the-buddha-a-god.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/was-the-buddha-a-prince.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/was-the-buddha-capable-of-indulging-in-sensual-pleasures.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/was-the-buddha-omniscient.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/what-did-the-buddha-look-like.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/whether-after-his-awakening-the-buddha-was-still-conscious-and-perceptive.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/whether-the-buddha-could-experience-sensual-craving.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/whether-the-buddha-had-compassion.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-one/whether-the-buddha-is-the-dhamma.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-a-brahmin.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-a-man-or-god-or-other.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-a-philosopher.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-beyond-past-kamma.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-celibate.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-detached-from-material-things.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-himself-part-two/whether-the-buddha-was-forgiving.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-in-relation-to-other-beings/did-the-buddha-call-people-immoral-or-moral,-bad-or-evil,-etc..md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-in-relation-to-other-beings/was-the-buddha-an-ecumenist.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-in-relation-to-other-beings/was-the-buddha-the-best-of-all-beings.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-in-relation-to-other-beings/whether-the-buddha-appointed-a-successor.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddha-in-relation-to-other-beings/whether-the-buddha-rejected-brahminism.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-awakening/where-did-the-buddha-attain-nibbana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-awakening/whether-the-buddha's-omniscience-was-gained-before,-on,-or-after-his-attainment-of-nibbana.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-awakening/whether-the-buddha-developed-mindfulness-of-breathing-to-attain-nibbana.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/did-the-buddha-eat-honey.md`
+- **Date Entered:** `March 20, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/did-the-buddha-eat-one-meal-a-day.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/did-the-buddha-ever-become-sick.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/did-the-buddha-ever-nap.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/how-tall-was-the-buddha.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-bodily-life/whether-the-buddha-experienced-physical-ailments.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-parinibbana/can-a-buddha-be-killed-by-violence.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-parinibbana/how-did-the-buddha-die.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-parinibbana/how-old-was-the-buddha-when-he-died.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-parinibbana/where-did-the-buddha-attain-parinibbana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-past-lives/was-the-buddha-ever-a-wheel-turning-monarch.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-past-lives/was-the-buddha-ever-sakka.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-pedagogy/whether-the-buddha-was-an-esoteric-teacher.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-relationships/discussion-of-the-buddhas-family/did-the-buddha-have-a-son.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-relationships/discussion-of-the-buddhas-family/did-the-buddha-have-a-wife-before-his-going-forth.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-the-buddhas-relationships/discussion-of-the-buddhas-family/who-were-the-buddha's-parents.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-endorse-property-rights.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-ever-encourage-sensuality.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-praise-all-meditation.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-reject-the-brahman-caste-system.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-teach-a-doctrine-of-atonement-or-expiation.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-teach-the-golden-rule.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-buddha-teach-the-three-evangelical-counsels.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/did-the-reject-slavery.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/was-the-buddha-a-moral-realist.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-one/what-did-the-buddha-teach.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/did-the-buddha-praise-all-asceticism.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/did-the-buddha-praise-the-observance-of-the-thirteen-ascetic-practices.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/how-did-the-buddha-regard-other-religions.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/what-is-the-buddha's-advice-for-fear.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/whether-the-buddha-dispraised-all-asceticism.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/whether-the-buddha-encouraged-donations-to-be-made-exclusively-to-him-and-his-disciples.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/whether-the-buddha-encouraged-his-disciples-to-only-sleep-four-hours.md`
+- **Date Entered:** `June 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/whether-the-buddha-praised-learning.md`
+- **Date Entered:** `March 19, 2025`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-buddha/discussion-of-what-was-praised-by-the-buddha-part-two/whether-the-buddha-taught-to-love-thy-neighbor-as-thy-self.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-gandhabba/what-is-a-gandhabba.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-beings/discussion-of-the-gandhabba/when-does-life-begin..md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-belief-in-rebirth/whether-belief-in-rebirth-is-necessary-for-new-practitioners.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-belief-in-rebirth/whether-belief-in-rebirth-is-necessary-to-attain-nibbana.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-belief-in-rebirth/whether-belief-in-rebirth-is-necessary-to-be-a-disciple.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-belief-in-rebirth/whether-there-are-reasons-to-believe-in-rebirth.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-the-merits-of-birth/what-is-reborn.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-the-time-of-rebirth/is-rebirth-instantaneous.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth/discussion-of-the-time-of-rebirth/whether-there-is-an-intermediate-state-between-birth-and-death.md`
+- **Date Entered:** `April 10, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-birth-stories/whether-the-buddha-was-ever-a-god.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-calm/whether-there-is-diversity-among-people-in-the-development-of-tranquility-and-insight.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-chronicles/who-was-the-first-person-to-awaken-following-the-buddha.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-chronicles/who-was-the-first-to-go-forth.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-chronicles/who-were-the-first-followers-of-the-buddha.md`
+- **Date Entered:** `March 20, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-complete-understanding/whether-the-full-understanding-of-sensual-pleasures,-form,-and-feelings-is-the-same.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-concord/discssion-of-the-causes-of-concord/whether-frequent-speech-is-necessary-for-communal-harmony.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-conflict/whether-there-is-a-reason-why-monks-priests-and-other-religious-quarrel.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-contact/what-is-contact-phassa.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-death/what-happens-after-death.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-dispassion/discussion-of-dispassion-itself/discussion-of-the-identity-of-dispassion/whether-dispassion-is-identical-to-nibbana.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-exhortation/did-the-buddha-ever-offer-unsolicited-advice.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-exhortation/did-the-buddha-ever-provide-advice-on-how-husbands-and-wives-could-be-reunited-after-death.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-exhortation/what-advice-did-the-buddha-offer-to-married-couples.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-exhortation/what-is-the-buddha's-advice-for-loneliness.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/discussion-of-association-with-fools/whether-dissociation-from-fools-is-qualified.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/discussion-of-association-with-fools/whether-one-should-never-associate-with-fools.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/discussion-of-the-discernment-of-friends/how-does-one-come-to-learn-of-another's-qualities.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/discussion-of-the-purpose-of-friendship/whether-friendship-is-important.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/discussion-of-the-purpose-of-friendship/whether-friendship-plays-a-role-in-the-holy-life.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-friendship/whether-a-romantic-partner-is-the-ultimate-friend.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-going-forth/whether-there-is-a-common-motive-for-going-forth.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-happiness-in-itself-part-two/whether-sensual-pleasure-is-the-highest-form-of-pleasure.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-happiness-in-relation-to-beings/whether-the-buddha-disapproved-of-all-pleasure.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `April 21, 2025`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-particular-pleasures/whether-the-pleasure-of-jhana-surpasses-divine-pleasure.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-particular-pleasures/whether-the-pleasure-of-jhana-surpasses-sensual-pleasure.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-the-morality-of-happiness/is-pleasure-inherently-unwholesome.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-the-morality-of-happiness/is-sensual-pleasure-unwholesome.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-happiness/discussion-of-the-morality-of-happiness/whether-there-can-be-pleasure-in-doing-evil.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-knowledge/discussion-of-direct-knowledge/whether-besides-direct-knowledge-there-are-grounds-for-certain-knowledge.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-knowledge/discussion-of-logic-and-knowledge/on-what-basis-can-inferences-to-past-and-future-be-made.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-knowledge/discussion-of-logic-and-knowledge/whether-reasoning-is-integral.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-knowledge/discussion-of-particular-forms-of-knowledge/what-is-the-highest-form-of-knowledge.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-knowledge/discussion-of-particular-forms-of-knowledge/whether-knowledge--vision-is-conditioned.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/Who was the first to become a lay follower by mean 1d8e99d0911281b5a176da4907727e66.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/how-does-one-become-an-lay-follower-upasaka.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/what-rules-is-a-lay-follower-expected-to-keep.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/whether-an-upasaka-become-a-anagami.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/whether-an-upasaka-become-a-sakadagami.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/whether-an-upasaka-become-a-sotapanna.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/whether-it-is-permissible-for-a-lay-disciple-to-participate-in-a-religious-ceremony-of-another-religion.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-lay-discipleship/whether-lay-people-are-justified-in-indulging-in-sensual-pleasures.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-interdisciplinary-learning/whether-non-dhamma-learning-can-be-justified.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-learning-itself/discussion-of-the-attributes-of-learning/whether-learning-is-beneficial-without-respect-to-individual-awakening.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-learning-itself/discussion-of-the-definition-of-learning/what-is-much-learning.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-learning-itself/discussion-of-the-definition-of-learning/whether-learning-includes-analysis.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-learning-itself/discussion-of-the-divisions-of-learning/whether-bahussuta-and-pariyatti-are-the-same.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-learning-itself/discussion-of-the-effects-of-learning/whether-learning-is-necessary.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-pali/whether-it-is-necessary-to-know-pali.md`
+- **Date Entered:** `March 20, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-pali/whether-the-study-of-pali-is-important.md`
+- **Date Entered:** `March 20, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-study-in-relation-to-the-path/whether-learning-can-be-a-form-of-meditation.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-study-in-relation-to-the-path/whether-learning-can-be-a-form-of-practice.md`
+- **Date Entered:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/discussion-of-the-drawbacks-of-learning/whether-learning-can-be-detrimental.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/whether-competition-in-learning-is-permissible-to-induce-motivation.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-learning/whether-there-is-an-upper-limit-to-the-amount-of-study.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-liberation/discussion-of-the-divisions-of-liberation/what-are-the-kinds-of-deliverance-vimutti.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-liberation/discussion-of-the-knowledge-of-liberation/whether-liberation-is-knowledge.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-mara/is-there-an-equivalent-of-the-devil-in-buddhism.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-mistakes/what-is-the-proper-way-to-respond-to-mistakes.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-as-an-end/what-is-the-purpose-of-nibbana.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-one/is-nibbana-identical-with-the-unconditioned-asankhata.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-one/whether-disenchantment-is-identical-to-nibbana.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-one/whether-nibbana-is-dukkhanirodha.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-one/whether-nibbana-is-equivalent-to-the-destruction-of-the-taints.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-one/whether-nibbana-is-happiness.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-two/whether-nibbana-is-the-same-as-the-deathless-amata.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-two/whether-nibbana-is-truth.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-two/whether-the-destruction-of-craving-is-nibbana.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-two/whether-the-dhamma-is-the-same-as-nibbana.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-in-relation-to-other-qualities-part-two/whether-vimutti-is-identical-to-nibbana.md`
+- **Date Entered:** `April 3, 2025`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/is-nibbana-a-mere-absence.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/is-nibbana-a-substance.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/what-is-nibbana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/whether-nibbana-is-a-form-of-consciousness.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/whether-nibbana-is-a-state,-dimension,-or-place.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-one/whether-nibbana-is-one-or-many.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-nibbana-itself/discussion-of-the-ontology-of-nibbana-part-two/whether-nibbana-is-a-dhamma.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-relations-to-nibbana/can-nibbana-be-clung-to.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-relations-to-nibbana/does-one-become-united-with-nibbana.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-relations-to-nibbana/is-nibbana-collective,-i.e.,-is-there-one-nibbana-that-a-multitude-attain.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-causes-of-the-attainment-of-nibbana/can-nibbana-be-attained-without-jhana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-causes-of-the-attainment-of-nibbana/is-the-observance-of-the-sixth-precept-necessary-for-the-attainment-of-nibbana.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-causes-of-the-attainment-of-nibbana/whether-nibbana-can-be-obtained-while-quarreling-isn't-abandoned.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-causes-of-the-attainment-of-nibbana/whether-nibbana-can-be-obtained-without-celibacy.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-definition-of-attainment-of-nibbana/whether-the-attainment-of-nibbana-is-a-form-of-knowledge.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-definition-of-attainment-of-nibbana/whether-the-attainment-of-nibbana-is-intellectual.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attainment-of-nibbana/discussion-of-the-gradualness-of-the-attainment-of-nibbana/is-nibbana-attained-gradually-or-suddenly.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-major-attributes/is-nibbana-composite.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-major-attributes/is-nibbana-in-samsara.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-major-attributes/whether-nibbana-is-limitless,-infinite,-or-immeasurable.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-major-attributes/whether-nibbana-is-omnipresent.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-minor-attributes/whether-nibbana-is-intellectual.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-minor-attributes/whether-nibbana-is-mental.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-minor-attributes/whether-nibbana-is-the-best.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-attributes-of-nibbana/discussion-of-whether-nibbana-has-attributes/whether-nibbana-has-attributes.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-effability-of-nibbana/discussion-of-the-effability-of-nibbana-itself/whether-nibbana-can-be-described.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-effability-of-nibbana/discussion-of-the-epithets-of-nibbana/what-epithets-are-used-for-nibbana.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-existence-or-possibility-of-nibbana/does-nibbana-exist.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-the-knowledge-of-nibbana/whether-nibbana-can-be-experienced-in-ordinary-circumstances.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-those-who-attain-nibbana/whether-one-can-extinguish-or-cause-another-to-attain-nibbana-parinibbapeti-another.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-nibbana/discussion-of-those-who-attain-nibbana/why-do-some-not-attain-nibbana.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-obedience/what-is-the-purpose-of-obedience.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-causality/discussion-of-dependent-origination/where-is-dependent-origination-ended-e.g.,-between-feeling-and-craving.md`
+- **Date Entered:** `March 28, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-citta/how-does-the-citta-differ-from-manas.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-citta/is-the-citta-heart-or-mind-deathless.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-citta/what-is-the-citta.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-citta/what-is-the-difference-between-the-citta-mind-or-heart-and-jiva-soul.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-citta/whether-the-mind-inhabits-the-body.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-dualism/whether-mind-and-body-are-distinct-substances.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-intention/discussion-of-intention-itself/what-is-sancetana.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-mereology/whether-there-are-no-composite-wholes-merely-mereological-simples.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-consciousness/discussion-of-consciousness-in-relation-to-other-qualities/whether-consciousness-is-independent-of-the-other-aggregates.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-consciousness/discussion-of-consciousness-in-relation-to-other-qualities/whether-sense-consciousness-exhausts-all-consciousness.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-consciousness/discussion-of-the-cessation-of-consciousness/does-consciousness-cease-after-parinibbana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-feelings/how-many-kinds-of-feeling-are-there.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-feelings/what-are-the-three-feelings.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-feelings/what-is-feeling.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-feelings/what-is-the-highest-gratification-of-feelings.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-formations/what-are-sankhara-formations.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-perception/what-is-the-relationship-between-perception-sanna-and-contact-phassa.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-perception/what-perceptions-culminate-in-nibbana.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-perception/whether-the-perception-of-others-is-important.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-the-gratification-of-the-five-aggregates/did-the-buddha-ackowledge-a-gratification-in-the-five-aggregates.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-five-aggregates/discussion-of-the-ontology-of-the-five-aggregates/do-the-five-aggregates-have-any-essence.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-interrelation-of-all-phenomena/whether-everything-is-a-oneness.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/discussion-of-the-interrelation-of-all-phenomena/whether-everything-is-a-plurality.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-phenomena/whether-some-things-exist-and-do-not-exist.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-questions-and-answers/whether-questions-should-be-distinguished.md`
+- **Date Entered:** `May 2, 2025`
+- **Last Revised:** `May 2, 2025`
+
+## `questions/dhamma/discussion-of-refuge/discussion-of-the-parties-involved-in-the-refuges/discussion-of-the-ministers-of-the-refuges/whether-the-three-refuges-must-be-given-by-a-monk-or-other-official.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-refuge/discussion-of-the-parties-involved-in-the-refuges/discussion-of-the-recipients-of-the-refuges/whether-refuge-is-exclusive.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-customs-regarding-dhamma-talks/was-it-appropriate-to-listen-to-the-buddha's-dhamma-on-a-high-seat.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-death-rituals/is-it-appropriate-for-a-monk-to-die-in-an-inhabited-area.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-death-rituals/whether-it-is-permissible-to-commemorate-the-dead-with-material-goods.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-death-rituals/whether-it-is-permissible-to-dedicate-acts-of-merit-to-the-deceased.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-devotion/whether-devotion-is-encouraged.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-devotion/whether-devotion-is-necessary.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-divine-rituals/whether-the-buddha-made-offerings-to-gods.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-homage/discussion-of-objects-of-homage/whether-the-dhamma-is-more-worthy-of-veneration-than-the-buddha.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-meal-blessings/did-bhikkhus-in-the-buddha's-time-offer-meal-blessings.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-ritual/discussion-of-ritual-outside-of-this-dhamma-and-vinaya/whether-it-is-permissible-for-lay-people-to-use-honorifics-to-refer-to-members-of-other-sects.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-scents/were-the-monks-odorous.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-seclusion/discussion-of-the-effects-of-seclusion/whether-seclusion-is-necessary-for-the-attainment-of-nibbana.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-seclusion/discussion-of-the-purpose-of-seclusion/what-is-the-purpose-of-seclusion.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-seclusion/discussion-of-the-purpose-of-seclusion/whether-seclusion-has-a-purpose.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-sectarians/discussion-of-christianity/whether-the-love-of-money-is-the-root-of-all-evil.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-sectarians/discussion-of-the-capabilities-of-sectarians/whether-outsiders-can-attain-nibbana.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-sectarians/discussion-of-the-capabilities-of-sectarians/whether-the-wanderers-of-other-sects-can-abandon-sensuality.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-sexuality/discussion-of-the-cause-of-sexuality/what-arouses-sexual-desire.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-beneficial/what-benefit-do-monks-offer-their-supporters.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-beneficial/what-is-the-meaning-of-this-statement:-"only-suffering-arises,-only-suffering-ceases.".md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-particular-dhamma-teachings/what-are-the-four-summaries-of-the-dhamma.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-categorical-and-invariant.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-immediately-apparent.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-intellectual.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-material.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-one-or-many.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-attributes-of-the-dhamma/whether-the-dhamma-is-unique.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-dhamma-as-principle/discussion-of-the-origins-of-the-dhamma-as-principle/whether-a-buddha-creates-the-dhamma.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-dhamma-as-the-teachings-of-the-buddha/discussion-of-the-dhamma-in-relation-to-the-vinaya/whether-vinaya-is-subordinate-to-dhamma.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-dhamma-as-the-teachings-of-the-buddha/discussion-of-the-relation-of-the-dhamma-as-teachings-to-other-qualities/whether-the-dhamma-can-be-lusted-for.md`
+- **Date Entered:** `June 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma/discussion-of-the-purpose-of-the-dhamma-as-the-teachings-of-the-buddha/whether-the-dhamma-is-taught-for-the-sake-of-a-better-rebirth.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-dhamma-and-vinaya/whether-this-dhamma-vinaya-is-unique.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-eight-precepts-generally/where-the-eight-precepts-originated.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-eight-precepts-in-general/is-the-observance-of-precepts-an-act-of-giving.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-non-violations-of-the-five-precepts/is-it-permissible-for-lay-people-to-wear-adornments.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-first-precept/what-are-the-factors-for-a-violation-of-the-first-precept.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-first-precept/whether-euthanasia-is-permissible.md`
+- **Date Entered:** `March 28, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-first-precept/whether-it-is-a-violation-of-the-first-precept-to-abort-zygote-embryo-or-fetus.md`
+- **Date Entered:** `March 18, 2025`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-third-precept/discussion-of-sexual-misconduct-itself/what-is-kamesu-micchacaro.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-third-precept/discussion-of-violations-of-the-third-precept-part-two/is-polygamy-kamesu-michacaro-sexual-misconduct.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-five-precepts/discussion-of-the-third-precept/discussion-of-violations-of-the-third-precept-part-two/whether-homosexuality-is-kamesu-micchacara-sexual-misconduct.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-seventh-precept/discussion-of-violations-of-the-seventh-precept-part-one/what-is-prohibited-by-the-seventh-precept.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-eight-precepts/discussion-of-the-seventh-precept/discussion-of-violations-of-the-seventh-precept-part-one/whether-poetry-is-prohibited-by-the-seventh-precept.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-holy-life/discussion-of-the-purpose-of-the-holy-life/what-is-the-purpose-of-leading-the-spiritual-life.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-concentration-in-itself/what-is-samadhi.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-attributes-of-jhana/discussion-of-other-attributes-of-jhana/whether-jhana-has-any-drawbacks.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-attributes-of-jhana/discussion-of-other-attributes-of-jhana/whether-jhana-is-worldly.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-attributes-of-jhana/discussion-of-the-physicality-of-jhana/whether-it-is-possible-to-walk-while-in-jhana.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-attributes-of-jhana/discussion-of-the-physicality-of-jhana/whether-jhana-is-bodily-or-mental.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-attributes-of-jhana/discussion-of-the-physicality-of-jhana/whether-physical-pain-can-be-experienced-in-jhana.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-jhanas-in-relation-to-one-another/whether-successive-jhanas-are-superior-to-preceding-ones.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-ontology-of-jhana/What is jhāna 1d8e99d09112811e80f5d9081e063e10.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-ontology-of-jhana/whether-jhana-is-nibbana.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-general/discussion-of-the-ontology-of-jhana/whether-the-cessation-of-the-hindrances-is-equivalent-to-jhana.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-in-relation-to-other-qualities/whether-jhana-is-superior-to-knowledge-and-vision.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-jhana-yogis/whether-one-is-still-perceptive-in-jhana.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-the-attainment-of-cessation/does-consciousness-cease-in-nirodhasamapatti-the-attainment-of-cessation.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-the-first-jhana/is-it-possible-to-abide-in-the-first-jhana-while-walking.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-the-first-jhana/whether-one-in-the-first-jhana-still-experiences-physical-perceptions.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-the-first-jhana/whether-the-first-jhana-is-sufficient-for-arahantship.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-jhana/discussion-of-the-second-jhana/whether-thought-is-possible-in-the-second-jhana-and-beyond.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-meditation-itself/what-is-bhavana.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-meditation-practice-of-meditation-objects/is-it-appropriate-to-take-up-and-put-down-different-themes-of-meditation.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-meditators/whether-arahants-continue-to-practice-mindfulness-meditation.md`
+- **Date Entered:** `April 7, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-meditators/whether-it-was-rude-to-interrupt-someone-during-meditation.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-meditators/whether-junior-bhikkhus-should-be-instructed-in-mindfulness-meditation.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-the-attainment-of-cessation/how-the-cessation-of-perception-and-feeling-is-different-than-the-non-percipient-realm.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-the-attainment-of-cessation/whether-there-is-a-meditative-attainment-superior-to-nirodhasamapatti.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-the-attainment-of-cessation/whether-there-is-difference-between-one-in-the-attainment-of-cessation-and-one-asleep.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-the-divine-abidings/whether-metta-is-directly-conducive-to-nibbana.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-the-divine-abidings/whether-someone-can-experience-physical-pain-while-in-a-brahmavihara.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/discussion-of-walking-meditation/what-instructions-does-the-canon-offer-on-walking-meditation.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/what-directly-conduces-to-nibbana.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/what-is-the-difference-between-samatha-and-samadhi.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/whether-revulsion-is-encouraged.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/whether-suppression-is-encouraged.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-meditation/whether-thought-about-past-and-future-is-to-be-abandoned.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-mindfulness/discussion-of-mindfulness-unsorted/whether-sati-develops-sila.md`
+- **Date Entered:** `July 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-mindfulness/discussion-of-mindfulness-unsorted/whether-sensual-desire-affects-recollection.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-supranormal-powers/why-some-attain-the-supernormal-powers-while-others-do-not.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-the-brahmaviharas/discussion-of-metta/discussion-of-the-attributes-of-metta/whether-metta-is-meritorious.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-the-brahmaviharas/whether-the-development-of-the-brahmaviharas-is-directly-conducive-to-nibbana.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-concentration-as-path-factor/discussion-of-the-brahmaviharas/whether-the-successive-brahmaviharas-are-superior-to-the-preceding-ones.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-noble-eightfold-path-itself/what-is-the-noble-eightfold-path.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-noble-eightfold-path-itself/whether-the-noble-eightfold-path-is-conditioned.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-practice/how-is-progress-measured.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-practice/what-is-the-noble-tenfold-path.md`
+- **Date Entered:** `April 4, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-practice/whether-the-factors-of-the-noble-eightfold-path-are-developed-sequentially-or-simultaneously.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-practice/whether-the-factors-of-the-noble-eightfold-path-are-separate-or-related.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-the-practice/whether-the-practice-is-intellectual.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-asceticism/discussion-of-asceticism-itself/what-are-the-thirteen-ascetic-practices-dhutanga.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-asceticism/whether-it-is-necessary-to-eat-one-meal-per-day.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-asceticism/whether-the-observance-of-the-thirteen-dhutanga-is-necessary-for-the-attainment-arahatta.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `April 21, 2025`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-debate/whether-inter-religious-debate-is-permissible.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-fasting/whether-abstinence-from-eating-at-the-wrong-time-is-necessary-for-the-attainment-of-nibbana.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-fasting/whether-fasting-is-instrumentally-or-intrinsically-good.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-fasting/whether-there-are-reasons-for-fasting.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-giving/discussion-of-givers/whether-a-donation-made-by-an-immoral-person-is-fruitful.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-giving/discussion-of-giving-itself/what-is-the-ultimate-form-of-generosity.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-giving/discussion-of-the-causes-of-giving/what-are-the-reasons-for-giving.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-giving/discussion-of-the-recipients-of-giving/whether-it-is-permissible-to-make-donations-to-other-sects-and-religions.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-language/whether-sign-language-is-permissible-to-promote-noble-silence.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-livelihood/discussion-of-specific-forms-of-wrong-livelihood/what-are-the-forms-of-wrong-livelihood-for-a-layperson.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-livelihood/discussion-of-specific-forms-of-wrong-livelihood/whether-acting-is-wrong-livelihood.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-livelihood/discussion-of-specific-forms-of-wrong-livelihood/whether-military-service-is-wrong-livelihood.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-monks/discussion-of-the-role-of-a-monk/whether-a-bhikkhu's-role-is-priestly.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-moral-agency/whether-animals-are-moral-agents.md`
+- **Date Entered:** `March 18, 2025`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-residency/whether-stability-of-residence-is-beneficial.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-robes/whether-bhikkhus-made-robes-for-the-buddha.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/discussion-of-forms-of-virtue/whether-abstention-itself-can-be-virtuous.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/discussion-of-virtue-as-a-quality-itself/whether-sila-is-precepts.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/discussion-of-virtue-as-a-quality-itself/whether-sila-is-the-same-as-observing-precepts.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/does-the-development-of-sila-require-the-existence-of-evils.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/what-is-sila.md`
+- **Date Entered:** `March 19, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/what-is-the-root-of-all-virtues.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-virtue-as-path-factor/discussion-of-virtue-as-a-quality/whether-virtue-is-one-or-many.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-doctrines-of-self/whether-there-is-a-difference-between-sakkayaditthi-and-attavada.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-eternalism/whether-knowledge-that-the-world-is-eternal-is-possible.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-god/whether-buddhism-is-atheistic.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-god/whether-it-is-permissible-for-a-buddhist-to-believe-in-god.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-god/whether-the-buddha-denied-the-existence-of-a-creator-god.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-renunciation/whether-the-buddha-instructed-to-laity-in-renunciation-nekkhamma.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-right-view/whether-right-view-is-intellectual.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-right-view/whether-supramundane-right-view-supersedes-mundane-right-view.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-right-view/whether-the-right-view-of-a-trainee-sekha-is-the-same-as-that-of-one-beyond-training-asekha.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-stess-and-suffering/discussion-of-beings-afflicated-by-stress-and-suffering/who-produces-suffering.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-stess-and-suffering/discussion-of-stress-and-suffering-itself/whether-dukkha-is-existential-anxiety-or-samsaric-existence.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-impermanence/whether-the-development-of-the-perception-of-impermanence-alt:-inconstancy;-anicca-is-directly-conducive-to-nibbana.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-not-self/discussion-of-the-existence-of-the-self/whether-there-is-no-self.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-not-self/discussion-of-the-sense-of-self/what-is-the-sense-of-self,-i.e.,-is-it-a-perception,-formation,-or-feeling.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-not-self/discussion-of-the-teaching-of-not-self/whether-the-teaching-of-not-self-is-a-strategy.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-not-self/discussion-of-the-teaching-of-not-self/whether-the-teaching-of-not-self-is-an-ontological-claim.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-the-three-characteristics/discussion-of-not-self/discussion-of-the-teaching-of-not-self/whether-the-teaching-on-not-self-is-strategic.md`
+- **Date Entered:** `March 31, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-view/discussion-of-view-unsorted/whether-consensus-of-view-is-important.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-view/discussion-of-view-unsorted/whether-the-dhamma-is-incompatible-with-theism.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-view/discussion-of-view-unsorted/whether-this-dhamma-is-nihilistic.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wisdom-as-a-quality/discussion-of-the-wise/with-what-qualities-is-someone-described-as-a-great-man.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/what-is-wisdom.md`
+- **Date Entered:** `July 4, 2025`
+- **Last Revised:** `July 4, 2025`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-exists-in-the-body-or-mind.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wisdom-as-a-quality/discussion-of-wisdom-itself/whether-wisdom-is-a-faculty.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-particular-wrong-views/what-is-the-doctrine-of-non-doing-akiriyavada.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-particular-wrong-views/what-is-the-the-doctrine-annihilationism-ucchedavada.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-effects-of-wrong-view/whether-actions-undertaken-with-wrong-view-are-unwholesome.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-effects-of-wrong-view/whether-wrong-view-leads-to-hell.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-morality-of-wrong-view/whether-wrong-view-is-blameworthy.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-morality-of-wrong-view/whether-wrong-view-is-unwholesome.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-response-to-wrong-view/whether-it-behooves-a-monk-to-anathematize-a-monk-of-wrong-view.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-eightfold-path/discussion-of-wisdom-as-path-factor/discussion-of-wrong-view/discussion-of-the-response-to-wrong-view/whether-it-behooves-a-monk-to-correct-a-monk-of-wrong-view.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-noble-search/what-is-the-ariyapariyesana-noble-search.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-conscience/whether-remorse-and-regret-are-encouraged.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-equanimity/discussion-of-the-divisions-of-equanimity/whether-there-are-different-forms-of-equanimity.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-faith-and-knowledge/whether-faith-is-adequate-for-knowledge.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-faith-in-itself/discussion-of-the-attributes-of-faith/whether-faith-is-a-virtue.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-faith-in-itself/discussion-of-the-identity-of-faith/whether-faith-is-praiseworthy.md`
+- **Date Entered:** `April 5, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-the-causes-of-faith/how-is-faith-in-the-triple-gem-gained.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-the-drawbacks-of-faith/whether-the-buddha-ever-criticized-faith.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-faith/discussion-of-the-purpose-of-faith/whether-faith-saddha-is-necessary-for-the-awakening.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-merit/discussion-of-particular-acts-of-merit/what-are-the-bases-of-merit.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-merit/discussion-of-the-divisions-of-merit/what-are-forms-of-meritorious-deeds.md`
+- **Date Entered:** `April 1, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-non-ill-will/what-is-non–ill-will.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-particular-skillful-qualities/discussion-of-the-wings-of-awakening/what-are-the-four-bases-of-power.md`
+- **Date Entered:** `March 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-causes-of-the-unskillful/what-is-the-akusalamula.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-causes-of-the-unskillful/what-is-the-cause-of-all-evil.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-causes-of-the-unskillful/what-is-the-kusalamula.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself/what-are-all-of-the-wholesome-qualities-or-virtues.md`
+- **Date Entered:** `March 24, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself/what-are-the-kusala-dhamma.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself/what-is-akusala.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself/what-is-kusala.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-skillful/discussion-of-the-skillful-itself/what-is-the-foremost-of-skillful-qualities.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-soul/whether-there-are-souls.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unanswered-questions/whether-the-buddhe-rejected-speculative-views-just-because-they-were-impractical-or-also-unanswerable.md`
+- **Date Entered:** `April 3, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-covetousness/What is non-covetousness 1d8e99d09112816fb10ee003f4174f1d.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-covetousness/what-is-abhijjha.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-covetousness/what-is-non-covetousness.md`
+- **Date Entered:** `March 30, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-drawbacks/what-is-the-gratification-in,-danger-of,-and-escape-from-the-world.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-ignorance/discussion-of-ignorance-in-relation-to-other-qualities/how-does-avijja-differ-from-dosa.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-ignorance/discussion-of-ignorance-itself/what-is-avijja.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-ignorance/discussion-of-the-causes-of-ignorance/whether-ignorance-is-caused.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-cause-of-the-unskillful/what-is-the-cause-of-crime.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-acquisitions/what-is-upadhi.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-acquisitions/whether-upadhi-has-a-cause.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-acquisitions/whether-upadhi-is-the-same-as-the-asava,-kilesa,-and-upadana.md`
+- **Date Entered:** `MISSING`
+- **Last Revised:** `MISSING`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-clinging/is-clinging-bodily-or-is-it-mental.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-clinging/what-aggregate-does-attachment-belong-to.md`
+- **Date Entered:** `March 25, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-clinging/what-is-attachment.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-clinging/whether-attachment-is-identical-to-desire-and-lust.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-clinging/whether-there-is-a-fundamental-attachment.md`
+- **Date Entered:** `April 10, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-craving/discussion-of-abstention/whether-abstention-from-all-sensual-pleasures-is-expedient-to-the-abandonment-of-all-craving.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-craving/discussion-of-the-causes-of-craving/whether-a-first-point-of-craving-is-discerned.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-craving/discussion-of-the-causes-of-craving/whether-ignorance-directly-causes-craving.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-delusion/what-is-delusion.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-desire/discussion-of-desire-itself/whether-desire-includes-all-motivating-states.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-desire/discussion-of-desire-itself/whether-desire-includes-desire-in-relation-to-ordinary-functions.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-desire/discussion-of-objections-to-the-doctrine-of-desire/whether-there-is-a-paradox-of-desire.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-desire/discussion-of-the-effects-of-desire/what-is-the-reason-why-suffering-arises-over-the-misfortune-of-some-individuals-and-not-others.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-desire/whether-all-desires-should-be-ended.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-greed/what-is-greed.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-hatred/what-is-dosa.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-lust/discussion-of-lust-itself/what-is-raga.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-non-defilements/whether-non-defilements-are-substantial.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-craving/discussion-of-sensual-craving-itself/whether-sensual-craving-inheres-in-life-functions.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-craving/discussion-of-sensual-craving-itself/whether-there-is-any-fault-in-sensuality.md`
+- **Date Entered:** `March 17, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-craving/discussion-of-the-causes-of-sensual-craving/whether-sensual-indulgence-requires-sensual-thoughts.md`
+- **Date Entered:** `March 26, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-stimulation/discussion-of-the-duty-in-relation-to-sensual-stimulation/whether-all-sensual-stimulation-is-not-to-be-cultivated.md`
+- **Date Entered:** `April 21, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-stimulation/discussion-of-the-duty-in-relation-to-sensual-stimulation/whether-it-is-permissible-to-enjoy-some-sensual-pleasures.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-sensual-stimulation/discussion-of-the-gratification-of-sensual-pleasure/did-the-buddha-acknowledge-a-gratification-in-sensual-pleasures.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-the-abandonment-of-sensuality/whether-it-is-possible-to-eat-fine-foods-without-giving-rise-to-sensual-desire.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-the-abandonment-of-sensuality/whether-there-is-any-pleasure-in-the-absence-of-sensual-pleasure.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-sensuality/discussion-of-those-abandoning-sensuality/whether-someone-who-has-seen-the-drawbacks-in-sensual-pleasures-can-still-be-attracted-to-them.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-defilements-in-general/What are the kilesā 1d8e99d09112817680c3d80948ae0f2b.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-defilements-in-general/whether-the-defilements-are-bodily.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-defilements-in-general/whether-the-defilements-are-distict-from-the-taints.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-defilements-in-general/whether-the-defilements-are-included-in-the-aggregate-of-formations.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-defilements-in-general/whether-the-defilements-are-mental.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-hindrances/discussion-of-doubt/what-is-vicikiccha-doubt.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-defilements-in-themselves/discussion-of-the-hindrances/discussion-of-restlessness-and-anxiety/what-is-the-cause-of-anxiety.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-the-destruction-of-the-defilements/whether-non-defilements-are-identical-to-the-destruction-of-the-defilments.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-defilements/discussion-of-those-afflicted-by-the-defilements/What is afflicted by the defilements 1d8e99d091128119bce3fc291d3d0ad1.md`
+- **Date Entered:** `March 23, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-taints/discussion-of-the-taints-themselves/what-are-the-asava.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-unskillful/discussion-of-the-taints/whether-knowledge--vision-of-the-destruction-of-the-taints-khinasava-is-the-same-as-the-destruction-of-the-taints.md`
+- **Date Entered:** `April 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-welfare-of-others/whether-we-should-neglect-our-own-welfare-for-that-of-others.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-heaven/discussion-of-entrants-into-heaven/whether-outsiders-can-enter-heaven.md`
+- **Date Entered:** `March 14, 2025`
+- **Last Revised:** `June 30, 2025`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-the-gratification-of-the-world/whether-it-is-important-to-comprehend-the-gratification-in-the-world.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-the-gratification-of-the-world/whether-there-is-a-gratification-in-the-world.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-the-world-itself/discussion-of-the-origins-of-the-world/How did the cosmos originate 1d8e99d0911281688c51c32c32d4b64b.md`
+- **Date Entered:** `March 29, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-the-world-itself/discussion-of-the-origins-of-the-world/whether-a-first-point-of-samsara-is-discerned.md`
+- **Date Entered:** `March 11, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/discussion-of-the-world-itself/discussion-of-the-world-in-relation-to-other-phenomena/whether-samsara-is-identical-to-the-world.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-the-world/whether-there-are-different-realms-of-existence.md`
+- **Date Entered:** `March 22, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-this-science/discussion-of-hermeneutics/whether-disagreement-in-meaning-is-important.md`
+- **Date Entered:** `April 12, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-this-science/discussion-of-practitioners-of-this-science/whether-this-science-is-necessary-for-a-trainee-sekha.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-this-science/discussion-of-this-science-itself/discussion-of-the-necessity-of-this-science/whether-sacred-doctrine-pariyatti-is-necessary-whether,-besides-meditation,-sacred-doctrine-is-necessary.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-understanding/whether-understanding-is-sufficient-for-nibbana.md`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/discussion-of-wealth/whether-acceptance-of-gold-and-silver-is-unbecoming-of-a-bhikkhu.md`
+- **Date Entered:** `BLANK`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/sort/archive/whether-eighty-years-of-age-was-a-stock-figure.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/sort/to-what-extent-is-self-defense-permissible.md`
+- **Date Entered:** `March 18, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/dhamma/sort/whether-the-monks-were-ever-confused-or-ignorant.md`
+- **Date Entered:** `April 2, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/vinaya/discussion-of-minor-topics/whether-bhikkhus-may-accept-animals.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/vinaya/discussion-of-minor-topics/whether-bhikkhus-may-accept-land.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+
+## `questions/vinaya/discussion-of-minor-topics/whether-bhikkhus-may-accept-raw-food.md`
+- **Date Entered:** `April 6, 2025`
+- **Last Revised:** `BLANK`
+

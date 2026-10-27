@@ -16,7 +16,7 @@ QUESTIONS_DIR = Path("questions")
 REPORT_PATH = Path("scripts/md/nonstandard_front_matter_dates.md")
 
 DATE_FIELDS = ("Date Entered", "Last Revised")
-EXPECTED_DATE = re.compile(r"^\d{2}/\d{2}/\d{2}$")
+EXPECTED_DATE = re.compile(r"^\d{1,2}-\d{1,2}-\d{2}$")
 
 
 def find_front_matter(text):
