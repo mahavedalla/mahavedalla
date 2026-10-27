@@ -11,19 +11,21 @@ Run from the repository root:
 
     python scripts/pyscripts/repair_questions_without_body.py
 
-Preview only (default):
-    python scripts/pyscripts/repair_questions_without_body.py
+Preview the first 5 eligible files:
+
+    python scripts/pyscripts/repair_questions_without_body.py --preview 5
 
 Apply changes:
+
     python scripts/pyscripts/repair_questions_without_body.py --apply
 
 Optional arguments:
+
     --questions-dir PATH
     --report PATH
 """
 
 import argparse
-import ast
 import csv
 import json
 import re
@@ -68,7 +70,10 @@ def extract_question(front_matter):
     Blank values and complex YAML forms are skipped rather than guessed.
     """
     for line in front_matter.splitlines():
-        match = re.match(r"^[ \t]*Question[ \t]*:[ \t]*(.*?)[ \t]*$", line)
+        match = re.match(
+            r"^[ \t]*Question[ \t]*:[ \t]*(.*?)[ \t]*$",
+            line,
+        )
         if not match:
             continue
 
@@ -92,7 +97,7 @@ def extract_question(front_matter):
         else:
             # Do not interpret YAML comments or special syntax as question text.
             if re.search(r"[ \t]#", value) or value.startswith(
-                ("[", "{", "&", "*", "!", "|", ">", ">", "%")
+                ("[", "{", "&", "*", "!", "|", ">", "%")
             ):
                 return None, "Question has an ambiguous YAML value"
             question = value
@@ -113,11 +118,11 @@ def extract_question(front_matter):
 def make_scaffold(question, newline):
     """Build the standard body scaffold."""
     return newline.join([
-        f"**# {question}**",
+        f"# {question}",
         "",
-        "**## Bibliography**",
+        "## Bibliography",
         "",
-        "<!--&#x20;",
+        "<!--",
         "",
         "Notes:",
         "",
@@ -131,6 +136,27 @@ def main():
     parser = argparse.ArgumentParser(
         description="Append missing question-body scaffolds."
     )
+
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--apply",
+        action="store_true",
+        help="Actually append scaffolds; otherwise preview only",
+    )
+    mode.add_argument(
+        "--preview",
+        type=int,
+        metavar="N",
+        help="Print the proposed scaffold for the first N eligible files",
+    )
+
+    mode.add_argument(
+        "--apply-sample",
+        type=int,
+        metavar="N",
+        help="Actually update only the first N eligible files",
+    )
+
     parser.add_argument(
         "--questions-dir",
         type=Path,
@@ -143,12 +169,14 @@ def main():
         default=DEFAULT_REPORT,
         help=f"CSV report path (default: {DEFAULT_REPORT})",
     )
-    parser.add_argument(
-        "--apply",
-        action="store_true",
-        help="Actually append scaffolds; otherwise preview only",
-    )
+
     args = parser.parse_args()
+
+    if args.preview is not None and args.preview < 1:
+        parser.error("--preview must be a positive integer")
+
+    if args.apply_sample is not None and args.apply_sample < 1:
+        parser.error("--apply-sample must be a positive integer")
 
     if not args.questions_dir.is_dir():
         print(
@@ -162,6 +190,7 @@ def main():
     eligible = 0
     updated = 0
     skipped = 0
+    samples = []
 
     files = sorted(
         p for p in args.questions_dir.rglob("*")
@@ -218,7 +247,10 @@ def main():
         newline = "\r\n" if "\r\n" in text else "\n"
         scaffold = make_scaffold(question, newline)
 
-        if not args.apply:
+        if args.preview is not None and len(samples) < args.preview:
+            samples.append((path, scaffold))
+
+        if not args.apply and args.apply_sample is None:
             report_rows.append({
                 "path": path.as_posix(),
                 "status": "PREVIEW",
@@ -227,11 +259,22 @@ def main():
             continue
 
         # Append only: preserve all existing bytes and add the scaffold.
-        # Add a separator before the scaffold without altering existing text.
         if text.endswith(("\n", "\r")):
             prefix = newline
         else:
             prefix = newline + newline
+        
+        if (
+            args.apply_sample is not None
+            and updated >= args.apply_sample
+        ):
+            report_rows.append({
+                "path": path.as_posix(),
+                "status": "NOT_SELECTED",
+                "reason": "Outside requested apply sample; not changed",
+            })
+            continue
+
 
         try:
             with path.open("ab") as file:
@@ -251,6 +294,38 @@ def main():
             })
             skipped += 1
 
+    
+    # Print complete proposed files in preview mode.
+    if args.preview is not None:
+        print("\nSAMPLE PREVIEW")
+        print("==============")
+        for path, scaffold in samples:
+            text = path.read_text(encoding="utf-8")
+            bounds = find_front_matter(text)
+
+            if bounds is None:
+                continue
+
+            _, _, closing_end = bounds
+            body = text[closing_end:]
+
+            if body.strip():
+                continue
+
+            newline = "\r\n" if "\r\n" in text else "\n"
+            if text.endswith(("\n", "\r")):
+                separator = newline
+            else:
+                separator = newline + newline
+
+            print()
+            print(text + separator + scaffold, end="")
+
+        print(
+            f"\n\nSamples displayed: {len(samples)} of "
+            f"{min(args.preview, eligible)} requested/available"
+        )
+    
     try:
         args.report.parent.mkdir(parents=True, exist_ok=True)
         with args.report.open(
@@ -266,10 +341,10 @@ def main():
         print(f"Error writing report: {exc}", file=sys.stderr)
         return 2
 
-    print(f"Markdown files scanned: {scanned}")
+    print(f"\nMarkdown files scanned: {scanned}")
     print(f"Eligible files:         {eligible}")
 
-    if args.apply:
+    if args.apply or args.apply_sample is not None:
         print(f"Files updated:          {updated}")
     else:
         print(f"Would update:           {eligible}")
@@ -278,10 +353,12 @@ def main():
     print(f"Files skipped:          {skipped}")
     print(f"Report:                 {args.report}")
 
-    if not args.apply:
-        print("\nTo apply the changes, rerun with --apply.")
+    if not args.apply and args.apply_sample is None:
+        print("\nTo apply the changes, rerun with --apply-sample N or --apply.")
 
     return 0
+
+
 
 
 if __name__ == "__main__":
