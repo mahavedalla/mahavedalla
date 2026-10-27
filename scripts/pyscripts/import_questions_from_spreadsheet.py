@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[2]
 
 CSV_PATH = (
     ROOT
+    / "scripts"
     / "files"
     / "07-09-26_Mahavedalla Temporary.csv"
 )
@@ -35,8 +36,8 @@ def clean_text(value):
 
 
 def yaml_value(value):
-    """Quote text safely for YAML front matter."""
-    return json.dumps(value, ensure_ascii=False)
+    """Return plain, unquoted YAML text."""
+    return value
 
 
 def make_slug(question):
