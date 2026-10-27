@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there are divisions of action?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

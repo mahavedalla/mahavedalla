@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# What causes being to be reborn inferior and superior?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

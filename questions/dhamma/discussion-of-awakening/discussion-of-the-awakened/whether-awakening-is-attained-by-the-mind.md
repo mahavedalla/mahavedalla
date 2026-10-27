@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether awakening is attained by the mind?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

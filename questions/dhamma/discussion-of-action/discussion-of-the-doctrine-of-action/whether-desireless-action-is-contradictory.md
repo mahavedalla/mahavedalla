@@ -11,3 +11,15 @@ Priority: 2
 Number:
 Draft: true
 ---
+
+# Whether desireless action is contradictory?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

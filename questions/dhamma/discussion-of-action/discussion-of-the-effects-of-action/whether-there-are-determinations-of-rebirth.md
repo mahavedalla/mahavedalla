@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there are determinations of rebirth?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->

@@ -1,5 +1,5 @@
 ---
-Question: Whether there is a law which governs actions or actions are disposed to produce certain results?
+Question: Whether there is a law which governs actions or are actions disposed to produce certain results?
 Category: Kamma
 Tags:
 Sutta References:
@@ -11,3 +11,15 @@ Priority:
 Number: 
 Draft: true
 ---
+
+# Whether there is a law which governs actions or are actions disposed to produce certain results?
+
+## Bibliography
+
+<!-- 
+
+Notes:
+
+
+
+-->
