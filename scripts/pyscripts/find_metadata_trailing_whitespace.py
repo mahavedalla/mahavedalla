@@ -1,5 +1,6 @@
 
 from pathlib import Path
+import argparse
 import re
 from collections import Counter
 
@@ -23,12 +24,13 @@ TRAILING_PATTERN = re.compile(r"[ \t]+$")
 
 
 def inspect_file(path):
+    """Find trailing whitespace on eligible front-matter fields."""
     findings = []
     front_matter_seen = False
     inside_front_matter = False
 
     with path.open(
-        "r", encoding="utf-8", errors="replace", newline=""
+        "r", encoding="utf-8-sig", errors="replace", newline=""
     ) as handle:
         for line_number, raw_line in enumerate(handle, start=1):
             line = raw_line.rstrip("\r\n")
@@ -42,7 +44,6 @@ def inspect_file(path):
                 continue
 
             if line.strip() == "---":
-                inside_front_matter = False
                 break
 
             field_match = FIELD_PATTERN.match(line)
@@ -61,89 +62,70 @@ def inspect_file(path):
             trailing = whitespace_match.group()
 
             findings.append({
+                "type": "metadata",
+                "file": path.relative_to(ROOT).as_posix(),
                 "line": line_number,
                 "field": field_name,
                 "spaces": trailing.count(" "),
                 "tabs": trailing.count("\t"),
+                "text": line,
             })
 
     return findings, front_matter_seen
 
 
 def find_notes_comment_openers(path):
-    """Find exact '<!-- ' openers without changing the file."""
+    """Find occurrences of the exact HTML comment opener '<!-- '."""
     findings = []
 
     with path.open(
-        "r", encoding="utf-8", errors="replace", newline=""
+        "r", encoding="utf-8-sig", errors="replace", newline=""
     ) as handle:
         for line_number, raw_line in enumerate(handle, start=1):
             line = raw_line.rstrip("\r\n")
 
             if "<!-- " in line:
                 findings.append({
+                    "type": "comment",
+                    "file": path.relative_to(ROOT).as_posix(),
                     "line": line_number,
+                    "field": "",
+                    "spaces": 0,
+                    "tabs": 0,
                     "text": line.strip(),
                 })
 
     return findings
 
 
-def main():
-    if not QUESTIONS_DIR.is_dir():
-        raise SystemExit(
-            f"Questions directory not found: {QUESTIONS_DIR}"
-        )
+def build_report(files, metadata_findings, comment_findings,
+                 files_without_front_matter, sample_mode):
+    """Build a Markdown report for the files that were scanned."""
+    field_counts = Counter(
+        finding["field"] for finding in metadata_findings
+    )
 
-    files = sorted(QUESTIONS_DIR.rglob("*.md"))
-    all_findings = []
-    files_without_front_matter = []
-    field_counts = Counter()
-    comment_openers = []
-
-    # First loop: audit front-matter metadata.
-    for path in files:
-        findings, has_front_matter = inspect_file(path)
-
-        if not has_front_matter:
-            files_without_front_matter.append(path)
-
-        if findings:
-            all_findings.append((path, findings))
-            for finding in findings:
-                field_counts[finding["field"]] += 1
-
-    # Second loop: find HTML comment openers across Markdown files.
-    for path in files:
-        for finding in find_notes_comment_openers(path):
-            comment_openers.append((
-                path.relative_to(ROOT).as_posix(),
-                finding["line"],
-                finding["text"],
-            ))
-
-    # Build the report.
     report = [
         "# Metadata Trailing Whitespace Audit",
         "",
         "Read-only audit. No question files were modified.",
         "",
+        f"- Scan mode: {'SAMPLE' if sample_mode else 'FULL'}",
         f"- Markdown files scanned: {len(files)}",
-        f"- Files with metadata findings: {len(all_findings)}",
-        f"- Metadata lines with trailing whitespace: "
-        f"{sum(field_counts.values())}",
+        f"- Metadata findings: {len(metadata_findings)}",
+        f"- HTML comment opener occurrences: {len(comment_findings)}",
         f"- Files without front matter: {len(files_without_front_matter)}",
         "",
-        "## Excluded fields",
+        "## Excluded metadata fields",
         "",
     ]
 
     report.extend(f"- `{field}`" for field in sorted(EXCLUDED_FIELDS))
-    report.extend(["", "## Counts by metadata field", ""])
+    report.extend(["", "## Metadata findings by field", ""])
 
     if field_counts:
         report.extend([
-            "| Field | Matching lines |",
+            "| Field | Lines with trailing whitespace |",
             "|---|---:|",
         ])
         for field, count in sorted(field_counts.items()):
@@ -151,47 +133,40 @@ def main():
     else:
         report.append("No matching metadata whitespace found.")
 
-    report.extend(["", "## Metadata findings", ""])
+    report.extend(["", "## Detailed metadata findings", ""])
 
-    if not all_findings:
-        report.append("No findings.")
+    if metadata_findings:
+        report.extend([
+            "| File | Line | Field | Spaces | Tabs |",
+            "|---|---:|---|---:|---:|",
+        ])
+        for finding in metadata_findings:
+            report.append(
+                f"| `{finding['file']}` | {finding['line']} "
+                f"| `{finding['field']}` | {finding['spaces']} "
+                f"| {finding['tabs']} |"
+            )
     else:
-        for path, findings in all_findings:
-            relative_path = path.relative_to(ROOT).as_posix()
-            report.extend([
-                f"### `{relative_path}`",
-                "",
-                "| Line | Field | Trailing spaces | Trailing tabs |",
-                "|---:|---|---:|---:|",
-            ])
+        report.append("No metadata findings.")
 
-            for finding in findings:
-                report.append(
-                    f"| {finding['line']} | `{finding['field']}` "
-                    f"| {finding['spaces']} | {finding['tabs']} |"
-                )
-
-            report.append("")
-
-    # Separate section for the exact HTML comment opener.
     report.extend([
         "",
         "## HTML comment openers (`<!-- `)",
         "",
-        f"Occurrences found: {len(comment_openers)}",
+        f"Occurrences found: {len(comment_findings)}",
         "",
     ])
 
-    if comment_openers:
+    if comment_findings:
         report.extend([
             "| File | Line | Matching line |",
             "|---|---:|---|",
         ])
-
-        for file_path, line_number, text in comment_openers:
-            safe_text = text.replace("|", "\\|")
+        for finding in comment_findings:
+            safe_text = finding["text"].replace("|", "\\|")
             report.append(
-                f"| `{file_path}` | {line_number} | `{safe_text}` |"
+                f"| `{finding['file']}` | {finding['line']} "
+                f"| `{safe_text}` |"
             )
     else:
         report.append("No exact '<!-- ' openers found.")
@@ -203,19 +178,104 @@ def main():
             for path in files_without_front_matter
         )
 
-    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    REPORT_PATH.write_text(
-        "\n".join(report).rstrip() + "\n",
-        encoding="utf-8",
+    return "\n".join(report).rstrip() + "\n"
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description=(
+            "Audit metadata trailing whitespace and HTML comment openers "
+            "without modifying question files."
+        )
+    )
+    parser.add_argument(
+        "--preview",
+        type=int,
+        default=20,
+        metavar="N",
+        help="Show up to N findings in the terminal (default: 20).",
+    )
+    parser.add_argument(
+        "--sample",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Scan only the first N Markdown files, alphabetically.",
+    )
+    args = parser.parse_args()
+
+    if args.preview < 0:
+        parser.error("--preview must be zero or greater.")
+
+    if args.sample is not None and args.sample < 1:
+        parser.error("--sample must be at least 1.")
+
+    if not QUESTIONS_DIR.is_dir():
+        raise SystemExit(f"Questions directory not found: {QUESTIONS_DIR}")
+
+    all_files = sorted(QUESTIONS_DIR.rglob("*.md"))
+
+    if args.sample is not None:
+        files = all_files[:args.sample]
+    else:
+        files = all_files
+
+    metadata_findings = []
+    comment_findings = []
+    files_without_front_matter = []
+
+    for path in files:
+        findings, has_front_matter = inspect_file(path)
+        metadata_findings.extend(findings)
+
+        if not has_front_matter:
+            files_without_front_matter.append(path)
+
+        comment_findings.extend(find_notes_comment_openers(path))
+
+    report = build_report(
+        files,
+        metadata_findings,
+        comment_findings,
+        files_without_front_matter,
+        sample_mode=args.sample is not None,
     )
 
-    print("Audit complete. No question files were modified.")
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    REPORT_PATH.write_text(report, encoding="utf-8")
+
+    combined = metadata_findings + comment_findings
+
+    print()
+    print("AUDIT COMPLETE — no question files were modified.")
+    print(f"Scan mode: {'SAMPLE' if args.sample is not None else 'FULL'}")
     print(f"Markdown files scanned: {len(files)}")
-    print(f"Files with metadata findings: {len(all_findings)}")
-    print(f"Metadata lines with trailing whitespace: "
-          f"{sum(field_counts.values())}")
-    print(f"HTML comment openers found: {len(comment_openers)}")
+    print(f"Metadata findings: {len(metadata_findings)}")
+    print(f"HTML comment opener occurrences: {len(comment_findings)}")
+    print(f"Files without front matter: {len(files_without_front_matter)}")
     print(f"Report: {REPORT_PATH.relative_to(ROOT)}")
+
+    if combined and args.preview:
+        print(f"\nPREVIEW (first {args.preview} findings)")
+        print("-" * 60)
+
+        for finding in combined[:args.preview]:
+            if finding["type"] == "metadata":
+                print(
+                    f"[METADATA] {finding['file']}:{finding['line']} "
+                    f"field={finding['field']!r}, "
+                    f"spaces={finding['spaces']}, tabs={finding['tabs']}"
+                )
+            else:
+                print(
+                    f"[COMMENT] {finding['file']}:{finding['line']} "
+                    f"{finding['text']}"
+                )
+
+        if len(combined) > args.preview:
+            print(f"... plus {len(combined) - args.preview} more findings.")
+
+    print("\nNo question files were changed.")
 
 
 if __name__ == "__main__":
