@@ -192,8 +192,12 @@ def inspect_file(path):
             continue
 
         convertible = True
+        prefix = item["prefix"]
+        if prefix.endswith(":"):
+            prefix += " "
+
         updated_lines[item["index"]] = (
-            item["prefix"]
+            prefix
             + item["normalized"]
             + item["trailing"]
             + item["eol"]

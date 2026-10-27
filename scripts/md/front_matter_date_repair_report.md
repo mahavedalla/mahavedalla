@@ -4,28 +4,8 @@ Target format: `MM-DD-YYYY`.
 Fields: `Date Entered`, `Last Revised`.
 
 **Markdown files scanned:** 2341
-**Files with convertible dates:** 2314
-**Files updated this run:** 5
-
-## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-an-act-performed-under-the-influence-of-the-defilements-is-free.md`
-- **Date Entered** (UPDATED): `9-11-25` → `09-11-2025`
-- **Last Revised** (UPDATED): `9-11-25` → `09-11-2025`
-
-## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-kammic-retribution-is-just.md`
-- **Date Entered** (UPDATED): `9-5-25` → `09-05-2025`
-- **Last Revised** (UPDATED): `9-5-25` → `09-05-2025`
-
-## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-the-consequences-of-action-is-deserved.md`
-- **Date Entered** (UPDATED): `3-29-25` → `03-29-2025`
-- **Last Revised** (UPDATED): `` → `10-27-2026`
-
-## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-the-influence-of-the-defilements-absolves-moral-responsibility.md`
-- **Date Entered** (UPDATED): `9-11-25` → `09-11-2025`
-- **Last Revised** (UPDATED): `9-11-25` → `09-11-2025`
-
-## `questions/dhamma/discussion-of-action/discussion-of-action-in-relation-to-virtue/whether-unwholesome-action-can-be-relatively-praiseworthy.md`
-- **Date Entered** (UPDATED): `9-5-25` → `09-05-2025`
-- **Last Revised** (UPDATED): `9-5-25` → `09-05-2025`
+**Files with convertible dates:** 2309
+**Files updated this run:** 0
 
 ## `questions/dhamma/discussion-of-action/discussion-of-action-itself/whether-action-is-intentional.md`
 - **Date Entered** (WOULD CONVERT): `March 29, 2025` → `03-29-2025`
