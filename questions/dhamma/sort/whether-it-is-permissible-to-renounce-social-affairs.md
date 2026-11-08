@@ -20,7 +20,7 @@ Draft: true
 
 Notes:
 
-It seems to answer this question it is necessary:
+It seems to answer this question it is useful:
 (1) to specify what renunciation and social affairs are
 (2) to have some criteria by which to measure permissibility
 (3) to make the relevant distinctions and qualifications to address the different permutations of renouncing social affairs
@@ -38,6 +38,8 @@ Relevant questions are:
 (1) Whether political affairs are a distraction to the holy life? Positively detrimental?
 (2) Whether renunciation of political affairs when one could make a positive difference is permissible?
 (3) Whether politicsl affairs improve the welfare of living beings, or can?
+
+Working backwards, if we conclude that political affairs are at best orthogonal to the holy life, if not antithetical or detrimental to it, and they are in some sense mutually exclusive, or enough so, then the question is how to evaluate each to determine which course to take. If political affairs would more greatly improve human welfare, would renunciation be permissible?
 
 Other Quotes:
 
