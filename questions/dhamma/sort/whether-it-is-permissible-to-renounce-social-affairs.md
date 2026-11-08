@@ -38,8 +38,19 @@ Relevant questions are:
 (1) Whether political affairs are a distraction to the holy life? Positively detrimental?
 (2) Whether renunciation of political affairs when one could make a positive difference is permissible?
 (3) Whether politicsl affairs improve the welfare of living beings, or can?
+(4) What goods outside of political goods does one living a withdrawn contemplative life provide?
 
 Working backwards, if we conclude that political affairs are at best orthogonal to the holy life, if not antithetical or detrimental to it, and they are in some sense mutually exclusive, or enough so, then the question is how to evaluate each to determine which course to take. If political affairs would more greatly improve human welfare, would renunciation be permissible?
+
+The preceding analysis seems to work from further back. Another question is simply what is warranted by the EBTs.
+
+Here is one line of thinking one might take with little regard for rigor. It is not intended to represent my view, which is undecided.
+
+It seems to me that no one is exempt from renouncing the value of the true welfare of all living beings. Moreover, neither is anyone exempt from renouncing the active pursuit of that end in some form or another. However, I understand social affairs to be distinct from this end of the welfare of all beings and at most a means to it; and thus, it is possible to pursue the aforementioned end without involvement in social affairs, such as through teaching the Dhamma or making available resources pertaining to the Dhamma.
+The true welfare of all beings is envisioned in Nibbāna, remainderless freedom from all stress and suffering. Disagreements about the precise nature of this attainment aside, the remainderless exhaustion of all defilements is considered inseparable from this end. This, however, in some cases, might require or at least be served by withdrawal from certain activities, such as social affairs, that have no inherent or immediate bearing on the training of one's own mind for the attainment of Nibbāna, or the basic prerequisites for that pursuit to occur, or the like pursuit of one's fellows.
+Insofar as there is no need, then, one seeking the welfare of all beings is permitted to renounce social affairs for the purpose of refining the conditions for their attainment of the end of all suffering.
+
+The question, though simple, still troubles me at this point. I do not yet have a clear enough picture to clearly define even what an answer might be, as so many issues weigh on this one question. 
 
 Other Quotes:
 
