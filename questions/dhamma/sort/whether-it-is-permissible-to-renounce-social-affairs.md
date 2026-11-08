@@ -28,6 +28,11 @@ Summa Theologica FIRST PART OF THE SECOND PART : L.61, C.6. Article 5:
 
 Seneca (Moral Letters 68.1):
 
-"retire and conceal yourself in repose" 
+"retire and conceal yourself in repose."
+
+Aristotle:
+
+https://classics.mit.edu/Aristotle/politics.7.seven.html
+
 
 -->
