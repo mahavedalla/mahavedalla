@@ -20,6 +20,20 @@ Draft: true
 
 Notes:
 
+It seems to answer this question it is necessary:
+(1) to specify what renunciation and social affairs
+(2) to have some criteria by which to measure permissibility
+(3) to make the relevant distinctions and qualifications to address the different permutations of renouncing social affairs
+
+In asking this question, I have in mind particularly the affairs, business, and duties of a citizen or of any person in relation to his fellow man in regard to politics, whether there is a recognized state, etc., or not. The "politics" of the sāsana or a given monastery are a different matter. Moreover, this doesn't include the general affair of seeking the welfare of all living beings, which presumably applies to even the most solitary and withdrawn hermit; only affairs as concern politics, voting, elections, campaigning, legislature, lawgiving, etc. Thus, a monk might engage in any political affair, but still teach others or produce scholarly works and thereby improve the human lot, putting aside the question of the benefit of his abandonment of the defilements, example, etc.
+Renunciation here need not only mean total withdrawl from any political affairs, but could also refer to specific acts of such renunciation, such as not voting, engaging in advocacy, etc.
+I think permissibility here is broadly moral.
+From the outset, I would qualify any permissibility claim as not applying to cases of necessity, like Aquinas below. (One might not think there is or could be a necessity for engagement in political affairs.) However, generally, under ordinary circumstances, especially in the case of the monk, can it be permissible? Some relevant factors below:
+(1) Necessity
+(2) Purpose
+(3) Office
+
+
 Other Quotes:
 
 Summa Theologica FIRST PART OF THE SECOND PART : L.61, C.6. Article 5:
