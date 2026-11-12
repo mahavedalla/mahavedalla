@@ -1,0 +1,1 @@
+* Need to clarify usage of contemplative life vs. holy life.
