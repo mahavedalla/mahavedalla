@@ -20,6 +20,8 @@ Draft: true
 
 Notes:
 
+Modern scholarship on socially engaged Buddhism would be useful.
+
 BMC:
 
 "The Cullavagga, in a section that begins with the same origin story as the one for this rule ( Cv.I.13-16 ), treats the banishment transaction in full detail, saying that a Community of bhikkhus, if it sees ﬁt, has the authority to perform a banishment transaction against a bhikkhu with any of the following qualities:
