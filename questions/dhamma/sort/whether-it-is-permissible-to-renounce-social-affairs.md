@@ -1,5 +1,5 @@
 ---
-Question: Whether it is permissible to renounce social affairs?
+Question: Whether it is permissible to renounce political affairs for the contemplative life?
 Category:
 Tags:
 Sutta References:
@@ -12,7 +12,7 @@ Number:
 Draft: true
 ---
 
-# Whether it is permissible to renounce social affairs?
+# Whether it is permissible to renounce political affairs for the contemplative life?
 
 ## Bibliography
 
@@ -21,7 +21,7 @@ Draft: true
 Notes:
 
 It seems to answer this question it is useful:
-(1) to specify what renunciation and social affairs are
+(1) to specify what renunciation and political affairs are
 (2) to have some criteria by which to measure permissibility
 (3) to make the relevant distinctions and qualifications to address the different permutations of renouncing social affairs
 
